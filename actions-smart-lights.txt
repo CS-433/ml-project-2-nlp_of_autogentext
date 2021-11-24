@@ -1,0 +1,6 @@
+'DecreaseBrightness'
+'IncreaseBrightness'
+'SetLightBrightness'
+'SetLightColor'
+'SwitchLightOff'
+'SwitchLightOn'
