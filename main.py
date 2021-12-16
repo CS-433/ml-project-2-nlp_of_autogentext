@@ -9,6 +9,9 @@ from gensim.models import TfidfModel
 from gensim.corpora import Dictionary
 from gensim.models import Word2Vec
 
+# Heavy stuff
+import gensim.downloader
+
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -17,11 +20,11 @@ from nltk.tokenize import word_tokenize
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import f1_score
+from sklearn.model_selection import cross_validate
 from sklearn.svm import SVC
 from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.naive_bayes import GaussianNB, BernoulliNB
-
 
 
 import numpy as np
@@ -45,7 +48,7 @@ def readCSV(fileLocation,ASR = False,process = True):
     df = pd.read_csv(fileLocation, sep=',',header=0)
     y_raw = df.values[:,4]
     if ASR:
-        X_in = df.values[:,:,3]
+        X_in = df.values[:,3]
         N = len(X_in)
         X_raw = []
         for i in range(N):
@@ -131,12 +134,14 @@ def doPreprocessing(rawData,process):
                 words = [lemmatizer.lemmatize(word) for word in words if word not in ( set(stopwords.words('english'))-important_words)]
             X.append(words)
             y.append(rawData[0].get(rawData[1][i]).get('keywords'))
-    elif type(rawData[0]) is list and process:
+    elif type(rawData[0]) is list:
         '''
         Process CSV
         '''
         for sent in rawData[0]:
-            words = [lemmatizer.lemmatize(word) for word in sent if word not in ( set(stopwords.words('english'))-important_words)]
+            words = [''.join(e for e in word if e.isalnum()).lower() for word in sent]     # Remove special characters and make lowercase
+            if process:
+                words = [lemmatizer.lemmatize(word) for word in words if word not in ( set(stopwords.words('english'))-important_words)]
             X.append(words)
         y = rawData[1]
     else:
@@ -163,7 +168,7 @@ def Tfidf_features(X,dct):
         i += 1
     return X_np
 
-def Word2Vec_features(X,model_w2v):
+def Word2Vec_features(X,model_w2v,preTrain):
     N = len(X)
     X_vec = np.empty((N,model_w2v.vector_size))
     for i in range(N):
@@ -171,7 +176,11 @@ def Word2Vec_features(X,model_w2v):
         value_iter = np.zeros((model_w2v.vector_size,))
         for word in X[i]:
             try:
-                value_iter += np.array(model_w2v.wv[word]) / len(X[i])
+                if preTrain == None:
+                    word_vec = model_w2v.wv[word]
+                else:
+                    word_vec = model_w2v[word]
+                value_iter += np.array(word_vec) / len(X[i])
             except:
                 print('Issue for: X=',i,'with word "', word,'".')
                 print('Word ignored in feature construction.')
@@ -189,19 +198,24 @@ def getWord2Vec(X,preTrain = None):
     '''
     preTrain - string, Allows you to select pretrained model
     '''
-    vector_size = 100
     N = len(X)
-    model_w2v = Word2Vec(X,
-                         vector_size=vector_size,
-                         window=5,
-                         min_count=1,
-                         workers=4)
-    if preTrain != None:
-        raise ValueError('Not yet implemented')
+    if preTrain == 'twitter-25':
+        model_w2v = gensim.downloader.load('glove-twitter-25')
+    elif preTrain == 'twitter-50':
+        model_w2v = gensim.downloader.load('glove-twitter-50')
+    elif preTrain == 'gigaword-100':
+        model_w2v = gensim.downloader.load('glove-wiki-gigaword-100')
     else:
+        vector_size = 100
+        N = len(X)
+        model_w2v = Word2Vec(X,
+                             vector_size=vector_size,
+                             window=5,
+                             min_count=1,
+                             workers=4)
         model_w2v.train(X,total_examples=N,epochs= 5)
-    return Word2Vec_features(X,model_w2v)
 
+    return Word2Vec_features(X,model_w2v,preTrain)
 
 def appendEntry(X,Y,x,y):
     '''
@@ -210,6 +224,10 @@ def appendEntry(X,Y,x,y):
     X.append(x)
     Y.append(y)
     return X,y
+
+def doCrossvalidation(X,y,model,fold):
+    CV_results = cross_validate(model,X,y,cv = fold)
+    print('Cross-validation score: ',CV_results['test_score'])
 
 def main():
     # Raw data to feature embedding
@@ -223,8 +241,6 @@ def main():
 
     # Train model
     x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.5)
-
-    # Classifiers below
     cls = LogisticRegression()
     cls.fit(x_train,y_train)
 
@@ -237,54 +253,37 @@ def main():
 
 def mainTest():
     fileLocation = 'Data/smart-lights_close_ASR.csv'
-    X_raw,y = readCSV(fileLocation,ASR = False,process = False)
+    X_raw,y = readCSV(fileLocation,ASR = True,process = False)
     y_num,dct_y= labelCSV(y)
-    X = getWord2Vec(X_raw)
-    X = getTFIDF(X_raw)
+    X = getWord2Vec(X_raw,'gigaword-100')
+    #X = getTFIDF(X_raw)
 
     # Train model
-    x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.5)
-    cls = LogisticRegression()
-    cls.fit(x_train,y_train)
+    n = 100
+    F1_mean = np.zeros((n,len(dct_y)))
 
-    # Evaluate performance
-    y_pred = cls.predict(x_test)
-    score = cls.score(x_test,y_test)
-    F1 = f1_score(y_test,y_pred,average=None)
-    print(score)
-    print(F1)
+    classifiers = {'LogisticRegression': LogisticRegression(), 'SVM': SVC(), 'GaussianNB': GaussianNB(), 'MLPClassifier': MLPClassifier(hidden_layer_sizes=(8,8,8), activation='relu', solver='adam', max_iter=5000) }
+    classifier_score = dict.fromkeys(classifiers.keys(),[])
+    for key, value in classifiers.items():
+        for i in range(n):
+            x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.5)
+            classifier = value
+            classifier.fit(x_train,y_train)
 
-    # SVM
-    svm_classifier = SVC()
-    svm_classifier.fit(x_train,y_train)
-    # SVM Evaluation
-    y_pred_svm = svm_classifier.predict(x_test)
-    score_nvm = svm_classifier.score(x_test,y_test)
-    print('SVM Accuracy:',score_nvm)
-    F1 = f1_score(y_test,y_pred_svm,average=None)
-    print('SVM f1 score:',F1)
+            # Evaluate performance
+            y_pred = classifier.predict(x_test)
+            #score = classifier.score(x_test,y_test)
+            F1 = f1_score(y_test,y_pred,average=None)
+            F1_mean[i,:] = F1
+        F1_crossVal = np.mean(F1_mean,axis =0)
+        print(dct_y)
+        print("F1 crossvalidation for",n,"iterations:",F1_crossVal)
+        print(key)
+        print('score: ‰f' % F1_crossVal.mean())
+        classifier_score[key] = F1_crossVal.mean()
+        #print(classification_report(y_test,predict_test))
 
-    # NN
-    mlp = MLPClassifier(hidden_layer_sizes=(8,8,8), activation='relu', solver='adam', max_iter=5000)
-    mlp.fit(x_train,y_train)
-    predict_train = mlp.predict(x_train)
-    predict_test = mlp.predict(x_test)
-    # Print results for NN
-    # Training data matrix
-    print(confusion_matrix(y_train,predict_train))
-    print(classification_report(y_train,predict_train))
-    # Test data matrix
-    print(confusion_matrix(y_test,predict_test))
-    print(classification_report(y_test,predict_test))
-
-    # Gaussian Bayes
-    gnb = GaussianNB()
-    gnb.fit(x_train, y_train)
-    print("Score of GaussianNB: ", gnb.score(x_test, y_test))
-    # Bernoulli Bayes
-    bnb = BernoulliNB()
-    bnb.fit(x_train, y_train)
-    print("Score of BernoulliNB: " , bnb.score(x_test, y_test))
-
+    print(classifier_score)
 mainTest()
+
 
