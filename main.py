@@ -1,4 +1,9 @@
-# Import 
+# Downloads
+# nltk.download('stopwords')
+# nltk.download('wordnet')
+# nltk.download('punkt')
+
+# Import
 from gensim.test.utils import common_texts
 from gensim.models import TfidfModel
 from gensim.corpora import Dictionary
@@ -7,10 +12,17 @@ from gensim.models import Word2Vec
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import f1_score
+from sklearn.svm import SVC
+from sklearn.neural_network import MLPClassifier
+from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.naive_bayes import GaussianNB, BernoulliNB
+
+
 
 import numpy as np
 import pandas as pd
@@ -26,18 +38,32 @@ def readJson(fileLocation,process = True):
     keys = list(metaData_in.keys())
     return doPreprocessing([metaData_in,keys],process)
 
-def readCSV(fileLocation,ASR = False):
+def readCSV(fileLocation,ASR = False,process = True):
     '''
     ASR - boolean, if true read ASR data instead of groundtruth transcript
     '''
     df = pd.read_csv(fileLocation, sep=',',header=0)
     y_raw = df.values[:,4]
     if ASR:
-        raise NotImplementedError
+        X_in = df.values[:,:,3]
+        N = len(X_in)
+        X_raw = []
+        for i in range(N):
+            X_raw.append(X_in[i].split(' '))
     else:
-        X_raw = df.values[:,2]
-    return X_raw,y_raw
+        X_in = df.values[:,2]
+        N = len(X_in)
+        X_raw = []
+        for i in range(N):
+            X_raw.append(X_in[i].split(' '))
+    return doPreprocessing([X_raw,y_raw],process)
 
+def labelCSV(y):
+    Y = list(set(y))
+    y_num = []
+    for action in y:
+        y_num.append(Y.index(action))
+    return y_num,Y
 
 def indx2action(y_num):
     N = len(y_num)
@@ -78,6 +104,10 @@ def labelData(y_raw):
                 y.append('DecreaseBrightness')
                 y_num[i] = 3
                 break
+            elif word == 'decrease':
+                y.append('DecreaseBrightness')
+                y_num[i] = 3
+                break
             else:
                 y.append('No class')
                 y_num[i] = 4
@@ -88,21 +118,34 @@ def labelData(y_raw):
 def doPreprocessing(rawData,process):
     important_words = {'on','off'}
     lemmatizer = WordNetLemmatizer()
-    y_raw = []
+    y = []
     X = []
     if type(rawData[0]) is dict:
+        '''
+        Process Json
+        '''
         N =  len(rawData[0])
         for i in range(N):
             words = rawData[0].get(rawData[1][i]).get('transcript').split(' ')
             if process:
                 words = [lemmatizer.lemmatize(word) for word in words if word not in ( set(stopwords.words('english'))-important_words)]
             X.append(words)
-            y_raw.append(rawData[0].get(rawData[1][i]).get('keywords'))
-
-    return X,y_raw
+            y.append(rawData[0].get(rawData[1][i]).get('keywords'))
+    elif type(rawData[0]) is list and process:
+        '''
+        Process CSV
+        '''
+        for sent in rawData[0]:
+            words = [lemmatizer.lemmatize(word) for word in sent if word not in ( set(stopwords.words('english'))-important_words)]
+            X.append(words)
+        y = rawData[1]
+    else:
+        X = rawData[0]
+        y = rawData[1]
+    return X,y
 
 def Tfidf_features(X,dct):
-    """ 
+    """
     Converts gensim format to numpy array
     Input:
     X - TDidfModel vector (N x lenght("sentence"))
@@ -149,16 +192,16 @@ def getWord2Vec(X,preTrain = None):
     vector_size = 100
     N = len(X)
     model_w2v = Word2Vec(X,
-        vector_size=vector_size,
-        window=5,
-        min_count=1,
-        workers=4)
-    if preTrain == None:
+                         vector_size=vector_size,
+                         window=5,
+                         min_count=1,
+                         workers=4)
+    if preTrain != None:
         raise ValueError('Not yet implemented')
     else:
         model_w2v.train(X,total_examples=N,epochs= 5)
     return Word2Vec_features(X,model_w2v)
-    
+
 
 def appendEntry(X,Y,x,y):
     '''
@@ -171,23 +214,77 @@ def appendEntry(X,Y,x,y):
 def main():
     # Raw data to feature embedding
     fileLocation = "Data/openvoc-keyword-spotting-research-datasets/smart-lights/metadata.json"
-    # fileLocation = 'Data/smart-lights_close_ASR.csv'
-    X_raw,y_raw = readJson(fileLocation,process = False)
-    # X_raw,y_raw = readCSV(fileLocation)
-    y,y_num = labelData(y_raw)
+    fileLocation = 'Data/smart-lights_close_ASR.csv'
+    # X_raw,y_raw = readJson(fileLocation,process = False)
+    X_raw,y_num = readCSV(fileLocation)
+    # y,y_num = labelData(y_raw)
     X = getTFIDF(X_raw)
     # X = getWord2Vec(X_raw)
 
     # Train model
-    x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.9)
+    x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.5)
+
+    # Classifiers below
     cls = LogisticRegression()
-    cls.fit(x_train,y_train) 
+    cls.fit(x_train,y_train)
 
     # Evaluate performance
     y_pred = cls.predict(x_test)
     score = cls.score(x_test,y_test)
     F1 = f1_score(y_test,y_pred,average=None)
     print(score)
+    print(F1)
 
+def mainTest():
+    fileLocation = 'Data/smart-lights_close_ASR.csv'
+    X_raw,y = readCSV(fileLocation,ASR = False,process = False)
+    y_num,dct_y= labelCSV(y)
+    X = getWord2Vec(X_raw)
+    X = getTFIDF(X_raw)
 
-main()  
+    # Train model
+    x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.5)
+    cls = LogisticRegression()
+    cls.fit(x_train,y_train)
+
+    # Evaluate performance
+    y_pred = cls.predict(x_test)
+    score = cls.score(x_test,y_test)
+    F1 = f1_score(y_test,y_pred,average=None)
+    print(score)
+    print(F1)
+
+    # SVM
+    svm_classifier = SVC()
+    svm_classifier.fit(x_train,y_train)
+    # SVM Evaluation
+    y_pred_svm = svm_classifier.predict(x_test)
+    score_nvm = svm_classifier.score(x_test,y_test)
+    print('SVM Accuracy:',score_nvm)
+    F1 = f1_score(y_test,y_pred_svm,average=None)
+    print('SVM f1 score:',F1)
+
+    # NN
+    mlp = MLPClassifier(hidden_layer_sizes=(8,8,8), activation='relu', solver='adam', max_iter=5000)
+    mlp.fit(x_train,y_train)
+    predict_train = mlp.predict(x_train)
+    predict_test = mlp.predict(x_test)
+    # Print results for NN
+    # Training data matrix
+    print(confusion_matrix(y_train,predict_train))
+    print(classification_report(y_train,predict_train))
+    # Test data matrix
+    print(confusion_matrix(y_test,predict_test))
+    print(classification_report(y_test,predict_test))
+
+    # Gaussian Bayes
+    gnb = GaussianNB()
+    gnb.fit(x_train, y_train)
+    print("Score of GaussianNB: ", gnb.score(x_test, y_test))
+    # Bernoulli Bayes
+    bnb = BernoulliNB()
+    bnb.fit(x_train, y_train)
+    print("Score of BernoulliNB: " , bnb.score(x_test, y_test))
+
+mainTest()
+
