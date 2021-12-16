@@ -1,16 +1,26 @@
+# Downloads
+# nltk.download('stopwords')
+# nltk.download('wordnet')
+# nltk.download('punkt')
+
 # Import 
 from gensim.test.utils import common_texts
 from gensim.models import TfidfModel
 from gensim.corpora import Dictionary
 from gensim.models import Word2Vec
 
+# Heavy stuff
+import gensim.downloader
+
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import f1_score
+from sklearn.model_selection import cross_validate
 
 import numpy as np
 import pandas as pd
@@ -21,23 +31,38 @@ def readJson(fileLocation,process = True):
     '''
     process - boolean, wether or not to preprocess data
     '''
+
     File = open(fileLocation)
     metaData_in = json.load(File)
     keys = list(metaData_in.keys())
     return doPreprocessing([metaData_in,keys],process)
 
-def readCSV(fileLocation,ASR = False):
+def readCSV(fileLocation,ASR = False,process = True):
     '''
     ASR - boolean, if true read ASR data instead of groundtruth transcript
     '''
     df = pd.read_csv(fileLocation, sep=',',header=0)
     y_raw = df.values[:,4]
     if ASR:
-        raise NotImplementedError
+        X_in = df.values[:,3]
+        N = len(X_in)
+        X_raw = []
+        for i in range(N):
+            X_raw.append(X_in[i].split(' '))
     else:
-        X_raw = df.values[:,2]
-    return X_raw,y_raw
+        X_in = df.values[:,2]
+        N = len(X_in)
+        X_raw = []
+        for i in range(N):
+            X_raw.append(X_in[i].split(' '))
+    return doPreprocessing([X_raw,y_raw],process)
 
+def labelCSV(y):
+    Y = list(set(y))
+    y_num = []
+    for action in y:
+        y_num.append(Y.index(action))
+    return y_num,Y
 
 def indx2action(y_num):
     N = len(y_num)
@@ -78,6 +103,10 @@ def labelData(y_raw):
                 y.append('DecreaseBrightness')
                 y_num[i] = 3
                 break
+            elif word == 'decrease':
+                y.append('DecreaseBrightness')
+                y_num[i] = 3
+                break
             else:
                 y.append('No class')
                 y_num[i] = 4
@@ -88,18 +117,33 @@ def labelData(y_raw):
 def doPreprocessing(rawData,process):
     important_words = {'on','off'}
     lemmatizer = WordNetLemmatizer()
-    y_raw = []
+    y = []
     X = []
     if type(rawData[0]) is dict:
+        '''
+        Process Json
+        '''
         N =  len(rawData[0])
         for i in range(N):
             words = rawData[0].get(rawData[1][i]).get('transcript').split(' ')
             if process:
                 words = [lemmatizer.lemmatize(word) for word in words if word not in ( set(stopwords.words('english'))-important_words)]
             X.append(words)
-            y_raw.append(rawData[0].get(rawData[1][i]).get('keywords'))
-
-    return X,y_raw
+            y.append(rawData[0].get(rawData[1][i]).get('keywords'))
+    elif type(rawData[0]) is list:
+        '''
+        Process CSV
+        '''
+        for sent in rawData[0]:
+            words = [''.join(e for e in word if e.isalnum()).lower() for word in sent]     # Remove special characters and make lowercase
+            if process:
+                words = [lemmatizer.lemmatize(word) for word in words if word not in ( set(stopwords.words('english'))-important_words)]
+            X.append(words)
+        y = rawData[1]
+    else:
+        X = rawData[0]
+        y = rawData[1]
+    return X,y
 
 def Tfidf_features(X,dct):
     """ 
@@ -120,7 +164,7 @@ def Tfidf_features(X,dct):
         i += 1
     return X_np
 
-def Word2Vec_features(X,model_w2v):
+def Word2Vec_features(X,model_w2v,preTrain):
     N = len(X)
     X_vec = np.empty((N,model_w2v.vector_size))
     for i in range(N):
@@ -128,7 +172,11 @@ def Word2Vec_features(X,model_w2v):
         value_iter = np.zeros((model_w2v.vector_size,))
         for word in X[i]:
             try:
-                value_iter += np.array(model_w2v.wv[word]) / len(X[i])
+                if preTrain == None:
+                    word_vec = model_w2v.wv[word]
+                else:
+                    word_vec = model_w2v[word]
+                value_iter += np.array(word_vec) / len(X[i])
             except:
                 print('Issue for: X=',i,'with word "', word,'".')
                 print('Word ignored in feature construction.')
@@ -146,20 +194,25 @@ def getWord2Vec(X,preTrain = None):
     '''
     preTrain - string, Allows you to select pretrained model
     '''
-    vector_size = 100
     N = len(X)
-    model_w2v = Word2Vec(X,
-        vector_size=vector_size,
-        window=5,
-        min_count=1,
-        workers=4)
-    if preTrain == None:
-        raise ValueError('Not yet implemented')
+    if preTrain == 'twitter-25':
+        model_w2v = gensim.downloader.load('glove-twitter-25')
+    elif preTrain == 'twitter-50':
+        model_w2v = gensim.downloader.load('glove-twitter-50')
+    elif preTrain == 'gigaword-100':
+        model_w2v = gensim.downloader.load('glove-wiki-gigaword-100')
     else:
+        vector_size = 100
+        N = len(X)
+        model_w2v = Word2Vec(X,
+            vector_size=vector_size,
+            window=5,
+            min_count=1,
+            workers=4)
         model_w2v.train(X,total_examples=N,epochs= 5)
-    return Word2Vec_features(X,model_w2v)
-    
 
+    return Word2Vec_features(X,model_w2v,preTrain)
+    
 def appendEntry(X,Y,x,y):
     '''
     might be pointless hehe
@@ -168,18 +221,22 @@ def appendEntry(X,Y,x,y):
     Y.append(y)
     return X,y
 
+def doCrossvalidation(X,y,model,fold):
+    CV_results = cross_validate(model,X,y,cv = fold)
+    print('Cross-validation score: ',CV_results['test_score'])
+
 def main():
     # Raw data to feature embedding
     fileLocation = "Data/openvoc-keyword-spotting-research-datasets/smart-lights/metadata.json"
-    # fileLocation = 'Data/smart-lights_close_ASR.csv'
-    X_raw,y_raw = readJson(fileLocation,process = False)
-    # X_raw,y_raw = readCSV(fileLocation)
-    y,y_num = labelData(y_raw)
+    fileLocation = 'Data/smart-lights_close_ASR.csv'
+    # X_raw,y_raw = readJson(fileLocation,process = False)
+    X_raw,y_num = readCSV(fileLocation)
+    # y,y_num = labelData(y_raw)
     X = getTFIDF(X_raw)
     # X = getWord2Vec(X_raw)
 
     # Train model
-    x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.9)
+    x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.5)
     cls = LogisticRegression()
     cls.fit(x_train,y_train) 
 
@@ -188,6 +245,32 @@ def main():
     score = cls.score(x_test,y_test)
     F1 = f1_score(y_test,y_pred,average=None)
     print(score)
+    print(F1)
 
+def mainTest():
+    fileLocation = 'Data/smart-lights_close_ASR.csv'
+    X_raw,y = readCSV(fileLocation,ASR = True,process = False)
+    # X_raw,y = readCSV(fileLocation,ASR = False,process = False)
+    y_num,dct_y= labelCSV(y)
+    # X = getWord2Vec(X_raw,'gigaword-100')
+    X = getTFIDF(X_raw)
 
-main()  
+    # Train model
+    n = 1
+    F1_mean = np.zeros((n,len(dct_y)))
+    for i in range(n):
+        x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.5)
+        cls = LogisticRegression()
+        cls.fit(x_train,y_train) 
+
+        # Evaluate performance
+        y_pred = cls.predict(x_test)
+        score = cls.score(x_test,y_test)
+        F1 = f1_score(y_test,y_pred,average=None)
+        F1_mean[i,:] = F1
+    F1_crossVal = np.mean(F1_mean,axis =0)
+    print(score)
+    print(dct_y)
+    print("F1 crossvalidation for",n,"iterations:",F1_crossVal)
+
+mainTest()  
