@@ -25,7 +25,6 @@ from sklearn.model_selection import cross_validate
 import numpy as np
 import pandas as pd
 import json
-import csv
 
 def readJson(fileLocation,process = True):
     '''
@@ -249,8 +248,7 @@ def main():
 
 def mainTest():
     fileLocation = 'Data/smart-lights_close_ASR.csv'
-    X_raw,y = readCSV(fileLocation,ASR = True,process = False)
-    # X_raw,y = readCSV(fileLocation,ASR = False,process = False)
+    X_raw,y = readCSV(fileLocation,ASR = False,process = False)
     y_num,dct_y= labelCSV(y)
     # X = getWord2Vec(X_raw,'gigaword-100')
     X = getTFIDF(X_raw)
