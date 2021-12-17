@@ -26,11 +26,17 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.naive_bayes import GaussianNB, BernoulliNB
 
+import nlpaug.augmenter.word as naw
 
 import numpy as np
 import pandas as pd
 import json
 import csv
+import random
+import gzip
+import shutil
+import os
+import wget
 
 def readJson(fileLocation,process = True):
     '''
@@ -41,7 +47,7 @@ def readJson(fileLocation,process = True):
     keys = list(metaData_in.keys())
     return doPreprocessing([metaData_in,keys],process)
 
-def readCSV(fileLocation,ASR = False,process = True):
+def readCSV(fileLocation,ASR = False,process = True, augment= False, aug_rows=400):
     '''
     ASR - boolean, if true read ASR data instead of groundtruth transcript
     '''
@@ -59,7 +65,7 @@ def readCSV(fileLocation,ASR = False,process = True):
         X_raw = []
         for i in range(N):
             X_raw.append(X_in[i].split(' '))
-    return doPreprocessing([X_raw,y_raw],process)
+    return doPreprocessing([X_raw,y_raw],process, augment, aug_rows)
 
 def labelCSV(y):
     Y = list(set(y))
@@ -118,7 +124,7 @@ def labelData(y_raw):
         i += 1
     return y,y_num
 
-def doPreprocessing(rawData,process):
+def doPreprocessing(rawData,process, augment, aug_rows):
     important_words = {'on','off'}
     lemmatizer = WordNetLemmatizer()
     y = []
@@ -147,6 +153,10 @@ def doPreprocessing(rawData,process):
     else:
         X = rawData[0]
         y = rawData[1]
+    if augment:
+        model_path = download_naw_model()
+        augmented_X = text_augmenter_word_embedder(X, model_path, aug_rows)
+        return augmented_X, y
     return X,y
 
 def Tfidf_features(X,dct):
@@ -251,28 +261,78 @@ def main():
     print(score)
     print(F1)
 
-def mainTest():
+def download_naw_model():
+    gn_vec_path = "GoogleNews-vectors-negative300.bin"
+    if not os.path.exists("GoogleNews-vectors-negative300.bin"):
+        if not os.path.exists("../Ch3/GoogleNews-vectors-negative300.bin"):
+            # Downloading the reqired model
+            if not os.path.exists("../Ch3/GoogleNews-vectors-negative300.bin.gz"):
+                if not os.path.exists("GoogleNews-vectors-negative300.bin.gz"):
+                    wget.download("https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz")
+                gn_vec_zip_path = "GoogleNews-vectors-negative300.bin.gz"
+            else:
+                gn_vec_zip_path = "../Ch3/GoogleNews-vectors-negative300.bin.gz"
+            # Extracting the required model
+            with gzip.open(gn_vec_zip_path, 'rb') as f_in:
+                with open(gn_vec_path, 'wb') as f_out:
+                    shutil.copyfileobj(f_in, f_out)
+        else:
+            gn_vec_path = "../Ch3/" + gn_vec_path
+
+    print(f"Model at {gn_vec_path}")
+    return f"./{gn_vec_path}"
+
+def text_augmenter_word_embedder(texts, model_path, rows):
+    # model_type: word2vec, glove or fasttext
+    aug = naw.WordEmbsAug(model_type='word2vec', model_path=model_path, action="substitute")
+    for i in range(0, 400):
+        augmented_text = aug.augment(' '.join(texts[i]))
+        texts[i] = augmented_text.split()
+    return texts
+
+def random_deletion(sentence, p=0.3):
+    words = sentence.split ()
+    n = len (words)
+    if n == 1: # return if single word
+        return words
+    remaining = list(filter(lambda x: random.uniform(0,1) > p,words))
+    #print (remaining)
+    if len(remaining) == 0: # if not left, sample a random word
+        return ' '.join ([random.choice(words)])
+    else:
+        return ' '.join (remaining)
+
+
+def mainTest(augment=False):
     fileLocation = 'Data/smart-lights_close_ASR.csv'
-    X_raw,y = readCSV(fileLocation,ASR = True,process = False)
+    augmented_X_raw = []
+    aug_rows = 400
+    X_raw,y = readCSV(fileLocation,ASR = True,process = False, augment= True, aug_rows=aug_rows)
     y_num,dct_y= labelCSV(y)
-    X = getWord2Vec(X_raw,'gigaword-100')
-    #X = getTFIDF(X_raw)
+    #X = getWord2Vec(X_raw,'gigaword-100')
+    X = getTFIDF(X_raw)
+    print("X!")
+    print(X.shape)
+    print('AUUGMENTEd')
+    print(X[0:aug_rows])
 
     # Train model
-    n = 100
+    n = 10
     F1_mean = np.zeros((n,len(dct_y)))
-
-    classifiers = {'LogisticRegression': LogisticRegression(), 'SVM': SVC(), 'GaussianNB': GaussianNB(), 'MLPClassifier': MLPClassifier(hidden_layer_sizes=(8,8,8), activation='relu', solver='adam', max_iter=5000) }
+    classifiers = {'LogisticRegression': LogisticRegression(), 'SVM': SVC(), 'GaussianNB': GaussianNB(), 'MLPClassifier': MLPClassifier(hidden_layer_sizes=(400, 100), activation='relu', solver='adam', max_iter=1000) }
     classifier_score = dict.fromkeys(classifiers.keys(),[])
     for key, value in classifiers.items():
         for i in range(n):
-            x_train, x_test, y_train, y_test = train_test_split(X,y_num,test_size = 0.5)
+            x_train, x_test, y_train, y_test = train_test_split(X[aug_rows:],y_num[aug_rows:],test_size = 0.5)
+            np.concatenate((x_train, X[0:aug_rows]))
+            np.concatenate((y_train, y_num[0:aug_rows]))
             classifier = value
             classifier.fit(x_train,y_train)
 
             # Evaluate performance
             y_pred = classifier.predict(x_test)
             #score = classifier.score(x_test,y_test)
+            #print(confusion_matrix(y_test,y_pred))
             F1 = f1_score(y_test,y_pred,average=None)
             F1_mean[i,:] = F1
         F1_crossVal = np.mean(F1_mean,axis =0)
@@ -281,9 +341,18 @@ def mainTest():
         print(key)
         print('score: ‰f' % F1_crossVal.mean())
         classifier_score[key] = F1_crossVal.mean()
-        #print(classification_report(y_test,predict_test))
 
     print(classifier_score)
 mainTest()
 
 
+"""
+if not os.path.exists("spelling_en.txt"):
+    wget.download("https://raw.githubusercontent.com/makcedward/nlpaug/5238e0be734841b69651d2043df535d78a8cc594/nlpaug/res/word/spelling/spelling_en.txt")
+else:
+    print("File already exists")
+    
+    
+DownloadUtil.download_fasttext(model_name='wiki-news-300d-1M', dest_dir='.') 
+    
+"""
