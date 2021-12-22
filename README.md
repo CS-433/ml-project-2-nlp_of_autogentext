@@ -28,49 +28,49 @@
  
  ### For Speach Recognition (Wav2vec.ipynb)
  
- #### Loading data
+ ###### Loading data
  Load .wav files
  
- #### Loading models
+ ###### Loading models
  Load facebook's pre-trained speech recognition models
  
- #### Audio files properties check
+ ###### Audio files properties check
  Check the sampling rate of audio files
  
- #### Audio speech recognition engine
+ ###### Audio speech recognition engine
  Transform the audio into string
  
- #### Auto-correction
+ ###### Auto-correction
   Do an individually word autocorrection for each word present in ASR transcripts for the most similar word present in the Groundtruth word vocabulary.
- #### Save dataframe
+ ###### Save dataframe
   Save ASR data into a .csv file
   
  ### For Data manipulation (Handling_Data.ipynb)
   
- #### Loading data
+ ###### Loading data
   Load data set
- #### Label data
+ ###### Label data
   Label each transcript to the corresponding intent index 
     
  ### Normal Execution
   This structure is repeated on every classification task files
  
- #### Loading Data
+ ###### Loading Data
   Load datasets properly fitted to use in the natural language processing methods and classification tasks
  
- #### Feature Space generation
+ ###### Feature Space generation
   Produce the feature space using the proper Natural Language Processing Technique
  
- #### Split into test/train 
+ ###### Split into test/train 
   Split data into train and test samples to use in the classification tasks
  
- #### Generate Predictions
+ ###### Generate Predictions
   Generate predictions for each classifier
   
- #### Model Evaluation
+ ###### Model Evaluation
   Evaluate each classifier model using the proper metrics
  
- #### Try your self
+ ###### Try your self
   Final function in the file focusing to try catch the user intent in new made up sentences with the NLP technique used in the file and a given classifier.
   
  
