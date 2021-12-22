@@ -18,10 +18,15 @@
  ## Project Structure
  
  In file *Wav2vec.ipynb* one can find the Audio speech recognition engine used to produce the automatically generated transcripts.
- In file *Handling_Data.ipynb* one can find the dataset manipulation using pandas dataframes to produce datasets properly fitted to use on the natural language processing technics and on the classification tasks
- In file *Bert.ipynb* one can find the normal classification task execution using Bert's natural language processing techniques to generate the feature space
- In file *TfIdf.ipynb* one can find the normal classification task execution using TfIdf's natural language processing techniques to generate the feature space
- In file *Word2Vec.ipynb* one can find the normal classification task execution using Word2Vec's natural language processing techniques to generate the feature space
+ 
+ In file *Handling_Data.ipynb* one can find the dataset manipulation using pandas dataframes to produce datasets properly fitted to use on the natural language processing technics and on the classification tasks.
+ 
+ In file *Bert.ipynb* one can find the normal classification task execution using Bert's natural language processing techniques to generate the feature space.
+ 
+ In file *TfIdf.ipynb* one can find the normal classification task execution using TfIdf's natural language processing techniques to generate the feature space.
+ 
+ In file *Word2Vec.ipynb* one can find the normal classification task execution using Word2Vec's natural language processing techniques to generate the feature space.
+ 
  In file *_helpers.py* one can find the helper functions for the normal execution of the project.
  
  ## Run Structure
