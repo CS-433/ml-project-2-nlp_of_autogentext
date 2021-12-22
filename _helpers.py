@@ -5,7 +5,7 @@ import numpy as np
 from collections import Counter
 
 
-def autocorrection(input_word, vocab_data = pd.read_csv("snips/merged_data_all.csv")):
+def autocorrection(input_word, vocab_data = pd.read_csv("snips/merged_GT_data.csv")):
     """return autocorrected input word"""
 
 
@@ -56,6 +56,7 @@ def indx2action(y_num):
 #label data based in keywords
 def label_data(df):
     """return a dataframe labeled based on keywords"""
+    
     y = []
     y_raw = df["keywords"]
     N = len(y_raw)

@@ -1,0 +1,1661 @@
+,transcript,user_action
+0,active igtl like an the entire house,SwitchLightOn
+1,activate basement lights,SwitchLightOn
+2,a djust the bedroom light in tentity of thirty nine,SetLightBrightness
+3,can you please change the light color to pink,SetLightColor
+4,said the rightness to file,SetLightBrightness
+5,set the brightness to twelve,SetLightBrightness
+6,set the brightness to twenty,SetLightBrightness
+7,then the brak as wit randetovis,SetLightBrightness
+8,set the sellar to two,SetLightBrightness
+9,set the cellar light to twelve,SetLightBrightness
+10,set the cellar lights to two,SetLightBrightness
+11,said the entire apartment like to dwo,SetLightBrightness
+12,set the entrange lighting in tensidy to twelve,SetLightBrightness
+13,set the endrance light to a brighter setting,IncreaseBrightness
+14,can you please lower the lights for me,DecreaseBrightness
+15,sed the facilatis lihts to twety nine,SetLightBrightness
+16,set the gard in brightness ti level twelve,SetLightBrightness
+17,set the hallway lights to pink please,SetLightColor
+18,set the intensity of the toilet lighting to two,SetLightBrightness
+19,set the kid's bedroom lights to five,SetLightBrightness
+20,set the launger room lying to tem per cent,SetLightBrightness
+21,set the lit breatness lavele to twenty,SetLightBrightness
+22,set the light color to blue,SetLightColor
+23,set the lights dimmer in the office,DecreaseBrightness
+24,and you please set the bathroom lights to five,SetLightBrightness
+25,shut the lights in the laundry room to level two,SetLightBrightness
+26,set the lights in the laundy room to seventy three,SetLightBrightness
+27,set the lights in toilets to red,SetLightColor
+28,set the lights to a higher intensity,IncreaseBrightness
+29,set the lights to a higher intensity in the changing room,IncreaseBrightness
+30,set the lights to a higher intensity in the living room,IncreaseBrightness
+31,set the lights to a las bright satin,DecreaseBrightness
+32,set the lights to a lower intensity,DecreaseBrightness
+33,set the lights to green in the large reeting room,SetLightColor
+34,turned the liht's intensity to twenty two per cent,SetLightBrightness
+35,turn the lights blue,SetLightColor
+36,can you turn off the lights in the cellar,SwitchLightOff
+37,turn the lights down in the back yard,DecreaseBrightness
+38,turn the lights down in the dining room,DecreaseBrightness
+39,turn the lights down in the living room,DecreaseBrightness
+40,un de lady's grin,SetLightColor
+41,torned the lights in the garden off,SwitchLightOff
+42,carm the lihts in the large meting room pik,SetLightColor
+43,tan the lights in the waiting room tor five,SetLightBrightness
+44,turned the light in the waiting room to thirty nine,SetLightBrightness
+45,turn the lights off,SwitchLightOff
+46,turn the lights off in the basement,SwitchLightOff
+47,can you turn off the lights in the parting room,SwitchLightOff
+48,turn the lights ufp in the dining room,SwitchLightOff
+49,turn the lights off in the dining room,SwitchLightOff
+50,turn the lights off in the laundyroom,SwitchLightOff
+51,turn the lights off in the office,SwitchLightOff
+52,turn the lights off in shed,SwitchLightOff
+53,turn the lights off in the toilet,SwitchLightOff
+54,turn the lades off lau,SwitchLightOff
+55,turn the lights off,SwitchLightOff
+56,from the lights on,SwitchLightOn
+57,turned the lights on above the toilets,SwitchLightOn
+58,can you turn off the lights please,SwitchLightOff
+59,urn the light on everywhere,SwitchLightOn
+60,turn the light on department,SwitchLightOn
+61,turn the light on in the bedroom,SwitchLightOn
+62,turned the light on in e changing room,SwitchLightOn
+63,turn the lights on in the kitchen,SwitchLightOn
+64,turned the lights on in the meeting room,SwitchLightOn
+65,turn the light sun in the pantry,SwitchLightOn
+66,turn the lights on in a small meeting room,SwitchLightOn
+67,turn the lights on in the studio,SwitchLightOn
+68,done the light on now,SwitchLightOn
+69,a't jist the brightness to level then,SetLightBrightness
+70,can ye turn off the lights,SwitchLightOff
+71,turn the lights on pink,SetLightColor
+72,turn the lights on please,SwitchLightOn
+73,dowin the life on the kitchen,SwitchLightOn
+74,done the light on,SwitchLightOn
+75,turn the lights pink please,SetLightColor
+76,turned the lights read in the bedroom,SetLightColor
+77,turned the lights to a darker setting in the office,DecreaseBrightness
+78,turn the lights to a higher setting,IncreaseBrightness
+79,turn the lights to a lower setting,DecreaseBrightness
+80,o lad stood bou in the house,SetLightBrightness
+81,can ye turn on bathrem lihe,SwitchLightOn
+82,turn the late supper notch in the cellar,IncreaseBrightness
+83,turn the lights up and otch please,IncreaseBrightness
+84,turn the lights up in the entrance,IncreaseBrightness
+85,torren the latop in the leue,IncreaseBrightness
+86,turned the lights up into studio,IncreaseBrightness
+87,turn the lights up in the toilets,IncreaseBrightness
+88,turn the living room wite up,IncreaseBrightness
+89,turned te lounge lights red,SetLightColor
+90,turned the apatio light pink,SetLightColor
+91,can you town on the light,SwitchLightOn
+92,turn the studio lights on,SwitchLightOn
+93,turn the studio wite the thirty nine,SetLightBrightness
+94,turn the vestibule lights to two,SetLightBrightness
+95,turn the vestibule lights up,IncreaseBrightness
+96,turn on the waiting room brightness to two,SetLightBrightness
+97,er dingrolage to saimen degri,SetLightBrightness
+98,turn twilet romlights on,SwitchLightOn
+99,turn up the brightness,IncreaseBrightness
+100,turn up the brightness and the changing room,IncreaseBrightness
+101,turn up the lighting,IncreaseBrightness
+102,can you turn to brightness dowt into the back yard,DecreaseBrightness
+103,turn up the lights,IncreaseBrightness
+104,turn up the lights in the cella,IncreaseBrightness
+105,turn up to light in the kid's room,IncreaseBrightness
+106,turn up the lights in the kitchen,IncreaseBrightness
+107,turn up the lights in the pantry,IncreaseBrightness
+108,turn up the lights in the parking,IncreaseBrightness
+109,turn up the lights in the patio,IncreaseBrightness
+110,tan ap the light in the tarlets,IncreaseBrightness
+111,torn up the lates,IncreaseBrightness
+112,can you turn the brightness to ten,SetLightBrightness
+113,turn up the lights,IncreaseBrightness
+114,turned vegetible lighting on,SwitchLightOn
+115,we have a large meeting room i need some red lights in there,SetLightColor
+116,we need the bults turned brighter in this room,IncreaseBrightness
+117,what do i need to do to get the dining room to fifty brightness,SetLightBrightness
+118,will you increase the breakness please,IncreaseBrightness
+119,will you make the entrance lights read for the afternoon,SetLightColor
+120,we you set the changing room to fifty brightness,SetLightBrightness
+121,would you please turn down the brightness,DecreaseBrightness
+122,would you please turn on the lights and my cubicle,SwitchLightOn
+123,can you tarn break us up in the bedroom,IncreaseBrightness
+124,would you switch my kitchen letting to on,SwitchLightOn
+125,would you turn on my basement lights,SwitchLightOn
+126,would you turn on my basement lights,SwitchLightOn
+127,a just brightness of lounge lights to a value of twenty two,SetLightBrightness
+128,all lates off,SwitchLightOff
+129,all lights off please,SwitchLightOff
+130,basement light should be set to twelve,SetLightBrightness
+131,basement lights should be turned on,SwitchLightOn
+132,bartrom bretna too twenty two,SetLightBrightness
+133,batrom is too dark increased a greatness,IncreaseBrightness
+134,can you turn the sillar la on,SwitchLightOn
+135,drot from lights off,SwitchLightOff
+136,bedroom brightness to two please,SetLightBrightness
+137,bedroom light down,DecreaseBrightness
+138,boardroom is dark please turn on lights,SwitchLightOn
+139,brighton lat and kitchen,IncreaseBrightness
+140,brighten up the cubicle,IncreaseBrightness
+141,bring up the lights,IncreaseBrightness
+142,can you give me some light please,SwitchLightOn
+143,can you give me some light please in the kitchen,SwitchLightOn
+144,can you give me some lights,SwitchLightOn
+145,could you turn to cubrica light to twenty two,SetLightBrightness
+146,can you increase the brightness,IncreaseBrightness
+147,can you increase the brightness in the laundry room,IncreaseBrightness
+148,can you increase the brightness of the entire house,IncreaseBrightness
+149,can you make the bedroom a little darker if possible,DecreaseBrightness
+150,can you make the light go blue,SetLightColor
+151,you please turn all the light,SwitchLightOn
+152,en nee turned down the lights and here,DecreaseBrightness
+153,can you turne off the sellar lights,SwitchLightOff
+154,can you trut off the house lights,SwitchLightOff
+155,you turn off the kats bedroom lights,SwitchLightOff
+156,can you turn the lights down one notch,DecreaseBrightness
+157,can you tand the lag ston,DecreaseBrightness
+158,turinto a lights to pincoler,SetLightColor
+159,change on st backyard lates to brightness setting aff tol,SetLightBrightness
+160,change bedroom lighting to pink,SetLightColor
+161,chaned breatness of lights in the tilets to tonty present,SetLightBrightness
+162,changed their color of bathanligts to pink,SetLightColor
+163,ting into the lot of gadis laid stooping,SetLightColor
+164,change limp to pink,SetLightColor
+165,change lighting to pink,SetLightColor
+166,changed lights to blue,SetLightColor
+167,then he turned the lights off,SwitchLightOff
+168,change lights to pink,SetLightColor
+169,cining the galles leds to pink,SetLightColor
+170,change delight to pink,SetLightColor
+171,change the pasio like to pink,SetLightColor
+172,change the passio lihes to green,SetLightColor
+173,change the wad,SetLightColor
+174,changing room lights off clease,SwitchLightOff
+175,glose are lates in the kitchs room,SwitchLightOff
+176,create mood and bedroom turne lights to red,SetLightColor
+177,cut off the lates in riched bule,SwitchLightOff
+178,adjust of brightness to seventy three,SetLightBrightness
+179,change all of the garden lighting between di are,SetLightBrightness
+180,darken the light in the toilet,DecreaseBrightness
+181,decrees brightness in cellar,DecreaseBrightness
+182,decrease brightness in the basemoon,DecreaseBrightness
+183,decrees brightness of bathroom light,DecreaseBrightness
+184,decrease brightness please,DecreaseBrightness
+185,decreased lights in laundry room to all the way off,SwitchLightOff
+186,decreased telight in the small meeting room,DecreaseBrightness
+187,gem the basement,DecreaseBrightness
+188,im the bedroom light,DecreaseBrightness
+189,dimm the boldroon,DecreaseBrightness
+190,change all the lights to fifty,SetLightBrightness
+191,dim docades bedroom likhts,DecreaseBrightness
+192,dimmed the lights in the cubicle,DecreaseBrightness
+193,dim the lights in the garden,DecreaseBrightness
+194,dining room light at thirty nine,SetLightBrightness
+195,dining room lights at twenty two per cent,SetLightBrightness
+196,dining room lights off please,SwitchLightOff
+197,dining room needs to be at twelve per cent,SetLightBrightness
+198,o not waste the lights decrease it please,DecreaseBrightness
+199,double the brightness,IncreaseBrightness
+200,entrance light level to ten,SetLightBrightness
+201,change back yaird liking to ping please,SetLightColor
+202,enten sides to pink pleace,SetLightColor
+203,entrance should be lit at intensity too,SetLightBrightness
+204,garage lights to redpleys,SetLightColor
+205,get the bedd dark,SwitchLightOff
+206,get the light on now please,SwitchLightOn
+207,give me light said the kitchen,SwitchLightOn
+208,green is what i would like to the lights to be rate now,SetLightColor
+209,green lights in the liaving room,SetLightColor
+210,green lights on in living room,SetLightColor
+211,half it be less bright,DecreaseBrightness
+212,changed child's bedroom to have redlahtes,SetLightColor
+213,help me turn down the lake,DecreaseBrightness
+214,help me dand down the late in the celelare,DecreaseBrightness
+215,hey bright in the bedroom,IncreaseBrightness
+216,i cannotrstand darkness turned up the brightness now,IncreaseBrightness
+217,i need life,SwitchLightOn
+218,they need light on in the kitcren,SwitchLightOn
+219,meed to brighten up the meeting room,SwitchLightOn
+220,i mall the lads weeping ron to beblu,SetLightColor
+221,i want to turn the lades,SwitchLightOn
+222,i want you to make the light deamer,DecreaseBrightness
+223,gant colord bupling,SetLightColor
+224,i would like the bestyo to get some laden at,SwitchLightOn
+225,illuminate cellar,SwitchLightOn
+226,illuminate the kidsroom,SwitchLightOn
+227,in my kid's bedroom changed the brightness to fifty,SetLightBrightness
+228,and my kid's room turned the lights off,SwitchLightOff
+229,in the back yard the lights need to be pink,SetLightColor
+230,increased brakness in that lang,IncreaseBrightness
+231,increase brightness in the studio,IncreaseBrightness
+232,increased the brightness of light,IncreaseBrightness
+233,crease flighting in the garage,IncreaseBrightness
+234,change kids rom white to pink,SetLightColor
+235,increase the brightness,IncreaseBrightness
+236,increase the braveness in yer,IncreaseBrightness
+237,increased the breatness in the basement,IncreaseBrightness
+238,increase the brightness of entrance,IncreaseBrightness
+239,increased the brightness of the grage,IncreaseBrightness
+240,increased e braidness af te lights,IncreaseBrightness
+241,increased the brightness on the patio,IncreaseBrightness
+242,is it possible to tand down the lake,DecreaseBrightness
+243,is it possible to turn down the light in the living room,DecreaseBrightness
+244,it's darken here,SwitchLightOn
+245,change the laundry room lights to pivecles,SetLightBrightness
+246,getting so darken here can you put the lights up,IncreaseBrightness
+247,t's pretty bright in here is there are possibility you can turn the lights ten,DecreaseBrightness
+248,it's pretty dark here why don't you turn the lights up,IncreaseBrightness
+249,so dark in here please turn up the lights just a little,IncreaseBrightness
+250,twat too brightin here turned on the brightness please,DecreaseBrightness
+251,kate's bedroom likes to rend please,SetLightColor
+252,heaturn lights on now,SwitchLightOn
+253,kitchen no more lights,SwitchLightOff
+254,landy room brightnass fayou,SetLightBrightness
+255,learndridl late son,SwitchLightOn
+256,change light color to pink,SetLightColor
+257,laundry room lights to two,SetLightBrightness
+258,let there be light,SwitchLightOn
+259,labl pignestinpesent u,SetLightBrightness
+260,light arn in the bath room,SwitchLightOn
+261,light up grage,SwitchLightOn
+262,lighting up he de lu,IncreaseBrightness
+263,lights are off,SwitchLightOff
+264,lights at seventy three in the bedroom pleace,SetLightBrightness
+265,lights need brightened in the lounge,IncreaseBrightness
+266,lights off changing room,SwitchLightOff
+267,retain light colored looping,SetLightColor
+268,lights off for entire house,SwitchLightOff
+269,lightfouf in the garden,SwitchLightOff
+270,light fow in the toilets,SwitchLightOff
+271,lights on,SwitchLightOn
+272,like john please like john please,SwitchLightOn
+273,light should be set at level twenty two,SetLightBrightness
+274,lig its way down in small meeting room,SwitchLightOff
+275,living room lights of,SwitchLightOff
+276,the lliving lights on for now please,SwitchLightOn
+277,changed the light level to twenty in the bedroom,SetLightBrightness
+278,lounge lights on please,SwitchLightOn
+279,rorcud's bedroom lights,DecreaseBrightness
+280,lower lights brightness,DecreaseBrightness
+281,noble debrightness,DecreaseBrightness
+282,lover the brightness of light bunt,DecreaseBrightness
+283,bowin te light in a children's play room,DecreaseBrightness
+284,ne quolicigs of unlights red colored,SetLightColor
+285,make all lights pink an color,SetLightColor
+286,make it darker in here,DecreaseBrightness
+287,make it darker in the waiting room,DecreaseBrightness
+288,i'm just the brightness to twenty two,SetLightBrightness
+289,change lights and grods till evele five,SetLightBrightness
+290,make it less bright in the bedroom,DecreaseBrightness
+291,make it lighter in here,IncreaseBrightness
+292,make it to the loungelight es pink,SetLightColor
+293,make lat read,SetLightColor
+294,make the light blue,SetLightColor
+295,make the light colar to pink,SetLightColor
+296,make the light pink,SetLightColor
+297,make the light read,SetLightColor
+298,make the lights go off,SwitchLightOff
+299,make the lights read in the office,SetLightColor
+300,change lights to blue,SetLightColor
+301,make delights to level thirty two,SetLightBrightness
+302,make the living room lighter,IncreaseBrightness
+303,make the sturiolates braiter,IncreaseBrightness
+304,martifi bretnasof living room laid bal two seventy three,SetLightBrightness
+305,modify the color of allightbolds to pink,SetLightColor
+306,need light,SwitchLightOn
+307,made light in the kitchen,SwitchLightOn
+308,no more light in here,SwitchLightOff
+309,pantry light levels should be two per cent,SetLightBrightness
+310,pandry lats off,SwitchLightOff
+311,changelate to pink,SetLightColor
+312,pantry make it dark,SwitchLightOff
+313,parking lights on please,SwitchLightOn
+314,pettyill ligts please,SwitchLightOn
+315,padiolights turned on,SwitchLightOn
+316,pink lides near a kitchen please,SetLightColor
+317,please brightened the lounge,IncreaseBrightness
+318,please brighten up the dining room,SwitchLightOn
+319,pleased in the lights,DecreaseBrightness
+320,please give me lights,SwitchLightOn
+321,please give me lights in the kitchen,SwitchLightOn
+322,change lights to read,SetLightColor
+323,please give me some light,SwitchLightOn
+324,please give me some light in the kitchen,SwitchLightOn
+325,please increase the brightness,IncreaseBrightness
+326,please increase the light brightness everywhere,IncreaseBrightness
+327,please increase the meeting room brightness,IncreaseBrightness
+328,please lord bisman likes,DecreaseBrightness
+329,please make the light blue,SetLightColor
+330,please make the best you'll light read umh,SetLightColor
+331,reave nee to mite,SwitchLightOn
+332,freed me srome light in the kitchen,SwitchLightOn
+333,change lue lights to pink for me,SetLightColor
+334,lea some ligkt,SwitchLightOn
+335,play some light in the kitchen,SwitchLightOn
+336,blis wich the letterf or lights to git in,SetLightColor
+337,pleas swish lights off,SwitchLightOff
+338,please switch off lounge lates,SwitchLightOff
+339,please switch off the kitchen lights after you cook,SwitchLightOff
+340,please whit you off the studio lights,SwitchLightOff
+341,please the increase the brightness it's too dark,IncreaseBrightness
+342,please turn down the light for me,DecreaseBrightness
+343,please turn lights on,SwitchLightOn
+344,ce te meeting room lade sto pink,SetLightColor
+345,please turn of laundry room late,SwitchLightOff
+346,he's turned off lights everywhere,SwitchLightOff
+347,please turn off parking lights,SwitchLightOff
+348,please turn off the house lights,SwitchLightOff
+349,peternal flight,SwitchLightOff
+350,please turtle off the lights of the kine room,SwitchLightOff
+351,please turn on the lights,SwitchLightOn
+352,he's turned on the lights of changing room,SwitchLightOn
+353,theys turn the pantry lights to level thirty nine,SetLightBrightness
+354,put on the cerial bulbs in the dining room,SwitchLightOn
+355,change office lates to peaque please,SetLightColor
+356,wat dhe light sing ta office on a grim,SetLightColor
+357,put the lights on the vegetable,SwitchLightOn
+358,reduced brightness of lightbult,DecreaseBrightness
+359,so let green light,SetLightColor
+360,said britness af or lade to fifteen,SetLightBrightness
+361,set bratnas off host to fifty,SetLightBrightness
+362,seid brightness to five,SetLightBrightness
+363,set light a level twenty two,SetLightBrightness
+364,set the bedroom lights to thirty nine,SetLightBrightness
+365,set the colour of meeting room lights to blue,SetLightColor
+366,set the lights to ten in the vastibule,SetLightBrightness
+367,can you please turn down the lights,DecreaseBrightness
+368,set the lights to the own position,SwitchLightOn
+369,set the lights to twenty two in the office,SetLightBrightness
+370,set the lights to twenty two per cent,SetLightBrightness
+371,set delights to zero brightness,SwitchLightOff
+372,set the lights to zero brightness in the office,SwitchLightOff
+373,set the living rooms light to twenty,SetLightBrightness
+374,send that beshu light to fight,SetLightBrightness
+375,set the vesetible lights to level thirty nine,SetLightBrightness
+376,shine some light in here,SwitchLightOn
+377,find some lightin her,SwitchLightOn
+378,can you put light on in the backyard,SwitchLightOn
+379,shines some lights in the office,SwitchLightOn
+380,chine the lights at level twelve,SetLightBrightness
+381,shed down the kits by doom light,SwitchLightOff
+382,shut down the lights,SwitchLightOff
+383,shut off the lights at the entrance,SwitchLightOff
+384,shut off the lights in the gruge,SwitchLightOff
+385,shut off the lights in the lu,SwitchLightOff
+386,shet off the lights please,SwitchLightOff
+387,shut off the lounge lights,SwitchLightOff
+388,shut the lights down in the bathroom,SwitchLightOff
+389,can you put the lits totwev in the cubico,SetLightBrightness
+390,shut the lights down in the entrance,SwitchLightOff
+391,shut the lights off,SwitchLightOff
+392,sir in the office pleased set the connected lapebolds to brightness of ten,SetLightBrightness
+393,sir pleasd set the brightness of the connected lights to bolb to fifty,SetLightBrightness
+394,situate delights to thirty nine per cent in the cubicle,SetLightBrightness
+395,stop lighting the cubicle,SwitchLightOff
+396,stop the lights,SwitchLightOff
+397,stop the lights from shining in the bathroom,SwitchLightOff
+398,stor the lights from shining in the shed,SwitchLightOff
+399,change the back yard late to green,SetLightColor
+400,lecl inquentity of the tubelight to tuperfont,SetLightBrightness
+401,set the lights in the changing room to level twenty two,SetLightBrightness
+402,set the living room lights to ten per cent,SetLightBrightness
+403,said the panty brightness to don't he,SetLightBrightness
+404,seventy three is what brightness should be,SetLightBrightness
+405,shut off the kitchen light,SwitchLightOff
+406,so much darkness in here turn up the bulbs,IncreaseBrightness
+407,some wihte,SwitchLightOn
+408,some light in the kitchen,SwitchLightOn
+409,some lights in the kitchen,SwitchLightOn
+410,changed the basement brightness to seventy three,SetLightBrightness
+411,studio lights off,SwitchLightOff
+412,sturdio lights on please,SwitchLightOn
+413,switch bath ro lites off,SwitchLightOff
+414,switch house lights off,SwitchLightOff
+415,twig lihes of,SwitchLightOff
+416,switch lights on,SwitchLightOn
+417,switch lights on investiule,SwitchLightOn
+418,sweet off laundry room light am,SwitchLightOff
+419,swit of the batroom lades,SwitchLightOff
+420,fit off the lamp's please,SwitchLightOff
+421,change the basement brightness to two,SetLightBrightness
+422,switch off the light in the toilet,SwitchLightOff
+423,switch off the lights,SwitchLightOff
+424,which av best to bel like all,SwitchLightOff
+425,switched the garrage light to pink,SetLightColor
+426,switched the lamps off,SwitchLightOff
+427,swish the like to bloom,SetLightColor
+428,take all lights off as soon as possible,SwitchLightOff
+429,the back yard is too bright an you turned it down a little,DecreaseBrightness
+430,the butroom lights need change to blue,SetLightColor
+431,the babron lives need to glowred,SetLightColor
+432,a just the sello lights to twenty two,SetLightBrightness
+433,change the betroo lights the blue,SetLightColor
+434,the ballroom is done take off the light,SwitchLightOff
+435,the cellar is cold and dark pleas turn up the brightness,IncreaseBrightness
+436,the house is getting too little light turn off the brightness please,IncreaseBrightness
+437,the kitchen should not be so bright,DecreaseBrightness
+438,the large mitting room needs to be turned off,SwitchLightOff
+439,the light is too bright so turn it down the light is too bright so turn it down,DecreaseBrightness
+440,light need to be blue in the studio,SetLightColor
+441,the lieu has too much lights,DecreaseBrightness
+442,the lu is a little dark turn up the brightness a little,IncreaseBrightness
+443,the office has too much light it needs to be turned down,DecreaseBrightness
+444,changed the brightness of the lights to twenty two percent,SetLightBrightness
+445,the office is a little too dark ese turn on the lights,IncreaseBrightness
+446,the parking area kneed the lights off,SwitchLightOff
+447,the shed needs more light,IncreaseBrightness
+448,the sun is going down and its getting dark turn the lights up,IncreaseBrightness
+449,the toilets are too bright turn the lights down,DecreaseBrightness
+450,there is no one in the living room take the lights off,SwitchLightOff
+451,this entire apartment is in darkness you need to turn the light brightness up,IncreaseBrightness
+452,this room is pretty dark just turned down the brightness,IncreaseBrightness
+453,toiligt light change to level thirty nine,SetLightBrightness
+454,dernarlkichen not sto pinkeler,SetLightColor
+455,changed se brightness to fifty in the entire apartment,SetLightBrightness
+456,turn all light bulbs into pink colour,SetLightColor
+457,turn bath from lights up,IncreaseBrightness
+458,turn bedroom red,SetLightColor
+459,uned on the lighting in the pantry,DecreaseBrightness
+460,turn down mites everywhere,DecreaseBrightness
+461,turned down the brightness level of lightbults,DecreaseBrightness
+462,turned owt the lamps a bit,DecreaseBrightness
+463,turn them the light to tad bit please,DecreaseBrightness
+464,tand on the late in the entrance room,DecreaseBrightness
+465,don't evlu,SetLightColor
+466,gn gabitness ben poit belind cloten ha,SetLightBrightness
+467,turn lates ride,SetLightColor
+468,tar loatup in hose,IncreaseBrightness
+469,tan ouf all by doom lamp's place,SwitchLightOff
+470,turn off bedroom lates,SwitchLightOff
+471,dont off dining room light,SwitchLightOff
+472,turn off rights and lieu,SwitchLightOff
+473,down afhr lamps,SwitchLightOff
+474,turn off the lights,SwitchLightOff
+475,turn off the lights in the bedroom,SwitchLightOff
+476,dun't off doll it late,SwitchLightOff
+477,change the brightness to twenty,SetLightBrightness
+478,turned off te seihts of burtitan,SetLightBrightness
+479,turn on kitchen lights,SwitchLightOn
+480,turn on the tainting room lights,SwitchLightOn
+481,turn on the gardenlight,SwitchLightOn
+482,terribble voice,SwitchLightOn
+483,turn on the lights of the bed,SwitchLightOn
+484,turn on ha lights in the children room,SwitchLightOn
+485,turn on the lights urgently,SwitchLightOn
+486,don't stood your light up,SwitchLightOn
+487,though the basement lighes move,SetLightColor
+488,change the brightness to two,SetLightBrightness
+489,tan to brigt this down,DecreaseBrightness
+490,turn the garden lights to brightness too please,SetLightBrightness
+491,turn the house light pink,SetLightColor
+492,dand the lad down in the backyard,DecreaseBrightness
+493,tanned the light down in the bedroom,DecreaseBrightness
+494,turn the light down in the paddle,DecreaseBrightness
+495,turn the lihe down,DecreaseBrightness
+496,handl it off,SwitchLightOff
+497,on the legs tred,SetLightColor
+498,turn the lights up,IncreaseBrightness
+499,changed the bulbs to twelve per set in brightness,SetLightBrightness
+500,turnd a treelight pink,SetLightColor
+501,turn up light and basement,IncreaseBrightness
+502,turn of lights and flet,IncreaseBrightness
+503,turn up the brightness,IncreaseBrightness
+504,turn up the brightness in the patio,IncreaseBrightness
+505,dan up the brakness in the studio,IncreaseBrightness
+506,down up the late in the kiten,IncreaseBrightness
+507,why is everywhere so dark ye need to turn up the brightness,IncreaseBrightness
+508,why is it so bright in here please turn it down a notch,DecreaseBrightness
+509,why is there are no lights in the waiting room turn it out please,IncreaseBrightness
+510,chaned the garara flash too red,SetLightColor
+511,will you turn the brightness to level thirty nine,SetLightBrightness
+512,change the color of the lights to blue in the dining room,SetLightColor
+513,change the colour of the lights to blue,SetLightColor
+514,adjust the change of room intensity of the lighting to two per sent,SetLightBrightness
+515,change the color of the late to green,SetLightColor
+516,tis the gollod of the lade too pinkles,SetLightColor
+517,changed the color to blue,SetLightColor
+518,change the collars to pink,SetLightColor
+519,change the cupical light sub to ten,SetLightBrightness
+520,change the grage lights to peak,SetLightColor
+521,change the kid's bedroom light bulb color to green,SetLightColor
+522,change the kitchen lights to green,SetLightColor
+523,ceing the lion grivoncaler togren,SetLightColor
+524,change the laundry room lights to green,SetLightColor
+525,addressed the glow of the balb to level two,SetLightBrightness
+526,tilin the larmbrivom lid storead,SetLightColor
+527,changed the light blue,SetLightColor
+528,change the light color to pink pleace,SetLightColor
+529,change the light setting to on,SwitchLightOn
+530,change the light to blue,SetLightColor
+531,change the light to pink,SetLightColor
+532,changed alike to pink,SetLightColor
+533,change the lighting of the pantry to thirty nine,SetLightBrightness
+534,thinin the lighting to dim,DecreaseBrightness
+535,change aliting to fifty in the facilites,SetLightBrightness
+536,addressed te kid's lighting to ten,SetLightBrightness
+537,change the light's gream,SetLightColor
+538,change the lights in the child's bedroom to pink,SetLightColor
+539,change the lights an the entrance to blue,SetLightColor
+540,change the lights in the kid's bedroom to blue,SetLightColor
+541,changed the lights in the parking area to green,SetLightColor
+542,change t lights in the parking room,SwitchLightOff
+543,chain the lates in the tilet green,SetLightColor
+544,change the lights into blue,SetLightColor
+545,change delights to green please,SetLightColor
+546,change the lights to pink please,SetLightColor
+547,active garden lights,SwitchLightOn
+548,adjust the laundry room lighting tol evel thirty nine,SetLightBrightness
+549,change the lights to pink,SetLightColor
+550,change the lights to red,SetLightColor
+551,change the lights to red in the parking section,SetLightColor
+552,change the living room lights to twenty,SetLightBrightness
+553,change the office light to pink,SetLightColor
+554,changed the office lights to fiftfeet,SetLightBrightness
+555,changed the parking room to green,SetLightColor
+556,changed ha vestibule lighting to two per cent,SetLightBrightness
+557,change the yard lights to green,SetLightColor
+558,change toilets light color to red,SetLightColor
+559,adjust the lighting to level twenty two,SetLightBrightness
+560,click on the lights,SwitchLightOn
+561,color change lights to red,SetLightColor
+562,collar lat spink,SetLightColor
+563,color lights red,SetLightColor
+564,color the gits mitrel read,SetLightColor
+565,color the lights red,SetLightColor
+566,culd you change the brightness of the lights on the patio to seventy three,SetLightBrightness
+567,could you change the light to red,SetLightColor
+568,could you increase the brightness of the lights,IncreaseBrightness
+569,could you increase the light bitness in the dining room,IncreaseBrightness
+570,ajust the light sorce less bright,DecreaseBrightness
+571,could you make the lights in the basement brighter,IncreaseBrightness
+572,could you please turn my lights on,SwitchLightOn
+573,could you please turn the light on i'm pome,SwitchLightOn
+574,could you switch on some lights,SwitchLightOn
+575,could you turn down the bedroom lights,DecreaseBrightness
+576,could you turn the lights on please,SwitchLightOn
+577,but no fouled without ilight,SwitchLightOff
+578,cut the waiting room might,SwitchLightOff
+579,dark in the waiting room,SwitchLightOff
+580,deprise brightness,DecreaseBrightness
+581,adjust lights to the offsitting,SwitchLightOff
+582,decreished brightness in bethe room,DecreaseBrightness
+583,decreased brightness in boardroom by one third,DecreaseBrightness
+584,decrease brightness please,DecreaseBrightness
+585,the crees light bridness in kitton,DecreaseBrightness
+586,decrease light brightness please,DecreaseBrightness
+587,creat sligts in house,DecreaseBrightness
+588,decrease the brightness,DecreaseBrightness
+589,decrease the brightness of the bulds,DecreaseBrightness
+590,increased the brightness of lights in shed,DecreaseBrightness
+591,adjust a living room brightness to level twoo,SetLightBrightness
+592,decrease the brightness please,DecreaseBrightness
+593,decrease the intensity of the lights,DecreaseBrightness
+594,decreased the intensity of the lights in the kids bedroom,DecreaseBrightness
+595,decreased the intensity of the pantry writing,DecreaseBrightness
+596,decreased the light brightness in the cubicle,DecreaseBrightness
+597,decreased a light intensity,DecreaseBrightness
+598,decreased a light intensity in the entrance,DecreaseBrightness
+599,decreased the light intensity in the entrance to zero,SwitchLightOff
+600,decreased the light intensity in the office,DecreaseBrightness
+601,decrease the light intensity in the vestibule to zero,SwitchLightOff
+602,adjust the pint you like to blue,SetLightColor
+603,decrease the light intensity to zero,SwitchLightOff
+604,decrease the lighting in the laundry room,DecreaseBrightness
+605,decrease the lighting so it's not so bright,DecreaseBrightness
+606,decrease the light's intensity in my bedroom balcony,DecreaseBrightness
+607,dim lights please,DecreaseBrightness
+608,an light please,DecreaseBrightness
+609,dimde kip thron,DecreaseBrightness
+610,dimmed the light in the kid's bedroom,DecreaseBrightness
+611,demn the lighting completely in the waiting room,SwitchLightOff
+612,dim the lights,DecreaseBrightness
+613,i've just the pantry lighting tulevel thirty nine,SetLightBrightness
+614,dim the lights completely in the living room,SwitchLightOff
+615,dim the lights for me,DecreaseBrightness
+616,dimm the lights in the backyard,DecreaseBrightness
+617,dim the lights in the bathroom,DecreaseBrightness
+618,tim's delights in the grage,DecreaseBrightness
+619,dim the lights in the living room,DecreaseBrightness
+620,then the light's place,DecreaseBrightness
+621,and the lights place,DecreaseBrightness
+622,dimelytes,DecreaseBrightness
+623,dim the studio lighting,DecreaseBrightness
+624,adjest a toilet lighting to the two setting,SetLightBrightness
+625,do me a faver and turn the lates an,SwitchLightOn
+626,do turn ot on my bedroom lighe now,SwitchLightOn
+627,don't forget to turn off the lights in the studio,SwitchLightOff
+628,eleveneight entrancelights from shining,SwitchLightOff
+629,eliminate the lighting,SwitchLightOff
+630,and the lights from shining in the cubicle,SwitchLightOff
+631,and sure the lights are off in the waiting room,SwitchLightOff
+632,find the bulbs for the cellar and turn them up,IncreaseBrightness
+633,get me more light,IncreaseBrightness
+634,get me some lights in the kitten,SwitchLightOn
+635,i gers that boli slides to ghat dedo,SetLightBrightness
+636,get rid of the lights in the bathroom,SwitchLightOff
+637,get the cellar lights on,SwitchLightOn
+638,get the launger room lights up to twenty two,SetLightBrightness
+639,get the lights on,SwitchLightOn
+640,get the lights on please,SwitchLightOn
+641,get the living room whites on please,SwitchLightOn
+642,get the room brighter please,IncreaseBrightness
+643,give me more light an here,IncreaseBrightness
+644,give me a more lake in the bedroom,IncreaseBrightness
+645,give me pink lights,SetLightColor
+646,a've just the toilit lights two twenty,SetLightBrightness
+647,go ahead to turn the lodge meeding moonlight to thin,SetLightColor
+648,go ahead and turn the laundry room lights up brighter,IncreaseBrightness
+649,go straight and turn on the lights,SwitchLightOn
+650,gogo please shut o fu lights,SwitchLightOff
+651,goubles shut off lights,SwitchLightOff
+652,have the kitchen lights at lower brightness,DecreaseBrightness
+653,hav the lights colored blue,SetLightColor
+654,have the lights turn blue,SetLightColor
+655,help me change the color blue,SetLightColor
+656,help me decrees the brightness in back there,DecreaseBrightness
+657,activate lights,SwitchLightOn
+658,elex o please turn off lights in backyard,SwitchLightOff
+659,help me dem the light in the pantry,DecreaseBrightness
+660,help me gim the lights,DecreaseBrightness
+661,help me dim the lights place,DecreaseBrightness
+662,help me make it so delight is not so bright,DecreaseBrightness
+663,help me make the entire apartment read,SetLightColor
+664,help me make the entire house pink,SetLightColor
+665,help me make the light bragter,IncreaseBrightness
+666,help me make the light green,SetLightColor
+667,help me make the light red,SetLightColor
+668,help me put on the lights,SwitchLightOn
+669,are you able to change the lights to turn to green,SetLightColor
+670,help me said the brightnass to culp,SetLightBrightness
+671,houp me stet the entrance late to two,SetLightBrightness
+672,helpd me set the lights to fifty,SetLightBrightness
+673,help me set the lights to twenty,SetLightBrightness
+674,help me turn on the light lease,SwitchLightOn
+675,help me turn the late on,SwitchLightOn
+676,e guu cut the lights in the kitchen,SwitchLightOff
+677,hayless get the light brigt bes lowerin here,DecreaseBrightness
+678,i don't prefer the living room lights to be on anymore,SwitchLightOff
+679,i don't want it to be so bright,DecreaseBrightness
+680,assistant i need my cubical lights on,SwitchLightOn
+681,i don't want it to be this bright,DecreaseBrightness
+682,i don't want back yard lights to bi an,SwitchLightOff
+683,i don't want the bedroom to be so bright,DecreaseBrightness
+684,i don't want the lights on any more,SwitchLightOff
+685,i don't want to lights on in sella any more,SwitchLightOff
+686,i don't want the lights on,SwitchLightOff
+687,i don't want the lights to shine in the living room,SwitchLightOff
+688,i don't want there to be any light on in the office,SwitchLightOff
+689,i don't want there to be lights on any more,SwitchLightOff
+690,i need a brightness fecting of twell in the ban tree,SetLightBrightness
+691,assistant turned my lights on,SwitchLightOn
+692,i need brighter lighting in the bedrooms,IncreaseBrightness
+693,i need it to be brighter and the cubicle,IncreaseBrightness
+694,any lighting,SwitchLightOn
+695,i need lighting in the kitchen,SwitchLightOn
+696,i need light on over the toilets,SwitchLightOn
+697,i need more light,IncreaseBrightness
+698,i need more light here,IncreaseBrightness
+699,i need my bedroom brighter now,IncreaseBrightness
+700,need my bedroom lites lower,DecreaseBrightness
+701,i need my pantry set at ten brightness,SetLightBrightness
+702,of meant the brightness of the lights,IncreaseBrightness
+703,i need biglating in the office,SetLightColor
+704,an need some light playse,SwitchLightOn
+705,an made some light plays in the kitchen,SwitchLightOn
+706,and nead some lives,SwitchLightOn
+707,i need some lights in the kitchen,SwitchLightOn
+708,i need some more lightsin here,IncreaseBrightness
+709,i need the sell a bat like turned off,SwitchLightOff
+710,a made the light,SwitchLightOn
+711,i need the light in the kitchen,SwitchLightOn
+712,heda like to be brighter,IncreaseBrightness
+713,aug meant the brightness of the waiting room,IncreaseBrightness
+714,need the like to be increased,IncreaseBrightness
+715,i need the lighting cranked up a little,IncreaseBrightness
+716,i need the lights in likein o that room to be set atn an feet,SetLightBrightness
+717,i need the lights in the kid's room to bee pink,SetLightColor
+718,i knew the late near the tilase to p breiter,IncreaseBrightness
+719,i neet the lights off in the changing room,SwitchLightOff
+720,i kneed the latsov in the entrance,SwitchLightOff
+721,a eed the lights to be blue now,SetLightColor
+722,i need the lights to be blue,SetLightColor
+723,he lights to be brighter,IncreaseBrightness
+724,but sure that all  little obliging is off,SwitchLightOff
+725,and he delights to be dimmed,DecreaseBrightness
+726,i need the lights turn down a bet,DecreaseBrightness
+727,i need the lights turned off in the vestibule,SwitchLightOff
+728,need the room to be blue,SetLightColor
+729,i meed the sat to have the lighting or fufti,SetLightBrightness
+730,i need two lamps all off no,SwitchLightOff
+731,stop the lights to be on,SwitchLightOff
+732,can you raise the lights in the toilets,IncreaseBrightness
+733,stop the lights,SwitchLightOff
+734,switch all the lights to the off position in the vestibule,SwitchLightOff
+735,switz late galertoublu,SetLightColor
+736,switch my lights on now,SwitchLightOn
+737,switcho a full exterior lighting,SwitchLightOff
+738,switch of small meeting room lights,SwitchLightOff
+739,wich of the grage light,SwitchLightOff
+740,switch off the lights,SwitchLightOff
+741,switch off the lights after relieve for the tread,SwitchLightOff
+742,switch off the shed lights,SwitchLightOff
+743,can you set a pink right in the basement,SetLightColor
+744,switch on my beck you are lighting,SwitchLightOn
+745,switch on my cupical light please,SwitchLightOn
+746,switch on my garden lights,SwitchLightOn
+747,swish the lights in the kid's bedroom,SwitchLightOn
+748,switch on the lights,SwitchLightOn
+749,switch on the studio lite,SwitchLightOn
+750,sweich the light to grean,SetLightColor
+751,switched the light screen,SetLightColor
+752,switched the lights to blue in the bedroom,SetLightColor
+753,switch the lights to dark in the pantry,SwitchLightOff
+754,can you sed the baseman lights to five,SetLightBrightness
+755,swish the toilit light to red,SetLightColor
+756,switch to red lights,SetLightColor
+757,turn on the lights of kid's bedroom,SwitchLightOn
+758,the basement is too bright,DecreaseBrightness
+759,basefon lights must be switched on,SwitchLightOn
+760,the bedroom light are too bright over the brightness,DecreaseBrightness
+761,the bedroom lights need of brighter illumination,IncreaseBrightness
+762,the bedroom lights need to be brighter right now,IncreaseBrightness
+763,the brightness in the studio should be twenty two,SetLightBrightness
+764,i need do lamps all off now please,SwitchLightOff
+765,i need you to increase the intensity of the backyard light,IncreaseBrightness
+766,i need you to turn the lights off in the basement,SwitchLightOff
+767,i prefer it to lightzar on now,SwitchLightOn
+768,be sure the light intensity is set to twalle per cent,SetLightBrightness
+769,i should like to see red lights,SetLightColor
+770,i think all the light should be on twenty two,SetLightBrightness
+771,i think gelight should be on by now,SwitchLightOn
+772,i think the light should be pink,SetLightColor
+773,i want blue light,SetLightColor
+774,i want rulites,SetLightColor
+775,i want to been light,SetLightColor
+776,torn it less brightno,DecreaseBrightness
+777,i want it pink in here,SetLightColor
+778,i wanted to be brighter in the cella,IncreaseBrightness
+779,be sure the lights are completely darkened by the toilet,SwitchLightOff
+780,i want less brightness,DecreaseBrightness
+781,i want less lie,DecreaseBrightness
+782,i want less light in the waiting room,DecreaseBrightness
+783,i won't level twell to be the setting for the brightness,SetLightBrightness
+784,i want lighting in the bedroom,SwitchLightOn
+785,i want lights,SwitchLightOn
+786,i want lights in the kitchen,SwitchLightOn
+787,i want ligth on in the back yard,SwitchLightOn
+788,i want lights on place,SwitchLightOn
+789,i want living room lights to be changed to pink,SetLightColor
+790,shore te like ar oufh by the toilet,SwitchLightOff
+791,i want more brightness in the changing room,IncreaseBrightness
+792,what more brigtness thin the pantry,IncreaseBrightness
+793,i want more light,IncreaseBrightness
+794,warn't more light in the bathroom,IncreaseBrightness
+795,i want my child's bedroom to have e green lake,SetLightColor
+796,i want my cubical lights to be on two,SetLightBrightness
+797,i want pink lights now,SetLightColor
+798,i wan't read lighting,SetLightColor
+799,i'll want red lights please,SetLightColor
+800,i want the bathroom to be more dim,DecreaseBrightness
+801,trippd evag delighted in the waiting room,SwitchLightOn
+802,buce te brigtness afthe lights,IncreaseBrightness
+803,i want the brightest lights in the kitchen place,IncreaseBrightness
+804,i want the brightness of the lights in the laundry room to be fifty,SetLightBrightness
+805,i want the brightness said to too,SetLightBrightness
+806,i wander bright nester be fifteen da b brom,SetLightBrightness
+807,i want the brightness to be levelled then on my light,SetLightBrightness
+808,i want the brightness to be seck at twenty,SetLightBrightness
+809,i want to break this turn up in this room,IncreaseBrightness
+810,i want to sell her late on,SwitchLightOn
+811,i want the silla lates off,SwitchLightOff
+812,bright lights place,IncreaseBrightness
+813,i want the cellar lights on,SwitchLightOn
+814,i want the cubig lights to be at twenty two per cent,SetLightBrightness
+815,i want the cubicle to be brighter,IncreaseBrightness
+816,i went to cubicle to be at thirty nine brightness,SetLightBrightness
+817,i wan the dining room lights to be turned on,SwitchLightOn
+818,went the entire apartment to be at too brightness,SetLightBrightness
+819,i want the entrance lat on,SwitchLightOn
+820,i want of facilities to have lights on now,SwitchLightOn
+821,i want the houselights to be pink,SetLightColor
+822,i want the kid's bedroom to be set to level fifty,SetLightBrightness
+823,bright in the large meeting room please,IncreaseBrightness
+824,i want the kids like to be pink,SetLightColor
+825,i want a kitchen lights to be twenty two,SetLightBrightness
+826,i want to light bulbs to be at level thirty nine,SetLightBrightness
+827,i want the light color changed to red,SetLightColor
+828,ive want thelight in the garden turned on,SwitchLightOn
+829,i want the lights and the lounge to turn on,SwitchLightOn
+830,i want the light intensity to be at level ten,SetLightBrightness
+831,i want the light intensity turned up in the bedroom,IncreaseBrightness
+832,i want the light set to ten everywhere,SetLightBrightness
+833,i want delight to be on,SwitchLightOn
+834,brighten the lights,IncreaseBrightness
+835,i want the lighting increased,IncreaseBrightness
+836,i want the lighting situated at twenty two in the dining room,SetLightBrightness
+837,i wan the lad said good de,SetLightBrightness
+838,i want the lights decreased please,DecreaseBrightness
+839,i am on te light's dim,DecreaseBrightness
+840,i warn the lights in tabout unpabi pink,SetLightColor
+841,i want the lights in the bedroom on,SwitchLightOn
+842,i want the lights in the bedroom set to five,SetLightBrightness
+843,i want the lights in the launder room to change to red,SetLightColor
+844,i want the lights in the pantry to be pink,SetLightColor
+845,brighten the lights in the waiting room,IncreaseBrightness
+846,i won the lights near toilets to be ping,SetLightColor
+847,and what delitoff,SwitchLightOff
+848,i want the lights off everywhere,SwitchLightOff
+849,o went the light jog in the meeting room,SwitchLightOff
+850,i one delights on,SwitchLightOn
+851,i want the lights on at the two sitting,SwitchLightOn
+852,went to like john for the entire plot please,SwitchLightOn
+853,i want the lights on dow,SwitchLightOn
+854,a want the lights set to fifty in the kidsroom,SetLightBrightness
+855,i wont the lights to be at level twenty two,SetLightBrightness
+856,brighten up the cubicle,IncreaseBrightness
+857,i want the lights to be blue in the bathroom,SetLightColor
+858,i want the lights to be brighter,IncreaseBrightness
+859,i want the lights to be changed to blue,SetLightColor
+860,i want the lights to be demmed,DecreaseBrightness
+861,i want the lights to be increased in brightness,IncreaseBrightness
+862,i want the lights to be increased,IncreaseBrightness
+863,i want the lights to be lowered,DecreaseBrightness
+864,i want the lights to be read pleased,SetLightColor
+865,i want the lights to be turned off,SwitchLightOff
+866,i want delights to be turned off in the vestibule,SwitchLightOff
+867,brater,IncreaseBrightness
+868,i want the light s turn down in the bedroom,DecreaseBrightness
+869,i want to lounge light on,SwitchLightOn
+870,i want the parkning lights off,SwitchLightOff
+871,when de pelyo like turne don,SwitchLightOn
+872,i want the petio room lights off,SwitchLightOff
+873,i want the room brighter,IncreaseBrightness
+874,i want thi studio to be dark,SwitchLightOff
+875,what the toilet lights off,SwitchLightOff
+876,i want the tollet lights to be at twelve,SetLightBrightness
+877,i want the toilet lights to be on,SwitchLightOn
+878,bagnas exist to pen in kets down peace,SetLightBrightness
+879,i warnt e wes yo will write passon seven pictory poser,SetLightBrightness
+880,i want the vestibule to shine at twelve per cent,SetLightBrightness
+881,i want the waiting room lights at a ten,SetLightBrightness
+882,i want this room at brighkness level ten,SetLightBrightness
+883,i want to brighten the laundry room,IncreaseBrightness
+884,i want to change a board rom brightness to ten pleas,SetLightBrightness
+885,i want to change the light green,SetLightColor
+886,i want to change the light to blue instead,SetLightColor
+887,i want two lights to a lower setting place,DecreaseBrightness
+888,i want to low en my apartment lights please,DecreaseBrightness
+889,litna should be said to dwellponsen,SetLightBrightness
+890,i want to make the light dimmer,DecreaseBrightness
+891,i want to make the room brighter,IncreaseBrightness
+892,i one two said te lay two ten,SetLightBrightness
+893,i want to turn off the lights,SwitchLightOff
+894,i want to turn off the patyo lamps,SwitchLightOff
+895,i want to change the brightness level in the patio to ten,SetLightBrightness
+896,i want you to switch off all the lights and my cubicle,SwitchLightOff
+897,i want you to turn off the lights in the small meeting room,SwitchLightOff
+898,i want you to turn the lights off in my room pleace,SwitchLightOff
+899,brightness to seventy three pleas,SetLightBrightness
+900,would like for the light to be brighter,IncreaseBrightness
+901,i would like for the lifes to be p,SetLightColor
+902,i would like green lights please,SetLightColor
+903,i would like lights on inside the house,SwitchLightOn
+904,i would like pink lights please,SetLightColor
+905,i wond like o ride petlevell in the batnon  we thirty nine,SetLightBrightness
+906,o'd like the brightness of the lights to be levelled fo you,SetLightBrightness
+907,i would length the gragelates on fifty,SetLightBrightness
+908,i'ld like the lights to be turned on,SwitchLightOn
+909,i would like the lights less bright,DecreaseBrightness
+910,activate telights,SwitchLightOn
+911,bring darkness to this room by turning off the lights,SwitchLightOff
+912,i would like the lights to change to green,SetLightColor
+913,i would likhe the lights turned off,SwitchLightOff
+914,ild leg the lawns late on,SwitchLightOn
+915,i won't like tha estomin to be be,SetLightColor
+916,i would like the waiting room lights turned up,IncreaseBrightness
+917,i would prefer that the changing room lights be lowered,DecreaseBrightness
+918,i'd light these lights on,SwitchLightOn
+919,i would like our leds off,SwitchLightOff
+920,i'd like for my lights to be fluffed on now,SwitchLightOn
+921,i will lake for the lates to be blue,SetLightColor
+922,bring the cellar lights up to two,SetLightBrightness
+923,i'd like for the lights to go on now,SwitchLightOn
+924,i'd like it a little docke,DecreaseBrightness
+925,i like more lighting in the bedroom,IncreaseBrightness
+926,i'd like the bedroom lights to be at ten per cent,SetLightBrightness
+927,i ded like the brightness changed in the shade,SwitchLightOff
+928,ou'd like the brightness head to twenty,SetLightBrightness
+929,like the bright is turned down,DecreaseBrightness
+930,i like to breakness tarnup,IncreaseBrightness
+931,id light the brightness turned up in the garage,IncreaseBrightness
+932,i'd like the house lights to be set to twelve,SetLightBrightness
+933,can the changing room lights be turned on,SwitchLightOn
+934,i'd like the kitchen to be brighter,IncreaseBrightness
+935,i liked the light to increase in the pantry,IncreaseBrightness
+936,i like the lives on the interenst to be on,SwitchLightOn
+937,i like the lights on the laundry room to be at level twenty two,SetLightBrightness
+938,like the light shoff in the vestibule,SwitchLightOff
+939,i'd like the lights to be shut off,SwitchLightOff
+940,i like the lives to be shut down,SwitchLightOff
+941,i like the life to be turned on,SwitchLightOn
+942,can the laundry room have green lights,SetLightColor
+943,i'd like the lights to change in a large meeting room,SwitchLightOff
+944,i'd like the lights to not be so bright,DecreaseBrightness
+945,i'd like the lights turned down in the kid's room,DecreaseBrightness
+946,i'd like the living room lights to be at twelve per cent,SetLightBrightness
+947,i would like the pocket my stupidid,SetLightColor
+948,i'd like the vestibule lighting to be at thirty nine,SetLightBrightness
+949,i'd like to activate lights in my cubicol,SwitchLightOn
+950,i like to have pink lighting in the bathroom,SetLightColor
+951,iwuld like to lights to be green pleased,SetLightColor
+952,i'd like to lower the lights in the bedroom,DecreaseBrightness
+953,can the lifts be read instead,SetLightColor
+954,i've prefered the lights were on now,SwitchLightOn
+955,i'd prefer it to be brighter,IncreaseBrightness
+956,i'd prefer the bathrom light to be at thirty nine,SetLightBrightness
+957,and prefer the laundry rom lights to be turned to green,SetLightColor
+958,i'd prefer the lights to be on,SwitchLightOn
+959,i'd prefer the office lights to be on,SwitchLightOn
+960,i'ld prefer the toil et lighting to be at level dwellin,SetLightBrightness
+961,i'm gone with the lights in the dining room,SwitchLightOff
+962,i'm in the basement please turn the lights on,SwitchLightOn
+963,i'm in the kitchen and i need some lights,SwitchLightOn
+964,can the living room lights be turned off,SwitchLightOff
+965,i'm in the kitchen can you give me some lights please,SwitchLightOn
+966,illuminate the entrance,SwitchLightOn
+967,in the basement turned the brightness to twenty,SetLightBrightness
+968,in the bat room turn up the light power,IncreaseBrightness
+969,in the changing room turned down the light power,DecreaseBrightness
+970,and the cubicle and switch off the lights,SwitchLightOff
+971,in the entrance changed the collars to red,SetLightColor
+972,in the entrance make the lights pink,SetLightColor
+973,in the gradge changed the lights to pink,SetLightColor
+974,in the kit's bedroom make the late pink,SetLightColor
+975,and were changed the house lighting to twelve,SetLightBrightness
+976,an their kid's bedroom turned the lights off,SwitchLightOff
+977,in the laundry room turned down the light power,DecreaseBrightness
+978,in the leaving room make the lights green,SetLightColor
+979,in the lounge change it to level two,SetLightBrightness
+980,in the lounge turned the lights off,SwitchLightOff
+981,in the pantry turned down the brightness,DecreaseBrightness
+982,in the pantry turn up the brightness,IncreaseBrightness
+983,in the small meeting room the lights must be pink,SetLightColor
+984,and the cellar set the brightness of the lightbolds to twelte,SetLightBrightness
+985,increase brightness please,IncreaseBrightness
+986,can we change sail lights to anything but pink,SetLightColor
+987,increase brightness to fifty,SetLightBrightness
+988,increase brightness to seventy three,SetLightBrightness
+989,inquiries lad breadness,IncreaseBrightness
+990,increase light intensity,IncreaseBrightness
+991,increase lighting in entire apartment,IncreaseBrightness
+992,increase lighting in small meeting room,IncreaseBrightness
+993,increase lights in entire house,IncreaseBrightness
+994,increase the braveness in the changing room,IncreaseBrightness
+995,increased the brightness of the basement,IncreaseBrightness
+996,increased the brightness of the kitchen lights,IncreaseBrightness
+997,can we make the whole house af twenty two,SetLightBrightness
+998,increase the bratness of the late in the cellar,IncreaseBrightness
+999,increase the briateness of the late in the dining room,IncreaseBrightness
+1000,increase the brightness of the late in the entrance,IncreaseBrightness
+1001,increase the brightness of the lights,IncreaseBrightness
+1002,increase the brightness of this rom,IncreaseBrightness
+1003,increase the brightness to seventy three,SetLightBrightness
+1004,increase the brightness to ten,SetLightBrightness
+1005,torace the cubicle's light intensity,IncreaseBrightness
+1006,increased the intensity of the lighting,IncreaseBrightness
+1007,incrised the intensity of the liding pleafs,IncreaseBrightness
+1008,green light in the shed,SetLightColor
+1009,increased the intensity of the lates,IncreaseBrightness
+1010,incresed eyed in a changin room,IncreaseBrightness
+1011,increased the light intensity,IncreaseBrightness
+1012,increase the light intensity in the vestibule,IncreaseBrightness
+1013,increase the lighting,IncreaseBrightness
+1014,increased the lighting in the cupicle,IncreaseBrightness
+1015,increase the lighting in the vestibule,IncreaseBrightness
+1016,increase the lighting intensity,IncreaseBrightness
+1017,increase the lighting intensity please,IncreaseBrightness
+1018,increased the lights in the bedroom,IncreaseBrightness
+1019,activ ith atton it's light,SwitchLightOn
+1020,can you change the bathroom light blue,SetLightColor
+1021,increase the lates in the garden,IncreaseBrightness
+1022,increase the late in the dilet,IncreaseBrightness
+1023,increase telights on the patio,IncreaseBrightness
+1024,increase the late spleece,IncreaseBrightness
+1025,increase the lights it is too dark,IncreaseBrightness
+1026,is it possible to turn down the brightness,DecreaseBrightness
+1027,is it oky for you to decrease the brightness of the lights,DecreaseBrightness
+1028,is it possible for you to turn the lights up in the cellar for us,IncreaseBrightness
+1029,is it possible to get the lounge brightness to five,SetLightBrightness
+1030,is it possible to tun down the brateness in the kitchbetroom,DecreaseBrightness
+1031,can you change the color of the lights to read in the lodge geating room,SetLightColor
+1032,is it possible to turn on studio light,SwitchLightOn
+1033,is it possible to turn the lights on,SwitchLightOn
+1034,is it possible to turn the lights down in this room,DecreaseBrightness
+1035,is there away to turn the kitchen lights to red,SetLightColor
+1036,is there anyway you can change the light buby blue,SetLightColor
+1037,it is too dark on the patio increase the lights,IncreaseBrightness
+1038,it is two dark more lights,IncreaseBrightness
+1039,it's tall bright in here,DecreaseBrightness
+1040,it's too bright wring the lights down,DecreaseBrightness
+1041,stoo bright please make it darker,DecreaseBrightness
+1042,then you chan ty kits room to rait,SetLightColor
+1043,it's too dark an here,IncreaseBrightness
+1044,it's too dark in here brighten the lights a bit,IncreaseBrightness
+1045,too dark in the bedroom,IncreaseBrightness
+1046,too dark in the waiting room,IncreaseBrightness
+1047,as way thro dark en here,IncreaseBrightness
+1048,kill the bathrnmites,SwitchLightOff
+1049,kill the lights in the bedroom,SwitchLightOff
+1050,killed the likes in the attire apartment,SwitchLightOff
+1051,letson abrightness for me,DecreaseBrightness
+1052,lesten the brightness of the lights in the bedroom,DecreaseBrightness
+1053,can you change the light in the garden to pink,SetLightColor
+1054,let there be light,SwitchLightOn
+1055,legsty an the garit lighting te guende deau,SetLightBrightness
+1056,let's have rud lights,SetLightColor
+1057,let's have the entrance be read,SetLightColor
+1058,let now the intensity of the lights,DecreaseBrightness
+1059,let make the vestibule gream,SetLightColor
+1060,let's get their paty o lifes to bebue,SetLightColor
+1061,let's lower the light please,DecreaseBrightness
+1062,let's make the entranslating red,SetLightColor
+1063,let's make the lights pink,SetLightColor
+1064,and you change t lighting into bathroom,SwitchLightOff
+1065,it' turn off the light in the office,SwitchLightOff
+1066,light up the vestibule,SwitchLightOn
+1067,titing needs to be aggested to level doing the cubicale,SetLightBrightness
+1068,lights in the backyard should be red,SetLightColor
+1069,light in the kid's bedroom must be onplese,SwitchLightOn
+1070,might more intent please,IncreaseBrightness
+1071,lights off in the living room,SwitchLightOff
+1072,lights off please,SwitchLightOff
+1073,lights off,SwitchLightOff
+1074,lights on in the kid's bedroom please,SwitchLightOn
+1075,can you change e lighting intensity of the laundy room to twenty two,SetLightBrightness
+1076,lights on now,SwitchLightOn
+1077,lates out,SwitchLightOff
+1078,lights out please,SwitchLightOff
+1079,lights out please,SwitchLightOff
+1080,lower all of the lighting,DecreaseBrightness
+1081,lower a brightness,DecreaseBrightness
+1082,lower greatness in the backyard,DecreaseBrightness
+1083,lower brightness in the toilet's room,DecreaseBrightness
+1084,lower light brightness,DecreaseBrightness
+1085,lower lighting in the back yard,DecreaseBrightness
+1086,can you change the lights to fifty on the pacio,SetLightBrightness
+1087,lower the brightness,DecreaseBrightness
+1088,lower the brightness in the cubicle,DecreaseBrightness
+1089,o'er the brightness in the pusoli's room,DecreaseBrightness
+1090,lower the brightness in the garden,DecreaseBrightness
+1091,lower the intensity of the lights,DecreaseBrightness
+1092,lower the lighting and the garage,DecreaseBrightness
+1093,lower it delights,DecreaseBrightness
+1094,o er thelights in my bedroom please,DecreaseBrightness
+1095,oer the light in the changing room,DecreaseBrightness
+1096,the brightness should be ten in a bathroom,SetLightBrightness
+1097,could you set te bath for brightness level to thirty nine,SetLightBrightness
+1098,the bold should not be so bright,DecreaseBrightness
+1099,the cellar light should be turned on,SwitchLightOn
+1100,the cellar needs to be bregter,IncreaseBrightness
+1101,the colar of the light should be pink in the toilet's room,SetLightColor
+1102,their cubical lights shall be pink,SetLightColor
+1103,that i nin o mes too brad,DecreaseBrightness
+1104,the garriage lightes me to be brigter,IncreaseBrightness
+1105,the grant should have its lights toned off now,SwitchLightOff
+1106,the house room might needs to be changed to red,SetLightColor
+1107,the kitchen leght should be pink,SetLightColor
+1108,e just a bedroom lights to ten per cent,SetLightBrightness
+1109,can you sed the backroom ligke to seventy three,SetLightBrightness
+1110,the kitchen should be brighter pleased,IncreaseBrightness
+1111,the large meeting room is too dark and must be made brighter,IncreaseBrightness
+1112,the laundry room is too bright,DecreaseBrightness
+1113,the loger room lights should be green,SetLightColor
+1114,the light color in the waiting room should be green,SetLightColor
+1115,the light in the apartment used to be dimmed,DecreaseBrightness
+1116,the light in the fordroom eans to be at seventy three,SetLightBrightness
+1117,the light in the parking lot should be pink,SetLightColor
+1118,the light in the shade neath the b alf,SwitchLightOff
+1119,the lights need to be dammed,DecreaseBrightness
+1120,th only said the badpost ofelinte riest,SetLightBrightness
+1121,the light needs to be dimmed,DecreaseBrightness
+1122,the lights are too bright and i want it dimmed,DecreaseBrightness
+1123,the lights in the cellar need to be turned up,IncreaseBrightness
+1124,the lights in the groging could be switched off,SwitchLightOff
+1125,the light in the cates pedroom are to dark,IncreaseBrightness
+1126,the lights in the living room needtably blue,SetLightColor
+1127,the lights in the living room should be on twenty two,SetLightBrightness
+1128,the light should be on please,SwitchLightOn
+1129,lo are the lighvts in the dining room,DecreaseBrightness
+1130,can you change the lights to green,SetLightColor
+1131,flower the lights on the patio,DecreaseBrightness
+1132,lo whot of the lades to gwinby,SetLightBrightness
+1133,oh delight,DecreaseBrightness
+1134,mag i dismens to les yo will be alli din to bred,SetLightBrightness
+1135,make certain no lights are on in the bathroom,SwitchLightOff
+1136,make it a little brighter in the bedroom,IncreaseBrightness
+1137,make it a little liss darken here,IncreaseBrightness
+1138,make it a little less dark in the back yard,IncreaseBrightness
+1139,make it brighter,IncreaseBrightness
+1140,make a briter in here,IncreaseBrightness
+1141,can you change the lights to piqe,SetLightColor
+1142,could brie him in the changing room,IncreaseBrightness
+1143,mak git brighter in the changing room,IncreaseBrightness
+1144,make a brigter in the dining room,IncreaseBrightness
+1145,make it brighter in the large meeting room,IncreaseBrightness
+1146,make a brighter in the living room,IncreaseBrightness
+1147,make it brighter in the waiting room,IncreaseBrightness
+1148,ake a dork,SwitchLightOff
+1149,make it darken here,SwitchLightOff
+1150,make it dark in the changing room,SwitchLightOff
+1151,make it duck,SwitchLightOff
+1152,can you change the lives to pink everywhere,SetLightColor
+1153,make e dimmer an yeur,DecreaseBrightness
+1154,make it more dem,DecreaseBrightness
+1155,make it so that the light is pink,SetLightColor
+1156,make landyroom green,SetLightColor
+1157,make laundry in light brightness twenty,SetLightBrightness
+1158,make lights brighter,IncreaseBrightness
+1159,make light dimmer,DecreaseBrightness
+1160,make lights less bright in the laundring room,DecreaseBrightness
+1161,make lates bink,SetLightColor
+1162,make lue lights of,SwitchLightOff
+1163,add more lighting in the basement,IncreaseBrightness
+1164,can you change the lights to the color red,SetLightColor
+1165,make my bolbs less bright,DecreaseBrightness
+1166,make my lights blue,SetLightColor
+1167,make my lights brighter,IncreaseBrightness
+1168,make my light sgreen,SetLightColor
+1169,make my lights pink,SetLightColor
+1170,make parking lights go on,SwitchLightOn
+1171,make sure the hollwelates are increased in breatness,IncreaseBrightness
+1172,make sure the light's braider so i can't see,IncreaseBrightness
+1173,make sure there are no lights on,SwitchLightOff
+1174,make t back air at brotor,IncreaseBrightness
+1175,can you change the patio ligte to blue,SetLightColor
+1176,make the basement at ten per cent for the light setting,SetLightBrightness
+1177,make the recent lights go on,SwitchLightOn
+1178,nake the by tru lade dimmer,DecreaseBrightness
+1179,tomake the bathroom lights on,SwitchLightOn
+1180,make the bedroom light demot,DecreaseBrightness
+1181,make the bedroom lights turn on,SwitchLightOn
+1182,make the bedroom light intensity ten,SetLightBrightness
+1183,make the boardroom light to twelve,SetLightBrightness
+1184,make the boardroom lights read,SetLightColor
+1185,make the brightness at twelve per cent,SetLightBrightness
+1186,can you train the besta ble to rit,SetLightColor
+1187,make the brightness in the kitchen seventy three,SetLightBrightness
+1188,make the brightness of my lights thirty nine,SetLightBrightness
+1189,make the brights of the lights be at least two per cent,SetLightBrightness
+1190,make the color of the light pink,SetLightColor
+1191,make the color of the light red,SetLightColor
+1192,makes a cubicle less bright,DecreaseBrightness
+1193,make the cubica light gream,SetLightColor
+1194,make the cupical lighting to be dimmer,DecreaseBrightness
+1195,make the cubical lights turn off,SwitchLightOff
+1196,can you darken the bedroom,DecreaseBrightness
+1197,make dining revites awf please,SwitchLightOff
+1198,make the yentery flat brighter,IncreaseBrightness
+1199,make the entrance light at twenty two,SetLightBrightness
+1200,make the entrance lights left tents,DecreaseBrightness
+1201,make the gadis read,SetLightColor
+1202,make the kit's bedroom brighter with more light,IncreaseBrightness
+1203,make the kild's bedroom light read,SetLightColor
+1204,make the kid's bedroom lights ea twelve,SetLightBrightness
+1205,make the gitroom braider,IncreaseBrightness
+1206,make the kitchen brighter,IncreaseBrightness
+1207,can you decree the brightness,DecreaseBrightness
+1208,make the large meeting room lage to thirteen anbreatnas,SetLightBrightness
+1209,make the laundry room a bit dark o please,DecreaseBrightness
+1210,make the laundry room lights red,SetLightColor
+1211,make the late bredarpence,IncreaseBrightness
+1212,make the light bult grit a please,IncreaseBrightness
+1213,make the light bulls in the pantry the twenty brightness,SetLightBrightness
+1214,make the lipebulbs pink,SetLightColor
+1215,make the light demer,DecreaseBrightness
+1216,make the light green,SetLightColor
+1217,make the light in the bathroom brighter,IncreaseBrightness
+1218,can ye decrease the brightness in the kid's bedroom,DecreaseBrightness
+1219,make the light in the bedroom brighter,IncreaseBrightness
+1220,make the ligt in the dining room red,SetLightColor
+1221,make the light in the pantry to two,SetLightBrightness
+1222,make the light turn red,SetLightColor
+1223,make delighting brdywin here,IncreaseBrightness
+1224,make the lighting brighter in the living room,IncreaseBrightness
+1225,make the lighting more intense in the bathroom,IncreaseBrightness
+1226,make the lights a little brighter in the laundry room,IncreaseBrightness
+1227,make the lights blue,SetLightColor
+1228,make the lights glue,SetLightColor
+1229,can you decrease the brightness of the lightbolt,DecreaseBrightness
+1230,make the lights blue,SetLightColor
+1231,make the lights brighter,IncreaseBrightness
+1232,make the lights brighter in the studio,IncreaseBrightness
+1233,make the lights brighter,IncreaseBrightness
+1234,make a light stimmer please,DecreaseBrightness
+1235,make the lights five,SetLightBrightness
+1236,make the lights go on,SwitchLightOn
+1237,make the lights green,SetLightColor
+1238,make the lights green please,SetLightColor
+1239,make the lights in the bedroom less bright,DecreaseBrightness
+1240,can you decrease the light intensity,DecreaseBrightness
+1241,make the livhes in the cellar at the too brightness,SetLightBrightness
+1242,make de lights seem to get it to thirty ninth louse,SetLightBrightness
+1243,make the lights in the house brighter,IncreaseBrightness
+1244,make the lights in the kid's room ten,SetLightBrightness
+1245,make the light in the kitchsbedroom green,SetLightColor
+1246,make the lights in the room lower,DecreaseBrightness
+1247,make the lights in the studio to be at twelve,SetLightBrightness
+1248,make the lights in the toilets brighter,IncreaseBrightness
+1249,make the lights less bright,DecreaseBrightness
+1250,can you gine the lights in the lounge,DecreaseBrightness
+1251,make the lights lass bright,DecreaseBrightness
+1252,make the lights more bright,IncreaseBrightness
+1253,make the lights more bright in the bedroom,IncreaseBrightness
+1254,make the lights not shine any more,SwitchLightOff
+1255,make the light spink,SetLightColor
+1256,make the late pink,SetLightColor
+1257,make the lights red,SetLightColor
+1258,make the lage thacolor read,SetLightColor
+1259,make the lights turn off,SwitchLightOff
+1260,make o light turn off in the waiting room,SwitchLightOff
+1261,can you increase the brightness of the lights in the bedroom,IncreaseBrightness
+1262,make the late sturn on,SwitchLightOn
+1263,make the living room dimmer,DecreaseBrightness
+1264,make the living room like dimon,DecreaseBrightness
+1265,make the lounge twenty two,SetLightBrightness
+1266,make a meeting room late fifte,SetLightBrightness
+1267,make the pantry five per cent in brightness,SetLightBrightness
+1268,make the pantry lights to twelve,SetLightBrightness
+1269,make the patio brighter,IncreaseBrightness
+1270,make the room a bit darker,DecreaseBrightness
+1271,make the room brighter,IncreaseBrightness
+1272,at just brightness to fifteen,SetLightBrightness
+1273,can you increase the brightness,IncreaseBrightness
+1274,make the studio lighting to be at the twelve setting,SetLightBrightness
+1275,make the studio light of,SwitchLightOff
+1276,make the toilet's green lights,SetLightColor
+1277,make twenty two the brightness steady,SetLightBrightness
+1278,may you change the like bin please,SetLightColor
+1279,more light please,IncreaseBrightness
+1280,more lights pace,IncreaseBrightness
+1281,mold e right maserping in the diming roombul fire,SetLightBrightness
+1282,my bedroom needs to be darker,DecreaseBrightness
+1283,no more lights in the garden,SwitchLightOff
+1284,can unicly the latening levellyin the studio,IncreaseBrightness
+1285,ok aluxta cut out flights in the pantry,SwitchLightOff
+1286,o khe gugle turn off light an entire flat,SwitchLightOff
+1287,o k gugle turn off lights,SwitchLightOff
+1288,once you enter the laundry room turn on the lights,SwitchLightOn
+1289,please turn on the light,SwitchLightOn
+1290,placed the cellarlights in the off position,SwitchLightOff
+1291,placed the lighting on level twenty two in the crucible,SetLightBrightness
+1292,please activate the lights,SwitchLightOn
+1293,please just the cubical light so it's brighter,IncreaseBrightness
+1294,please adjust the light brightness to go lower please,DecreaseBrightness
+1295,can you light up the basement a bit more,IncreaseBrightness
+1296,please adjust the light bulbs to twelve,SetLightBrightness
+1297,pleased brightened the lights in the meeting room,IncreaseBrightness
+1298,please change entrance lights to blue,SetLightColor
+1299,please change the lights to read and sniks,SetLightColor
+1300,please change the brightness in the room,DecreaseBrightness
+1301,cleas changed the brightness level in parking area to twenty,SetLightBrightness
+1302,please change the brightness level in the back yard to fifty,SetLightBrightness
+1303,please chain the color in the large meeting room to pink,SetLightColor
+1304,please jane the corar of the light thred,SetLightColor
+1305,please change the color to pink,SetLightColor
+1306,can you make it a tead brighter please,IncreaseBrightness
+1307,please change the collus to read in the bathroom,SetLightColor
+1308,please changed a light color in the kitchen to blue,SetLightColor
+1309,lease change the lighting to twelve in the shed,SetLightBrightness
+1310,please change the lights green,SetLightColor
+1311,please jane the likes in them waiting room for get inpits,SetLightColor
+1312,please change lights to read in the cellar,SetLightColor
+1313,face changed the lights to red,SetLightColor
+1314,please change the lights to twenty two in the house,SetLightBrightness
+1315,pleasta an the living room liht stured,SetLightColor
+1316,ple's cut off all light,SwitchLightOff
+1317,can you make it brighter inside,IncreaseBrightness
+1318,please decrease the brightness,DecreaseBrightness
+1319,please decrease the brightness,DecreaseBrightness
+1320,please dim lights,DecreaseBrightness
+1321,please demn the lights,DecreaseBrightness
+1322,lease plick the lights on,SwitchLightOn
+1323,please get rid of the lights,SwitchLightOff
+1324,please get the lights off,SwitchLightOff
+1325,please go on and increase the brightness,IncreaseBrightness
+1326,please have the waiting room be less bright,DecreaseBrightness
+1327,please incrase lights,IncreaseBrightness
+1328,can you make it dimmer and her,DecreaseBrightness
+1329,please increase the brightness of the lights,IncreaseBrightness
+1330,please increase the brightness of the lights in the kids room,IncreaseBrightness
+1331,please increase the brightness of the lights in the small meeting room,IncreaseBrightness
+1332,please increase the braveness of the late,IncreaseBrightness
+1333,please increase the garagelight,IncreaseBrightness
+1334,please increase the loating,IncreaseBrightness
+1335,please increased delights in the office,IncreaseBrightness
+1336,hes lo er the brightness for me,DecreaseBrightness
+1337,please lower the lights in the room,DecreaseBrightness
+1338,please lower the light,DecreaseBrightness
+1339,can you make the bedroom lights go up,IncreaseBrightness
+1340,please make it brighter,IncreaseBrightness
+1341,please make bocoler red,SetLightColor
+1342,please make te entine flat blue,SetLightColor
+1343,please make the flat room blue,SetLightColor
+1344,please make the light lieu,SetLightColor
+1345,please make to light red,SetLightColor
+1346,please make the lights brighter,IncreaseBrightness
+1347,please make the late green,SetLightColor
+1348,please make the light screen in the dining room,SetLightColor
+1349,please make the lates pink,SetLightColor
+1350,can you make the brightness twelfe,SetLightBrightness
+1351,please make delights pink in my bedroom,SetLightColor
+1352,please make the vestibule lighting to be at twelve,SetLightBrightness
+1353,please put off the panpulates,SwitchLightOff
+1354,please set it to five,SetLightBrightness
+1355,hese said lounch brightness at twenty to wesn't,SetLightBrightness
+1356,he said the night nat ler to figt,SetLightBrightness
+1357,please said the brightness to five persent,SetLightBrightness
+1358,pleased at the light brightnness level of basement to thirty nine,SetLightBrightness
+1359,he sert the liged welvs to champ,SetLightBrightness
+1360,please set the office lights down,DecreaseBrightness
+1361,can you make the lights blue,SetLightColor
+1362,please set the office to twenty two for the intensity,SetLightBrightness
+1363,please set the studio to level too for the light intensity,SetLightBrightness
+1364,please set the toilet lighting to two,SetLightBrightness
+1365,she said the toilet's room like to too,SetLightBrightness
+1366,please shut off the lighting,SwitchLightOff
+1367,clease shut off the lights above the toilet,SwitchLightOff
+1368,please shut off the lights,SwitchLightOff
+1369,please stop the lights,SwitchLightOff
+1370,pre switch my lights on now,SwitchLightOn
+1371,pleas switch on the lights for the facilities,SwitchLightOn
+1372,can you make the late breake,IncreaseBrightness
+1373,please whitch on my cubical life,SwitchLightOn
+1374,please return the lights,SwitchLightOn
+1375,please reach the color of the light to be red pleased,SetLightColor
+1376,rac switch to pink liding,SetLightColor
+1377,please to the green lade,SetLightColor
+1378,lease turn down the brightness,SwitchLightOff
+1379,please turn down the light intensity,DecreaseBrightness
+1380,please turn down the lights,DecreaseBrightness
+1381,please turn down the lights and the entrance area,DecreaseBrightness
+1382,please turn down the lights in the pantry,DecreaseBrightness
+1383,i've just a bedroom rightnest level to seventy three,SetLightBrightness
+1384,can you make the lights dimmer in the living room,DecreaseBrightness
+1385,please turn lights read in large meeting room,SetLightColor
+1386,please turn lights up,IncreaseBrightness
+1387,please turn my lighton,SwitchLightOn
+1388,please don't off on light,SwitchLightOff
+1389,please turn off all delights,SwitchLightOff
+1390,please turn off the sellar likes,SwitchLightOff
+1391,pleased turn off the lighting,SwitchLightOff
+1392,please tur not the lighting,SwitchLightOff
+1393,please turn off the lights in the bedroom,SwitchLightOff
+1394,please turn off the lites in the bedroom,SwitchLightOff
+1395,can you make the lights green in the basement,SetLightColor
+1396,these turn of the lights in the vestigule,SwitchLightOff
+1397,he's turt enough the lights in this room,SwitchLightOff
+1398,please dont off the light,SwitchLightOff
+1399,please tern of their tylad slates,SwitchLightOff
+1400,he turn on my parking lights,SwitchLightOn
+1401,please turn on the lights,SwitchLightOn
+1402,ease turn on the lights and the entrance,SwitchLightOn
+1403,leas ston on the leaving room lights,SwitchLightOn
+1404,please turned down the brightness of the light wolves just a bed i,DecreaseBrightness
+1405,please turn the brightness up,IncreaseBrightness
+1406,can you make the lights green,SetLightColor
+1407,please turn the sellalite to thirty nine,SetLightBrightness
+1408,these turned the kid's room brightness to fifty,SetLightBrightness
+1409,please turn the kitchen lights on,SwitchLightOn
+1410,please turn the light on for mou,SwitchLightOn
+1411,please turn the lights down,DecreaseBrightness
+1412,please turn the lights down in the waiting room,DecreaseBrightness
+1413,please turn the lights down to a lower setting in the living room,DecreaseBrightness
+1414,he turned the lightstone,DecreaseBrightness
+1415,please turn the lights off,SwitchLightOff
+1416,please tand the ladsov in the garden,SwitchLightOff
+1417,can you make delights in the office green,SetLightColor
+1418,cles turn the lights off in this rome,SwitchLightOff
+1419,please turn the living rom ligts to twelve,SetLightBrightness
+1420,please turn the pattio lights up for me,IncreaseBrightness
+1421,please turn up lights in apartment,IncreaseBrightness
+1422,turn up the lighting in the toilets,IncreaseBrightness
+1423,please ton of the lats a bit more,IncreaseBrightness
+1424,please turn up the lights,IncreaseBrightness
+1425,please decrease the brightness,DecreaseBrightness
+1426,please set the brightness of the lightbolt to seventy three,SetLightBrightness
+1427,power on the lamps,SwitchLightOn
+1428,can you made it outsi li green,SetLightColor
+1429,pawaran de lampe in the toilets,SwitchLightOn
+1430,power on the light,SwitchLightOn
+1431,haron lights in the bedroom,SwitchLightOn
+1432,power on the office lamps,SwitchLightOn
+1433,how are the cupical lamps to ten,SetLightBrightness
+1434,harl the lamps to two per cent,SetLightBrightness
+1435,paword the office lights,SwitchLightOn
+1436,put bathrem brightness to fifty,SetLightBrightness
+1437,pud like an in higher intentiou be pleased,IncreaseBrightness
+1438,foot lates too blue,SetLightColor
+1439,you please brighten this room up a bit,IncreaseBrightness
+1440,put on the lights in the cella at two per cent,SetLightBrightness
+1441,poot parking likes at level dwell,SetLightBrightness
+1442,wuld the bightnessinless sere that col be,SetLightBrightness
+1443,put the cellar lights to aff,SwitchLightOff
+1444,put the kid's bedroom lights on twelve,SetLightBrightness
+1445,put the lighting to level ten,SetLightBrightness
+1446,put the lights in the living room at level thirty nine,SetLightBrightness
+1447,wup their lives in the matingrom puswin,SetLightBrightness
+1448,put the lights off in the bedroom,SwitchLightOff
+1449,put the lights on,SwitchLightOn
+1450,and who pleased you the about room lage to ta colivered,SetLightColor
+1451,put the lights on please,SwitchLightOn
+1452,put the lights to twelve per cent in the bathroom,SetLightBrightness
+1453,put the lice to two in the back yard,SetLightBrightness
+1454,put the parking brightness at twenty,SetLightBrightness
+1455,quickly put on the lights in the dining room as i am very hungry,SwitchLightOn
+1456,raise the lights in the changing room,IncreaseBrightness
+1457,raise the lights and the laderu,IncreaseBrightness
+1458,reduce basement brightness to two per set,SetLightBrightness
+1459,duce brightness,DecreaseBrightness
+1460,reduce brightness to fiftee in the house,SetLightBrightness
+1461,the studio lights need to be increased,IncreaseBrightness
+1462,the toilet light should be blue,SetLightColor
+1463,and he said the likness to enter to a forthen badhouse,SetLightBrightness
+1464,the toilets should have green lighting,SetLightColor
+1465,there is too much light in here,DecreaseBrightness
+1466,there is too much light in the bedroom,DecreaseBrightness
+1467,throughout the house turn up the light power,IncreaseBrightness
+1468,toned down the brightness in the laundry room,DecreaseBrightness
+1469,ton'e all lighting on,SwitchLightOn
+1470,turnal likes them please,DecreaseBrightness
+1471,turn back yard lights off,SwitchLightOff
+1472,turn basement like its on please,SwitchLightOn
+1473,turn basement lade to pink,SetLightColor
+1474,can he set to cell of roome to seventy three,SetLightBrightness
+1475,don bedrom ladself a,SwitchLightOff
+1476,turn brightness down in bedroom,DecreaseBrightness
+1477,turn down bedroom lights,DecreaseBrightness
+1478,turned down lights in a trire apartment,DecreaseBrightness
+1479,turned down the basement lights,DecreaseBrightness
+1480,turned down the brightness,DecreaseBrightness
+1481,turn down the brightness for me,DecreaseBrightness
+1482,turned out the brightness to the loingery room,DecreaseBrightness
+1483,turned down the brightness of the lighting,DecreaseBrightness
+1484,dand on the breatness please,DecreaseBrightness
+1485,can ye set the kid's room light to five,SetLightBrightness
+1486,turned down the light in the bedroom,DecreaseBrightness
+1487,turn down the light lun de loo,DecreaseBrightness
+1488,turned down the light intensity in the dining room,DecreaseBrightness
+1489,turn down the light power all the way,SwitchLightOff
+1490,turned down the light power in the pantry all the way,SwitchLightOff
+1491,turned down the lighting in the kitceh bedroom,DecreaseBrightness
+1492,turn down the lights,DecreaseBrightness
+1493,turn down the lights a bit,DecreaseBrightness
+1494,can you please change the brightness in the kid's room to twenty two,SetLightBrightness
+1495,reduce the brightness in my bedroom as i am going to sleep,DecreaseBrightness
+1496,reduce the brightness in the bedroom please,DecreaseBrightness
+1497,reduced the light brightness in the backyard to level ten,SetLightBrightness
+1498,select pink light color,SetLightColor
+1499,set all lamps to level thirty nine in the studio,SetLightBrightness
+1500,set all lamps to too in the laundry room,SetLightBrightness
+1501,said brightness in pantry to seventy three persons,SetLightBrightness
+1502,set brightness to twenty pleas,SetLightBrightness
+1503,set cellar lights to fifty,SetLightBrightness
+1504,set light color to blue,SetLightColor
+1505,can you please change the brightness in the lounge to thirty nine,SetLightBrightness
+1506,sat lights to green,SetLightColor
+1507,set lights to level thirty nine,SetLightBrightness
+1508,set lights to lever twenty two,SetLightBrightness
+1509,setligtes to off,SwitchLightOff
+1510,set lights to twenty two per cent the basement,SetLightBrightness
+1511,set all lights to two in the perking room place,SetLightBrightness
+1512,fept leaving room bright leven to twenty two,SetLightBrightness
+1513,sad labbet blombe winte do for baglers,SetLightBrightness
+1514,set the basement lights to two,SetLightBrightness
+1515,set about in lights to the on position,SwitchLightOn
+1516,can you please change the color to blue,SetLightColor
+1517,fed the badroom lights to two for britness,SetLightBrightness
+1518,set the brightness in the bathroom at levell twall,SetLightBrightness
+1519,said the brightness in the bedroom to twenty two,SetLightBrightness
+1520,set the brightness in the kid's room to level twenty two,SetLightBrightness
+1521,sed the brightness in the living room to ten,SetLightBrightness
+1522,set them bright this level of light to twenty,SetLightBrightness
+1523,sot the brightness level to seventy three,SetLightBrightness
+1524,set the brightness of the lightwolbs to fifty,SetLightBrightness
+1525,set the brightness of the light bulbs to fifty,SetLightBrightness
+1526,seid pabratnas to fifty,SetLightBrightness
+1527,turn down the lights in here,DecreaseBrightness
+1528,turned down the lights and the basement,DecreaseBrightness
+1529,can you set the meeting room to be a pink hue,SetLightColor
+1530,turn down the lights in the bedroom,DecreaseBrightness
+1531,turn down the lights in thecella,DecreaseBrightness
+1532,turned down the lights in the changing room,DecreaseBrightness
+1533,turn down the lights in the kitchen,DecreaseBrightness
+1534,turned and the light in the large meeting rome,SwitchLightOff
+1535,turned down the lights in to toilet room,DecreaseBrightness
+1536,turned down the lights in the waiting room,DecreaseBrightness
+1537,turned down the lights one knotck,DecreaseBrightness
+1538,don don the lades please,SwitchLightOff
+1539,don on the labes,DecreaseBrightness
+1540,can you shut off the house lights,SwitchLightOff
+1541,turn light on in toilet rom,SwitchLightOn
+1542,turn lating read,SetLightColor
+1543,turn late in the laundry room breiter,IncreaseBrightness
+1544,turn on my lights everywhere please,SwitchLightOn
+1545,turn light on in the waiting room,SwitchLightOn
+1546,turn lights on over the toilet,SwitchLightOn
+1547,turn lights to green,SetLightColor
+1548,turn living room lights to red,SetLightColor
+1549,don't meeting room lights off,SwitchLightOff
+1550,turn on my living roemlightfles,SwitchLightOn
+1551,can you shet the lights off at the entrance,SwitchLightOff
+1552,turn off all the lamps,SwitchLightOff
+1553,turn off lights,SwitchLightOff
+1554,turn off my bedroom lights please,SwitchLightOff
+1555,ell nor's barking late,SwitchLightOff
+1556,ten after bottrom late,SwitchLightOff
+1557,dawn after celar plats,SwitchLightOff
+1558,turn off the light power,SwitchLightOff
+1559,turn off the lighting,SwitchLightOff
+1560,turn off phelites,SwitchLightOff
+1561,turn off the lights,SwitchLightOff
+1562,can you stop the lighting,SwitchLightOff
+1563,turn off the lights at four thirty p m,SwitchLightOff
+1564,turn off the lights for me,SwitchLightOff
+1565,don't know the lights for the leading room,SwitchLightOff
+1566,turn off the lights in five minutes,SwitchLightOff
+1567,turn off to lights in the basement,SwitchLightOff
+1568,turn off the lights in the bathroom,SwitchLightOff
+1569,turn off the lights in the bedroom,SwitchLightOff
+1570,turn off the lights in the bedroom,SwitchLightOff
+1571,tenolf telictin the tarreflect,SwitchLightOff
+1572,ton off the light in their drancs,SwitchLightOff
+1573,can you switch on my apartment lights,SwitchLightOn
+1574,turn off the lights in the kitchen,SwitchLightOff
+1575,turn off the lights in a living arom,SwitchLightOff
+1576,turn up the lights in the toilets,SwitchLightOff
+1577,turn off the light in this room,SwitchLightOff
+1578,turn off the light smell,SwitchLightOff
+1579,turnou lights to the basement,SwitchLightOff
+1580,turn off the lights to the toilets,SwitchLightOff
+1581,turn o folt the lanwage like,SwitchLightOff
+1582,danovtha bydi lates,SwitchLightOff
+1583,turn off the toiletlights,SwitchLightOff
+1584,adjust of brightness in the lew to fifty,SetLightBrightness
+1585,and he switched the lights on for my entire house,SwitchLightOn
+1586,turn on all the lights in the entire house,SwitchLightOn
+1587,turn on bedroom late,SwitchLightOn
+1588,turn on garoge light,SwitchLightOn
+1589,turn on lights above the toilet,SwitchLightOn
+1590,turn on lives in the backyards,SwitchLightOn
+1591,turn on lights into cellar,SwitchLightOn
+1592,dont on leaving room lights,SwitchLightOn
+1593,tut on my lights now,SwitchLightOn
+1594,tn are my pettyolights please,SwitchLightOn
+1595,turn on red light,SetLightColor
+1596,can you swiz the lights to dakalot gren plice,SetLightColor
+1597,turn on the batroom lights,SwitchLightOn
+1598,turn on the bedroom light,SwitchLightOn
+1599,turn on the changing room lights,SwitchLightOn
+1600,turned on the entrance lights,SwitchLightOn
+1601,turn on the laundry room waiting,SwitchLightOn
+1602,turn on te lights,SwitchLightOn
+1603,turn on the lights above the toilet,SwitchLightOn
+1604,turn on the light in the bathroom,SwitchLightOn
+1605,urn on the lights in the bedroom,SwitchLightOn
+1606,turn on the lights in the changing room,SwitchLightOn
+1607,can you ton down the light,DecreaseBrightness
+1608,turn er light in the entrans,SwitchLightOn
+1609,turn on the light in the kids room,SwitchLightOn
+1610,turn on the lights in the laundry ro,SwitchLightOn
+1611,turn on the lights an the waiting room,SwitchLightOn
+1612,turon the light please,SwitchLightOn
+1613,turn on the light,SwitchLightOn
+1614,turn on the office lighting,SwitchLightOn
+1615,turn on the office lights,SwitchLightOn
+1616,turn on the pantry light,SwitchLightOn
+1617,turned the spotlight in the room,SwitchLightOn
+1618,can you turn off the sella lites,SwitchLightOff
+1619,turn on the tollet lights,SwitchLightOn
+1620,turn out the cellar lights,SwitchLightOff
+1621,turn parking light setting to off,SwitchLightOff
+1622,turn studio lights on,SwitchLightOn
+1623,turn the backyard lights pink,SetLightColor
+1624,turn the basement line to see te ten,SetLightBrightness
+1625,turn the basement lats down,DecreaseBrightness
+1626,throun the bedroom light a,SwitchLightOff
+1627,turn the bedroom light to seventy three,SetLightBrightness
+1628,turn the bedroom lights on,SwitchLightOn
+1629,can you turn off the light in the toilet,SwitchLightOff
+1630,turn the bedroom to twenty,SetLightBrightness
+1631,tan the bratness done,DecreaseBrightness
+1632,turn the brightness down in the loping room,DecreaseBrightness
+1633,turn the brightness down in the toilet room,DecreaseBrightness
+1634,turn the brightness in the flat to two,SetLightBrightness
+1635,turn the brightness to level twelve,SetLightBrightness
+1636,turn the brightness to thirty nine per cent,SetLightBrightness
+1637,turn the brightness up in the basement,IncreaseBrightness
+1638,turne the bold brightness down,DecreaseBrightness
+1639,turn the bulbs on briter everywhere,IncreaseBrightness
+1640,can you turk off your lits,SwitchLightOff
+1641,turned the sella lights to twelve forset,SetLightBrightness
+1642,turn the cellar lights to fifty per cet,SetLightBrightness
+1643,and turned the changing ri lights ong,SwitchLightOff
+1644,turn the changing room lights to ten per cent,SetLightBrightness
+1645,turn the cubical lights to level ten,SetLightBrightness
+1646,turne the entrance lights on,SwitchLightOn
+1647,turn the entrance lights on,SwitchLightOn
+1648,turn the flat light to twelve,SetLightBrightness
+1649,turn the flat room off,SwitchLightOff
+1650,turn the garden light up a notch,IncreaseBrightness
+1651,get it out of the lights for the node room,SwitchLightOff
+1652,turn the kid's bedroom lit read,SetLightColor
+1653,turn the kitchen lights green,SetLightColor
+1654,don the kitchen lates on breto,IncreaseBrightness
+1655,turn the large meeting room green,SetLightColor
+1656,turn the laundry room lights to twenty two,SetLightBrightness
+1657,don't the light intensity to level thirty nine,SetLightBrightness
+1658,turned the late on,SwitchLightOn
+1659,turn the light on in the bedroom,SwitchLightOn

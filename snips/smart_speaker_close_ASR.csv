@@ -1,0 +1,1279 @@
+WAV_FILE,WER,GroundTruth_Sentence,ASR_Sentence,Intent
+0.wav,0.5,I'd like to listen to Sade,like listen to say,PlayMusic
+1.wav,0.42857142857142855,I'd like to listen to Andreya Triana,i like to listen to audrey brianna,PlayMusic
+10.wav,0.2857142857142857,I'd like to listen to Craig Cardiff,i'd like to listen to credit card,PlayMusic
+100.wav,0.5714285714285714,I'd like to listen to Ana Carolina,oh to listen to and north carolina,PlayMusic
+1000.wav,0.2222222222222222,I'd like to listen to 5 Seconds of Summer,like to listen to five seconds of summer,PlayMusic
+1001.wav,0.42857142857142855,I'd like to listen to Jax Jones,like to listen to jokes drone,PlayMusic
+1002.wav,0.42857142857142855,I'd like to listen to Ronnie Flex,like to listen to reflect,PlayMusic
+1003.wav,0.42857142857142855,I'd like to listen to Prince Royce,i like to listen to parents voice,PlayMusic
+1004.wav,0.42857142857142855,I'd like to listen to Romeo Santos,like listen the romeo santos,PlayMusic
+1005.wav,0.42857142857142855,I'd like to listen to Kid Ink,i like to listen to kidding,PlayMusic
+1006.wav,0.7142857142857143,I'd like to listen to Descemer Bueno,like to listen to disarm or i know,PlayMusic
+1007.wav,0.42857142857142855,I'd like to listen to Miley Cyrus,i like to listen to nobody siren,PlayMusic
+1008.wav,1.0,I'd like to listen to Sfera Ebbasta,oh my <unk>,PlayMusic
+1009.wav,0.42857142857142855,I'd like to listen to Maren Morris,i like to listen to and more,PlayMusic
+101.wav,0.42857142857142855,I'd like to listen to Ida Corr,i like to listen to either core,PlayMusic
+1010.wav,0.14285714285714285,I'd like to listen to Frank Ocean,i like to listen to frank ocean,PlayMusic
+1011.wav,0.3333333333333333,I'd like to listen to Flume,i like to listen to,PlayMusic
+1012.wav,0.3333333333333333,I'd like to listen to NF,i'd like to listen and uh,PlayMusic
+1013.wav,0.8571428571428571,I'd like to listen to JAY Z,like towards new jersey,PlayMusic
+1014.wav,0.3333333333333333,I'd like to listen to RAYE,i like to listen to right,PlayMusic
+1015.wav,0.5,I'd like to listen to Cosculluela,like to listen to costa rica,PlayMusic
+1016.wav,0.42857142857142855,I'd like to listen to Louis Tomlinson,i like to listen to <unk>,PlayMusic
+1017.wav,0.5714285714285714,I'd like to listen to Lil' Kleine,i like to listen doing ditch killeen,PlayMusic
+1018.wav,0.5,I'd like to listen to Damso,like to listen to them so,PlayMusic
+1019.wav,0.8333333333333334,I'd like to listen to Sigala,i like to listen do you go alone,PlayMusic
+102.wav,0.6666666666666666,I'd like to listen to Malaka,like to to my locker,PlayMusic
+1205.wav,1.0,I'd like to listen to Stormzy,do loosen almighty,PlayMusic
+1206.wav,0.8571428571428571,I'd like to listen to Luan Santana,do listen to wind down uh,PlayMusic
+1207.wav,0.7142857142857143,I'd like to listen to Loud Luxury,you like do listen to load drugs easy,PlayMusic
+1208.wav,1.0,I'd like to listen to Mc Livinho,i do listen to m. living you know,PlayMusic
+1209.wav,0.7142857142857143,I'd like to listen to El Chacal,i do listen to just,PlayMusic
+121.wav,0.5454545454545454,I'd like to listen to Sallan Ja Miron Matka Maailman Ympäri,i'd like to listen to <unk>,PlayMusic
+1210.wav,0.8571428571428571,I'd like to listen to Oh Wonder,like blues and do all windows,PlayMusic
+1211.wav,0.8571428571428571,I'd like to listen to MC Fioti,like <unk> g. o. b.,PlayMusic
+1212.wav,0.6666666666666666,I'd like to listen to Thalía,do listen to toledo,PlayMusic
+1213.wav,0.5714285714285714,I'd like to listen to Ella Eyre,like to listen to l._a. i or,PlayMusic
+1214.wav,0.5,I'd like to listen to Nekfeu,i like to listen to next to,PlayMusic
+1215.wav,0.42857142857142855,I'd like to listen to Martin Solveig,like to listen to so survey,PlayMusic
+1216.wav,0.7142857142857143,I'd like to listen to Burak Yeter,i like to listen to the rock yet or,PlayMusic
+1217.wav,0.14285714285714285,I'd like to listen to The Script,like to listen to the script,PlayMusic
+1218.wav,1.0,I'd like to listen to Nate Dogg,life lessons a dog,PlayMusic
+1219.wav,0.2857142857142857,I'd like to listen to Ella Henderson,i like to listen to other henderson,PlayMusic
+122.wav,0.5714285714285714,I'd like to listen to Ewa Farna,like to listen to you what foreigner,PlayMusic
+1220.wav,0.3333333333333333,I'd like to listen to brando,i like to listen to brenda,PlayMusic
+1221.wav,0.2857142857142857,I'd like to listen to Lary Over,i like to listen to larry over,PlayMusic
+1222.wav,0.5714285714285714,I'd like to listen to Danelle Sandoval,i like to listen to now and all,PlayMusic
+1223.wav,0.14285714285714285,I'd like to listen to Gusttavo Lima,i'd like to listen to <unk> lima,PlayMusic
+1224.wav,0.2857142857142857,I'd like to listen to Chris Stapleton,i'd like to listen to chris stable can,PlayMusic
+1225.wav,0.14285714285714285,I'd like to listen to Dante Klein,i'd like to listen to dante kline,PlayMusic
+1226.wav,0.14285714285714285,I'd like to listen to James Blake,i'd like to listen to james bleak,PlayMusic
+1227.wav,0.16666666666666666,I'd like to listen to T.I.,i'd like to listen to g._i.,PlayMusic
+1228.wav,0.16666666666666666,I'd like to listen to NEIKED,i'd like to listen to nathan,PlayMusic
+1229.wav,0.3333333333333333,I'd like to listen to AlunaGeorge,i'd like to listen to aluminum george,PlayMusic
+123.wav,0.16666666666666666,I'd like to listen to Gimmz,i'd like to listen to games,PlayMusic
+1230.wav,0.2857142857142857,I'd like to listen to Lil Xan,i'd like to listen to little then,PlayMusic
+1231.wav,0.16666666666666666,I'd like to listen to Vigiland,i'd like to listen to disneyland,PlayMusic
+1232.wav,0.5,I'd like to listen to Blackbear,[noise] i'd like to listen to black there,PlayMusic
+1233.wav,0.3333333333333333,I'd like to listen to Gemitaiz,i like to listen to demonstrate,PlayMusic
+1234.wav,0.42857142857142855,I'd like to listen to Nile Rodgers,i like to listen to narrow roger,PlayMusic
+1235.wav,0.2857142857142857,I'd like to listen to Jay Rock,like to listen to a rock,PlayMusic
+1236.wav,0.8333333333333334,I'd like to listen to Timeflies,i like plus to time flies,PlayMusic
+1237.wav,0.42857142857142855,I'd like to listen to Calum Scott,i like to listen to while i'm scott,PlayMusic
+1238.wav,0.6666666666666666,I'd like to listen to Bausa,i like to listen you're about uh,PlayMusic
+1239.wav,0.6666666666666666,I'd like to listen to IAmChino,i like to listen to arms you know,PlayMusic
+124.wav,0.5,I'd like to listen to Shabu,like to listen shopper,PlayMusic
+1240.wav,0.2857142857142857,I'd like to listen to Rob $tone,i like to listen to rob don't,PlayMusic
+1241.wav,0.5,I'd like to listen to Bizzey,i like to listen,PlayMusic
+1242.wav,0.5714285714285714,I'd like to listen to Verdine White,i like to listen you're very near white,PlayMusic
+1243.wav,0.2857142857142857,I'd like to listen to Mon Laferte,i'd like to listen to montana for,PlayMusic
+1244.wav,0.3333333333333333,I'd like to listen to Echosmith,[noise] i'd like to listen to man,PlayMusic
+1245.wav,0.8571428571428571,I'd like to listen to Jonna Fraser,i trying to rush into john frazier,PlayMusic
+1246.wav,0.5,I'd like to listen to Cazzu,i tried to listen to you,PlayMusic
+1247.wav,0.0,I'd like to listen to Christina Aguilera,i'd like to listen to christina aguilera,PlayMusic
+1248.wav,1.0,I'd like to listen to Tinie Tempah,<unk> tiny temper,PlayMusic
+1249.wav,0.14285714285714285,I'd like to listen to Alejandro Fernandez,i'd like to listen to alhambra fernandez,PlayMusic
+125.wav,0.3333333333333333,I'd like to listen to Wanted,i'd like to listen to want it,PlayMusic
+1250.wav,0.42857142857142855,I'd like to listen to ScHoolboy Q,i'd like to listen to school boy you,PlayMusic
+1251.wav,0.2857142857142857,I'd like to listen to J. Davi$,i'd like to listen to davis,PlayMusic
+1252.wav,0.16666666666666666,I'd like to listen to Spooks,i'd like to listen to folks,PlayMusic
+1253.wav,0.16666666666666666,I'd like to listen to Azet,i'd like to listen to that,PlayMusic
+1254.wav,0.3333333333333333,I'd like to listen to Brooks,[noise] i'd like to listen to books,PlayMusic
+1255.wav,0.16666666666666666,I'd like to listen to LANY,i'd like to listen to miami,PlayMusic
+1256.wav,0.16666666666666666,I'd like to listen to Shaggy,i'd like to listen to shiny,PlayMusic
+1257.wav,0.42857142857142855,I'd like to listen to MC G15,i'd like to listen to m._g._m. jesus team,PlayMusic
+1258.wav,0.42857142857142855,I'd like to listen to Jerry Smith,[noise] i'd like to listen to <unk>,PlayMusic
+1259.wav,0.2857142857142857,I'd like to listen to Jessie Reyez,i'd like to listen to jesse races,PlayMusic
+126.wav,0.25,I'd like to listen to Mark 'Spike' Stent,i'd like to listen to mark spike extent,PlayMusic
+1260.wav,0.2857142857142857,I'd like to listen to Luke Combs,i'd like to listen to lose homes,PlayMusic
+1261.wav,0.5714285714285714,I'd like to listen to MC WM,i'd like to listen to m. c. w. m.,PlayMusic
+1262.wav,0.2857142857142857,I'd like to listen to The Lumineers,i'd like to listen to the human years,PlayMusic
+1263.wav,1.0,I'd like to listen to Rich Homie Quan,listens original me huh,PlayMusic
+1264.wav,0.7142857142857143,I'd like to listen to Justin Quiles,i might listen to quilt,PlayMusic
+1265.wav,0.7142857142857143,I'd like to listen to Mc Zaac,i listen to that,PlayMusic
+1266.wav,0.7142857142857143,I'd like to listen to Charly Black,i like listening charming black,PlayMusic
+1267.wav,1.0,I'd like to listen to E-40,it be forty,PlayMusic
+1268.wav,0.8571428571428571,I'd like to listen to Gue Pequeno,i like the <unk>,PlayMusic
+1269.wav,0.6666666666666666,I'd like to listen to Juliander,listen to julliard,PlayMusic
+127.wav,0.16666666666666666,I'd like to listen to Otilia,i'd like to listen to julia,PlayMusic
+1270.wav,0.8571428571428571,I'd like to listen to Kane Brown,was name brown,PlayMusic
+1271.wav,1.0,I'd like to listen to Wham!,wasn't aware,PlayMusic
+1272.wav,1.0,I'd like to listen to Majid Jordan,i was in the majority,PlayMusic
+1273.wav,0.16666666666666666,I'd like to listen to SFB,i'd like to listen to be,PlayMusic
+1274.wav,0.625,I'd like to listen to Moira Dela Torre,i'm going to listen to more regulatory,PlayMusic
+1275.wav,0.0,I'd like to listen to LSD,i'd like to listen to lsd,PlayMusic
+1276.wav,0.16666666666666666,I'd like to listen to ALMA,[noise] i'd like to listen to alma,PlayMusic
+1277.wav,0.42857142857142855,I'd like to listen to Lenny Tavárez,i'd like to listen to lennie to marriage,PlayMusic
+1278.wav,0.16666666666666666,I'd like to listen to Coez,i'd like to listen to cause,PlayMusic
+1279.wav,1.0,I'd like to listen to Felipe Araújo,i we're just <unk>,PlayMusic
+128.wav,0.3333333333333333,I'd like to listen to Sikai,i'd like to listen to some guy,PlayMusic
+1280.wav,0.42857142857142855,I'd like to listen to Cashmere Cat,i like to listen to kashmir act,PlayMusic
+1281.wav,0.16666666666666666,I'd like to listen to Dyo,i'd like to listen to dial,PlayMusic
+1282.wav,0.2857142857142857,I'd like to listen to Nengo Flow,i'd like to listen to mingle slow,PlayMusic
+129.wav,0.16666666666666666,I'd like to listen to Pimeys,i'd like to listen to these,PlayMusic
+13.wav,0.0,I'd like to listen to Blow,i'd like to listen to blow,PlayMusic
+130.wav,0.125,I'd like to listen to The Band Perry,i like to listen to the band perry,PlayMusic
+131.wav,0.2857142857142857,I'd like to listen to Beta Radio,i like to listen to the radio,PlayMusic
+133.wav,0.5,I'd like to listen to Skaldowie,[noise] i'd like to listen to skill doing,PlayMusic
+134.wav,0.16666666666666666,I'd like to listen to RUMORS,[noise] i'd like to listen to rumors,PlayMusic
+135.wav,0.0,I'd like to listen to Marina Maximilian,i'd like to listen to marina maximilian,PlayMusic
+136.wav,0.5,I'd like to listen to Kéfera,i like to listen to your uh,PlayMusic
+137.wav,0.7142857142857143,I'd like to listen to Boy Peacemaker,i like a newborn peacemaker,PlayMusic
+138.wav,0.8333333333333334,I'd like to listen to KIRINJI,like new <unk>,PlayMusic
+139.wav,0.42857142857142855,I'd like to listen to Antek Smykiewicz,i like to listen to <unk>,PlayMusic
+14.wav,0.16666666666666666,I'd like to listen to Kizo,i'd like to listen to though,PlayMusic
+140.wav,0.3333333333333333,I'd like to listen to Ella,i like to listen ella,PlayMusic
+141.wav,0.7142857142857143,I'd like to listen to Idan Amedi,i like to listen to it then i'm maybe,PlayMusic
+142.wav,0.42857142857142855,I'd like to listen to Lea Salonga,like to listen to me longer,PlayMusic
+143.wav,0.5,I'd like to listen to Ventino,like to listen to you know,PlayMusic
+144.wav,0.625,I'd like to listen to Neri Per Caso,i like to listen who near very so,PlayMusic
+145.wav,0.8571428571428571,I'd like to listen to Stina Girs,to or,PlayMusic
+146.wav,1.0,I'd like to listen to Lin Zheng-Zhong,late to loosen boot lean thing don't,PlayMusic
+147.wav,0.5,I'd like to listen to AGWA,i'd like to listen to it g._w. way,PlayMusic
+148.wav,0.7142857142857143,I'd like to listen to Guo Ding,i like to listen do you were doing,PlayMusic
+149.wav,0.6666666666666666,I'd like to listen to Raline,and like listen do rolling,PlayMusic
+15.wav,0.4,I'd like to listen to eason and the duo band,i'd like to listen to even do the and,PlayMusic
+150.wav,0.5,I'd like to listen to Pianomies,like to listen enemies,PlayMusic
+151.wav,0.8571428571428571,I'd like to listen to Anh Khang,hey listen do i'm gong,PlayMusic
+152.wav,0.8333333333333334,I'd like to listen to SBTRKT,i like to listen to be g. r. d.,PlayMusic
+153.wav,0.42857142857142855,I'd like to listen to Camila Queiroz,i like to listen to <unk> luxuries,PlayMusic
+154.wav,1.0,I'd like to listen to Stu Larsen,late do loosen booze do nursing,PlayMusic
+155.wav,0.7142857142857143,I'd like to listen to Saint Michel,like listen to the same way,PlayMusic
+156.wav,0.2857142857142857,I'd like to listen to Mosta Man,i'd like to listen to most demand,PlayMusic
+157.wav,0.0,I'd like to listen to Both,i'd like to listen to both,PlayMusic
+158.wav,0.42857142857142855,I'd like to listen to Samuli Putro,i'd like to listen to some really neutral,PlayMusic
+159.wav,0.2857142857142857,I'd like to listen to Prins Póló,i'd like to listen to print pool,PlayMusic
+16.wav,0.3333333333333333,I'd like to listen to DaVido,i'd like to listen to you know,PlayMusic
+160.wav,0.16666666666666666,I'd like to listen to Chebaleba,i'd like to listen to <unk>,PlayMusic
+161.wav,0.5,I'd like to listen to Eini,and like to listen tiny,PlayMusic
+162.wav,0.2857142857142857,I'd like to listen to Nine Chen,i'd like to listen to mention,PlayMusic
+163.wav,0.14285714285714285,I'd like to listen to Bjarki Gucci,i'd like to listen to barking gucci,PlayMusic
+164.wav,0.2857142857142857,I'd like to listen to ATMO Music,i like to listen to music,PlayMusic
+165.wav,0.42857142857142855,I'd like to listen to Maj Monet,i'd like to listen too much money,PlayMusic
+166.wav,0.8333333333333334,I'd like to listen to Chara,like new car,PlayMusic
+167.wav,0.6666666666666666,I'd like to listen to Fasma,i like to listen your past my,PlayMusic
+168.wav,0.5714285714285714,I'd like to listen to Barbora Poláková,i like to listen your barbara <unk>,PlayMusic
+169.wav,0.2857142857142857,I'd like to listen to Scott Helman,i like to listen to scott helmet,PlayMusic
+17.wav,0.42857142857142855,I'd like to listen to Reo Cragun,i like to listen to real again,PlayMusic
+170.wav,0.75,I'd like to listen to Eves The Behavior,i like to listen to me that you came here,PlayMusic
+171.wav,0.5,I'd like to listen to Justsesomali,i like to listen to just somali,PlayMusic
+172.wav,0.7142857142857143,I'd like to listen to Edu Chociay,i'd like to us new i do okay,PlayMusic
+173.wav,0.42857142857142855,I'd like to listen to Ray Charles,i like to listen to rain tomorrow,PlayMusic
+174.wav,0.8571428571428571,I'd like to listen to Lili Pistorius,[noise] i like to nearly foster,PlayMusic
+175.wav,0.16666666666666666,I'd like to listen to Monica,i'd like to listen i'm monica,PlayMusic
+176.wav,0.5,I'd like to listen to Folkeklubben,i'd like to russia folk loving,PlayMusic
+177.wav,0.375,I'd like to listen to Suspekt & Folkeklubben,i'd like to listen to suspecting folk lover,PlayMusic
+179.wav,0.14285714285714285,I'd like to listen to Little Dragon,i'd like to listen a little dragon,PlayMusic
+18.wav,0.2857142857142857,I'd like to listen to Mac Kregor,[noise] i'd like to listen to mac kruger,PlayMusic
+180.wav,0.14285714285714285,I'd like to listen to Side Baby,i'd like to listen to a baby,PlayMusic
+181.wav,1.0,I'd like to listen to SHINee,[noise] i'm trying to rush into shiny,PlayMusic
+182.wav,1.0,I'd like to listen to Los Toribianitos,original <unk> on a coast,PlayMusic
+183.wav,0.5,I'd like to listen to Mina,[noise] i'd like to listen to me now,PlayMusic
+184.wav,0.7142857142857143,I'd like to listen to Young Juju,[noise] i'd like to <unk> jew jew,PlayMusic
+185.wav,0.3,I'd like to listen to Kyle Dixon & Michael Stein,i'd like to listen to <unk> addiction and michael stein,PlayMusic
+186.wav,0.2857142857142857,I'd like to listen to Vanessa Williams,i'd like to listen to the national williams,PlayMusic
+187.wav,0.3333333333333333,I'd like to listen to Luciana,i like to listen to louisiana,PlayMusic
+188.wav,0.16666666666666666,I'd like to listen to Caballero,i'd like to listen to <unk>,PlayMusic
+189.wav,0.0,I'd like to listen to Mike,i'd like to listen to mike,PlayMusic
+19.wav,0.2857142857142857,I'd like to listen to Kappa Jotta,i'd like to listen to catholic jonah,PlayMusic
+190.wav,0.3333333333333333,I'd like to listen to Ravi,i like to listen to me,PlayMusic
+191.wav,0.3333333333333333,I'd like to listen to Nate,i like to listen to need,PlayMusic
+192.wav,0.8333333333333334,I'd like to listen to W.A.R.I.S,i'd like to listen to w. a. r. i. s.,PlayMusic
+193.wav,0.375,I'd like to listen to Tegan and Sara,i'd like to listen to <unk> i'm sarah,PlayMusic
+194.wav,0.42857142857142855,I'd like to listen to Stanly Hsu,i'd like to listen to this family who,PlayMusic
+195.wav,0.8571428571428571,I'd like to listen to Sam Lee,or like pollution through family,PlayMusic
+196.wav,0.3333333333333333,I'd like to listen to Cry,like to listen to grade,PlayMusic
+197.wav,0.8571428571428571,I'd like to listen to Chip Charlez,they do listen do you just,PlayMusic
+198.wav,0.8571428571428571,I'd like to listen to Katie Melua,listen <unk>,PlayMusic
+199.wav,0.5,I'd like to listen to Miwata,i like to listen to what uh,PlayMusic
+2.wav,0.3333333333333333,I'd like to listen to Nisj,i like to listen to news,PlayMusic
+20.wav,0.42857142857142855,I'd like to listen to Hikari Mitsushima,i'd like to listen to him chinese shima,PlayMusic
+200.wav,0.25,I'd like to listen to Young the Giant,i like to listen to young the james,PlayMusic
+201.wav,0.6666666666666666,I'd like to listen to Zack,i do listen to music,PlayMusic
+202.wav,1.0,I'd like to listen to Herencia de Timbiqui,<unk> degree,PlayMusic
+203.wav,1.0,I'd like to listen to Adolf Fredriks Ungdomskör,they do don't for drugs 'cause,PlayMusic
+204.wav,1.0,I'd like to listen to Zoë Ackerman,blues in brazil going man,PlayMusic
+205.wav,0.5,I'd like to listen to Niji Dyall Prince,i like to listen to meet you john prince,PlayMusic
+206.wav,0.5714285714285714,I'd like to listen to Matthew Chaim,like to listen to that he tried,PlayMusic
+207.wav,0.3333333333333333,I'd like to listen to Mavado,i like to listen to nevada,PlayMusic
+208.wav,0.42857142857142855,I'd like to listen to LeAnn Rimes,i like to listen to begin rhymes,PlayMusic
+209.wav,1.0,I'd like to listen to Die Lochis,turns into done though 'cause,PlayMusic
+21.wav,0.7142857142857143,I'd like to listen to ToTo H,i'd like <unk> h.,PlayMusic
+210.wav,0.14285714285714285,I'd like to listen to Regina Lund,i'd like to listen to regina learned,PlayMusic
+211.wav,0.42857142857142855,I'd like to listen to Sandy Lam,to listen to sandy lamb,PlayMusic
+212.wav,0.42857142857142855,I'd like to listen to Jordan Rakei,to listen to jordan okay,PlayMusic
+213.wav,0.42857142857142855,I'd like to listen to Eric Benét,need to listen to eric bunny,PlayMusic
+214.wav,0.3333333333333333,I'd like to listen to Alee,like to listen to me,PlayMusic
+215.wav,0.2857142857142857,I'd like to listen to Inner Circle,i'd like to lessen the inner circle,PlayMusic
+216.wav,0.5714285714285714,I'd like to listen to La Sabiduria,i'd like to russia last summer yeah,PlayMusic
+217.wav,0.42857142857142855,I'd like to listen to Tivi Gunz,and like to listen to be guns,PlayMusic
+218.wav,0.8571428571428571,I'd like to listen to Peppe Servillo,and like <unk>,PlayMusic
+219.wav,0.8333333333333334,I'd like to listen to Neptunica,and like <unk> communicate,PlayMusic
+22.wav,0.5,I'd like to listen to Rytmeklubben,i'd like to to rock climbing,PlayMusic
+220.wav,0.7142857142857143,I'd like to listen to Kristel Aaslaid,and like to crystal isolated,PlayMusic
+221.wav,0.6666666666666666,I'd like to listen to Genuino,like to listen in january no,PlayMusic
+222.wav,0.5714285714285714,I'd like to listen to Kim Karlsson,like to listen can carlson,PlayMusic
+223.wav,0.0,I'd like to listen to Michelle Branch,i'd like to listen to michelle branch,PlayMusic
+224.wav,0.8333333333333334,I'd like to listen to JONNY5,and like <unk> johnny by,PlayMusic
+225.wav,0.2857142857142857,I'd like to listen to The Brinks,i like to listen to the bronx,PlayMusic
+226.wav,0.8333333333333334,I'd like to listen to Palmy,i like the palm,PlayMusic
+227.wav,0.625,I'd like to listen to DJ Smallz 732,i'd like to listen a small seven three too,PlayMusic
+228.wav,0.42857142857142855,I'd like to listen to Luz Casal,like to listen to lose casual,PlayMusic
+229.wav,0.2857142857142857,I'd like to listen to Daniel Kvammen,i like to listen to daniel kaufman,PlayMusic
+23.wav,0.14285714285714285,I'd like to listen to Marco Carta,i'd like to listen to marco carla,PlayMusic
+230.wav,0.8571428571428571,I'd like to listen to Czesław Mozil,like <unk>,PlayMusic
+231.wav,0.6666666666666666,I'd like to listen to dePresno,i like to listen to the pros no,PlayMusic
+232.wav,0.5,I'd like to listen to Boyinaband,i like to listen to to ban,PlayMusic
+233.wav,0.5,I'd like to listen to Dj Brasil Mix,like to listen to d._j. brazil man,PlayMusic
+234.wav,0.5,I'd like to listen to Deee-Lite,i like to listen to be like,PlayMusic
+235.wav,0.8333333333333334,I'd like to listen to JFDR,like pollution do g._s._t. or,PlayMusic
+236.wav,1.0,I'd like to listen to VEECIOUS V,hey lady listen do research excuse me,PlayMusic
+237.wav,1.0,I'd like to listen to Nguyen Ha,do loosen do need you and uh,PlayMusic
+238.wav,1.0,I'd like to listen to Edyta Gorniak,like delusion do did a good match,PlayMusic
+239.wav,1.0,I'd like to listen to Koys,do loosen degrees,PlayMusic
+24.wav,0.3333333333333333,I'd like to listen to Sudirman,i'd like to listen to them and,PlayMusic
+240.wav,0.7142857142857143,I'd like to listen to Melissa Etheridge,do listen do melissa appendage,PlayMusic
+241.wav,0.7142857142857143,I'd like to listen to Ziana Zain,like do listen do yeah not,PlayMusic
+242.wav,0.5714285714285714,I'd like to listen to Carla Bruni,i like to listen to god love me,PlayMusic
+243.wav,0.8571428571428571,I'd like to listen to White Sea,i do listen do word see,PlayMusic
+244.wav,0.3333333333333333,I'd like to listen to Dalida,i like to listen to w._d._c.,PlayMusic
+245.wav,0.5,I'd like to listen to Wei Min Ying,i like to listen to remain mean,PlayMusic
+246.wav,0.5,I'd like to listen to Min Xiong Lee,i like to listen to in johnny,PlayMusic
+247.wav,0.7142857142857143,I'd like to listen to Sandrine Pinna,i like to <unk> you know,PlayMusic
+248.wav,0.8571428571428571,I'd like to listen to Lil Saint,like the real thing,PlayMusic
+249.wav,0.5,I'd like to listen to SuperStereo,i like to listen to super stereo,PlayMusic
+25.wav,0.75,I'd like to listen to Paco de Lucía,[noise] i'd like to <unk> lucia,PlayMusic
+250.wav,0.5,I'd like to listen to SpeXial,i like to listen the special,PlayMusic
+251.wav,0.16666666666666666,I'd like to listen to Carmel,i like to listen to carmel,PlayMusic
+252.wav,0.5,I'd like to listen to Summer All Stars,i like to summer all star,PlayMusic
+253.wav,0.8571428571428571,I'd like to listen to Kaitie Forbes,i like listening for,PlayMusic
+254.wav,0.3333333333333333,I'd like to listen to HuyR,i like to listen to share,PlayMusic
+255.wav,0.5,I'd like to listen to Emir Can İğrek,like to listen to american <unk>,PlayMusic
+256.wav,0.7142857142857143,I'd like to listen to Maricarmen Marin,like to listen to a marriage in married,PlayMusic
+257.wav,0.875,I'd like to listen to GAMPER & DADONI,i like to listen to a game for him to tony,PlayMusic
+258.wav,0.625,I'd like to listen to Maycon e Vinicius,i like to listen to make current event because,PlayMusic
+259.wav,0.7142857142857143,I'd like to listen to Rob Dekay,listen to bomb decay,PlayMusic
+26.wav,0.3333333333333333,I'd like to listen to Sting,i'd like to listen to a game,PlayMusic
+260.wav,0.3333333333333333,I'd like to listen to Seeed,i like to listen to see,PlayMusic
+261.wav,0.5714285714285714,I'd like to listen to Enrico Ruggeri,i like to listen to him because gary,PlayMusic
+262.wav,0.14285714285714285,I'd like to listen to Nick Murphy,i like to listen to nick murphy,PlayMusic
+263.wav,0.8571428571428571,I'd like to listen to Adventure Club,listens adventure but,PlayMusic
+264.wav,0.5714285714285714,I'd like to listen to Teresa Brewer,like listen this recent brewer,PlayMusic
+265.wav,0.5714285714285714,I'd like to listen to Dinah Washington,i listen to washington,PlayMusic
+266.wav,0.42857142857142855,I'd like to listen to Fay Lovsky,like to listen to a lousy,PlayMusic
+267.wav,0.2857142857142857,I'd like to listen to Dana Daoud,i like to listen to dana down,PlayMusic
+268.wav,0.3333333333333333,I'd like to listen to Selena,i like to listen to salina,PlayMusic
+269.wav,1.0,I'd like to listen to Lao Che,wasn't allowed allow a,PlayMusic
+27.wav,0.8571428571428571,I'd like to listen to Beau Monga,and like tuition and vote longer,PlayMusic
+270.wav,0.5714285714285714,I'd like to listen to Gonzo Vizán,i like to listen to gone to visit,PlayMusic
+271.wav,0.42857142857142855,I'd like to listen to Kevin Johansen,i like to listen to kevin joe handsome,PlayMusic
+272.wav,0.8571428571428571,I'd like to listen to Kohmi Hirose,i like to listen to show me she wrote she,PlayMusic
+273.wav,0.3333333333333333,I'd like to listen to AKLO,i like to listen to aquila,PlayMusic
+274.wav,0.3333333333333333,I'd like to listen to Ninetoes,i'd like to listen to nine toes,PlayMusic
+275.wav,0.8571428571428571,I'd like to listen to Jeff Buckley,like tours just luckily,PlayMusic
+276.wav,0.16666666666666666,I'd like to listen to Wings,like to listen to wings,PlayMusic
+277.wav,0.42857142857142855,I'd like to listen to Xmas Classics,i'd like to us next christmas classics,PlayMusic
+278.wav,0.3333333333333333,I'd like to listen to Infernal,like to listen to infertile,PlayMusic
+279.wav,1.0,I'd like to listen to GAZIROVKA,<unk> guess iraq uh,PlayMusic
+28.wav,0.2857142857142857,I'd like to listen to Ivri Lider,i'd like to listen to iraqi leader,PlayMusic
+280.wav,0.5,I'd like to listen to Micael,like listen to michael,PlayMusic
+281.wav,1.0,I'd like to listen to Eivør,and they do it either,PlayMusic
+282.wav,0.5714285714285714,I'd like to listen to Bae Fong,to listen to a song,PlayMusic
+1020.wav,0.6666666666666666,I'd like to listen to Darell,they do listen to,PlayMusic
+1021.wav,0.75,I'd like to listen to Digital Farm Animals,they like do listen do did you jump farm animals,PlayMusic
+1022.wav,1.0,I'd like to listen to Starley,let him do startling,PlayMusic
+1023.wav,1.0,I'd like to listen to Sam Hunt,do loosen do salmon,PlayMusic
+1024.wav,0.8333333333333334,I'd like to listen to Dakota,hey do listen to go down,PlayMusic
+1025.wav,0.42857142857142855,I'd like to listen to Vance Joy,i like to listen to them or,PlayMusic
+1026.wav,0.5714285714285714,I'd like to listen to Ryan Riback,like to listen to and read back,PlayMusic
+1027.wav,0.25,I'd like to listen to Portugal. The Man,i like to listen to portugal with the man,PlayMusic
+1028.wav,0.8333333333333334,I'd like to listen to gnash,like twenty minutes,PlayMusic
+1029.wav,0.7142857142857143,I'd like to listen to Olivia O'Brien,i like to live near olympia o'brian,PlayMusic
+103.wav,1.0,I'd like to listen to Cecilie Noer,i love lucy leave more,PlayMusic
+1030.wav,0.8333333333333334,I'd like to listen to Kiiara,i like plus do cara,PlayMusic
+1031.wav,0.5,I'd like to listen to ROZES,i like to listen to rhode and,PlayMusic
+1032.wav,0.5,I'd like to listen to Miguel,i like to listen to me grow,PlayMusic
+1033.wav,0.14285714285714285,I'd like to listen to James Bay,i like to listen to james bay,PlayMusic
+1034.wav,0.375,I'd like to listen to Rich The Kid,like to listen to the rich kid,PlayMusic
+1035.wav,0.2857142857142857,I'd like to listen to Mike Perry,i'd like to listen to my parents,PlayMusic
+1036.wav,0.5,I'd like to listen to A Boogie Wit da Hoodie,i'd like to listen to do with the whole,PlayMusic
+1037.wav,0.16666666666666666,I'd like to listen to Kehlani,i'd like to listen to county,PlayMusic
+1038.wav,0.2857142857142857,I'd like to listen to George Ezra,i like to listen to george etcetera,PlayMusic
+1039.wav,0.0,I'd like to listen to Bipolar Sunshine,i'd like to listen to bipolar sunshine,PlayMusic
+104.wav,1.0,I'd like to listen to Osso,let's do also,PlayMusic
+1040.wav,0.16666666666666666,I'd like to listen to Boef,i'd like to listen to voice,PlayMusic
+1041.wav,0.625,I'd like to listen to Nego do Borel,i'd like to listen and now go though <unk>,PlayMusic
+1042.wav,0.0,I'd like to listen to Martin Jensen,i'd like to listen to martin jensen,PlayMusic
+1043.wav,0.8571428571428571,I'd like to listen to Francesco Yates,my enough francesco gates,PlayMusic
+283.wav,0.5,I'd like to listen to Messao,[noise] i'd like to listen to the shower,PlayMusic
+284.wav,0.14285714285714285,I'd like to listen to Alice Caioli,i'd like to listen to alice chili,PlayMusic
+285.wav,0.8571428571428571,I'd like to listen to Annika Aakjær,like <unk> and i can share,PlayMusic
+286.wav,0.2857142857142857,I'd like to listen to Jimmy Jørgensen,like to listen to jimmy organization,PlayMusic
+287.wav,0.16666666666666666,I'd like to listen to Chapper,i'd like to listen to chopper,PlayMusic
+288.wav,0.3333333333333333,I'd like to listen to Olivia,[noise] i'd like to listen to libya,PlayMusic
+289.wav,0.16666666666666666,I'd like to listen to Atip,i'd like to listen to agent,PlayMusic
+29.wav,0.8571428571428571,I'd like to listen to The Mousses,to and emotions,PlayMusic
+290.wav,0.14285714285714285,I'd like to listen to Julie Andrews,i'm like to listen to julie andrews,PlayMusic
+291.wav,0.0,I'd like to listen to Dark Side,i'd like to listen to dark side,PlayMusic
+292.wav,0.7142857142857143,I'd like to listen to Ido Shoam,i'm trying to listen either sean,PlayMusic
+293.wav,0.375,I'd like to listen to Talento de Barrio,i'd like to listen to <unk>,PlayMusic
+294.wav,0.3333333333333333,I'd like to listen to Dolcenera,i'd like to listen to those janeiro,PlayMusic
+295.wav,0.25,I'd like to listen to Peter von Poehl,i'd like to listen to peter <unk> he'll,PlayMusic
+296.wav,0.42857142857142855,I'd like to listen to Eva Ruiz,i like to listen to even ruins,PlayMusic
+297.wav,0.42857142857142855,I'd like to listen to Fabian Römer,i like to listen to being rumor,PlayMusic
+298.wav,0.3333333333333333,I'd like to listen to Meiko,i'd like to listen to me go,PlayMusic
+299.wav,0.16666666666666666,I'd like to listen to Berg,i'd like to listen to bird,PlayMusic
+3.wav,0.6666666666666666,I'd like to listen to Kinokoteikoku,i like to listen to kinda talk oh,PlayMusic
+30.wav,1.0,I'd like to listen to Matt McAndrew,<unk> make andrew,PlayMusic
+300.wav,0.14285714285714285,I'd like to listen to Coral Group,[noise] i'd like to listen to coral group,PlayMusic
+301.wav,0.5714285714285714,I'd like to listen to Cholo Valderrama,[noise] i'd like to listen to cold all drama,PlayMusic
+302.wav,1.1428571428571428,I'd like to listen to Andrea Echeverri,i do i do listen to and dream of jeannie,PlayMusic
+303.wav,0.42857142857142855,I'd like to listen to Lil' Ashes,i like to listen to in issues,PlayMusic
+304.wav,0.5714285714285714,I'd like to listen to Timothy Auld,like to listen to do much or,PlayMusic
+305.wav,0.42857142857142855,I'd like to listen to Los Rumberos,i like to listen to lose <unk>,PlayMusic
+306.wav,0.3333333333333333,I'd like to listen to Malmö,i like to listen to model,PlayMusic
+307.wav,0.7142857142857143,I'd like to listen to Eva Dahlgren,they do listen to <unk> green,PlayMusic
+308.wav,0.5,I'd like to listen to Ruusut,i like to listen to news or,PlayMusic
+309.wav,0.7142857142857143,I'd like to listen to Dario G,lead to listen to w. o. g.,PlayMusic
+31.wav,0.8333333333333334,I'd like to listen to PeeWee,like <unk>,PlayMusic
+310.wav,0.8571428571428571,I'd like to listen to Lill Lindfors,or like do listen do then looking forward,PlayMusic
+311.wav,0.2857142857142857,I'd like to listen to Ben Stevenson,i'd like to listen to ben steven and,PlayMusic
+312.wav,0.8888888888888888,I'd like to listen to Los Corraleros De Majagual,i like <unk> blow,PlayMusic
+313.wav,0.625,I'd like to listen to Father John Misty,<unk> father john misty,PlayMusic
+314.wav,0.3333333333333333,I'd like to listen to FaceKid,i'd like to listen to face can,PlayMusic
+315.wav,0.3333333333333333,I'd like to listen to Beatenberg,i'd like to listen to beating birds,PlayMusic
+316.wav,0.5714285714285714,I'd like to listen to Pelle Almgren,i like to listen to pow i'm grant,PlayMusic
+317.wav,1.0,I'd like to listen to Wow Liksom,and <unk> some,PlayMusic
+318.wav,0.2857142857142857,I'd like to listen to Leonardo Decarli,i'd like to listen to leonardo di currently,PlayMusic
+319.wav,0.42857142857142855,I'd like to listen to Haley Reinhart,i like to listen to hayley reinhardt,PlayMusic
+32.wav,0.5714285714285714,I'd like to listen to Thomas Rusiak,i'd like to <unk>,PlayMusic
+320.wav,0.2857142857142857,I'd like to listen to Peabo Bryson,i'd like to listen to people brian,PlayMusic
+321.wav,0.875,I'd like to listen to Julian & Tinitus,i like tourism julian and and i just,PlayMusic
+322.wav,0.5714285714285714,I'd like to listen to Suat Ateşdağlı,like to listen to i i agree,PlayMusic
+323.wav,0.7142857142857143,I'd like to listen to Gökçe Kırgız,i like to listen to go pick your good,PlayMusic
+324.wav,0.42857142857142855,I'd like to listen to Yael Naim,i like to listen to your name,PlayMusic
+325.wav,0.42857142857142855,I'd like to listen to Eve 6,i like to listen to sick,PlayMusic
+326.wav,0.5714285714285714,I'd like to listen to Unnsteinn Manuel,like to listen i'm starting manual,PlayMusic
+327.wav,1.0,I'd like to listen to Decibel,my <unk>,PlayMusic
+328.wav,0.5714285714285714,I'd like to listen to HLH flokkurinn,i like to listen to each other or,PlayMusic
+329.wav,0.7142857142857143,I'd like to listen to Lou Reed,i like listening to read,PlayMusic
+33.wav,0.16666666666666666,I'd like to listen to Salut!,i'd like to listen to salute,PlayMusic
+330.wav,0.42857142857142855,I'd like to listen to JP Saxe,i like to listen to you that,PlayMusic
+331.wav,0.16666666666666666,I'd like to listen to Nana,i like to listen to nana,PlayMusic
+332.wav,0.3333333333333333,I'd like to listen to Architechs,i like to listen to architect,PlayMusic
+333.wav,0.6666666666666666,I'd like to listen to PXNDX,i like to listen to p._x. and yet,PlayMusic
+334.wav,0.3333333333333333,I'd like to listen to Nanasheme,like to listen to austin,PlayMusic
+335.wav,0.5714285714285714,I'd like to listen to Red Canzian,i like to listen to brag times yeah,PlayMusic
+336.wav,0.42857142857142855,I'd like to listen to Gloria Prince,i like to listen to korea,PlayMusic
+337.wav,0.42857142857142855,I'd like to listen to Le Youth,i like to listen to you,PlayMusic
+338.wav,0.3333333333333333,I'd like to listen to Kuizz,like to listen to queens,PlayMusic
+339.wav,1.0,I'd like to listen to Maja Francis,<unk> imagine frances,PlayMusic
+34.wav,0.75,I'd like to listen to Deep Blue Something,[noise] i'm trying to listen and do something,PlayMusic
+340.wav,1.0,I'd like to listen to ra:tio,mike tyson the ratio,PlayMusic
+341.wav,0.9,I'd like to listen to Binomio de Oro de América,i try to listen to the know meal they although day america,PlayMusic
+342.wav,0.5714285714285714,I'd like to listen to Bic Runga,i like to listen to pick from the,PlayMusic
+343.wav,0.7142857142857143,I'd like to listen to Jussi Björling,[noise] i like to listen to jesse be arlene,PlayMusic
+344.wav,0.3333333333333333,I'd like to listen to Helen,a place to listen to helen,PlayMusic
+345.wav,0.8333333333333334,I'd like to listen to Todiefor,i tried to listen to to die for,PlayMusic
+346.wav,0.2857142857142857,I'd like to listen to K. Michelle,i like to listen to came michelle,PlayMusic
+347.wav,0.5714285714285714,I'd like to listen to Agnes Obel,i like to listen to <unk> oh bell,PlayMusic
+348.wav,0.2857142857142857,I'd like to listen to X JAPAN,i like to listen to x. japan,PlayMusic
+349.wav,0.2857142857142857,I'd like to listen to Syd Youth,i'd like to listen to cities,PlayMusic
+35.wav,0.3333333333333333,I'd like to listen to Gusi,i'd like to listen in d._c.,PlayMusic
+350.wav,0.2857142857142857,I'd like to listen to Angelina Cruz,i'd like to listen to angelino cruise,PlayMusic
+351.wav,0.42857142857142855,I'd like to listen to Carlos Cid,[noise] i like to listen to carlos said,PlayMusic
+352.wav,0.5,I'd like to listen to Isi,i like to listen to i see,PlayMusic
+353.wav,0.5,I'd like to listen to Ricko,i play to listen to recall,PlayMusic
+354.wav,0.42857142857142855,I'd like to listen to Ronja Mariela,i like to listen to rhonda marietta,PlayMusic
+355.wav,0.3333333333333333,I'd like to listen to Elias,i like to listen to last,PlayMusic
+356.wav,0.5,I'd like to listen to Daynik,i like to listen to day nick,PlayMusic
+357.wav,0.3333333333333333,I'd like to listen to Friyie,i like to listen to friday,PlayMusic
+358.wav,0.3333333333333333,I'd like to listen to Maska,i like to listen to mascot,PlayMusic
+359.wav,0.6666666666666666,I'd like to listen to Liber,i try to listen to leave lever,PlayMusic
+36.wav,0.8333333333333334,I'd like to listen to KOI,and like tuition and kuwait,PlayMusic
+360.wav,0.7777777777777778,I'd like to listen to BtheLick V Jamie McCool,i tried to listen to before like the jamie that cool,PlayMusic
+361.wav,0.8571428571428571,I'd like to listen to Renzo Rubino,like runs you know,PlayMusic
+362.wav,0.2857142857142857,I'd like to listen to Jona Camacho,i like to listen to journal camacho,PlayMusic
+363.wav,0.8571428571428571,I'd like to listen to Maria Hazell,like memory hazel,PlayMusic
+364.wav,0.5,I'd like to listen to Mikromusic,i like to listen to my music,PlayMusic
+365.wav,0.5714285714285714,I'd like to listen to Alice Paba,i like to listen to all this problem,PlayMusic
+366.wav,0.5,I'd like to listen to Badem,like to listen the bottom,PlayMusic
+367.wav,0.5,I'd like to listen to Pixa,like to listen to pick so,PlayMusic
+368.wav,0.2857142857142857,I'd like to listen to Young L.O.R.D.,like to listen to young or,PlayMusic
+369.wav,0.8571428571428571,I'd like to listen to Ryn Weaver,i like the red river,PlayMusic
+37.wav,1.0,I'd like to listen to Ha Anh Tuan,<unk> one,PlayMusic
+370.wav,0.42857142857142855,I'd like to listen to TOR+ Saksit,i like to listen to <unk>,PlayMusic
+371.wav,0.3333333333333333,I'd like to listen to Zyra,i'd like to listen to the camera,PlayMusic
+372.wav,0.42857142857142855,I'd like to listen to Lighthouse Family,i'd like to rationalize house family,PlayMusic
+373.wav,0.5,I'd like to listen to Xutos & Pontapés,[noise] i'd like to listen to <unk>,PlayMusic
+374.wav,0.3333333333333333,I'd like to listen to TripL,i'd like to listen to trip out,PlayMusic
+375.wav,0.6666666666666666,I'd like to listen to Dodo,[noise] i'd like to listen i don't know,PlayMusic
+376.wav,0.3333333333333333,I'd like to listen to Bernhoft,i'd like to listen to burn huh,PlayMusic
+377.wav,0.16666666666666666,I'd like to listen to Georgia,[noise] i'd like to listen to georgia,PlayMusic
+378.wav,0.5714285714285714,I'd like to listen to Leyton Lake,i'd like to listen to it late in like,PlayMusic
+379.wav,0.16666666666666666,I'd like to listen to GRiZ,i'd like to listen to agree,PlayMusic
+38.wav,0.2222222222222222,I'd like to listen to Ammy The Bottom Blues,i'd like to listen to and the bottom lose,PlayMusic
+380.wav,0.3333333333333333,I'd like to listen to Kaíva,[noise] i'd like to listen to <unk>,PlayMusic
+381.wav,0.5714285714285714,I'd like to listen to Phénomène Bizness,i'd like to into phenomenal business,PlayMusic
+382.wav,0.14285714285714285,I'd like to listen to Dirt Nasty,i'd like to listen to dirty nasty,PlayMusic
+383.wav,0.42857142857142855,I'd like to listen to Andy Milonakis,i'd like to listen to and email america,PlayMusic
+384.wav,0.42857142857142855,I'd like to listen to don milli,i'd like to listen and donnelley,PlayMusic
+385.wav,0.7142857142857143,I'd like to listen to Megan McKenna,and like tuition mckenna,PlayMusic
+386.wav,0.8571428571428571,I'd like to listen to Rachid Taha,and like <unk> huh,PlayMusic
+387.wav,0.8571428571428571,I'd like to listen to Đức Phúc,i'm starting to wish fuck,PlayMusic
+388.wav,0.5714285714285714,I'd like to listen to O Room39,i'd like to <unk> thirty nine,PlayMusic
+389.wav,0.3333333333333333,I'd like to listen to AWS,[noise] i'd like to listen to a._w._a._c._s.,PlayMusic
+39.wav,0.16666666666666666,I'd like to listen to SinB,i'd like to listen to cindy,PlayMusic
+390.wav,0.3333333333333333,I'd like to listen to Classified,like to listen to classify,PlayMusic
+391.wav,0.3333333333333333,I'd like to listen to Bamse,like to listen to ban,PlayMusic
+392.wav,0.2857142857142857,I'd like to listen to El Pro,like to listen to el paso,PlayMusic
+393.wav,0.42857142857142855,I'd like to listen to Mette Lindberg,i like to listen to maryland,PlayMusic
+394.wav,0.5,I'd like to listen to P3,like to listen to be three,PlayMusic
+395.wav,0.8333333333333334,I'd like to listen to Campino,like tennis and you know,PlayMusic
+396.wav,0.8571428571428571,I'd like to listen to Sakurako Ohara,i like listening soccer o'hara,PlayMusic
+397.wav,0.42857142857142855,I'd like to listen to Lior Narkis,i like to listen to <unk>,PlayMusic
+398.wav,1.0,I'd like to listen to Maximilli,oh actually maximilian,PlayMusic
+399.wav,0.5714285714285714,I'd like to listen to Udo Lindenberg,i like to listen in denver,PlayMusic
+4.wav,0.2857142857142857,I'd like to listen to Simple Plan,i like to listen the simple plan,PlayMusic
+40.wav,0.16666666666666666,I'd like to listen to SEULGI,i'd like to listen to <unk>,PlayMusic
+400.wav,0.5714285714285714,I'd like to listen to Čis T,i like to listen this is jean,PlayMusic
+401.wav,0.8571428571428571,I'd like to listen to Krzysztof Antkowiak,[noise] i like to listen to chris krista and talk,PlayMusic
+402.wav,0.375,I'd like to listen to The Supermen Lovers,[noise] i like to listen to the superman lovers,PlayMusic
+403.wav,0.14285714285714285,I'd like to listen to Mani Hoffman,i'd like to listen to money hoffman,PlayMusic
+404.wav,0.3333333333333333,I'd like to listen to Mystikal,[noise] i'd like to listen to mystical,PlayMusic
+405.wav,0.5,I'd like to listen to Skítamórall,i'd like to listen to get 'em around,PlayMusic
+406.wav,0.42857142857142855,I'd like to listen to Delilah Montagu,i'd like to listen and delilah mountain dew,PlayMusic
+407.wav,0.0,I'd like to listen to Santana,i'd like to listen to santana,PlayMusic
+408.wav,0.5,I'd like to listen to Maldestro,[noise] i'd like to listen in modesto,PlayMusic
+409.wav,0.14285714285714285,I'd like to listen to Stupid Goldfish,[noise] i'd like to listen to stupid goldfish,PlayMusic
+41.wav,0.16666666666666666,I'd like to listen to SOYEON,i'd like to listen to join,PlayMusic
+410.wav,0.375,I'd like to listen to Royal Philharmonic Orchestra,i'd like to listen to radio show harming orchestra,PlayMusic
+411.wav,0.2857142857142857,I'd like to listen to Liberty X,i like to listen to liberty,PlayMusic
+412.wav,0.7142857142857143,I'd like to listen to Future Islands,like to us in the future island,PlayMusic
+413.wav,0.5,I'd like to listen to Judika,i like to listen to music huh,PlayMusic
+414.wav,0.5,I'd like to listen to KUUMAA,i like to listen to him groomer,PlayMusic
+415.wav,0.3333333333333333,I'd like to listen to Clash,i like to listen to class,PlayMusic
+416.wav,0.5,I'd like to listen to Phùng Khánh Linh,i like to listen to hong kong lean,PlayMusic
+417.wav,0.2857142857142857,I'd like to listen to Sheryl Crow,i like to listen to show crow,PlayMusic
+418.wav,0.5714285714285714,I'd like to listen to Mauro Tejeiro,i like to listen tomorrow narrow,PlayMusic
+419.wav,0.5714285714285714,I'd like to listen to Juanpis Gonzalez,i like to listen to one is involved,PlayMusic
+42.wav,0.42857142857142855,I'd like to listen to Berry Sakharof,i like to listen to their soccer,PlayMusic
+420.wav,0.5714285714285714,I'd like to listen to Daddy Cool,listen to a cool,PlayMusic
+421.wav,1.0,I'd like to listen to FDVM,you gave me um,PlayMusic
+422.wav,1.0,I'd like to listen to Bibio,video,PlayMusic
+423.wav,0.8571428571428571,I'd like to listen to Jake Howden,jake how,PlayMusic
+424.wav,0.8571428571428571,I'd like to listen to Madeline Juno,to listen to meddle into you know,PlayMusic
+425.wav,1.0,I'd like to listen to Willie Colón,really cologne,PlayMusic
+426.wav,1.0,I'd like to listen to Omulu,oh me either,PlayMusic
+427.wav,1.0,I'd like to listen to Alejandro Vazquez,hundred dash <unk>,PlayMusic
+428.wav,1.0,I'd like to listen to Pedrito Vm,<unk> huh,PlayMusic
+429.wav,1.0,I'd like to listen to Yvng Swag,too young so,PlayMusic
+43.wav,0.42857142857142855,I'd like to listen to Justyna Święs,i'd like to listen to just illness wise,PlayMusic
+430.wav,0.8571428571428571,I'd like to listen to Set Mo,like christmas myself now,PlayMusic
+431.wav,0.5,I'd like to listen to Mahmood,like listen to mom,PlayMusic
+432.wav,0.3333333333333333,I'd like to listen to Greeny,like to listen to green,PlayMusic
+433.wav,0.5,I'd like to listen to Nakor,i like to listen to knock or,PlayMusic
+434.wav,0.5714285714285714,I'd like to listen to Belén Ayuso,like to listen to bell hours though,PlayMusic
+435.wav,0.5714285714285714,I'd like to listen to Michael Ball,listen michael ball,PlayMusic
+436.wav,0.2857142857142857,I'd like to listen to Kathryn Bernardo,i like to listen to catherine bernardo,PlayMusic
+437.wav,0.5,I'd like to listen to -M-,like to to um,PlayMusic
+438.wav,0.7142857142857143,I'd like to listen to Philippe Heithier,i like to listen to philly a help year,PlayMusic
+439.wav,0.8571428571428571,I'd like to listen to Schwesta Ewa,like interests that you are,PlayMusic
+44.wav,0.3333333333333333,I'd like to listen to Vanrip,i'd like to listen to ban rep,PlayMusic
+440.wav,1.0,I'd like to listen to Chad Focus,john okay,PlayMusic
+441.wav,0.6666666666666666,I'd like to listen to WALLA,like coming from the walla,PlayMusic
+442.wav,0.5714285714285714,I'd like to listen to Asap Vergi,i like to listen to us up burgee,PlayMusic
+443.wav,0.5,I'd like to listen to Joost,i like to to you,PlayMusic
+444.wav,0.5714285714285714,I'd like to listen to Roberto Parra,i like to listen to roberta are ah,PlayMusic
+445.wav,1.0,I'd like to listen to Angel Parra,los angeles area,PlayMusic
+446.wav,0.3333333333333333,I'd like to listen to Parcels,i like to listen to parcel,PlayMusic
+447.wav,1.0,I'd like to listen to Elizabeth Tan,um i live i live about ten,PlayMusic
+448.wav,0.3333333333333333,I'd like to listen to Kaptan,i like to listen to captain,PlayMusic
+449.wav,0.8571428571428571,I'd like to listen to Rocío Garcel,like <unk> so,PlayMusic
+45.wav,0.2857142857142857,I'd like to listen to Kayla Diamond,i'd like to listen to kill the diamond,PlayMusic
+450.wav,0.6666666666666666,I'd like to listen to OT,to listen to a t.,PlayMusic
+451.wav,0.3333333333333333,I'd like to listen to Ealay,i like to listen to l._a.,PlayMusic
+452.wav,0.5714285714285714,I'd like to listen to Kafu Banton,try to listen to kansas benton,PlayMusic
+453.wav,0.5714285714285714,I'd like to listen to Anthony Gonzalez,i like to listen to and sneak <unk>,PlayMusic
+454.wav,0.14285714285714285,I'd like to listen to Golden Features,like to listen to golden features,PlayMusic
+455.wav,0.42857142857142855,I'd like to listen to City Spud,like to listen to cities but,PlayMusic
+456.wav,0.14285714285714285,I'd like to listen to Alabama Shakes,like to listen to alabama shakes,PlayMusic
+457.wav,0.2857142857142857,I'd like to listen to Eddy Flow,i like to listen to any flow,PlayMusic
+458.wav,0.0,I'd like to listen to POWERS,i'd like to listen to powers,PlayMusic
+459.wav,0.3333333333333333,I'd like to listen to Zola,i'd like to listen to so uh,PlayMusic
+46.wav,0.3333333333333333,I'd like to listen to Anevo,i'd like to listen to an evil,PlayMusic
+460.wav,0.3333333333333333,I'd like to listen to Serebro,[noise] i'd like to listen to cerebral,PlayMusic
+461.wav,0.42857142857142855,I'd like to listen to Cromo X,i like to listen to criminal acts,PlayMusic
+462.wav,0.42857142857142855,I'd like to listen to Marie Plassard,i'd like to listen to my report hard,PlayMusic
+463.wav,0.42857142857142855,I'd like to listen to Paloma Mami,i'd like to listen to hello my miami,PlayMusic
+464.wav,0.5,I'd like to listen to Davichi,i like to listen to divvy cheesy,PlayMusic
+465.wav,0.0,I'd like to listen to Shadow Blow,i'd like to listen to shadow blow,PlayMusic
+466.wav,0.16666666666666666,I'd like to listen to Regula,i'd like to listen to <unk>,PlayMusic
+467.wav,0.4444444444444444,I'd like to listen to Akim And The Majistret,i like to listen to him and the math district,PlayMusic
+468.wav,0.3333333333333333,I'd like to listen to Nabiha,i'd like to listen to be huh,PlayMusic
+469.wav,0.42857142857142855,I'd like to listen to TV Kids,oh like to listen to t._v. too,PlayMusic
+47.wav,0.5714285714285714,I'd like to listen to NOK FTF,i'd like to listen to knock after he left,PlayMusic
+470.wav,0.9,"I'd like to listen to Interpreti dello spettacolo ""Bella Ciao""",[noise] i like to listen to into pretty delo spent time below yeah,PlayMusic
+471.wav,0.8333333333333334,I'd like to listen to W&W,oh nice to loosen w. w.,PlayMusic
+472.wav,0.5,I'd like to listen to Pinkfong,i like to listen to t. ball,PlayMusic
+473.wav,0.8333333333333334,I'd like to listen to R2Bees,[noise] i like to listen to uh to bees,PlayMusic
+474.wav,0.42857142857142855,I'd like to listen to Tia Ray,i like to listen to me,PlayMusic
+475.wav,0.16666666666666666,I'd like to listen to Bustamante,oh like to listen to bustamante,PlayMusic
+476.wav,0.5,I'd like to listen to Clayton-Hamilton Jazz Orchestra,i like to do to plead hamilton jazz orchestra,PlayMusic
+477.wav,0.5714285714285714,I'd like to listen to Sara Zacharias,i like to listen to sever that is,PlayMusic
+478.wav,0.2857142857142857,I'd like to listen to Simon Erics,i like to listen to simon,PlayMusic
+479.wav,0.6666666666666666,I'd like to listen to Sam-E,i tend to listen san <unk>,PlayMusic
+48.wav,0.16666666666666666,I'd like to listen to BFL,i'd like to listen to d._s._l.,PlayMusic
+480.wav,1.0,I'd like to listen to Olivia Eliasson,yeah,PlayMusic
+481.wav,1.0,I'd like to listen to Clara,i was nineteen he crashed,PlayMusic
+482.wav,0.16666666666666666,I'd like to listen to Grimes,i'd like to listen to grind,PlayMusic
+483.wav,1.0,I'd like to listen to Khea,yeah [laughter],PlayMusic
+484.wav,0.6363636363636364,"I'd like to listen to Bobby ""Boris"" Pickett & The Crypt-Kickers",i like to listen to hobbies were users,PlayMusic
+485.wav,0.42857142857142855,I'd like to listen to LEE HI,i like to listen to me high,PlayMusic
+486.wav,1.0,I'd like to listen to Unknown T,hi i'm nancy,PlayMusic
+487.wav,1.0,I'd like to listen to Duki,d._c.,PlayMusic
+488.wav,1.0,I'd like to listen to PENTAGON,[laughter],PlayMusic
+489.wav,0.2857142857142857,I'd like to listen to Petite Meller,i'd like to listen to teach mellor,PlayMusic
+49.wav,0.6363636363636364,I'd like to listen to Mariachi México 70 De Pepe López,like to listen to marry archie mexico's seventy pepper located,PlayMusic
+490.wav,0.42857142857142855,I'd like to listen to Mota JR,i like to listen to motivate junior,PlayMusic
+491.wav,0.16666666666666666,I'd like to listen to Bendik,i'd like to listen to bend,PlayMusic
+492.wav,0.16666666666666666,I'd like to listen to Hecht,i'd like to listen to act,PlayMusic
+493.wav,0.2857142857142857,I'd like to listen to Fire EX.,[noise] i'd like to listen to fire acts,PlayMusic
+494.wav,0.14285714285714285,I'd like to listen to Chris MC,i'd like to listen to chris m._c.,PlayMusic
+495.wav,0.16666666666666666,I'd like to listen to Hodari,i'd like to listen to army,PlayMusic
+496.wav,0.5,I'd like to listen to Kayuá,i'd like to listen to call you or,PlayMusic
+497.wav,0.16666666666666666,I'd like to listen to iSHi,i'd like to listen to easy,PlayMusic
+498.wav,0.8333333333333334,I'd like to listen to ProfJam,like <unk> gym,PlayMusic
+499.wav,0.0,I'd like to listen to Santa Cruz,i'd like to listen to santa cruz,PlayMusic
+5.wav,0.5,I'd like to listen to Chillouh,i like to listen to chill out,PlayMusic
+50.wav,0.42857142857142855,I'd like to listen to Rinni Wulandari,i like to listen to really wild,PlayMusic
+500.wav,0.42857142857142855,I'd like to listen to Jussi 69,i'd like to listen to jesse six nine,PlayMusic
+501.wav,0.5714285714285714,I'd like to listen to Jiggy Dje,i'd like to g._e._d.,PlayMusic
+502.wav,0.6666666666666666,I'd like to listen to Gripin,[noise] i'm trying to listen to christmas,PlayMusic
+503.wav,0.7142857142857143,I'd like to listen to Jamie Cullum,like television and jamie hello,PlayMusic
+504.wav,0.8333333333333334,I'd like to listen to Shu-Bi-Dua,i'd like to ration and should be doing,PlayMusic
+505.wav,0.7142857142857143,I'd like to listen to Charlie Wilson,my tuition and charlie wilson,PlayMusic
+506.wav,0.25,I'd like to listen to Dj Spike Miller,i'd like to listen a d._j. spike miller,PlayMusic
+507.wav,0.16666666666666666,I'd like to listen to Emir,i'd like to listen to amir,PlayMusic
+508.wav,0.2857142857142857,I'd like to listen to Sammi Sanchez,i like to listen to sammy sanchez,PlayMusic
+509.wav,0.2857142857142857,I'd like to listen to Pei-Yu Hong,i'd like to listen to you home,PlayMusic
+51.wav,0.42857142857142855,I'd like to listen to Pharoahe Monch,i like to listen to feral <unk>,PlayMusic
+510.wav,0.2857142857142857,I'd like to listen to Joe Flizzow,i'd like to listen to joe flus though,PlayMusic
+511.wav,0.5,I'd like to listen to Vicentico,i'd like to listen to listen to go,PlayMusic
+512.wav,0.2857142857142857,I'd like to listen to Kris Wu,i'd like to listen to chris whew,PlayMusic
+513.wav,0.2857142857142857,I'd like to listen to Luck Ra,i'd like to listen to lacrosse,PlayMusic
+1044.wav,0.5,I'd like to listen to Maiara & Maraisa,i like to listen to marmara emery so,PlayMusic
+1045.wav,1.0,I'd like to listen to Disciples,i liked was insightful,PlayMusic
+1046.wav,0.75,I'd like to listen to Kris Kross Amsterdam,i like listening crisscross amsterdam,PlayMusic
+1047.wav,0.42857142857142855,I'd like to listen to William Singe,i like to listen to him since,PlayMusic
+1048.wav,0.7142857142857143,I'd like to listen to BlocBoy JB,i like to snowboard you be,PlayMusic
+1049.wav,0.6666666666666666,I'd like to listen to BloodPop®,i like listening to <unk>,PlayMusic
+105.wav,1.0,I'd like to listen to Alan Silvestri,<unk>,PlayMusic
+1050.wav,0.42857142857142855,I'd like to listen to Skylar Grey,i like to listen to scarlet gray,PlayMusic
+1051.wav,0.3333333333333333,I'd like to listen to P!nk,i like to listen to him,PlayMusic
+1052.wav,0.25,I'd like to listen to Machine Gun Kelly,i like to listen to machine gun alley,PlayMusic
+1053.wav,0.5714285714285714,I'd like to listen to Paulo Londra,like to listen apollo laundry,PlayMusic
+1054.wav,1.0,I'd like to listen to Conrad Sewell,my cholesterol conrad you well,PlayMusic
+1055.wav,0.8333333333333334,I'd like to listen to Gzuz,i like listening,PlayMusic
+1056.wav,0.3333333333333333,I'd like to listen to DRAM,i like to listen to drown,PlayMusic
+1057.wav,0.6666666666666666,I'd like to listen to BTS,i like to listen to the beach yeah,PlayMusic
+1058.wav,0.5714285714285714,I'd like to listen to Karol G,like to listen ecology,PlayMusic
+1059.wav,0.14285714285714285,I'd like to listen to Ricky Martin,i like to listen to ricky martin,PlayMusic
+106.wav,0.2857142857142857,I'd like to listen to The Libertines,i like to listen to the routines,PlayMusic
+1060.wav,0.8571428571428571,I'd like to listen to Jessie J,like jesse james,PlayMusic
+1061.wav,0.8571428571428571,I'd like to listen to Lil Skies,i like my little guy,PlayMusic
+1062.wav,0.7142857142857143,I'd like to listen to Capital Bra,i like listening capital broad,PlayMusic
+1063.wav,0.7142857142857143,I'd like to listen to Mr. Probz,i like to us numbers deprived,PlayMusic
+1064.wav,0.5555555555555556,I'd like to listen to Zé Neto & Cristiano,i like to listen to the junk christianity,PlayMusic
+1065.wav,1.0,I'd like to listen to Morat,<unk>,PlayMusic
+1066.wav,0.14285714285714285,I'd like to listen to Jennifer Lopez,i like to listen to jennifer lopez,PlayMusic
+514.wav,0.16666666666666666,I'd like to listen to Jugglerz,i'd like to listen to jugglers,PlayMusic
+515.wav,0.16666666666666666,I'd like to listen to Muringa,i'd like to listen to marina,PlayMusic
+516.wav,0.3333333333333333,I'd like to listen to twocolors,i'd like to listen to two colors,PlayMusic
+517.wav,0.8333333333333334,I'd like to listen to Hiro,i like listening hero,PlayMusic
+518.wav,0.5,I'd like to listen to K.Will,like to listen okay well,PlayMusic
+519.wav,0.42857142857142855,I'd like to listen to DJ Myst,i like to listen to d._j. man,PlayMusic
+52.wav,0.375,I'd like to listen to The Mulligan Brothers,i like to listen to the again brother,PlayMusic
+520.wav,1.0,I'd like to listen to Jay Max,<unk>,PlayMusic
+521.wav,0.6666666666666666,I'd like to listen to BMYE,i like to listen to be and why,PlayMusic
+522.wav,0.5,I'd like to listen to Adrijana,i like to listen to a drama,PlayMusic
+523.wav,0.7142857142857143,I'd like to listen to NEW CITY,i bike for than the new city,PlayMusic
+524.wav,0.6666666666666666,I'd like to listen to Keane,i like to nicotine,PlayMusic
+525.wav,0.8333333333333334,I'd like to listen to Clubbers,i like the covers,PlayMusic
+526.wav,0.8571428571428571,I'd like to listen to DJ Yayo,like the d._j. yeah yeah,PlayMusic
+527.wav,0.16666666666666666,I'd like to listen to Zookeepers,i'd like to listen to for,PlayMusic
+528.wav,0.3333333333333333,I'd like to listen to Zion,i like to listen to die,PlayMusic
+529.wav,0.42857142857142855,I'd like to listen to Wolter Kroes,[noise] i'd like to listen to alter gross,PlayMusic
+53.wav,0.2857142857142857,I'd like to listen to Comet Blue,i like to listen to comment blue,PlayMusic
+530.wav,0.42857142857142855,I'd like to listen to Glass Animals,i like to listen to <unk> animal,PlayMusic
+531.wav,0.5714285714285714,I'd like to listen to Supa Bwe,i like to listen to you up way,PlayMusic
+532.wav,0.14285714285714285,I'd like to listen to Forever Band,i'd like to listen to forever bam,PlayMusic
+533.wav,0.3333333333333333,I'd like to listen to Bii,i like to listen to be,PlayMusic
+534.wav,0.42857142857142855,I'd like to listen to Robin Veela,i like to listen to rob ya,PlayMusic
+535.wav,0.3333333333333333,I'd like to listen to Dicte,i like to listen to dig,PlayMusic
+536.wav,0.14285714285714285,I'd like to listen to James Morrison,like to listen to james morrison,PlayMusic
+537.wav,0.14285714285714285,I'd like to listen to Julia Stone,i like to listen to julia stone,PlayMusic
+538.wav,0.14285714285714285,I'd like to listen to Charming Horses,i like to listen to charming horses,PlayMusic
+539.wav,0.5714285714285714,I'd like to listen to Jay 305,i like to listen to a real fire,PlayMusic
+54.wav,0.7142857142857143,I'd like to listen to Delta Venus,i like to listen to your doctor you know,PlayMusic
+540.wav,0.42857142857142855,I'd like to listen to Pepe Willberg,i like to listen to <unk>,PlayMusic
+541.wav,0.5714285714285714,I'd like to listen to Mikko Pohjola,i like to listen to me go <unk>,PlayMusic
+542.wav,0.2857142857142857,I'd like to listen to Savage Garden,i like to listen to salvage garden,PlayMusic
+543.wav,0.5,I'd like to listen to Wellhello,i like to listen to well hello,PlayMusic
+544.wav,0.5714285714285714,I'd like to listen to Nabila Razali,i like to listen to bill runs out,PlayMusic
+545.wav,0.42857142857142855,I'd like to listen to Cem Belevi,i like to listen to him,PlayMusic
+546.wav,0.7142857142857143,I'd like to listen to Peggy Lee,i like listening peggy,PlayMusic
+547.wav,0.5555555555555556,I'd like to listen to Dayme y El High,i like to listen to them i,PlayMusic
+548.wav,1.0,I'd like to listen to Mike Palace,lenny bruce and boom my balance,PlayMusic
+549.wav,0.6666666666666666,I'd like to listen to Afterklaps,i like to listen to all their labs,PlayMusic
+55.wav,0.5,"I'd like to listen to Timmy Trumpet, Savage",i like to listen to me trumpet,PlayMusic
+550.wav,0.7142857142857143,I'd like to listen to Harlem Yu,like to lose simple limb you,PlayMusic
+551.wav,0.7142857142857143,I'd like to listen to Viktor Norén,i like to loosen dude noticing,PlayMusic
+552.wav,0.5714285714285714,I'd like to listen to Sokrat ST,i like to listen do secrets estee,PlayMusic
+553.wav,0.75,I'd like to listen to El Mayor Clasico,like to listen to other males gloves you go,PlayMusic
+554.wav,0.7142857142857143,I'd like to listen to Nicolas Haelg,i like to lose doing unequal those,PlayMusic
+555.wav,0.8571428571428571,I'd like to listen to Lisandro Cuxi,hey to do then broke she,PlayMusic
+556.wav,0.8571428571428571,I'd like to listen to Can Güngör,right like pollution began wouldn't good,PlayMusic
+557.wav,0.2857142857142857,I'd like to listen to Hayley Warner,like to listen to the warner,PlayMusic
+558.wav,0.8333333333333334,I'd like to listen to Wanakin,like no one again,PlayMusic
+559.wav,0.7777777777777778,I'd like to listen to System Of A Down,i like this is number down,PlayMusic
+56.wav,0.5,I'd like to listen to Chiara Dello Iacovo,i like to listen to n._p._r. delo global,PlayMusic
+560.wav,0.8571428571428571,I'd like to listen to Jenny Berggren,policemen jenny program,PlayMusic
+561.wav,0.2857142857142857,I'd like to listen to Chris Cronauer,i'd like to listen to chris on our,PlayMusic
+562.wav,0.5714285714285714,I'd like to listen to Jan Malmsjö,i like to listen to him all no,PlayMusic
+563.wav,0.42857142857142855,I'd like to listen to Danko Jones,or like to listen to danker john,PlayMusic
+564.wav,0.5714285714285714,I'd like to listen to Frida Brygmann,i'd like to us no freedom berkman,PlayMusic
+565.wav,0.42857142857142855,I'd like to listen to Martin Masarov,i like to listen to martin mass around,PlayMusic
+566.wav,0.42857142857142855,I'd like to listen to El Reja,i like to listen to oh rochester,PlayMusic
+567.wav,1.0,I'd like to listen to The Brick Simphony,<unk> funny,PlayMusic
+568.wav,0.42857142857142855,I'd like to listen to Leon Bridges,i'd like to listen to the on beaches,PlayMusic
+569.wav,1.0,I'd like to listen to Louis Armstrong,<unk> strong,PlayMusic
+57.wav,0.5,I'd like to listen to Nocando,i like to listen to know condo,PlayMusic
+570.wav,1.0,I'd like to listen to Kitok,do good joke,PlayMusic
+571.wav,0.7142857142857143,I'd like to listen to Jordan Chan,to loosen jordan jan,PlayMusic
+572.wav,1.0,I'd like to listen to Lara Liang,in lives <unk>,PlayMusic
+573.wav,0.8333333333333334,I'd like to listen to Shehyee,like <unk>,PlayMusic
+574.wav,0.8571428571428571,I'd like to listen to Per Asplin,i do i do listen to lean,PlayMusic
+575.wav,0.8571428571428571,I'd like to listen to Gabrielle Aplin,listen do <unk>,PlayMusic
+576.wav,0.8571428571428571,I'd like to listen to Cyndi Lauper,[noise] hey lady listen do indeed,PlayMusic
+577.wav,1.0,I'd like to listen to Sound Of Legend,<unk>,PlayMusic
+578.wav,1.0,I'd like to listen to Kenny Man,mhm,PlayMusic
+579.wav,1.0,I'd like to listen to Dengaz,guy,PlayMusic
+58.wav,0.8571428571428571,I'd like to listen to Manu Crook$,listen manage crips,PlayMusic
+580.wav,1.0,I'd like to listen to The Oh Hellos,i dunno know er,PlayMusic
+581.wav,1.0,I'd like to listen to Hidra,<unk>,PlayMusic
+582.wav,0.8571428571428571,I'd like to listen to NCT U,[noise] i like to look and see you,PlayMusic
+583.wav,1.0,I'd like to listen to David K.,i live the can't,PlayMusic
+584.wav,1.0,I'd like to listen to Miinou,i know,PlayMusic
+585.wav,0.5,I'd like to listen to Lazee,i like to listen not be,PlayMusic
+586.wav,0.5714285714285714,I'd like to listen to Tutto Duran,i like to listen to judge which direction,PlayMusic
+587.wav,0.6666666666666666,I'd like to listen to WOS,i like to listen to w. o. s.,PlayMusic
+588.wav,0.16666666666666666,I'd like to listen to Perttu,i'd like to listen to too,PlayMusic
+589.wav,0.42857142857142855,I'd like to listen to Luis Jara,i like to listen to ruin,PlayMusic
+59.wav,0.42857142857142855,I'd like to listen to Anfa Rose,like to listen and so rose,PlayMusic
+590.wav,0.42857142857142855,I'd like to listen to Donny Hathaway,[noise] i'd like to listen to donny half away,PlayMusic
+591.wav,0.14285714285714285,I'd like to listen to Angelo King,i'd like to listen to angelo kings,PlayMusic
+592.wav,0.3333333333333333,I'd like to listen to Babel-Ish,i'd like to listen to battle wish,PlayMusic
+593.wav,0.0,I'd like to listen to Nina Sky,i'd like to listen to nina sky,PlayMusic
+594.wav,0.2857142857142857,I'd like to listen to Riva Starr,i'd like to listen to reverse star,PlayMusic
+595.wav,0.16666666666666666,I'd like to listen to Pamela,i like to listen to pamela,PlayMusic
+596.wav,0.3333333333333333,I'd like to listen to Mudimbi,i like to listen to monday,PlayMusic
+597.wav,0.6666666666666666,I'd like to listen to Enginarter,like i listen to engine order,PlayMusic
+598.wav,0.3333333333333333,I'd like to listen to Kob The X Factor,i like to listen to called the ex factor,PlayMusic
+599.wav,0.375,I'd like to listen to John & Michel,i like to listen to john i'm michael,PlayMusic
+6.wav,0.75,I'd like to listen to Ben El Tavori,i like to listen to ban ellen how are you,PlayMusic
+60.wav,0.16666666666666666,I'd like to listen to Marango,i'd like to listen to miranda,PlayMusic
+600.wav,0.5,I'd like to listen to Tomas Andersson Wij,i like to listen to thomas anderson with,PlayMusic
+601.wav,0.5714285714285714,I'd like to listen to Blixa Bargeld,i like to listen to books in out,PlayMusic
+602.wav,0.5,I'd like to listen to Sizarr,i like to listen juices or,PlayMusic
+603.wav,0.5,I'd like to listen to Dagobert,i like to listen to dogs over,PlayMusic
+604.wav,0.5,I'd like to listen to Elams,i like to listen to you um,PlayMusic
+605.wav,0.6666666666666666,I'd like to listen to Mansionair,i like to listen to make an hour,PlayMusic
+606.wav,0.5,I'd like to listen to XPOSE,like to listen to actually a,PlayMusic
+607.wav,0.42857142857142855,I'd like to listen to Paulie Garand,i like to listen to polygraph,PlayMusic
+608.wav,0.3333333333333333,I'd like to listen to Momi,[noise] i'd like to listen to mommy,PlayMusic
+609.wav,0.2857142857142857,I'd like to listen to Elly Ekko,i'd like to listen to every echo,PlayMusic
+61.wav,1.0,I'd like to listen to JOHS,[noise] and like commission of jobs,PlayMusic
+610.wav,1.0,I'd like to listen to Scooby072,[noise] i like to listen to skip easier seventy two,PlayMusic
+611.wav,0.42857142857142855,I'd like to listen to Ersan Er,i'd like to listen to or some e._r.,PlayMusic
+612.wav,0.3333333333333333,I'd like to listen to Märkä-Simo,i'd like to listen to my hero,PlayMusic
+613.wav,0.42857142857142855,I'd like to listen to Elliott Yamin,i like to listen to l._a. yummy,PlayMusic
+614.wav,0.375,I'd like to listen to Ñejo & Dalmata,i'd like to listen to a hotel monica,PlayMusic
+615.wav,0.16666666666666666,I'd like to listen to Juulia,i'd like to listen to julia,PlayMusic
+616.wav,0.16666666666666666,I'd like to listen to Samo,i'd like to listen to <unk>,PlayMusic
+617.wav,0.5714285714285714,I'd like to listen to Noriyuki Makihara,i'd like to <unk>,PlayMusic
+618.wav,0.5,I'd like to listen to Pipa Para Tabaco,i like to listen to pizza parlors tobacco,PlayMusic
+619.wav,0.2857142857142857,I'd like to listen to David Rush,[noise] i'd like to listen i david rush,PlayMusic
+62.wav,0.8571428571428571,I'd like to listen to Mariana Nolasco,and like tuition marianna last though,PlayMusic
+620.wav,0.42857142857142855,I'd like to listen to Liam Ferrari,i'd like to <unk> ferrari,PlayMusic
+621.wav,0.125,I'd like to listen to Little Glee Monster,i'd like to listen to little monster,PlayMusic
+622.wav,0.2857142857142857,I'd like to listen to Plan B,[noise] i'd like to listen to plan b.,PlayMusic
+623.wav,0.8571428571428571,I'd like to listen to David Carreira,and like tuition david carry era,PlayMusic
+624.wav,0.8571428571428571,I'd like to listen to Twopee Southside,and like <unk> outside,PlayMusic
+625.wav,0.8333333333333334,I'd like to listen to Maxe,like no maxie,PlayMusic
+626.wav,0.5,I'd like to listen to Mikko,i like to listen to me go,PlayMusic
+627.wav,0.5714285714285714,I'd like to listen to Madalen Duke,i like to listen do madeleine do,PlayMusic
+628.wav,1.0,I'd like to listen to AGNEZ MO,<unk>,PlayMusic
+629.wav,0.5714285714285714,I'd like to listen to La Reserva,i like to listen to <unk> there huh,PlayMusic
+63.wav,0.14285714285714285,I'd like to listen to Charlotte Lawrence,i'd like to listen to shine lawrence,PlayMusic
+630.wav,0.2857142857142857,I'd like to listen to Too $hort,i like to listen to too short,PlayMusic
+631.wav,0.7142857142857143,I'd like to listen to Clarice Falcão,like to us nuclear taco,PlayMusic
+632.wav,0.42857142857142855,I'd like to listen to Joyce Cheng,i like to listen to enjoy trying,PlayMusic
+633.wav,0.42857142857142855,I'd like to listen to BAD HABITS,like to lessons or bad habits,PlayMusic
+634.wav,1.0,I'd like to listen to Bartofso,i like to listen your bar so far so,PlayMusic
+635.wav,0.2857142857142857,I'd like to listen to St. South,i'd like listen to saint south,PlayMusic
+636.wav,0.2857142857142857,I'd like to listen to Ellie Drennan,i'd like to listen to l._a. trenton,PlayMusic
+637.wav,0.2857142857142857,I'd like to listen to The Panas,i'd like to listen to the pan us,PlayMusic
+638.wav,0.7142857142857143,I'd like to listen to Jd Pantoja,i'd like to listen to j. d. can tell huh,PlayMusic
+639.wav,0.0,I'd like to listen to Young Money,i'd like to listen to young money,PlayMusic
+64.wav,0.8571428571428571,I'd like to listen to Jai Wolf,and like traditional job well,PlayMusic
+640.wav,0.14285714285714285,I'd like to listen to Shirin David,i'd like to listen to sharing david,PlayMusic
+641.wav,0.2857142857142857,I'd like to listen to Ado Kojo,i'd like to listen to adult though,PlayMusic
+642.wav,0.5714285714285714,I'd like to listen to Marc Tatchapon,i like to listen to mark catch upon,PlayMusic
+643.wav,0.3333333333333333,I'd like to listen to Snollebollekes,i'd like to listen to snowball bikes,PlayMusic
+644.wav,0.3333333333333333,I'd like to listen to TroyBoi,i like to listen to toy,PlayMusic
+645.wav,0.5,I'd like to listen to Mild,i like to listen to my own,PlayMusic
+646.wav,0.16666666666666666,I'd like to listen to Mario,i like to listen to mario,PlayMusic
+647.wav,0.8571428571428571,I'd like to listen to Dillon Cooper,i like telling magellan grouper,PlayMusic
+648.wav,0.5,I'd like to listen to Byklubben,i like to listen to be open,PlayMusic
+649.wav,1.0,I'd like to listen to Remoe,i was never a meal,PlayMusic
+65.wav,0.8571428571428571,I'd like to listen to Luqman Faiz,like <unk> my face,PlayMusic
+650.wav,0.6666666666666666,I'd like to listen to costee,like to call you,PlayMusic
+651.wav,0.42857142857142855,I'd like to listen to Ale Zurita,i like to listen to <unk>,PlayMusic
+652.wav,0.42857142857142855,I'd like to listen to Renzo Luca,i like to listen to them or,PlayMusic
+653.wav,0.5,I'd like to listen to FMK,i like to listen to m. k.,PlayMusic
+654.wav,0.7142857142857143,I'd like to listen to Café Quijano,hi place to listen to cast a piano,PlayMusic
+655.wav,0.5,I'd like to listen to Kevcody,i like to listen to cast cody,PlayMusic
+656.wav,0.5,I'd like to listen to ODZ,i like to listen to oh d._c.,PlayMusic
+657.wav,0.8333333333333334,I'd like to listen to Kelela,i try to listen to kill a lot,PlayMusic
+658.wav,0.14285714285714285,I'd like to listen to Danny Brown,i like to listen to danny brown,PlayMusic
+659.wav,0.8333333333333334,I'd like to listen to K.A.R.D,i like to listen to k. a. r. d.,PlayMusic
+66.wav,0.7142857142857143,I'd like to listen to Eric Nam,[noise] i'd like to <unk> now,PlayMusic
+660.wav,0.2857142857142857,I'd like to listen to Ronald Cheng,i like to listen to ronald chain,PlayMusic
+661.wav,0.5714285714285714,I'd like to listen to Lo Blanquito,i like to listen to low blank quito,PlayMusic
+662.wav,0.6666666666666666,I'd like to listen to Majka,i think to listen to match huh,PlayMusic
+663.wav,0.2857142857142857,I'd like to listen to Bianca Ryan,i'd like to listen to our brian,PlayMusic
+664.wav,0.5,I'd like to listen to Drangsal,[noise] i'd like to listen to drag all,PlayMusic
+665.wav,0.16666666666666666,I'd like to listen to Flower,[noise] i'd like to listen to flower,PlayMusic
+666.wav,0.14285714285714285,I'd like to listen to Aled Jones,i'd like to listen to and jones,PlayMusic
+667.wav,0.0,I'd like to listen to MOUNT,i'd like to listen to mount,PlayMusic
+668.wav,0.14285714285714285,I'd like to listen to Patrick Dorgan,i'd like to listen to patrick oregon,PlayMusic
+669.wav,0.6666666666666666,I'd like to listen to SYML,i'd like to listen to that's why i know,PlayMusic
+67.wav,0.2857142857142857,I'd like to listen to at Wendys,i'd like to listen to and windy,PlayMusic
+670.wav,0.3333333333333333,I'd like to listen to Mansesteri,i'd like to listen to manage history,PlayMusic
+671.wav,0.0,I'd like to listen to Five Finger Death Punch,i'd like to listen to five finger death punch,PlayMusic
+672.wav,0.2857142857142857,I'd like to listen to Raquel Sofia,i'd like to listen to <unk> yeah,PlayMusic
+673.wav,0.2857142857142857,I'd like to listen to Cesar Sampson,i like to listen to either sampson,PlayMusic
+674.wav,0.5,I'd like to listen to Banda do Mar,like to listen to bonded tomorrow,PlayMusic
+675.wav,0.875,I'd like to listen to Maria Jose Quintanilla,i like us memory droves crunch era,PlayMusic
+676.wav,0.875,I'd like to listen to Kinderen Voor Kinderen,like to listening drop a bomb in june,PlayMusic
+677.wav,0.3333333333333333,I'd like to listen to Sirius,i like to listen to syria,PlayMusic
+678.wav,0.6666666666666666,I'd like to listen to miwa,i like to listen to him you are,PlayMusic
+679.wav,0.42857142857142855,I'd like to listen to Caroline Castell,i like to listen to curling yeah,PlayMusic
+68.wav,0.5,I'd like to listen to KAYTRANADA,i'd like to listen to cage run out,PlayMusic
+680.wav,0.6666666666666666,I'd like to listen to So11,like to listen to so i haven't,PlayMusic
+681.wav,0.375,I'd like to listen to Tappara Fan Club,i like to listen to tap our fan club,PlayMusic
+682.wav,0.2857142857142857,I'd like to listen to Max Jenmana,i like to listen to max german,PlayMusic
+683.wav,0.2857142857142857,I'd like to listen to Nils Bech,i'd like to listen to news back,PlayMusic
+684.wav,0.7142857142857143,I'd like to listen to Hotelli Vantaa,like to listen to the hotel events adventure,PlayMusic
+685.wav,0.0,I'd like to listen to Kyle,i'd like to listen to kyle,PlayMusic
+686.wav,0.42857142857142855,I'd like to listen to Preta Gil,i'd like to try to kill,PlayMusic
+687.wav,0.5714285714285714,I'd like to listen to Philip Emilio,i'd like to listen to up in the area,PlayMusic
+688.wav,0.3333333333333333,I'd like to listen to Jare,i like to listen to jail,PlayMusic
+689.wav,0.42857142857142855,I'd like to listen to Alexandra Babitzin,like to listen new alexandra adventure,PlayMusic
+69.wav,0.2857142857142857,I'd like to listen to Salif Keita,i'd like to listen to sleep akita,PlayMusic
+690.wav,0.42857142857142855,I'd like to listen to Kristian Kostov,like to listen to christian costco,PlayMusic
+691.wav,0.2857142857142857,I'd like to listen to Hu Xia,i'd like to listen to news yeah,PlayMusic
+692.wav,0.42857142857142855,I'd like to listen to Rafa Pabön,i'd like to listen to rush out on,PlayMusic
+693.wav,0.7142857142857143,I'd like to listen to Pidde P,to listen the city,PlayMusic
+694.wav,0.5,I'd like to listen to Landslagsbarnen,i like to listen to landslide barton,PlayMusic
+695.wav,0.8333333333333334,I'd like to listen to Hariel,listen to hear you,PlayMusic
+696.wav,0.5,I'd like to listen to Calogero,i like to listen to college yeah,PlayMusic
+697.wav,0.7142857142857143,I'd like to listen to Çağatay Ulusoy,like to a little boy,PlayMusic
+698.wav,0.3333333333333333,I'd like to listen to A*Class,i like to listen to five,PlayMusic
+699.wav,0.5714285714285714,I'd like to listen to Enzo Avitabile,i like to listen to end so <unk>,PlayMusic
+70.wav,0.2857142857142857,I'd like to listen to Jasmine Lefrancois,i'd like to listen to jasmine french wow,PlayMusic
+700.wav,0.16666666666666666,I'd like to listen to Dastic,i'd like to listen to doctor,PlayMusic
+701.wav,0.5,I'd like to listen to Motez,i like to listen to most as,PlayMusic
+702.wav,0.2857142857142857,I'd like to listen to Yoga Lin,i like to listen to yoga lame,PlayMusic
+703.wav,0.16666666666666666,I'd like to listen to Salamandra,i'd like to listen to salamander,PlayMusic
+704.wav,0.16666666666666666,I'd like to listen to Fakkboiz,i'd like to listen to exactly,PlayMusic
+705.wav,0.16666666666666666,I'd like to listen to Kuselofte,i'd like to listen to <unk>,PlayMusic
+706.wav,0.3333333333333333,I'd like to listen to JoJo,i'd like to listen to joe joe,PlayMusic
+707.wav,0.16666666666666666,I'd like to listen to Ciara,i'd like to listen to n._p._r.,PlayMusic
+708.wav,0.3333333333333333,I'd like to listen to mansionz,like to listen to mansions,PlayMusic
+709.wav,0.42857142857142855,I'd like to listen to Tito Fernández,i like to listen to fernandez,PlayMusic
+71.wav,0.0,I'd like to listen to Alex,i'd like to listen to alex,PlayMusic
+710.wav,0.3333333333333333,I'd like to listen to Yeezy,i like to listen to easy,PlayMusic
+711.wav,0.875,I'd like to listen to Lilas ir Innomine,and bright to listen to like fresh air i mean,PlayMusic
+712.wav,1.0,I'd like to listen to Tankurt Manas,time minus,PlayMusic
+713.wav,1.0,I'd like to listen to Julia Wu,julio,PlayMusic
+714.wav,1.0,I'd like to listen to K$upreme,education cream,PlayMusic
+715.wav,1.0,I'd like to listen to Joyba,choice,PlayMusic
+716.wav,1.0,I'd like to listen to Jhay Cortez,a court case,PlayMusic
+717.wav,1.0,I'd like to listen to Juhn Allstar,john <unk> star,PlayMusic
+718.wav,1.0,I'd like to listen to Lionel Richie,already,PlayMusic
+719.wav,0.875,I'd like to listen to Antony & Cleopatra,and canadian cleopatra,PlayMusic
+72.wav,0.0,I'd like to listen to Jonathan Roy,i'd like to listen to jonathan roy,PlayMusic
+720.wav,0.8571428571428571,I'd like to listen to Dj Kevin,d._j. kevin,PlayMusic
+721.wav,0.8333333333333334,I'd like to listen to meyou.,nice to meet you,PlayMusic
+722.wav,0.25,I'd like to listen to Charlie Brown Jr.,i like to listen to charlie brown junior,PlayMusic
+723.wav,0.42857142857142855,I'd like to listen to Gavin DeGraw,i'd like to listen to going to grow,PlayMusic
+724.wav,0.5,I'd like to listen to Mugisho,and like to listen to movie show,PlayMusic
+725.wav,0.5714285714285714,I'd like to listen to Sven-Bertil Taube,i like to listen to denver tell <unk>,PlayMusic
+726.wav,0.42857142857142855,I'd like to listen to Fattah Amin,i'd like to listen to talk on in,PlayMusic
+727.wav,0.16666666666666666,I'd like to listen to Brings,i like to listen to brings,PlayMusic
+728.wav,0.125,I'd like to listen to One Avenue Band,i'd like to listen to one afternoon band,PlayMusic
+729.wav,0.7142857142857143,I'd like to listen to Peven Everett,[noise] i like to listen to have an average,PlayMusic
+73.wav,0.14285714285714285,I'd like to listen to The Rembrandts,i'd like to listen to the <unk>,PlayMusic
+730.wav,0.16666666666666666,I'd like to listen to God,i like to listen to god,PlayMusic
+731.wav,0.0,I'd like to listen to Robin,i'd like to listen to robin,PlayMusic
+732.wav,0.6666666666666666,I'd like to listen to Amine,i like to your mind,PlayMusic
+733.wav,0.7142857142857143,I'd like to listen to Burna Boy,like life lessons to burn a boy,PlayMusic
+734.wav,0.3333333333333333,I'd like to listen to Fyfe,i like to listen to fight,PlayMusic
+735.wav,0.375,I'd like to listen to Birdy Nam Nam,i'd like to listen to <unk>,PlayMusic
+736.wav,0.8571428571428571,I'd like to listen to Lord Flacko,and like terrorists in the slack off,PlayMusic
+737.wav,0.14285714285714285,I'd like to listen to Silvana Imam,i'd like to listen to savannah imam,PlayMusic
+738.wav,0.4444444444444444,I'd like to listen to MC L da Vinte,i'd like to listen to empty out seventy,PlayMusic
+739.wav,0.5714285714285714,I'd like to listen to MC Gury,i'd like to lessen the m._c. agree,PlayMusic
+74.wav,0.2857142857142857,I'd like to listen to Sharifah Aini,i'd like to listen to sharif any,PlayMusic
+740.wav,0.2857142857142857,I'd like to listen to Samy Ceezy,i'd like to listen to sammy easy,PlayMusic
+741.wav,0.5,I'd like to listen to LIZOT,and like to listen to live that,PlayMusic
+742.wav,0.42857142857142855,I'd like to listen to Jason Anousheh,i like to listen to jason i'm marsha,PlayMusic
+743.wav,0.25,I'd like to listen to Spark Master Tape,like to listen to spark master you,PlayMusic
+744.wav,0.6666666666666666,I'd like to listen to Favorite,like to us in favor,PlayMusic
+1067.wav,0.5555555555555556,I'd like to listen to Cali Y El Dandee,i like to listen to county all done,PlayMusic
+1068.wav,0.7142857142857143,I'd like to listen to Michael Bublé,like the michael,PlayMusic
+1069.wav,0.4444444444444444,I'd like to listen to Cookin' On 3 Burners,i like to listen to cooking on c._d. burner,PlayMusic
+107.wav,0.3333333333333333,I'd like to listen to SBM,i like to listen to e._s._p._n.,PlayMusic
+1070.wav,0.375,I'd like to listen to Sage The Gemini,like to listen to a gemini,PlayMusic
+1071.wav,0.5714285714285714,I'd like to listen to Emily Warren,i like to listen to i'm only one,PlayMusic
+1072.wav,0.42857142857142855,I'd like to listen to Maty Noyes,i like to listen to most annoying,PlayMusic
+1073.wav,0.2857142857142857,I'd like to listen to SHY Martin,i like to listen to shine martin,PlayMusic
+1074.wav,0.2222222222222222,I'd like to listen to The Greatest Showman Ensemble,i'd like to listen to the greatest show man ensemble,PlayMusic
+1075.wav,0.0,I'd like to listen to Bruno Martini,i'd like to listen to bruno martini,PlayMusic
+1076.wav,0.2857142857142857,I'd like to listen to Casper Magico,[noise] i'd like to listen to casper magical,PlayMusic
+1077.wav,0.2857142857142857,I'd like to listen to Robin Thicke,[noise] i'd like to listen to robin sick,PlayMusic
+1078.wav,0.3333333333333333,I'd like to listen to Normani,i'd like to listen to your money,PlayMusic
+1079.wav,0.16666666666666666,I'd like to listen to watt,i'd like to listen to walk,PlayMusic
+108.wav,0.3333333333333333,I'd like to listen to Kid,i like to listen a kid,PlayMusic
+1080.wav,0.5,I'd like to listen to Zeeba,[noise] i'd like to listen to the ball,PlayMusic
+1081.wav,0.3333333333333333,I'd like to listen to CADE,i like to listen to kinda,PlayMusic
+1082.wav,0.14285714285714285,I'd like to listen to Nio Garcia,i'd like to listen to neil garcia,PlayMusic
+1083.wav,0.6363636363636364,I'd like to listen to Banda Sinaloense MS de Sergio Lizárraga,i'd like to listen to ban anderson alone she's m._s. disarray <unk>,PlayMusic
+1084.wav,1.0,I'd like to listen to Nick Jonas,jenna,PlayMusic
+1085.wav,0.8571428571428571,I'd like to listen to R. City,plus our city,PlayMusic
+1086.wav,0.7142857142857143,I'd like to listen to Harry Styles,listen to hairstyle,PlayMusic
+1087.wav,1.0,I'd like to listen to Zacari,life wasn't the country,PlayMusic
+1088.wav,0.2857142857142857,I'd like to listen to Famous Dex,i like to listen to famous deck,PlayMusic
+1089.wav,0.42857142857142855,I'd like to listen to Maggie Lindemann,i like to listen to <unk>,PlayMusic
+109.wav,0.5,I'd like to listen to E-Kids,i like to listen to eat kids,PlayMusic
+745.wav,0.5714285714285714,I'd like to listen to Jorge Drexler,like listen to george <unk>,PlayMusic
+746.wav,0.5,I'd like to listen to SAVEUS,i like to listen to save savior,PlayMusic
+747.wav,1.0,I'd like to listen to AmsterdamSoundSystem,my name's dan sound system,PlayMusic
+748.wav,0.5,I'd like to listen to Michael Patrick Kelly,like less michael patrick kelly,PlayMusic
+749.wav,0.3333333333333333,I'd like to listen to Eneli,i like to listen to knowing,PlayMusic
+75.wav,0.5714285714285714,I'd like to listen to 100 Kila,[noise] i'd like to listen to one hundred keeler,PlayMusic
+750.wav,0.6666666666666666,I'd like to listen to Chinook,i like to us mentioned not,PlayMusic
+751.wav,0.7142857142857143,I'd like to listen to Jonne Aaron,i like johnny aaron,PlayMusic
+752.wav,0.8571428571428571,I'd like to listen to Salvador Seixas,like towards solving dorothy,PlayMusic
+753.wav,0.42857142857142855,I'd like to listen to Jessi Uribe,like to listen to jesse right,PlayMusic
+754.wav,0.3333333333333333,I'd like to listen to Mørland,i like to listen to marlon,PlayMusic
+755.wav,0.42857142857142855,I'd like to listen to Debrah Scarlett,i like to listen to deborah scarlet,PlayMusic
+756.wav,0.8333333333333334,I'd like to listen to Kuban,i like listening cuban,PlayMusic
+757.wav,0.3333333333333333,I'd like to listen to Kali,i like to listen to college,PlayMusic
+758.wav,0.7142857142857143,I'd like to listen to Valentín Elizalde,i'd like to us no valentine else or,PlayMusic
+759.wav,1.0,I'd like to listen to Gemello,by telling mellow,PlayMusic
+76.wav,0.16666666666666666,I'd like to listen to Beckie,i'd like to listen to becky,PlayMusic
+760.wav,0.8571428571428571,I'd like to listen to High Contrast,[noise] i like the high country,PlayMusic
+761.wav,0.3333333333333333,I'd like to listen to Blur,i like to listen to blow,PlayMusic
+762.wav,0.2857142857142857,I'd like to listen to St. Lucia,i like to listen to st lucie,PlayMusic
+763.wav,1.0,I'd like to listen to Yulien Oviedo,trying to listen to you lean over you know,PlayMusic
+764.wav,0.8571428571428571,I'd like to listen to Magnus Carlsson,like tuition madness carlson,PlayMusic
+765.wav,0.875,I'd like to listen to Glenmark Eriksson Strömstedt,and like traditional blend mark actions that,PlayMusic
+766.wav,0.8571428571428571,I'd like to listen to C4 Pedro,right <unk> for pedro,PlayMusic
+767.wav,0.5,I'd like to listen to Loud,i like to listen to him out,PlayMusic
+768.wav,0.3333333333333333,I'd like to listen to Watermät,i'd like to listen to water my,PlayMusic
+769.wav,0.3333333333333333,I'd like to listen to Xamã,i like to listen to 'em,PlayMusic
+77.wav,0.3333333333333333,I'd like to listen to Sennek,i like to listen to snack,PlayMusic
+770.wav,0.5,I'd like to listen to Mueka,like to listen in waco,PlayMusic
+771.wav,0.5,I'd like to listen to Artigeardit,i'd like to to our luggage,PlayMusic
+772.wav,0.3333333333333333,I'd like to listen to Joker,i like to listen to jokes,PlayMusic
+773.wav,0.16666666666666666,I'd like to listen to Petra,i'd like to listen petra,PlayMusic
+774.wav,0.5,I'd like to listen to AKSAN,i'd like to of my action,PlayMusic
+775.wav,0.3333333333333333,I'd like to listen to Motive,i like to listen to motives,PlayMusic
+776.wav,0.8333333333333334,I'd like to listen to Ruby,i like <unk>,PlayMusic
+777.wav,1.0,I'd like to listen to GNG,<unk> g. n. g.,PlayMusic
+778.wav,0.3333333333333333,I'd like to listen to Tepki,i like to listen to key,PlayMusic
+779.wav,0.5,I'd like to listen to Misha,i like to listen to meet ya,PlayMusic
+78.wav,0.8571428571428571,I'd like to listen to Anne Marie,i <unk> and marie,PlayMusic
+780.wav,0.5,I'd like to listen to Rosana,i like listen to roseanne,PlayMusic
+781.wav,0.8571428571428571,I'd like to listen to Tanya Stephens,i like the summer time just stations,PlayMusic
+782.wav,0.42857142857142855,I'd like to listen to Rachel Liang,i like to listen to <unk>,PlayMusic
+783.wav,0.5714285714285714,I'd like to listen to Maija Vilkkumaa,i'd like to listen to my <unk> they'll coma,PlayMusic
+784.wav,0.14285714285714285,I'd like to listen to Club Dogo,i'd like to listen to club diego,PlayMusic
+785.wav,0.2857142857142857,I'd like to listen to Mimi Werner,i'd like to listen to me warner,PlayMusic
+786.wav,0.14285714285714285,I'd like to listen to No Rome,i'd like to listen to no room,PlayMusic
+787.wav,0.3333333333333333,I'd like to listen to Nastia,i'd like to listen to nasty yeah,PlayMusic
+788.wav,0.2857142857142857,I'd like to listen to Stephy Tang,i'd like to listen to stuff eating,PlayMusic
+789.wav,0.42857142857142855,I'd like to listen to Ruger Hauer,i'd like to listen to roger how are,PlayMusic
+79.wav,0.8333333333333334,I'd like to listen to PRGRSHN,i'd like to listen to n._p._r. g. r. s. engine,PlayMusic
+790.wav,0.5,I'd like to listen to Nagita,[noise] i'd like to listen to an akita,PlayMusic
+791.wav,0.3333333333333333,I'd like to listen to Nino,i'd like to listen to me now,PlayMusic
+792.wav,0.3333333333333333,I'd like to listen to Davay,i like to listen to today,PlayMusic
+793.wav,0.5,I'd like to listen to Theia,i like to listen to the ah,PlayMusic
+794.wav,0.2857142857142857,I'd like to listen to Alex Fong,i like to listen to alex long,PlayMusic
+795.wav,0.14285714285714285,I'd like to listen to Junior Lord,i like to listen to junior lord,PlayMusic
+796.wav,0.42857142857142855,I'd like to listen to Mad Clown,like to listen to match car,PlayMusic
+797.wav,0.625,I'd like to listen to Kim Na Young,i like to make him nine young,PlayMusic
+798.wav,0.7142857142857143,I'd like to listen to Ania Dabrowska,i like to listen to and i just broke,PlayMusic
+799.wav,0.2857142857142857,I'd like to listen to Winston Surfshirt,i like to listen to winston surfing,PlayMusic
+8.wav,0.5714285714285714,I'd like to listen to Joshua Radin,i like to listen to jokes were riding,PlayMusic
+80.wav,0.42857142857142855,I'd like to listen to lyyli Wartiovaara-Kallioniemi,i'd like to listen to riley weren't <unk>,PlayMusic
+800.wav,0.6666666666666666,I'd like to listen to Dimmi,i like listening to me,PlayMusic
+801.wav,0.3333333333333333,I'd like to listen to Raphaella,i like to listen to rockefeller,PlayMusic
+802.wav,0.7142857142857143,I'd like to listen to Pi'Erre Bourne,like to listen and if you're born,PlayMusic
+803.wav,0.42857142857142855,I'd like to listen to Miss Li,i like to listen to mislead,PlayMusic
+804.wav,0.7142857142857143,I'd like to listen to Lester Williams,like to us molester william,PlayMusic
+805.wav,0.5,I'd like to listen to Slaydro,like to listen to a draw,PlayMusic
+806.wav,0.3333333333333333,I'd like to listen to Kajo,like to listen to control,PlayMusic
+807.wav,0.6666666666666666,I'd like to listen to Juice,bikes listen to jews,PlayMusic
+808.wav,0.5,I'd like to listen to Macky,like to listen american,PlayMusic
+809.wav,1.0,I'd like to listen to CJaye,my closeness c._j.,PlayMusic
+81.wav,0.0,I'd like to listen to some chick,i'd like to listen to some chick,PlayMusic
+810.wav,0.16666666666666666,I'd like to listen to Day,i like to listen to day,PlayMusic
+811.wav,0.8333333333333334,I'd like to listen to Southside,i like christmas outside,PlayMusic
+812.wav,0.8571428571428571,I'd like to listen to G Herbo,i like to live jersey you heard about,PlayMusic
+813.wav,0.8333333333333334,I'd like to listen to D-Flame,i like clinton did you play,PlayMusic
+814.wav,0.7142857142857143,I'd like to listen to Jón Jónsson,like to us the john johnson,PlayMusic
+815.wav,0.8333333333333334,I'd like to listen to K3,i like listening nicky three,PlayMusic
+816.wav,0.7142857142857143,I'd like to listen to Moneybagg Yo,i like to listen the money back yeah,PlayMusic
+817.wav,0.16666666666666666,I'd like to listen to Frances,i like to listen to frances,PlayMusic
+818.wav,0.42857142857142855,I'd like to listen to Sergey Lazarev,i like to listen to you live,PlayMusic
+819.wav,0.16666666666666666,I'd like to listen to Solar,i like to listen to solar,PlayMusic
+82.wav,0.3333333333333333,I'd like to listen to Heinis,[noise] i'd like to listen to finish,PlayMusic
+820.wav,1.0,I'd like to listen to Yasemin Mori,like plus me yes i'm in missouri,PlayMusic
+821.wav,0.5714285714285714,I'd like to listen to Marvin Brooks,like to marvin brought,PlayMusic
+822.wav,0.2222222222222222,I'd like to listen to Maan On The Moon,i like to listen to man on the moon,PlayMusic
+823.wav,0.5,I'd like to listen to UrboyTJ,i like to listen to airborne d._j.,PlayMusic
+824.wav,0.42857142857142855,I'd like to listen to Fang Wu,i like to listen to thing where,PlayMusic
+825.wav,0.5,I'd like to listen to Oualid,i like to listen to our lives,PlayMusic
+826.wav,0.8333333333333334,I'd like to listen to Fractures,i like fracture,PlayMusic
+827.wav,0.5,I'd like to listen to Sultan + Shepard,i like to listen to salt in shepherd,PlayMusic
+828.wav,1.0,I'd like to listen to Quando Rondo,my condo rhonda,PlayMusic
+829.wav,0.3333333333333333,I'd like to listen to Motta,i like to listen to monitor,PlayMusic
+83.wav,0.8571428571428571,I'd like to listen to Köyhä Jonne,and like <unk>,PlayMusic
+830.wav,0.14285714285714285,I'd like to listen to Magic System,i like to listen to magic system,PlayMusic
+831.wav,0.7142857142857143,I'd like to listen to Meryl Streep,my tuition meryl streep,PlayMusic
+832.wav,1.0,I'd like to listen to Rio Febrian,<unk>,PlayMusic
+833.wav,0.7142857142857143,I'd like to listen to Jota Quest,my tuition to go to class,PlayMusic
+834.wav,0.3333333333333333,I'd like to listen to Tangga,i like to listen to tango,PlayMusic
+835.wav,0.2857142857142857,I'd like to listen to Jaymes Reunion,i like to listen to james reunion,PlayMusic
+836.wav,0.6666666666666666,I'd like to listen to Alphabeat,like to this now be,PlayMusic
+837.wav,0.8571428571428571,I'd like to listen to Cosmo's Midnight,in the cosmos midnight,PlayMusic
+838.wav,1.0,I'd like to listen to Sabyan,<unk>,PlayMusic
+839.wav,0.14285714285714285,I'd like to listen to The Saturdays,like to listen to the saturdays,PlayMusic
+84.wav,0.6666666666666666,I'd like to listen to Tali,i'm trying to listen entirely,PlayMusic
+840.wav,0.6666666666666666,I'd like to listen to LGND,to listen to algae andy,PlayMusic
+841.wav,0.8333333333333334,I'd like to listen to Macaco,like new mexico,PlayMusic
+842.wav,0.3333333333333333,I'd like to listen to Malique,i like to listen to money,PlayMusic
+843.wav,0.8333333333333334,I'd like to listen to Gigamesh,like listening mass,PlayMusic
+844.wav,0.8333333333333334,I'd like to listen to Ailee,like <unk>,PlayMusic
+845.wav,0.5714285714285714,I'd like to listen to Rino Gaetano,i like to listen to reno or know,PlayMusic
+846.wav,0.5454545454545454,I'd like to listen to Nathaniel Rateliff & The Night Sweats,i like to listen to nathaniel rattling nights but,PlayMusic
+847.wav,0.25,I'd like to listen to Victor & Leo,i like to listen to victor i'm leo,PlayMusic
+848.wav,0.42857142857142855,I'd like to listen to Krista Siegfrids,i like to listen to chris sigrid,PlayMusic
+849.wav,0.42857142857142855,I'd like to listen to Safri Duo,i like to listen to sacramento,PlayMusic
+85.wav,0.5714285714285714,I'd like to listen to Leipe Dennis,and trying to listen to late beginners,PlayMusic
+850.wav,0.3333333333333333,I'd like to listen to Drake,i'd like to listen to your age,PlayMusic
+851.wav,0.8571428571428571,I'd like to listen to Ed Sheeran,[noise] like <unk> and sharon,PlayMusic
+852.wav,0.42857142857142855,I'd like to listen to Justin Bieber,i'd like to listen adjusting beaver,PlayMusic
+853.wav,0.14285714285714285,I'd like to listen to Post Malone,[noise] i'd like to listen to post malone,PlayMusic
+854.wav,0.8571428571428571,I'd like to listen to J Balvin,like <unk>,PlayMusic
+855.wav,0.14285714285714285,I'd like to listen to The Weeknd,i'd like to listen to the weekend,PlayMusic
+856.wav,0.6666666666666666,I'd like to listen to Ozuna,[noise] i'd like to listen to was you know,PlayMusic
+857.wav,0.5714285714285714,I'd like to listen to The Chainsmokers,[noise] i like to listen to the chain smokers,PlayMusic
+858.wav,0.2857142857142857,I'd like to listen to Kendrick Lamar,[noise] i'd like to listen to kendra lamar,PlayMusic
+859.wav,0.0,I'd like to listen to Calvin Harris,i'd like to listen to calvin harris,PlayMusic
+86.wav,0.8571428571428571,I'd like to listen to Show Luo,trying to rush into shallow,PlayMusic
+860.wav,0.0,I'd like to listen to Daddy Yankee,i'd like to listen to daddy yankee,PlayMusic
+861.wav,0.3333333333333333,I'd like to listen to Rihanna,and like to listen to <unk>,PlayMusic
+862.wav,0.42857142857142855,I'd like to listen to Bad Bunny,i like to listen to that money,PlayMusic
+863.wav,0.3333333333333333,I'd like to listen to Khalid,like to listen to clean,PlayMusic
+864.wav,0.42857142857142855,I'd like to listen to Ariana Grande,[noise] i'd like to listen to arianna grounding,PlayMusic
+865.wav,0.42857142857142855,I'd like to listen to Nicki Minaj,and like to listen to <unk>,PlayMusic
+866.wav,0.42857142857142855,I'd like to listen to Selena Gomez,i'd like to listen to salina go man,PlayMusic
+867.wav,0.5,I'd like to listen to XXXTENTACION,i'd like to listen to extend talking on,PlayMusic
+868.wav,0.0,I'd like to listen to Imagine Dragons,i'd like to listen to imagine dragons,PlayMusic
+869.wav,0.16666666666666666,I'd like to listen to Future,i'd like to listen to the future,PlayMusic
+87.wav,0.2857142857142857,I'd like to listen to Páll Óskar,i'd like to listen to oscar,PlayMusic
+870.wav,0.5,I'd like to listen to Maluma,i'd like to listen to him alone huh,PlayMusic
+871.wav,0.5714285714285714,I'd like to listen to Travis Scott,[noise] i'd like to listen to try every sitcoms,PlayMusic
+872.wav,0.16666666666666666,I'd like to listen to Sia,i'd like to listen to share,PlayMusic
+873.wav,0.2857142857142857,I'd like to listen to Nicky Jam,i'd like to listen to <unk>,PlayMusic
+874.wav,0.2857142857142857,I'd like to listen to David Guetta,i'd like to listen to <unk>,PlayMusic
+875.wav,0.16666666666666666,I'd like to listen to Quavo,i'd like to listen to <unk>,PlayMusic
+876.wav,0.6666666666666666,I'd like to listen to Kygo,[noise] i'd like to live in chicago,PlayMusic
+877.wav,0.2857142857142857,I'd like to listen to Shawn Mendes,i'd like to listen to show just,PlayMusic
+878.wav,0.14285714285714285,I'd like to listen to Major Lazer,i'd like to listen to major laser,PlayMusic
+879.wav,0.5714285714285714,I'd like to listen to Maroon 5,i like to listen tomorrow fine,PlayMusic
+88.wav,0.8571428571428571,I'd like to listen to Bebo Yau,like tourist debatable yeah,PlayMusic
+880.wav,0.5714285714285714,I'd like to listen to Dua Lipa,[noise] i'd like to listen to do a liberal,PlayMusic
+881.wav,0.375,I'd like to listen to Ty Dolla $ign,i'd like to listen to the dollar sign,PlayMusic
+882.wav,0.3333333333333333,I'd like to listen to Migos,i'd like to listen to me goes,PlayMusic
+883.wav,0.3333333333333333,I'd like to listen to Coldplay,i'd like to listen to cold clay,PlayMusic
+884.wav,0.2857142857142857,I'd like to listen to Camila Cabello,i'd like to listen to communicate mellow,PlayMusic
+885.wav,0.5714285714285714,I'd like to listen to Bebe Rexha,[noise] i'd like to listen to that iraq so,PlayMusic
+886.wav,0.2857142857142857,I'd like to listen to Cardi B,i'd like to listen to comedy,PlayMusic
+887.wav,0.375,I'd like to listen to Lil Uzi Vert,i'd like to listen to lose the bird,PlayMusic
+888.wav,0.14285714285714285,I'd like to listen to Bruno Mars,i'd like to listen to bruno marsh,PlayMusic
+889.wav,0.42857142857142855,I'd like to listen to Sam Smith,i like to listen to sam's nice,PlayMusic
+89.wav,0.2,I'd like to listen to The Head and the Heart,i like to listen to the hand and the heart,PlayMusic
+890.wav,0.42857142857142855,I'd like to listen to Charlie Puth,to listen to charlie plus,PlayMusic
+891.wav,0.2857142857142857,I'd like to listen to DJ Snake,i like to listen to d._j. snake,PlayMusic
+892.wav,0.42857142857142855,I'd like to listen to 21 Savage,like to listen to twenty one savage,PlayMusic
+893.wav,1.0,I'd like to listen to Halsey,<unk>,PlayMusic
+894.wav,0.5,I'd like to listen to Avicii,i like to listen to the b._b._c.,PlayMusic
+895.wav,0.8333333333333334,I'd like to listen to Wisin,to <unk>,PlayMusic
+896.wav,0.5714285714285714,I'd like to listen to Luis Fonsi,to listen to lose funding,PlayMusic
+897.wav,0.42857142857142855,I'd like to listen to Clean Bandit,i like to listen to clean banned it,PlayMusic
+898.wav,0.2857142857142857,I'd like to listen to Jason Derulo,like to listen to jason <unk>,PlayMusic
+899.wav,1.0,I'd like to listen to Zara Larsson,this <unk>,PlayMusic
+9.wav,0.14285714285714285,I'd like to listen to Jordin Sparks,i'd like to listen to jordan sparks,PlayMusic
+90.wav,0.45454545454545453,"I'd like to listen to Artists Of Then, Now & Forever",like to listen to honesty then now in forever,PlayMusic
+900.wav,0.3333333333333333,I'd like to listen to Marshmello,i like to listen to marsala,PlayMusic
+901.wav,0.5,I'd like to listen to G-Eazy,like to listen to g. easy,PlayMusic
+902.wav,0.7142857142857143,I'd like to listen to Jonas Blue,listen to just slow,PlayMusic
+903.wav,0.6666666666666666,I'd like to listen to Anne-Marie,to wasn't to emery,PlayMusic
+904.wav,1.0,I'd like to listen to Fetty Wap,life lessons <unk>,PlayMusic
+905.wav,0.75,I'd like to listen to Zion & Lennox,i listen to c._n._n. lex,PlayMusic
+906.wav,0.7142857142857143,I'd like to listen to Robin Schulz,i listened to robin shows,PlayMusic
+907.wav,0.5714285714285714,I'd like to listen to Daft Punk,like listen to die,PlayMusic
+908.wav,0.7142857142857143,I'd like to listen to Young Thug,life listen too young so,PlayMusic
+909.wav,1.0,I'd like to listen to Big Sean,less in the beach,PlayMusic
+91.wav,0.8571428571428571,I'd like to listen to Vale Lambo,and like <unk>,PlayMusic
+910.wav,0.5714285714285714,I'd like to listen to Enrique Iglesias,i like to listen requiring grace yeah,PlayMusic
+911.wav,0.14285714285714285,I'd like to listen to French Montana,i like to listen to french montana,PlayMusic
+912.wav,0.8333333333333334,I'd like to listen to Shakira,i like secure,PlayMusic
+913.wav,0.42857142857142855,I'd like to listen to Fifth Harmony,i like to listen to the army,PlayMusic
+914.wav,0.3333333333333333,I'd like to listen to Pitbull,i like to listen to people,PlayMusic
+915.wav,0.3333333333333333,I'd like to listen to Anitta,i like to listen to anita,PlayMusic
+916.wav,0.5714285714285714,I'd like to listen to Swae Lee,i like to listen this really,PlayMusic
+917.wav,0.5,I'd like to listen to Daya,i like to listen to die yeah,PlayMusic
+918.wav,0.42857142857142855,I'd like to listen to Sean Paul,i like to listen to shop all,PlayMusic
+919.wav,1.0,I'd like to listen to Farruko,oh nice for though,PlayMusic
+92.wav,0.5,I'd like to listen to Lo-Fang,and like to listen to those thing,PlayMusic
+920.wav,0.5714285714285714,I'd like to listen to Jess Glynne,to listen to just lying,PlayMusic
+921.wav,0.7142857142857143,I'd like to listen to Rita Ora,to listen to me either or,PlayMusic
+922.wav,0.5714285714285714,I'd like to listen to Rae Sremmurd,to listen to re remote,PlayMusic
+923.wav,0.7142857142857143,I'd like to listen to Kodak Black,to <unk> black,PlayMusic
+924.wav,1.0,I'd like to listen to Bryson Tiller,do ration mhm,PlayMusic
+925.wav,0.7142857142857143,I'd like to listen to Becky G,listen to gee,PlayMusic
+926.wav,0.7142857142857143,I'd like to listen to Justin Timberlake,justin timberlake,PlayMusic
+927.wav,1.0,I'd like to listen to Manuel Turizo,like to lose too many will juries though,PlayMusic
+928.wav,1.0,I'd like to listen to Meghan Trainor,might choose the million train or,PlayMusic
+929.wav,1.0,I'd like to listen to 2 Chainz,commission and change,PlayMusic
+93.wav,0.42857142857142855,I'd like to listen to Moon Afflick,i like to listen to the moon affleck,PlayMusic
+930.wav,0.8571428571428571,I'd like to listen to Wiz Khalifa,like <unk>,PlayMusic
+931.wav,0.0,I'd like to listen to Florida Georgia Line,i'd like to listen to florida georgia line,PlayMusic
+932.wav,0.42857142857142855,I'd like to listen to Lil Yachty,i'd like to listen a little johnny,PlayMusic
+933.wav,0.42857142857142855,I'd like to listen to Tove Lo,i'd like to listen i told them,PlayMusic
+934.wav,0.2857142857142857,I'd like to listen to James Arthur,i'm trying to listen to james arthur,PlayMusic
+935.wav,0.2857142857142857,I'd like to listen to John Legend,and like to listen john legend,PlayMusic
+936.wav,0.5,I'd like to listen to OneRepublic,i'd like to listen and wondering public,PlayMusic
+937.wav,0.8571428571428571,I'd like to listen to Felix Jaehn,and like of fear jan,PlayMusic
+938.wav,0.14285714285714285,I'd like to listen to One Direction,[noise] i'd like to listen to one direction,PlayMusic
+939.wav,0.8333333333333334,I'd like to listen to Beyoncé,like beyond that,PlayMusic
+94.wav,0.42857142857142855,I'd like to listen to Dim Out,need to listen to them out,PlayMusic
+940.wav,0.42857142857142855,I'd like to listen to Julia Michaels,i like to listen to your michael,PlayMusic
+941.wav,0.16666666666666666,I'd like to listen to Grey,i like to listen to grey,PlayMusic
+942.wav,0.8333333333333334,I'd like to listen to Offset,like clubs and all that,PlayMusic
+943.wav,0.7142857142857143,I'd like to listen to Piso 21,i like to listen to people so twenty one,PlayMusic
+944.wav,0.7142857142857143,I'd like to listen to Metro Boomin,like live in the metro booming,PlayMusic
+945.wav,0.42857142857142855,I'd like to listen to DJ Luian,i like to listen to d._j. <unk>,PlayMusic
+946.wav,0.5714285714285714,I'd like to listen to Natti Natasha,i like to listen to not eat pasta,PlayMusic
+947.wav,0.6666666666666666,I'd like to listen to Diplo,like to people,PlayMusic
+948.wav,0.625,I'd like to listen to Jorge & Mateus,i like to listen to george i'm out here,PlayMusic
+949.wav,0.5714285714285714,I'd like to listen to Flo Rida,i like to listen to slow right now,PlayMusic
+95.wav,1.0,I'd like to listen to Eripe,majors and do eat right,PlayMusic
+950.wav,0.8333333333333334,I'd like to listen to Arcangel,and like tuition to argue angel,PlayMusic
+951.wav,0.5714285714285714,I'd like to listen to Lukas Graham,i'd like to original lucas grand,PlayMusic
+952.wav,0.2857142857142857,I'd like to listen to Willy William,i like to listen to really william,PlayMusic
+953.wav,0.5714285714285714,I'd like to listen to Mike Posner,i like to listen in life partner,PlayMusic
+954.wav,0.3333333333333333,I'd like to listen to Macklemore,i'd like to listen to my floor,PlayMusic
+955.wav,0.2857142857142857,I'd like to listen to Danny Ocean,i'd like to russia danny ocean,PlayMusic
+956.wav,0.5714285714285714,I'd like to listen to Liam Payne,i'd like to originally i'm pain,PlayMusic
+957.wav,0.16666666666666666,I'd like to listen to Alesso,i'd like to listen to show,PlayMusic
+958.wav,0.16666666666666666,I'd like to listen to CNCO,i'd like to listen to chicago,PlayMusic
+959.wav,0.5,I'd like to listen to Galantis,i like to listen to jail actor,PlayMusic
+96.wav,1.0,I'd like to listen to Gustas Mio,tennessee sauce neo,PlayMusic
+960.wav,1.0,I'd like to listen to Childish Gambino,i like to listen the child is in you know,PlayMusic
+961.wav,0.7142857142857143,I'd like to listen to Little Mix,i like the little man,PlayMusic
+962.wav,0.2857142857142857,I'd like to listen to Mambo Kingz,i like to listen to mambo,PlayMusic
+963.wav,0.8571428571428571,I'd like to listen to RAF Camora,like live nebraska camera,PlayMusic
+964.wav,0.8333333333333334,I'd like to listen to Lauv,like live below,PlayMusic
+965.wav,0.3333333333333333,I'd like to listen to Desiigner,like to listen to designer,PlayMusic
+966.wav,0.5,I'd like to listen to Matheus & Kauan,i like to listen to me going,PlayMusic
+967.wav,0.5,I'd like to listen to Lorde,i like to listen to the lord,PlayMusic
+968.wav,0.7142857142857143,I'd like to listen to Iggy Azalea,i like to live you though yeah,PlayMusic
+969.wav,0.2857142857142857,I'd like to listen to Juice WRLD,i like to listen to juice world,PlayMusic
+97.wav,0.7142857142857143,I'd like to listen to Peter Manjarrés,i like to be their <unk>,PlayMusic
+970.wav,0.5714285714285714,I'd like to listen to Juan Magán,i like to listen to one my gone,PlayMusic
+971.wav,0.2857142857142857,I'd like to listen to Lil Pump,i'd like to listen to little punks,PlayMusic
+972.wav,1.0,I'd like to listen to Axwell /\ Ingrosso,i might as well in grosso,PlayMusic
+973.wav,0.3333333333333333,I'd like to listen to Skrillex,i'd like to listen to screw relax,PlayMusic
+974.wav,0.5,I'd like to listen to Rudimental,[noise] i'd like to listen to of mental,PlayMusic
+975.wav,0.3333333333333333,I'd like to listen to DNCE,i like to listen to d._m._z.,PlayMusic
+976.wav,0.4444444444444444,I'd like to listen to Macklemore & Ryan Lewis,i like to listen to <unk> enron lewis,PlayMusic
+1090.wav,0.42857142857142855,I'd like to listen to Sandro Cavazza,i like to listen to sandra canasta,PlayMusic
+1091.wav,0.3333333333333333,I'd like to listen to Labrinth,i like to listen to <unk>,PlayMusic
+1092.wav,0.2857142857142857,I'd like to listen to Jasmine Thompson,like to listen to jasmine something,PlayMusic
+1093.wav,1.0,I'd like to listen to YG,lifeless the,PlayMusic
+1094.wav,1.0,I'd like to listen to Wolfine,by tourists novelty,PlayMusic
+1095.wav,0.42857142857142855,I'd like to listen to Arctic Monkeys,i like to listen the arctic monkey,PlayMusic
+1096.wav,0.14285714285714285,I'd like to listen to Don Omar,i like to listen to don omar,PlayMusic
+1097.wav,0.8571428571428571,I'd like to listen to Steve Aoki,like us and recording,PlayMusic
+1098.wav,0.5,I'd like to listen to Snakehips,i like to listen to sneak ship,PlayMusic
+1099.wav,0.5714285714285714,I'd like to listen to Zac Efron,i like to listen to that guy from,PlayMusic
+11.wav,0.16666666666666666,I'd like to listen to GC,i'd like to listen to juicy,PlayMusic
+110.wav,0.5,I'd like to listen to Laylow,i like to listen to lay low,PlayMusic
+1100.wav,0.2857142857142857,I'd like to listen to Joey Montana,i like to listen to join montana,PlayMusic
+1101.wav,0.2857142857142857,I'd like to listen to Keala Settle,i like to listen to settle,PlayMusic
+1102.wav,0.42857142857142855,I'd like to listen to Hugh Jackman,i like to listen to document,PlayMusic
+1103.wav,0.8571428571428571,I'd like to listen to Adam Levine,like the um,PlayMusic
+1104.wav,0.625,I'd like to listen to Years & Years,i like new years and years,PlayMusic
+1105.wav,1.0,I'd like to listen to Dennis Lloyd,it was this morning,PlayMusic
+1106.wav,1.0,I'd like to listen to WALK THE MOON,my son new york,PlayMusic
+1107.wav,1.0,I'd like to listen to Ninho,it was neat,PlayMusic
+1108.wav,1.0,I'd like to listen to Noriel,the area,PlayMusic
+1109.wav,0.8,I'd like to listen to Lilly Wood and The Prick,i was listening to the bridge,PlayMusic
+111.wav,0.42857142857142855,I'd like to listen to Kit Chan,i like to listen to kitchen,PlayMusic
+1110.wav,1.0,I'd like to listen to Lil Baby,i'm my this movie,PlayMusic
+1111.wav,1.0,I'd like to listen to Lil Dicky,was movie,PlayMusic
+1112.wav,1.0,I'd like to listen to Astrid S,son was yes,PlayMusic
+977.wav,0.3333333333333333,I'd like to listen to OMI,i'd like to listen to the army,PlayMusic
+978.wav,0.5714285714285714,I'd like to listen to Anuel Aa,[noise] i'd like to listen to a new law,PlayMusic
+979.wav,1.0,I'd like to listen to Tyga,<unk>,PlayMusic
+98.wav,0.42857142857142855,I'd like to listen to Dusty Springfield,like said to dusty springfield,PlayMusic
+980.wav,0.42857142857142855,I'd like to listen to Mark Ronson,i like to listen to my grandson,PlayMusic
+981.wav,1.0,I'd like to listen to Bonez MC,<unk>,PlayMusic
+982.wav,0.625,I'd like to listen to Gente De Zona,need to listen to him to on,PlayMusic
+983.wav,1.0,I'd like to listen to Henrique & Juliano,<unk> henry in juliana,PlayMusic
+984.wav,0.5714285714285714,I'd like to listen to Troye Sivan,to listen to try seven,PlayMusic
+985.wav,0.8571428571428571,I'd like to listen to MC Kevinho,and like tourism m._c. kevin,PlayMusic
+986.wav,1.0,I'd like to listen to Tiësto,i just taste though,PlayMusic
+987.wav,1.0,I'd like to listen to X Ambassadors,tourism accent passengers,PlayMusic
+988.wav,0.2857142857142857,I'd like to listen to Juicy J,i like to listen to juicy jay,PlayMusic
+989.wav,0.2857142857142857,I'd like to listen to JP Cooper,i'd like to listen to j. p. cooper,PlayMusic
+99.wav,0.3333333333333333,I'd like to listen to Ozzy,i like to listen to ozzie,PlayMusic
+990.wav,0.6666666666666666,I'd like to listen to PARTYNEXTDOOR,i like to listen to party next door,PlayMusic
+991.wav,0.7142857142857143,I'd like to listen to Trippie Redd,to listen to trip you man,PlayMusic
+992.wav,0.42857142857142855,I'd like to listen to Carlos Vives,i like to listen to curlers fives,PlayMusic
+993.wav,0.5,I'd like to listen to Hozier,i like to listen to his year,PlayMusic
+994.wav,1.0,I'd like to listen to 6ix9ine,nice looking six nine,PlayMusic
+995.wav,0.8571428571428571,I'd like to listen to Fuse ODG,to his nephews o._d. gee,PlayMusic
+996.wav,0.42857142857142855,I'd like to listen to Wesley Safadão,like to listen to wesley certified yeah,PlayMusic
+997.wav,0.8571428571428571,I'd like to listen to Charli XCX,like to list the charlie next yet,PlayMusic
+998.wav,0.8333333333333334,I'd like to listen to KYLE,like listening <unk>,PlayMusic
+999.wav,0.3333333333333333,I'd like to listen to Bazzi,i like to listen to <unk>,PlayMusic
+1113.wav,1.0,I'd like to listen to Paul McCartney,home car,PlayMusic
+1114.wav,1.0,I'd like to listen to Sam Martin,business and more,PlayMusic
+1115.wav,1.0,I'd like to listen to Sofia Reyes,theories,PlayMusic
+1116.wav,1.0,I'd like to listen to A$AP Ferg,my name is nancy from,PlayMusic
+1117.wav,1.0,I'd like to listen to Sevn Alias,i was listening,PlayMusic
+1118.wav,1.0,I'd like to listen to Kai,listening hi,PlayMusic
+1119.wav,0.8333333333333334,I'd like to listen to Disclosure,disclosure,PlayMusic
+112.wav,0.3333333333333333,I'd like to listen to Vengaboys,i'd like to listen to the is,PlayMusic
+1120.wav,1.0,I'd like to listen to Ne-Yo,in india,PlayMusic
+1121.wav,1.0,I'd like to listen to Álvaro Soler,now so,PlayMusic
+1122.wav,0.875,I'd like to listen to Jowell & Randy,listen listen the gentleman rainy,PlayMusic
+1123.wav,0.5,I'd like to listen to Niska,like to listen to this guy,PlayMusic
+1124.wav,0.7142857142857143,I'd like to listen to Phoebe Ryan,i listen to see me ryan,PlayMusic
+1126.wav,0.375,I'd like to listen to Henrique & Diego,i like to listen to him reeking diego,PlayMusic
+1127.wav,0.2857142857142857,I'd like to listen to Noah Cyrus,i like to listen to notice cyrus,PlayMusic
+1128.wav,1.0,I'd like to listen to Ufo361,like to listen to us on three six one,PlayMusic
+1129.wav,0.6666666666666666,I'd like to listen to Frenna,i like listening to farina,PlayMusic
+113.wav,0.8571428571428571,I'd like to listen to Vazelina Bilopphøggers,like to listen to balance seen a pop tours,PlayMusic
+1130.wav,0.5,I'd like to listen to Oasis,i like to listen choices,PlayMusic
+1131.wav,0.3333333333333333,I'd like to listen to Deorro,like to listen to radio,PlayMusic
+1132.wav,0.5,I'd like to listen to Jesse & Joy,like to listen to just enjoy,PlayMusic
+1133.wav,0.42857142857142855,I'd like to listen to Rag'n'Bone Man,i like to listen to them and,PlayMusic
+1134.wav,0.6666666666666666,I'd like to listen to Preme,listen to <unk>,PlayMusic
+1135.wav,0.5,I'd like to listen to Dzeko,i like to listen to this echo,PlayMusic
+1136.wav,0.2857142857142857,I'd like to listen to The Vamps,like to listen to the van,PlayMusic
+1137.wav,0.75,I'd like to listen to Fall Out Boy,listen to follow up way,PlayMusic
+1138.wav,0.3333333333333333,I'd like to listen to Aminé,i like to listen to enemy,PlayMusic
+1139.wav,0.6666666666666666,I'd like to listen to Brytiago,i like to breach jago,PlayMusic
+114.wav,0.7142857142857143,I'd like to listen to Huilu Tino,to listen to who you know,PlayMusic
+1140.wav,0.5714285714285714,I'd like to listen to Luis Miguel,i like listen to louis yeah,PlayMusic
+1141.wav,0.3333333333333333,I'd like to listen to Tinashe,i like to listen to national,PlayMusic
+1142.wav,0.3333333333333333,I'd like to listen to Broederliefde,i'd like to listen to better life,PlayMusic
+1143.wav,1.0,I'd like to listen to Juanes,no one is,PlayMusic
+1144.wav,0.5,I'd like to listen to Chino & Nacho,and like to listen in chino an,PlayMusic
+1145.wav,0.16666666666666666,I'd like to listen to Booba,i'd like to listen to buddha,PlayMusic
+1146.wav,0.6666666666666666,I'd like to listen to AJR,[noise] i like to listen to ha er,PlayMusic
+1147.wav,0.5,I'd like to listen to Russ,i'm blessed to listen to rush,PlayMusic
+1148.wav,1.0,I'd like to listen to Remy Boyz,[noise] my <unk>,PlayMusic
+1149.wav,0.14285714285714285,I'd like to listen to Snoop Dogg,i'd like to listen to snoop dog,PlayMusic
+115.wav,0.42857142857142855,I'd like to listen to Nick Mulvey,i like to listen to make movie,PlayMusic
+1150.wav,0.2857142857142857,I'd like to listen to Mariah Carey,[noise] i like to listen to mariah carey,PlayMusic
+1151.wav,0.5714285714285714,I'd like to listen to Justin Jesso,[noise] i'd like to listen to just in so,PlayMusic
+1153.wav,1.0,I'd like to listen to Usher,me too,PlayMusic
+1154.wav,1.0,I'd like to listen to Jon Bellion,to meet do john billy um,PlayMusic
+1155.wav,0.8333333333333334,I'd like to listen to Sky,sky,PlayMusic
+1156.wav,0.8333333333333334,I'd like to listen to BIA,i don't to be a,PlayMusic
+1157.wav,1.0,I'd like to listen to Jhene Aiko,my teenagers who idaho,PlayMusic
+1158.wav,0.14285714285714285,I'd like to listen to Michael Jackson,i like to listen to michael jackson,PlayMusic
+1159.wav,0.7142857142857143,I'd like to listen to Trey Songz,i listen to detroit so,PlayMusic
+116.wav,0.625,I'd like to listen to Die Schwarzwälder Kirschtorten,i'd like to listen to dies wars rather crushed torturing,PlayMusic
+1160.wav,1.0,I'd like to listen to Pabllo Vittar,oh i see pop you retire,PlayMusic
+1161.wav,0.5,I'd like to listen to Marc E. Bassy,i like to listen to monkey bossy,PlayMusic
+1162.wav,0.625,I'd like to listen to Lana Del Rey,i like to listen to mine i don't me,PlayMusic
+1163.wav,0.8571428571428571,I'd like to listen to Skip Marley,like let's get marlene,PlayMusic
+1164.wav,0.8571428571428571,I'd like to listen to Linkin Park,like personally from her,PlayMusic
+1165.wav,0.7142857142857143,I'd like to listen to PnB Rock,i like indie rock,PlayMusic
+1166.wav,0.3333333333333333,I'd like to listen to Lookas,i like to listen to luka,PlayMusic
+1167.wav,0.2857142857142857,I'd like to listen to Capo Plaza,i like to listen to costco plaza,PlayMusic
+1168.wav,0.625,I'd like to listen to Jack & Jack,like new jack jack,PlayMusic
+1169.wav,0.42857142857142855,I'd like to listen to Murda Beatz,i like to listen to murder,PlayMusic
+117.wav,0.16666666666666666,I'd like to listen to Polina,i'd like to listen to <unk>,PlayMusic
+1170.wav,0.42857142857142855,I'd like to listen to Landon Cube,i like to listen to landing you,PlayMusic
+1171.wav,0.7142857142857143,I'd like to listen to Ina Wroldsen,i like to the roads so,PlayMusic
+1172.wav,0.3333333333333333,I'd like to listen to Jul,i like to listen to draw,PlayMusic
+1173.wav,0.5555555555555556,I'd like to listen to Panic! At The Disco,i like to listen to panic i just go,PlayMusic
+1174.wav,0.42857142857142855,I'd like to listen to Jason Mraz,i like to listen to around,PlayMusic
+1175.wav,0.14285714285714285,I'd like to listen to Bryant Myers,i'd like to listen to <unk> myers,PlayMusic
+1176.wav,0.2857142857142857,I'd like to listen to Milky Chance,i like to listen to chance,PlayMusic
+1177.wav,0.6666666666666666,I'd like to listen to Josylvio,like to listen to the job though,PlayMusic
+1178.wav,0.5,I'd like to listen to Almighty,i'd like to us no mighty,PlayMusic
+1179.wav,0.3333333333333333,I'd like to listen to Gilli,i like to listen to guilty,PlayMusic
+118.wav,0.3333333333333333,I'd like to listen to Byting,like to listen to biting,PlayMusic
+1180.wav,0.6666666666666666,I'd like to listen to Kollegah,like to the color guard,PlayMusic
+1181.wav,0.42857142857142855,I'd like to listen to benny blanco,i like to listen to <unk>,PlayMusic
+1182.wav,0.5714285714285714,I'd like to listen to Meek Mill,i like to listen to him you know,PlayMusic
+1183.wav,0.42857142857142855,I'd like to listen to Slim Jxmmi,like to listen to swim jimmy,PlayMusic
+1184.wav,0.3333333333333333,I'd like to listen to Rombai,i'd like to listen to run by,PlayMusic
+1185.wav,0.3333333333333333,I'd like to listen to Showtek,i'd like to listen to show tech,PlayMusic
+1186.wav,0.5,I'd like to listen to Ghali,to listen to cali,PlayMusic
+1187.wav,0.42857142857142855,I'd like to listen to Andy Grammer,like to listen to any grammar,PlayMusic
+1188.wav,0.2857142857142857,I'd like to listen to James Blunt,like to listen to james bond,PlayMusic
+1189.wav,0.42857142857142855,I'd like to listen to Joel Adams,to listen to joe adams,PlayMusic
+119.wav,0.42857142857142855,I'd like to listen to Jai Waetford,i'd like to listen to shy wait for,PlayMusic
+1190.wav,0.16666666666666666,I'd like to listen to PNL,i'd like to listen to piano,PlayMusic
+1191.wav,0.16666666666666666,I'd like to listen to Maxwell,like to listen to maxwell,PlayMusic
+1192.wav,0.2857142857142857,I'd like to listen to Summer Cem,i'd like to listen to some summer some,PlayMusic
+1193.wav,1.0,I'd like to listen to ANAVITÓRIA,i believe i believe simple,PlayMusic
+1194.wav,1.0,I'd like to listen to Maître Gims,i <unk>,PlayMusic
+1195.wav,0.8571428571428571,I'd like to listen to The Killers,i like <unk> loves,PlayMusic
+1196.wav,0.42857142857142855,I'd like to listen to Kent Jones,i'd like to me some camp jones,PlayMusic
+1197.wav,1.0,I'd like to listen to Dynoro,[noise] i like pretty something,PlayMusic
+1198.wav,1.0,I'd like to listen to Marama,[noise] i like pretty something,PlayMusic
+1199.wav,0.8571428571428571,I'd like to listen to Alex Sensation,[noise] i like simple i live sensation,PlayMusic
+12.wav,0.3333333333333333,I'd like to listen to Marwo,i'd like to listen tomorrow,PlayMusic
+120.wav,0.16666666666666666,I'd like to listen to Epelit,i'd like to listen to <unk>,PlayMusic
+1200.wav,0.8333333333333334,I'd like to listen to Nimo,i like <unk>,PlayMusic
+1201.wav,0.8571428571428571,I'd like to listen to Kevin Gates,[noise] i like pretty something giving gates,PlayMusic
+1202.wav,0.8571428571428571,I'd like to listen to YBN Nahmir,like putting some ideas,PlayMusic
+1203.wav,0.8571428571428571,I'd like to listen to Gigi D'Agostino,i like to listen to get good deal good gino,PlayMusic
+1204.wav,0.3333333333333333,I'd like to listen to Skepta,i'd like to listen to skip a,PlayMusic

@@ -1,0 +1,1662 @@
+WAV_FILE,WER,GroundTruth_Sentence,ASR_Sentence,Intent
+0.wav,0.625,Activate all the lights in the entire house.,w. lights in the in her house,SwitchLightOn
+1.wav,1.0,Activate basement lights,active impeachment light,SwitchLightOn
+10.wav,0.5,Adjust the bedroom light intensity to thirty nine,just the bedroom like intend to or thirty nine,SetLightBrightness
+100.wav,0.5555555555555556,Can you please change the light color to pink,can you please changed the white collar being,SetLightColor
+1000.wav,0.8,Set the brightness to five.,the do,SetLightBrightness
+1001.wav,0.4,Set the brightness to twelve.,some brightness to twelve,SetLightBrightness
+1002.wav,0.6,Set the brightness to twenty,not the brightest twenty,SetLightBrightness
+1003.wav,1.0,Set the brightness to twenty two please.,and <unk>,SetLightBrightness
+1004.wav,1.0,Set the cella to two,<unk> true,SetLightBrightness
+1005.wav,0.5,Set the cellar light to twelve,set the cellar lights as well,SetLightBrightness
+1006.wav,0.6666666666666666,Set the cellar lights to two,fellow lights to to,SetLightBrightness
+1007.wav,0.8571428571428571,Set the entire appartment light to two,then <unk> like to do,SetLightBrightness
+1008.wav,0.14285714285714285,Set the entrance lighting intensity to twelve,the entrance lighting intensity to twelve,SetLightBrightness
+1009.wav,0.875,Set the entrance lights to a brighter setting,san diego right you right it's setting,IncreaseBrightness
+101.wav,0.125,Can you please lower the lights for me,can you please lower the line for me,DecreaseBrightness
+1010.wav,1.0,Set the facilities lights to thirty nine,necessity like like <unk>,SetLightBrightness
+1011.wav,0.5714285714285714,Set the garden brightness to level twelve.,the garden brightness local well,SetLightBrightness
+1012.wav,0.5714285714285714,Set the hallway lights to pink please.,the hallway like pink,SetLightColor
+1013.wav,0.7777777777777778,Set the intensity of the toilet lighting to two,the learning to to,SetLightBrightness
+1014.wav,0.14285714285714285,Set the kids bedroom lights to five,so the kids bedroom lights to five,SetLightBrightness
+1015.wav,0.25,Set the laundry room lighting to ten percent,so the laundry room lying to ten percent,SetLightBrightness
+1016.wav,1.0,Set the light brightness level to twenty,did that late late and level <unk>,SetLightBrightness
+1017.wav,0.16666666666666666,Set the light color to blue,so the light color to blue,SetLightColor
+1019.wav,0.14285714285714285,Set the lights dimmer in the office,said the lights dimmer in the office,DecreaseBrightness
+102.wav,0.7777777777777778,Can you please set the bathroom lights to five?,complain about bathroom my five,SetLightBrightness
+1020.wav,0.3,Set the lights in the laundry room to level two,the lights in the laundry room level too,SetLightBrightness
+1021.wav,0.4444444444444444,Set the lights in the laundry room to seventy-three.,the in the laundry room to seventy three,SetLightBrightness
+1022.wav,0.14285714285714285,Set the lights in toilets to red,set the lights in toilets to read,SetLightColor
+1023.wav,0.7142857142857143,Set the lights to a higher intensity,satellite's too are higher intensity,IncreaseBrightness
+1024.wav,0.6363636363636364,Set the lights to a higher intensity in the changing room,<unk> higher intensity and the changing,IncreaseBrightness
+1025.wav,0.6363636363636364,Set the lights to a higher intensity in the living room,satellites to a higher standard of living,IncreaseBrightness
+1026.wav,0.875,Set the lights to a less bright setting,<unk> last race setting,DecreaseBrightness
+1027.wav,0.5714285714285714,Set the lights to a lower intensity,delays to lower intensity,DecreaseBrightness
+1028.wav,0.5,Set the lights to green in the large meeting room.,the light's green and the large meeting them,SetLightColor
+1268.wav,0.375,Turn the light's intensity to twenty two percent,turn the lights intensity two percent,SetLightBrightness
+1269.wav,1.0,Turn the lights blue,lives like,SetLightColor
+127.wav,0.2222222222222222,Can you turn off the lights in the cellar?,and you turn on the lights in the cellar,SwitchLightOff
+1270.wav,0.5714285714285714,Turn the lights down in the backyard,[noise] during the lights down in the back yard,DecreaseBrightness
+1271.wav,0.0,Turn the lights down in the dining room,turn the lights down in the dining room,DecreaseBrightness
+1272.wav,0.25,Turn the lights down in the living room.,turn lives down in the living room,DecreaseBrightness
+1273.wav,1.0,Turn the lights green,like getting,SetLightColor
+1274.wav,0.42857142857142855,Turn the lights in the garden off.,like in the garden off,SwitchLightOff
+1275.wav,0.7777777777777778,Turn the lights in the large meeting room pink.,charmed life in the machine and p.,SetLightColor
+1276.wav,0.2222222222222222,Turn the lights in the waiting room to five.,and the lights in the waiting room full five,SetLightBrightness
+1277.wav,0.0,Turn the lights in the waiting room to thirty nine,turn the lights in the waiting room to thirty nine,SetLightBrightness
+1278.wav,0.0,Turn the lights off,turn the lights off,SwitchLightOff
+1279.wav,0.0,Turn the lights off in the basement,turn the lights off in the basement,SwitchLightOff
+128.wav,0.5,Can you turn off the lights in the parking room?,yeah you like in the parking room,SwitchLightOff
+1280.wav,0.125,Turn the lights off in the dining room,turn the lights up in the dining room,SwitchLightOff
+1281.wav,0.0,Turn the lights off in the dining room.,turn the lights off in the dining room,SwitchLightOff
+1282.wav,0.125,Turn the lights off in the laundry room,the lights off in the laundry room,SwitchLightOff
+1283.wav,0.0,Turn the lights off in the office,turn the lights off in the office,SwitchLightOff
+1284.wav,0.8571428571428571,Turn the lights off in the shed.,doesn't shed,SwitchLightOff
+1285.wav,0.42857142857142855,Turn the lights off in the toilet,from the laptop in the toilet,SwitchLightOff
+1286.wav,0.8,Turn the lights off now,been laid off no,SwitchLightOff
+1287.wav,0.0,Turn the lights off.,turn the lights off,SwitchLightOff
+1288.wav,0.25,Turn the lights on,the lights on,SwitchLightOn
+1289.wav,0.2857142857142857,Turn the lights on above the toilets,the lights on about the toilets,SwitchLightOn
+129.wav,0.42857142857142855,Can you turn off the lights please,can you turn on life please,SwitchLightOff
+1290.wav,0.2,Turn the lights on everywhere,the lights on everywhere,SwitchLightOn
+1291.wav,0.7142857142857143,Turn the lights on in the appartment.,no lights on department,SwitchLightOn
+1292.wav,0.0,Turn the lights on in the bedroom,turn the lights on in the bedroom,SwitchLightOn
+1293.wav,0.75,Turn the lights on in the changing room,<unk> changing room,SwitchLightOn
+1294.wav,0.14285714285714285,Turn the lights on in the kitchen,then the lights on in the kitchen,SwitchLightOn
+1295.wav,0.25,Turn the lights on in the meeting room,no lights on in the meeting room,SwitchLightOn
+1296.wav,0.42857142857142855,Turn the lights on in the pantry,turn the lights on independently,SwitchLightOn
+1297.wav,0.1111111111111111,Turn the lights on in the small meeting room,turn the lights on the small meeting room,SwitchLightOn
+1298.wav,0.0,Turn the lights on in the studio,turn the lights on in the studio,SwitchLightOn
+1299.wav,0.4,Turn the lights on now,doing the on now,SwitchLightOn
+13.wav,1.0,Adjust the brightness to level ten,i just diagnosed his game,SetLightBrightness
+130.wav,0.16666666666666666,Can you turn off the lights?,can you turn off the light,SwitchLightOff
+1300.wav,0.2,Turn the lights on pink,turn the lights on,SetLightColor
+1301.wav,0.0,Turn the lights on please,turn the lights on please,SwitchLightOn
+1302.wav,0.3333333333333333,Turn the lights on the kitchen,the on the kitchen,SwitchLightOn
+1303.wav,1.0,Turn the lights on.,[noise],SwitchLightOn
+1304.wav,0.0,Turn the lights pink please.,turn the lights pink please,SetLightColor
+1305.wav,0.5,Turn the lights red in the bed room.,turn the light right in the bedroom,SetLightColor
+1306.wav,0.2,Turn the lights to a darker setting in the office,turn the lights dry darker setting in the office,DecreaseBrightness
+1307.wav,0.2857142857142857,Turn the lights to a higher setting,turn the lights to hire setting,IncreaseBrightness
+1308.wav,0.14285714285714285,Turn the lights to a lower setting,turn the lights to lower setting,DecreaseBrightness
+1309.wav,1.0,Turn the lights to two in the house,<unk>,SetLightBrightness
+131.wav,0.5,Can you turn on bathroom light,turned on bathroom light,SwitchLightOn
+1311.wav,0.4444444444444444,Turn the lights up a notch in the cellar.,done the lights up a notch the same not,IncreaseBrightness
+1312.wav,0.2857142857142857,"Turn the lights up a notch, please.",turn the lights up a notch you,IncreaseBrightness
+1313.wav,0.2857142857142857,Turn the lights up in the entrance,turn the lights of the entrance,IncreaseBrightness
+1314.wav,1.0,Turn the lights up in the loo,trying to learn something new,IncreaseBrightness
+1315.wav,0.0,Turn the lights up in the studio.,turn the lights up in the studio,IncreaseBrightness
+1316.wav,0.14285714285714285,Turn the lights up in the toilets.,turn the lights up in the toilet,IncreaseBrightness
+1317.wav,0.0,Turn the living room lights up,turn the living room lights up,IncreaseBrightness
+1318.wav,0.2,Turn the lounge lights red,turn the lounge lights right,SetLightColor
+1319.wav,0.6,Turn the patio light pink,the patio like,SetLightColor
+132.wav,0.6666666666666666,Can you turn on the light,you don't on tonight,SwitchLightOn
+1320.wav,0.4,Turn the studio lights on,turning studio lights on,SwitchLightOn
+1321.wav,0.2857142857142857,Turn the studio lights to thirty nine,turn the studio like thirty nine,SetLightBrightness
+1322.wav,0.3333333333333333,Turn the vestibule lights to two.,turning the vestibule lights to to,SetLightBrightness
+1323.wav,0.2,Turn the vestibule lights up,turn the lights up,IncreaseBrightness
+1324.wav,0.5714285714285714,Turn the waiting room brightness to two,waiting brightness to to,SetLightBrightness
+1325.wav,1.0,Turn the waiting room lights to seventy-three,needs to seven fifty,SetLightBrightness
+1326.wav,0.4,Turn toilet room lights on,turned toilet run lights on,SwitchLightOn
+1327.wav,0.0,Turn up the brightness,turn up the brightness,IncreaseBrightness
+1328.wav,0.375,Turn up the brightness in the changing room.,turn off the brightness in changing rooms,IncreaseBrightness
+1329.wav,0.5,Turn up the lighting,tournaments the lighting,IncreaseBrightness
+133.wav,0.5555555555555556,Can you turn the brightness down in the backyard,he turned to bring us down in the backyard,DecreaseBrightness
+1331.wav,1.0,Turn up the lights,hello,IncreaseBrightness
+1332.wav,0.2857142857142857,Turn up the lights in the cella,turn on the lights in the cellar,IncreaseBrightness
+1333.wav,0.375,Turn up the lights in the kids room.,turn up the and kids room,IncreaseBrightness
+1334.wav,0.14285714285714285,Turn up the lights in the kitchen,turn out the lights in the kitchen,IncreaseBrightness
+1335.wav,0.14285714285714285,Turn up the lights in the pantry,turn on the lights in the pantry,IncreaseBrightness
+1336.wav,0.14285714285714285,Turn up the lights in the parking,turn on the lights in the parking,IncreaseBrightness
+1337.wav,0.14285714285714285,Turn up the lights in the patio,turn the lights in the patio,IncreaseBrightness
+1338.wav,0.42857142857142855,Turn up the lights in the toilets.,dan i'm the lights in the toilet,IncreaseBrightness
+1339.wav,0.75,Turn up the lights.,part of the legs,IncreaseBrightness
+134.wav,0.14285714285714285,Can you turn the brightness to ten?,you turn the brightness to ten,SetLightBrightness
+1340.wav,0.5,Turn up the lights.,turn off the light,IncreaseBrightness
+1341.wav,0.5,Turn vestibule lighting on,turn vegetable landing on,SwitchLightOn
+1342.wav,0.07692307692307693,"We have a large meeting room, I need some red lights in there.",we have a large meeting room i need some red lights in there,SetLightColor
+1343.wav,0.7777777777777778,We need the bulbs turned brighter in this room,we need a bunch done to buy diesel,IncreaseBrightness
+1344.wav,0.0,What do I need to do to get the dining room to fifty brightness?,what do i need to do to get the dining room to fifty brightness,SetLightBrightness
+1345.wav,0.5,Will you increase the brightness please,well you increase the president's teas,IncreaseBrightness
+1346.wav,0.2,Will you make the entrance lights red for the afternoon.,well you make the entrance lights read for the afternoon,SetLightColor
+1347.wav,0.6666666666666666,Will you set the changing room to fifty brightness?,we use that they chose to fifty brightness,SetLightBrightness
+1348.wav,0.5,Would you please turn down the light brightness,did you turn down the right now,DecreaseBrightness
+1349.wav,0.1,Would you please turn on the lights in my cubicle,would you please turn on the lights and my cubicle,SwitchLightOn
+135.wav,1.0,Can you turn the brightness up in the bedroom?,<unk> individual,IncreaseBrightness
+1350.wav,0.625,Would you switch my kitchen lighting to on?,what do you switch my kitchen lead into um,SwitchLightOn
+1351.wav,0.14285714285714285,Would you turn on my basement lights,would you turn on my basement light,SwitchLightOn
+1352.wav,0.2857142857142857,Would you turn on my basement lights?,did you turn on my basement like,SwitchLightOn
+1353.wav,0.36363636363636365,adjust brightness of lounge lights to a value of twenty two,just brightness of lounge late to of twenty two,SetLightBrightness
+1354.wav,0.6666666666666666,all lights off,ah laid off,SwitchLightOff
+1355.wav,1.0,all lights off please.,oh nice,SwitchLightOff
+1356.wav,0.14285714285714285,basement lights should be set to twelve,basement life should be set to twelve,SetLightBrightness
+1357.wav,0.6666666666666666,basement lights should be turned on,you smell like shouldn't be turned on,SwitchLightOn
+1358.wav,1.0,bathroom brightness to twenty two,bottom brave enough to do,SetLightBrightness
+1359.wav,0.8571428571428571,"bathroom is too dark, increase the brightness",them do to increase debate nice,IncreaseBrightness
+136.wav,1.0,Can you turn the cellar light on,continue dumbo she'll lay down,SwitchLightOn
+1360.wav,1.0,bathroom lights off,like uh,SwitchLightOff
+1361.wav,0.5,bed room brightness to two please.,bedroom brightness to to please,SetLightBrightness
+1362.wav,1.0,bedroom light down,like damn,DecreaseBrightness
+1363.wav,0.5714285714285714,boardroom is dark please turn on lights,boardrooms dark turn on like,SwitchLightOn
+1364.wav,0.75,brighten lights in kitchen,burlington kitchen,IncreaseBrightness
+1365.wav,0.0,brighten up the cubicle,brighten up the cubicle,IncreaseBrightness
+1366.wav,0.0,bring up the lights,bring up the lights,IncreaseBrightness
+1367.wav,0.5,can you gimme some light please,can you give me some like please,SwitchLightOn
+1368.wav,0.2222222222222222,can you gimme some light please in the kitchen,can you give me some light please in the kitchen,SwitchLightOn
+1369.wav,0.16666666666666666,can you give me some lights,can you give me some nights,SwitchLightOn
+137.wav,0.4444444444444444,Can you turn the cubicle lights to twenty two,you turn me cubicle like twenty two,SetLightBrightness
+1370.wav,0.0,can you increase the brightness,can you increase the brightness,IncreaseBrightness
+1371.wav,0.1111111111111111,can you increase the brightness in the laundry room,and you increase the brightness in the laundry room,IncreaseBrightness
+1372.wav,0.2222222222222222,can you increase the brightness of the entire house,can you increase the brightness soak entire house,IncreaseBrightness
+1373.wav,0.5454545454545454,can you make the bed room a little darker if possible,you miss the bedroom little darker possible,DecreaseBrightness
+1374.wav,0.14285714285714285,can you make the light go blue,can you make the light blue,SetLightColor
+1375.wav,0.0,can you please turn on the lights?,can you please turn on the lights,SwitchLightOn
+1376.wav,0.375,can you turn down the lights in here?,turned down the lights in here,DecreaseBrightness
+1377.wav,0.8571428571428571,can you turn off the cellar lights?,<unk> december lights,SwitchLightOff
+1378.wav,0.42857142857142855,can you turn off the house lights,can you travel to house lights,SwitchLightOff
+1379.wav,0.625,can you turn off the kids bedroom lights?,turning fifty kids bedroom lights,SwitchLightOff
+138.wav,0.0,Can you turn the lights down one notch,can you turn the lights down one notch,DecreaseBrightness
+1380.wav,0.6666666666666666,can you turn the lights down,daniel done the lights though,DecreaseBrightness
+1381.wav,0.8333333333333334,change all lights to pink color,he likes to being kinda,SetLightColor
+1382.wav,0.9,change and set backyard lights to brightness setting of twelve,gun sit back god like to bite and setting off,SetLightBrightness
+1383.wav,0.8333333333333334,change bed room lighting to pink,<unk> to being,SetLightColor
+1384.wav,0.9,change brightness of lights in the toilets to twenty percent,<unk> percent,SetLightBrightness
+1385.wav,0.8571428571428571,change color of bathroom lights to pink,change the color about it might be,SetLightColor
+1386.wav,1.0,change color of garage lights to pink,<unk> being,SetLightColor
+1387.wav,0.75,change lamp to pink,<unk> do pink,SetLightColor
+1388.wav,0.5,change lighting to pink,[noise] change lancing to pink,SetLightColor
+1389.wav,0.25,change lights to blue,[noise] change lights to blue,SetLightColor
+139.wav,0.16666666666666666,Can you turn the lights off.,you turn the lights off,SwitchLightOff
+1390.wav,0.75,change lights to pink,change like the bank,SetLightColor
+1391.wav,1.0,change the garage lights to pink,he began it needs being,SetLightColor
+1392.wav,0.4,change the light to pink,change delight to pink,SetLightColor
+1393.wav,0.8333333333333334,change the patio light to pink,teams that she likes to be,SetLightColor
+1394.wav,0.8333333333333334,change the patio lights to green,about who likes to lean,SetLightColor
+1395.wav,1.0,change to red,[noise] <unk>,SetLightColor
+1396.wav,0.8,changing room lights off please,changing my is,SwitchLightOff
+1397.wav,0.7142857142857143,close all lights in the kids room,lose a late in the courtroom,SwitchLightOff
+1398.wav,0.7777777777777778,"create mood in bed room, turn lights to red",create more than bedroom likes to read,SetLightColor
+1399.wav,1.0,cut off the lights in vestibule,those delayed scene which view,SwitchLightOff
+14.wav,1.0,Adjust the brightness to seventy-three.,just brightness in seventy three,SetLightBrightness
+140.wav,1.0,Change all of the garden lighting to twenty,genealogy nineteen [noise],SetLightBrightness
+1400.wav,0.5,darken the light in the toilet,dark in the like in the toilet,DecreaseBrightness
+1401.wav,0.75,decrease brightness in cellar,degrees brightness in cell are,DecreaseBrightness
+1402.wav,0.0,decrease brightness in the basement,decrease brightness in the basement,DecreaseBrightness
+1403.wav,0.8,decrease brightness of bathroom lights,guys are bathroom like,DecreaseBrightness
+1404.wav,0.3333333333333333,decrease brightness please,increase brightness please,DecreaseBrightness
+1405.wav,0.3,decrease lights in laundry room to all the way off,decrease lights and laundry room all the way uh,SwitchLightOff
+1406.wav,0.25,decrease the light in the small meeting room,decrease the late in the small meeting or,DecreaseBrightness
+1407.wav,0.3333333333333333,dim the basement,in the basement,DecreaseBrightness
+1408.wav,0.8,dim the bed room lights,the bedroom nights,DecreaseBrightness
+1409.wav,0.6666666666666666,dim the boardroom,even the border,DecreaseBrightness
+141.wav,0.3333333333333333,Change all the lights to fifty.,seeing all the lights two fifty,SetLightBrightness
+1410.wav,0.2,dim the kids bedroom lights,being the kids bedroom lights,DecreaseBrightness
+1411.wav,0.16666666666666666,dim the lights in the cubicle,in the lights in the cubicle,DecreaseBrightness
+1412.wav,0.0,dim the lights in the garden,dim the lights in the garden,DecreaseBrightness
+1413.wav,0.16666666666666666,dining room light at thirty nine,dining room like at thirty nine,SetLightBrightness
+1414.wav,0.2857142857142857,dining room lights at twenty two percent,dining room like twenty two percent,SetLightBrightness
+1415.wav,0.6,dining room lights off please,dining room like all these,SwitchLightOff
+1416.wav,0.0,dining room needs to be at twelve percent,dining room needs to be at twelve percent,SetLightBrightness
+1417.wav,0.375,"do not waste the lights, decrease it please",not waste fights decrease it please,DecreaseBrightness
+1418.wav,0.6666666666666666,double the brightness,double tightness,IncreaseBrightness
+1419.wav,0.2,entrance light level to ten,insurance light level to ten,SetLightBrightness
+142.wav,1.0,Change backyard lighting to pink please,[noise] change back liking dripping,SetLightColor
+1420.wav,1.0,entrance lights to pink please,<unk> tubing police,SetLightColor
+1421.wav,0.5714285714285714,entrance should be lit at intensity two,entering should be let intensity to,SetLightBrightness
+1422.wav,0.6,garage lights to red please,garage like to rent,SetLightColor
+1423.wav,1.0,get the bedroom dark,but er,SwitchLightOff
+1424.wav,0.6666666666666666,get the lights on now please,get your life on no me,SwitchLightOn
+1425.wav,1.0,gimme lights in the kitchen,do you really,SwitchLightOn
+1426.wav,0.0,green is what I would like to the lights to be right now,green is what i would like to the lights to be right now,SetLightColor
+1427.wav,1.0,green lights in the living room,brings life into needing gloves,SetLightColor
+1428.wav,0.5,green lights on in living room,you mean like on in living room,SetLightColor
+1429.wav,1.0,have it be less bright,below right,DecreaseBrightness
+143.wav,0.7142857142857143,Change child's bedroom to have red lights.,seems trials bedroom house red light,SetLightColor
+1430.wav,1.0,help me turn down the light,don't don't delayed,DecreaseBrightness
+1431.wav,0.7777777777777778,help me turn down the light in the cellar,made me and don't like in <unk>,DecreaseBrightness
+1432.wav,0.5,hey brighten the bedroom,hey brian in the bedroom,IncreaseBrightness
+1433.wav,0.7777777777777778,"i cannot stand darkness, turn up the brightness now",stay this turner brightness now,IncreaseBrightness
+1434.wav,0.6666666666666666,i need light,need like,SwitchLightOn
+1435.wav,0.625,i need lights on in the kids room,he lives on and the kids were,SwitchLightOn
+1436.wav,0.875,i need to brighten up the meeting room,major your nothing media room,SwitchLightOn
+1437.wav,0.8888888888888888,i want the large meeting room to be blue,i let me being,SetLightColor
+1438.wav,0.6666666666666666,i want to turn the lights,done the lights,SwitchLightOn
+1439.wav,0.75,i want you to make the light dimmer,i won't the <unk>,DecreaseBrightness
+144.wav,1.0,Change color to pink.,huge be,SetLightColor
+1440.wav,0.75,i'd like the patio to get some lightening,i liked the best you will get some lightning,SwitchLightOn
+1441.wav,1.0,illuminate cellar,aluminium seller,SwitchLightOn
+1442.wav,0.5,illuminate the kids room,eliminate the kids around,SwitchLightOn
+1443.wav,0.3333333333333333,in my kids bedroom change the brightness to fifty,in my kids bedroom change the frightening [laughter],SetLightBrightness
+1444.wav,0.125,in my kids room turn the lights off.,my kids room turn the lights off,SwitchLightOff
+1445.wav,0.7777777777777778,in the backyard the lights need to be pink,[noise] in the back yard the lights me think,SetLightColor
+1446.wav,0.8,increase brightness in the lounge,make nest in law,IncreaseBrightness
+1447.wav,0.0,increase brightness in the studio,increase brightness in the studio,IncreaseBrightness
+1448.wav,0.75,increase brightness of lights .,grease brightness right,IncreaseBrightness
+1449.wav,0.4,increase lighting in the garage,sliding in the garage,IncreaseBrightness
+145.wav,0.5,Change kids room lights to pink,change kids run like to be,SetLightColor
+1450.wav,0.6666666666666666,increase the brightness,increases brightness,IncreaseBrightness
+1451.wav,0.6,increase the brightness in here,increase the maintenance you yes,IncreaseBrightness
+1452.wav,0.5,increase the brightness in the basement.,any debate mess in the basement,IncreaseBrightness
+1453.wav,0.4,increase the brightness of entrance,increase the brightness interventions,IncreaseBrightness
+1454.wav,0.16666666666666666,increase the brightness of the garage,increase the brightness up the garage,IncreaseBrightness
+1455.wav,0.8333333333333334,increase the brightness of the lights.,<unk> lights,IncreaseBrightness
+1456.wav,0.0,increase the brightness on the patio.,increase the brightness on the patio,IncreaseBrightness
+1457.wav,1.0,is it possible to turn down the light,finally and don't like,DecreaseBrightness
+1458.wav,0.5,is it possible to turn down the light in the living room,most people don't don't the light in the living room,DecreaseBrightness
+1459.wav,0.0,it's dark in here,it's dark in here,SwitchLightOn
+146.wav,0.5714285714285714,Change laundry room lights to five please.,change the laundry room like five years,SetLightBrightness
+1460.wav,0.4166666666666667,"its getting so dark in here, can you put the lights up",it's getting so dark in here can you put like just,IncreaseBrightness
+1461.wav,0.6,"its pretty bright in here, is there a possibility you can turn the lights down",spring breaking here is a possibility you can turn like stem,DecreaseBrightness
+1462.wav,0.4166666666666667,"its pretty dark here , why didnt you turn the lights up",pretty dark here why don't he turned the lights up,IncreaseBrightness
+1463.wav,0.3076923076923077,"its so dark in here, please turn up the lights just a little",so dark in here these turn out the lights just a little,IncreaseBrightness
+1464.wav,0.7272727272727273,"its way too bright in here, turn down the brightness please",we to brighton here on the brightness please,DecreaseBrightness
+1465.wav,0.8333333333333334,kids bedroom lights to red please,bedroom lives do that peace,SetLightColor
+1466.wav,0.5,kitchen lights on now,lights on our,SwitchLightOn
+1467.wav,0.25,kitchen no more lights,kitchen no more like,SwitchLightOff
+1468.wav,0.75,laundry room brightness five,landed <unk> five,SetLightBrightness
+1469.wav,0.25,laundry room lights on,laundry do lights on,SwitchLightOn
+147.wav,0.4,Change light color to pink,change like color to be,SetLightColor
+1470.wav,0.2,laundry room lights to two,laundry room lights to to,SetLightBrightness
+1471.wav,0.75,let there be light,there'd be like,SwitchLightOn
+1472.wav,1.0,light bulb brightness ten percent,but nothing,SetLightBrightness
+1473.wav,0.4,light on in the bathroom,on the bathroom,SwitchLightOn
+1474.wav,0.3333333333333333,light up garage,why up garage,SwitchLightOn
+1475.wav,1.0,lighting up in the loo,losing off into new,IncreaseBrightness
+1476.wav,0.0,lights are off,lights are off,SwitchLightOff
+1477.wav,0.5714285714285714,lights at seventy-three in the bedroom please.,[noise] like seventy three in the bedroom please,SetLightBrightness
+1478.wav,0.3333333333333333,lights need brightened in the lounge,life need brighton in the lounge,IncreaseBrightness
+1479.wav,0.5,lights off changing room,lights are changing rooms,SwitchLightOff
+148.wav,0.8,Change light color to pink.,like color do being,SetLightColor
+1480.wav,0.4,lights off for entire house,talk for entire house,SwitchLightOff
+1481.wav,0.6,lights off in the garden,nice stuff from the garden,SwitchLightOff
+1482.wav,1.0,lights off in the toilets.,lifestyle from philly,SwitchLightOff
+1483.wav,0.5,lights on,it's on,SwitchLightOn
+1484.wav,1.0,lights on please,john please my please,SwitchLightOn
+1485.wav,0.5,lights should be set at level twenty two,it shouldn't be a level twenty two,SetLightBrightness
+1486.wav,0.14285714285714285,lights way down in small meeting room,it's way down in small meeting room,SwitchLightOff
+1488.wav,0.75,living room lights off,[noise] living room like er,SwitchLightOff
+1489.wav,0.5714285714285714,living room lights on for now please,[noise] living room my son for no please,SwitchLightOn
+149.wav,0.5,Change light level to twenty in the bedroom,change the light levels went in the bedroom,SetLightBrightness
+1490.wav,0.25,lounge lights on please,lounge lights on you,SwitchLightOn
+1491.wav,0.5,lower kids bedroom lights,dudes bedroom lights,DecreaseBrightness
+1492.wav,0.0,lower lights brightness,lower lights brightness,DecreaseBrightness
+1493.wav,1.0,lower the brightness,no <unk>,DecreaseBrightness
+1494.wav,0.8333333333333334,lower the brightness of light bulbs,no wonder vastness of life been,DecreaseBrightness
+1495.wav,0.875,lower the light in the children's play room,little lightning children's flavor,DecreaseBrightness
+1496.wav,1.0,make all kids room lights red colored,need to gainesville like a color,SetLightColor
+1497.wav,0.6666666666666666,make all lights pink in color,<unk> pink color,SetLightColor
+1498.wav,0.4,make it darker in here,making darker in here,DecreaseBrightness
+1499.wav,0.42857142857142855,make it darker in the waiting room,making her in the waiting room,DecreaseBrightness
+15.wav,0.8333333333333334,Adjust the brightness to twenty two.,and the vitamins drinking too,SetLightBrightness
+150.wav,0.7142857142857143,Change lights in garage to level five,translate encouraged level five,SetLightBrightness
+1500.wav,0.25,make it less bright in the bed room,make it less bright in the bedroom,DecreaseBrightness
+1501.wav,0.2,make it lighter in here,make it later in here,IncreaseBrightness
+1502.wav,1.0,make it so the lounge light is pink,me alone i think,SetLightColor
+1503.wav,0.6666666666666666,make lights red,make late,SetLightColor
+1504.wav,1.0,make the light blue,me than i do,SetLightColor
+1505.wav,0.8333333333333334,make the light color to pink,make their like <unk>,SetLightColor
+1506.wav,0.5,make the light pink,make the life,SetLightColor
+1507.wav,1.0,make the light red,me too like read,SetLightColor
+1508.wav,0.2,make the lights go off,make the lights go out,SwitchLightOff
+1509.wav,0.7142857142857143,make the lights red in the office,need the life threatening office,SetLightColor
+151.wav,0.5,Change lights to blue.,change like the blue,SetLightColor
+1510.wav,0.42857142857142855,make the lights to level twenty two,[noise] make the right to level thirty two,SetLightBrightness
+1511.wav,0.2,make the living room lighter,make their living room lighter,IncreaseBrightness
+1512.wav,0.2,make the studio lights brighter,make the studio lights data,IncreaseBrightness
+1513.wav,0.8888888888888888,modify brightness of living room light bulb to seventy-three,modified myself off living room like they do seventy three,SetLightBrightness
+1514.wav,0.5555555555555556,modify the color of all light bulbs into pink,modify the color oh all right well,SetLightColor
+1515.wav,0.5,need light,need right,SwitchLightOn
+1516.wav,0.4,need light in the kitchen,mean like in the kitchen,SwitchLightOn
+1517.wav,0.0,no more light in here,no more light in here,SwitchLightOff
+1518.wav,0.0,pantry light level should be two percent,pantry light level should be two percent,SetLightBrightness
+1519.wav,1.0,pantry lights off.,do you live off,SwitchLightOff
+152.wav,0.75,Change lights to pink,changing like to think,SetLightColor
+1520.wav,0.25,pantry make it dark,country make it dark,SwitchLightOff
+1521.wav,0.0,parking lights on please,parking lights on please,SwitchLightOn
+1522.wav,1.3333333333333333,patio lights please,how do you like please,SwitchLightOn
+1523.wav,0.5,patio lights turned on,audio like turned on,SwitchLightOn
+1524.wav,0.8,pink lights near kitchen please,being life near kentucky,SetLightColor
+1525.wav,1.0,please brighten the lounge,brightens alone,IncreaseBrightness
+1526.wav,0.0,please brighten up the dining room,please brighten up the dining room,SwitchLightOn
+1527.wav,1.0,please dim the lights,we used in the light,DecreaseBrightness
+1528.wav,0.25,please give me lights,please give me the lights,SwitchLightOn
+1529.wav,0.0,please give me lights in the kitchen,please give me lights in the kitchen,SwitchLightOn
+153.wav,0.25,Change lights to red.,change lights to read,SetLightColor
+1530.wav,0.2,please give me some light,please give me some right,SwitchLightOn
+1531.wav,0.625,please give me some light in the kitchen,like in the kitchen,SwitchLightOn
+1532.wav,0.25,please increase the brightness,clean increase the brightness,IncreaseBrightness
+1533.wav,0.5,please increase the light brightness everywhere,increase the librarians everywhere,IncreaseBrightness
+1534.wav,0.16666666666666666,please increase the meeting room brightness,increase the meeting room brightness,IncreaseBrightness
+1535.wav,0.75,please lower basement lights,no basement lakes,DecreaseBrightness
+1536.wav,0.8,please make the light blue,make their life,SetLightColor
+1537.wav,1.0,please make the patio light red,me actually like right [laughter],SetLightColor
+1538.wav,1.0,please need some light,from like,SwitchLightOn
+1539.wav,0.8571428571428571,please need some light in the kitchen,some writing attention,SwitchLightOn
+154.wav,0.2857142857142857,Change loo lights to pink for me,change like to pink for me,SetLightColor
+1540.wav,0.6666666666666666,please some light,some like,SwitchLightOn
+1541.wav,0.8333333333333334,please some light in the kitchen,drink some lightning,SwitchLightOn
+1542.wav,1.0,please switch color of all lights to green,<unk> studied,SetLightColor
+1543.wav,0.5,please switch lights off,switch lights all,SwitchLightOff
+1544.wav,0.8,please switch off lounge lights,<unk> lounge light,SwitchLightOff
+1545.wav,0.6666666666666666,please switch off the kitchen lights after you cook,which often kitchen myself do you cook,SwitchLightOff
+1546.wav,0.0,please switch off the studio lights,please switch off the studio lights,SwitchLightOff
+1547.wav,0.5,"please the increase the brightness, it's too dark",pleased to increase the brightness in too dark,IncreaseBrightness
+1548.wav,0.2857142857142857,please turn down the light for me,least turn down the line for me,DecreaseBrightness
+1549.wav,1.0,please turn lights on,who's turned my dog,SwitchLightOn
+155.wav,0.8333333333333334,Change meeting room lights to pink.,<unk> pink,SetLightColor
+1550.wav,1.0,please turn off laundry room lights,nice during a <unk>,SwitchLightOff
+1551.wav,0.8,please turn off lights everywhere,who's turnoff lanes everywhere,SwitchLightOff
+1552.wav,0.2,please turn off parking lights,please turn off parking light,SwitchLightOff
+1553.wav,0.5,please turn off the house lights,turn around the house like,SwitchLightOff
+1554.wav,0.2,please turn off the lights,turn off the lights,SwitchLightOff
+1555.wav,0.25,please turn off the lights of kids room,please turn off the lights in the room,SwitchLightOff
+1556.wav,0.2,please turn on the lights,turn on the lights,SwitchLightOn
+1557.wav,0.375,please turn on the lights of changing room,you turn on the lights up changing rooms,SwitchLightOn
+1558.wav,0.4444444444444444,please turn the pantry lights to level thirty nine,turn the pantry like eleven thirty nine,SetLightBrightness
+1559.wav,0.5555555555555556,put on the serial bulbs in the dining room,done this year bones in the dining room,SwitchLightOn
+156.wav,0.6666666666666666,Change office lights to pink please.,change office like repeat these,SetLightColor
+1560.wav,0.875,put the lights in the office on green,were delayed now in front of the,SetLightColor
+1561.wav,0.42857142857142855,put the lights on in the vestibule,the lights on the vegetable,SwitchLightOn
+1562.wav,1.0,reduce brightness of light bulbs,[noise] maybe own life but,DecreaseBrightness
+1563.wav,0.3333333333333333,select green light,green light,SetLightColor
+1564.wav,0.7142857142857143,set brightness of all lights to fifty,shut off all like two fifty,SetLightBrightness
+1565.wav,0.8333333333333334,set brightness of house to fifty,said they saw host two fifty,SetLightBrightness
+1566.wav,0.75,set brightness to five,have to fight,SetLightBrightness
+1567.wav,0.6666666666666666,set light at level twenty two,like twenty two,SetLightBrightness
+1568.wav,0.5714285714285714,set the bedroom lights to thirty nine,bedroom my thirty nine,SetLightBrightness
+1569.wav,0.4444444444444444,set the color of meeting room lights to blue,the color a meeting room mates blue,SetLightColor
+1029.wav,0.875,Set the lights to ten in the vestibule,<unk> that's the deal,SetLightBrightness
+103.wav,0.0,Can you please turn down the lights.,can you please turn down the lights,DecreaseBrightness
+1030.wav,0.7142857142857143,Set the lights to the on position,set life to be on the show,SwitchLightOn
+1031.wav,0.3333333333333333,Set the lights to twenty two in the office,satellites to twenty two in the office,SetLightBrightness
+1032.wav,0.42857142857142855,Set the lights to twenty two percent,satellites to twenty two percent,SetLightBrightness
+1033.wav,1.0,Set the lights to zero brightness,life her greatness,SwitchLightOff
+1034.wav,0.5555555555555556,Set the lights to zero brightness in the office,so like dizzy road brightness in the office,SwitchLightOff
+1035.wav,0.8571428571428571,Set the living room's light to twenty,the the leading like empty,SetLightBrightness
+1036.wav,0.8333333333333334,Set the patio lights to five.,it'd be nice to find,SetLightBrightness
+1037.wav,0.625,Set the vestibule lights to level thirty nine,the basketball like i thirty nine,SetLightBrightness
+1038.wav,0.6,Shine some light in here,signs some lightning here,SwitchLightOn
+1039.wav,0.6,Shine some light in here.,some lightning here,SwitchLightOn
+104.wav,0.125,Can you put lights on in the backyard?,can you put lights along in the backyard,SwitchLightOn
+1040.wav,0.5,Shine some lights in the office,shines son lives in the office,SwitchLightOn
+1041.wav,1.0,Shine the lights at level twelve,my life i've never tried to,SetLightBrightness
+1042.wav,1.0,Shut down the kids bedroom lights.,right,SwitchLightOff
+1043.wav,0.0,Shut down the lights.,shut down the lights,SwitchLightOff
+1044.wav,0.42857142857142855,Shut off the lights at the entrance,shut off the lights and insurance,SwitchLightOff
+1045.wav,0.0,Shut off the lights in the garage.,shut off the lights in the garage,SwitchLightOff
+1046.wav,0.7142857142857143,Shut off the lights in the loo.,turtles the lights to know who,SwitchLightOff
+1047.wav,0.6,Shut off the lights please.,shut down the line,SwitchLightOff
+1048.wav,0.2,Shut off the lounge lights,shut off the lounge like,SwitchLightOff
+1049.wav,0.42857142857142855,Shut the lights down in the bathroom,live down in the bathroom,SwitchLightOff
+105.wav,0.6,Can you put the lights to twelve in the cubicle?,you but the last twelve and the recall,SetLightBrightness
+1050.wav,0.42857142857142855,Shut the lights down in the entrance,to live down in the entrance,SwitchLightOff
+1051.wav,0.5,Shut the lights off.,[noise] shut the lights on,SwitchLightOff
+1052.wav,0.4666666666666667,"Sir, in the office please set the connected light bulbs to the brightness of ten.",we're in the office that connected light bulbs too brightness of time,SetLightBrightness
+1053.wav,0.6666666666666666,"Sir, please set the brightness of the connected light bulbs to fifty.",certainly not the brightest something connected light people two fifty,SetLightBrightness
+1054.wav,0.6,Situate the lights to thirty nine percent in the cubicle,since you're into lives two thirty nine percent and the cubicle,SetLightBrightness
+1055.wav,0.5,Stop the lighting in the cubicle,stop planning the cubicle,SwitchLightOff
+1056.wav,1.0,Stop the lights,like,SwitchLightOff
+1057.wav,0.125,Stop the lights from shining in the bathroom,stop the whites from shining in the bathroom,SwitchLightOff
+1058.wav,0.875,Stop the lights from shining in the shed.,i some chinese in michigan,SwitchLightOff
+157.wav,0.16666666666666666,Change the backyard light to green,change the backyard light green,SetLightColor
+1570.wav,1.0,set the intensity of the tubelight to two percent,right,SetLightBrightness
+1571.wav,0.7272727272727273,set the lights in the changing room to level twenty two,like changing rooms or twenty two,SetLightBrightness
+1572.wav,0.625,set the living room lights to ten percent,life to ten percent,SetLightBrightness
+1573.wav,1.0,set the pantry brightness to twenty,hey <unk> gonna be,SetLightBrightness
+1574.wav,0.7142857142857143,seventy-three is what the brightness should be.,seventy three is right should be,SetLightBrightness
+1575.wav,0.2,shut off the kitchen light,shut off the kitchen might,SwitchLightOff
+1576.wav,0.2222222222222222,"so much darkness in here, turn up the bulbs",so much darkness in here turn up the bowls,IncreaseBrightness
+1577.wav,0.5,some light,some white,SwitchLightOn
+1578.wav,0.2,some light in the kitchen,some late in the kitchen,SwitchLightOn
+1579.wav,0.4,some lights in the kitchen,right in the kitchen,SwitchLightOn
+158.wav,1.0,Change the basement brightness to seventy-three.,teams debasement vitamins to seventy three,SetLightBrightness
+1580.wav,0.0,studio lights off,studio lights off,SwitchLightOff
+1581.wav,0.5,studio lights on please,dirty allowance on please,SwitchLightOn
+1582.wav,0.75,switch bathroom lights off,which bathroom i saw,SwitchLightOff
+1583.wav,0.75,switch house lights off.,which house like uh,SwitchLightOff
+1584.wav,1.0,switch lights off,like uh,SwitchLightOff
+1585.wav,0.3333333333333333,switch lights on,which lights on,SwitchLightOn
+1586.wav,0.8,switch lights on in vestibule,switch liaison invested bill,SwitchLightOn
+1587.wav,1.0,switch off laundry room lights,[laughter] like,SwitchLightOff
+1588.wav,0.6,switch off the bathroom lights,she's just the bathrooms lights,SwitchLightOff
+1589.wav,0.4,switch off the lamps please,just the lamps please,SwitchLightOff
+159.wav,0.3333333333333333,Change the basement brightness to two,change the basement brightness too,SetLightBrightness
+1590.wav,0.14285714285714285,switch off the light in the toilet,switch off the late in the toilet,SwitchLightOff
+1591.wav,0.25,switch off the lights,switch all the lights,SwitchLightOff
+1592.wav,1.0,switch off vestibule lights off.,where did you like oh,SwitchLightOff
+1593.wav,0.5,switch the garage light to  pink,switch the garage like a,SetLightColor
+1594.wav,0.25,switch the lamps off,switch the lamps or,SwitchLightOff
+1595.wav,1.0,switch the light to blue,<unk>,SetLightColor
+1596.wav,0.25,take all lights off  as soon as possible,go lights off as soon as possible,SwitchLightOff
+1597.wav,0.5833333333333334,"the backyard is too bright, can you turn it down a little",backyard is to break it down little,DecreaseBrightness
+1598.wav,0.8571428571428571,the bathroom lights need changed to blue,nobody doom need to change to do,SetLightColor
+1599.wav,1.0,the bedroom lights need to glow red,[noise] well they like need loaded,SetLightColor
+16.wav,0.7142857142857143,Adjust the cella lights to twenty two,i just saw like twenty two,SetLightBrightness
+160.wav,1.0,Change the bed room lights to blue,being debated,SetLightColor
+1600.wav,1.0,"the boardroom is done, take off the lights",<unk> he's getting a call tonight,SwitchLightOff
+1601.wav,0.8181818181818182,"the cellar is cold and dark, please turn up the brightness",sellers cold indoor eastern up right now,IncreaseBrightness
+1602.wav,0.16666666666666666,"the house is getting too little light, turn up the brightness please",the house is getting too liberal like turn up the brightness please,IncreaseBrightness
+1603.wav,0.0,the kitchen should not be so bright.,the kitchen should not be so bright,DecreaseBrightness
+1604.wav,0.5,the large meeting room lights needs to be turned off,large many remains to be turned off,SwitchLightOff
+1605.wav,1.0,the light is too bright so turn it down,why is too bright so turn it down the line is too bright so turn it down,DecreaseBrightness
+1606.wav,0.3333333333333333,the lights need to be blue in the studio,likely to be blue in the studio,SetLightColor
+1607.wav,0.5,the loo has too much lights,who has too much flights,DecreaseBrightness
+1608.wav,0.75,"the loo is a little dark, turn up the brightness a little",the little little dark turnout brightness hello,IncreaseBrightness
+1609.wav,0.15384615384615385,"the office has too much light , it needs to be turned down",the office has too much it needs to be turned down,DecreaseBrightness
+161.wav,0.8,Change the brightness of the lights to twenty two percent,i miss the lights drinking do but,SetLightBrightness
+1610.wav,0.5,"the office is a little too dark, please turn on the lights",offices the little too dark news turn on the lights,IncreaseBrightness
+1611.wav,0.0,the parking area need the lights off,the parking area need the lights off,SwitchLightOff
+1612.wav,0.8,the shed needs more light,suddenly it's more like,IncreaseBrightness
+1613.wav,0.3076923076923077,"the sun is going down and its getting dark, turn the lights up",son is going down and it's getting dark turn the lights up,IncreaseBrightness
+1614.wav,0.3333333333333333,"the toilets are too bright, turn the lights down",toilets or too bright turn the lights down,DecreaseBrightness
+1615.wav,0.4166666666666667,"there is no one in the living room, take the lights off",there is no one in the living room to collect dolls,SwitchLightOff
+1616.wav,0.46153846153846156,"this entire appartment is in darkness, you need to turn the brightness up",this entire apartment isn't darkness you need to turn the light brightness so,IncreaseBrightness
+1617.wav,0.7272727272727273,"this room is pretty dark, why ? just turn the brightness up",room is pretty darn just turned down there right now,IncreaseBrightness
+1618.wav,0.14285714285714285,toilet light change to level thirty nine,toilet like change to level thirty nine,SetLightBrightness
+1619.wav,1.0,turn all kitchen lights to pink color,nineteen ninety two being gonna,SetLightColor
+162.wav,0.4444444444444444,Change the brightness to fifty in the entire appartment,change some brightness in the entire apartment,SetLightBrightness
+1620.wav,0.42857142857142855,turn all light bulbs into pink color,turn all laid off into color,SetLightColor
+1621.wav,0.25,turn bathroom lights up,term bathroom lights up,IncreaseBrightness
+1622.wav,1.0,turn bedroom red,don't do it,SetLightColor
+1623.wav,0.3333333333333333,turn down lighting in the pantry,and then lighting in the pantry,DecreaseBrightness
+1624.wav,0.5,turn down lights everywhere,turned down my everywhere,DecreaseBrightness
+1625.wav,0.875,turn down the brightness level of light bulbs,doing down i miss living life but,DecreaseBrightness
+1626.wav,0.5,turn down the lamps a bit,turned down the lamps with it,DecreaseBrightness
+1627.wav,0.875,turn down the lights a tad bit please,no i just had big please,DecreaseBrightness
+1628.wav,1.0,turn down the lights in the entrance room,and don't relate to that and so,DecreaseBrightness
+1629.wav,1.0,turn it blue,i don't either,SetLightColor
+163.wav,0.8571428571428571,Change the brightness to thirty nine percent,he needs to be nine one one,SetLightBrightness
+1630.wav,0.6666666666666666,turn lights red,the lights,SetLightColor
+1631.wav,0.6,turn lights up in house,<unk> in house,IncreaseBrightness
+1632.wav,1.0,turn off all bedroom lamps please,and i've always been <unk>,SwitchLightOff
+1633.wav,0.8,turn off bed room lights,turn our bedroom right,SwitchLightOff
+1634.wav,1.0,turn off dining room lights.,i dunno ninety nine,SwitchLightOff
+1635.wav,1.0,turn off lights in loo,right,SwitchLightOff
+1636.wav,0.25,turn off the lamps,and off the lamps,SwitchLightOff
+1637.wav,0.25,turn off the lights,turn off the light,SwitchLightOff
+1638.wav,0.2857142857142857,turn off the lights in the bedroom,all the lights in the bedroom,SwitchLightOff
+1639.wav,1.0,turn off toilet lights,dunno garnered nights,SwitchLightOff
+164.wav,0.6,Change the brightness to twenty.,change the vitamins trendy,SetLightBrightness
+1640.wav,1.0,turn office light to thirty nine,also,SetLightBrightness
+1641.wav,0.5,turn on kitchen lights,fernando on kitchen light,SwitchLightOn
+1642.wav,1.0,turn on the changing room lights,tournaments hanging for months,SwitchLightOn
+1643.wav,0.4,turn on the garden lights,turner in the garden lights,SwitchLightOn
+1644.wav,1.0,turn on the lights,mhm,SwitchLightOn
+1645.wav,1.0,turn on the lights in the bathroom,mhm,SwitchLightOn
+1646.wav,0.875,turn on the lights in the children room,<unk> children,SwitchLightOn
+1647.wav,0.6,turn on the lights urgently,the lights originally,SwitchLightOn
+1648.wav,1.25,turn studio lights on,i don't do the allies,SwitchLightOn
+1649.wav,1.0,turn the basement lights blue,mhm,SetLightColor
+165.wav,0.2,Change the brightness to two.,change the brightness to to,SetLightBrightness
+1650.wav,1.25,turn the brightness down,trying to break the stem,DecreaseBrightness
+1651.wav,0.625,turn the garden lights to brightness two please,from the garden like brightness do these,SetLightBrightness
+1652.wav,0.4,turn the house light pink,ten the house like pink,SetLightColor
+1653.wav,0.7142857142857143,turn the light down in the backyard,and lay down in the back yard,DecreaseBrightness
+1654.wav,0.42857142857142855,turn the light down in the bedroom,the don't in the bedroom,DecreaseBrightness
+1655.wav,0.5714285714285714,turn the light down in the patio,turn the lights down into deal,DecreaseBrightness
+1656.wav,0.0,turn the lights down,turn the lights down,DecreaseBrightness
+1657.wav,1.0,turn the lights off,who actually,SwitchLightOff
+1658.wav,0.8,turn the lights to red,well the lab's name,SetLightColor
+1659.wav,0.25,turn the lights up,turn the lights light,IncreaseBrightness
+166.wav,0.625,Change the bulbs to twelve percent in brightness,change the bulbs to talk for that right now,SetLightBrightness
+1660.wav,1.0,turn the tree lights pink,to like think,SetLightColor
+1661.wav,0.2,turn up light in basement,turn up late in basement,IncreaseBrightness
+1662.wav,0.8,turn up lights in flat,blatant flat,IncreaseBrightness
+1663.wav,0.0,turn up the brightness,turn up the brightness,IncreaseBrightness
+1664.wav,0.0,turn up the brightness in the patio,turn up the brightness in the patio,IncreaseBrightness
+1665.wav,0.5714285714285714,turn up the brightness in the studio,and i'm <unk> in the studio,IncreaseBrightness
+1666.wav,0.5714285714285714,turn up the lights in the kitchen.,down delayed in the kitchen,IncreaseBrightness
+1667.wav,0.25,why is everywhere so dark ? you need to turn up the brightness,why is everywhere so or need to turn off the brightness,IncreaseBrightness
+1668.wav,0.15384615384615385,"why is it so bright in here, please turn it down a notch",why is it so bright here please turn it down a notch,DecreaseBrightness
+1669.wav,0.38461538461538464,why is there no lights in the waiting room ? turn it up please,there are no lights in the waiting room turning up please,IncreaseBrightness
+167.wav,1.0,Change the color of lights to red,<unk>,SetLightColor
+1670.wav,0.5555555555555556,will you turn the brightness to level thirty nine,turner brightness level thirty nine,SetLightBrightness
+168.wav,0.25,Change the color of the lights to blue in the dining room.,change the color of the life to blue and the dining out,SetLightColor
+169.wav,0.5,Change the color of the lights to blue.,change the color blue,SetLightColor
+17.wav,0.45454545454545453,Adjust the changing room intensity of the lighting to two percent,just change your intensity of the lighting two percent,SetLightBrightness
+170.wav,0.5,Change the color of the lights to green,change the coronado that late to green,SetLightColor
+171.wav,1.0,"Change the color of the lights to pink, please.",<unk>,SetLightColor
+172.wav,0.0,Change the color to blue,change the color to blue,SetLightColor
+173.wav,0.4,Change the colors to pink,change the colors big,SetLightColor
+174.wav,0.14285714285714285,Change the cubicle lights up to ten,change a cubicle lights up to ten,SetLightBrightness
+175.wav,0.3333333333333333,Change the garage lights to pink.,change the garage likes to pick,SetLightColor
+176.wav,0.0,Change the kids bedroom lightbulb color to green,change the kids bedroom lightbulb color to green,SetLightColor
+177.wav,0.16666666666666666,Change the kitchen lights to green.,change the kitchen lives to green,SetLightColor
+178.wav,0.5714285714285714,Change the laundry room color to green,stealing the laundry room governor don't need,SetLightColor
+179.wav,0.8571428571428571,Change the laundry room lights to green.,changed the law like degrading,SetLightColor
+18.wav,0.5555555555555556,Adjust the glow of the bulb to level two,just the globe the ball to level too,SetLightBrightness
+180.wav,0.8571428571428571,Change the laundry room lights to red.,the longer the real nice today,SetLightColor
+181.wav,0.25,Change the light blue.,change that light blue,SetLightColor
+182.wav,0.7142857142857143,Change the light color to pink please,change that kinda being please,SetLightColor
+183.wav,0.5,Change the light setting to on,[noise] change the light betting on,SwitchLightOn
+184.wav,0.0,Change the light to blue,change the light to blue,SetLightColor
+185.wav,0.6,Change the light to pink,change the nice thing,SetLightColor
+186.wav,0.8,Change the light to pink?,like to think,SetLightColor
+187.wav,0.1111111111111111,Change the lighting of the pantry to thirty nine,change the lighting of the pantry two thirty nine,SetLightBrightness
+188.wav,0.8,Change the lighting to dim.,the beam,DecreaseBrightness
+189.wav,0.625,Change the lighting to fifty. in the facilities,letting do fifty the facilities,SetLightBrightness
+19.wav,0.2857142857142857,Adjust the kids room lighting to ten.,just the kids lighting to ten,SetLightBrightness
+190.wav,0.75,Change the lights green,like green,SetLightColor
+191.wav,0.1111111111111111,Change the lights in the child's bedroom to pink.,change the lights in the child's bedroom to think,SetLightColor
+192.wav,0.25,Change the lights in the entrance to blue,change the lights and the insurance to blue,SetLightColor
+193.wav,0.0,Change the lights in the kids bedroom to blue.,change the lights in the kids bedroom to blue,SetLightColor
+194.wav,0.4444444444444444,Change the lights in the parking area to green.,changed their lives in the parking area green,SetLightColor
+195.wav,0.42857142857142855,Change the lights in the parking room,lights in the court room,SwitchLightOff
+196.wav,0.8571428571428571,Change the lights in the toilet green,and then a dynamic green,SetLightColor
+197.wav,0.4,Change the lights into blue.,the into blue,SetLightColor
+198.wav,0.3333333333333333,Change the lights to green please.,change the light's green please,SetLightColor
+199.wav,0.6666666666666666,Change the lights to pink please,change the race tipping cleaves,SetLightColor
+2.wav,0.6666666666666666,Activate garden lights,active garden light,SwitchLightOn
+20.wav,0.2222222222222222,Adjust the laundry room lighting to level thirty nine,just the laundry room lighting level thirty nine,SetLightBrightness
+200.wav,1.0,Change the lights to pink.,i mean,SetLightColor
+201.wav,0.2,Change the lights to red,change the lights to read,SetLightColor
+202.wav,0.4444444444444444,Change the lights to red in the parking section,relate to read in the parking section,SetLightColor
+203.wav,0.2857142857142857,Change the living room lights to twenty.,change the living room like twenty,SetLightBrightness
+204.wav,0.3333333333333333,Change the office light to pink,change the office like to make,SetLightColor
+205.wav,1.0,Change the office lights to fifty.,you know it's like [laughter],SetLightBrightness
+206.wav,0.0,Change the parking room to green,change the parking room to green,SetLightColor
+207.wav,0.42857142857142855,Change the vestibule lighting to two percent,change the vegetable whiting through two percent,SetLightBrightness
+208.wav,0.3333333333333333,Change the yard lights to green,change the yard like do green,SetLightColor
+209.wav,0.6666666666666666,Change toilets light color to red,portland like color to read,SetLightColor
+21.wav,0.5714285714285714,Adjust the lighting to level twenty two,just the lighting the level too,SetLightBrightness
+210.wav,0.25,Click on the lights,click on the lake,SwitchLightOn
+211.wav,0.4,Color change lights to red,color change like to read,SetLightColor
+212.wav,1.0,Color lights pink,late spring,SetLightColor
+213.wav,0.6666666666666666,Color lights red,colored lights read,SetLightColor
+214.wav,0.6,Color the kids bedroom red,<unk> the kids to read,SetLightColor
+215.wav,1.0,Color the lights red,oh in the long run,SetLightColor
+216.wav,0.3076923076923077,Could you change the brightness of the lights on the patio to seventy-three?,change the brightness of the lights on the patio to seventy three,SetLightBrightness
+217.wav,0.42857142857142855,Could you change the light to red,could you change to like to read,SetLightColor
+218.wav,0.375,Could you increase the brightness of the lights?,and you increase the brightest of the light,IncreaseBrightness
+219.wav,0.6,Could you increase the light brightness in the dining room?,<unk> in the dining room,IncreaseBrightness
+22.wav,0.2857142857142857,Adjust the lights so it's less bright,just the light so it's less bright,DecreaseBrightness
+220.wav,0.3333333333333333,Could you make the lights in the basement brighter?,can you make too much in the basement brighter,IncreaseBrightness
+221.wav,0.42857142857142855,Could you please turn my lights on?,degrees turn my lights on,SwitchLightOn
+222.wav,0.7777777777777778,"Could you please turn the lights on, I'm home.",when you be going on i'm,SwitchLightOn
+223.wav,0.5,Could you switch on some lights?,you switch on tonight,SwitchLightOn
+224.wav,0.75,Could you turn down the bed room lights?,could you doing tonight,DecreaseBrightness
+225.wav,0.14285714285714285,Could you turn the lights on please,you turn the lights on please,SwitchLightOn
+226.wav,1.0,Cut off power to the garden lights.,i didn't,SwitchLightOff
+227.wav,0.4,Cut the waiting room lights.,the waiting room mates,SwitchLightOff
+228.wav,0.5,Darken the waiting room,dark in the waiting room,SwitchLightOff
+229.wav,1.0,Decrease brightness,right,DecreaseBrightness
+23.wav,0.8571428571428571,Adjust the lights to the off setting.,just like the almost any,SwitchLightOff
+230.wav,0.5,Decrease brightness in bedroom,decreased brightness in room,DecreaseBrightness
+231.wav,0.0,Decrease brightness in boardroom by one third.,decrease brightness in boardroom by one third,DecreaseBrightness
+232.wav,0.0,Decrease brightness please,decrease brightness please,DecreaseBrightness
+233.wav,0.4,Decrease light brightness in kitchen,decreased light brightness in get,DecreaseBrightness
+234.wav,0.5,Decrease light brightness please,decreased like brightness please,DecreaseBrightness
+235.wav,0.75,Decrease lights in house.,greek flights in hills,DecreaseBrightness
+236.wav,0.0,Decrease the brightness,decrease the brightness,DecreaseBrightness
+237.wav,0.5,Decrease the brightness of the bulbs.,decrease the prime minister bulbs,DecreaseBrightness
+239.wav,0.875,Decrease the brightness of the lights in shed.,stubbornness and shed,DecreaseBrightness
+24.wav,0.375,Adjust the living room brightness to level two,just the living room brightness level too,SetLightBrightness
+240.wav,1.0,Decrease the brightness please.,<unk>,DecreaseBrightness
+241.wav,0.16666666666666666,Decrease the intensity of the lights,decrease the intensity of the like,DecreaseBrightness
+242.wav,0.2,Decrease the intensity of the lights in the kids bedroom,increase the intensity of the lights in the bedroom,DecreaseBrightness
+243.wav,0.2857142857142857,Decrease the intensity of the pantry lighting,decrease intensity of pantry lighting,DecreaseBrightness
+244.wav,0.0,Decrease the light brightness in the cubicle,decrease the light brightness in the cubicle,DecreaseBrightness
+245.wav,0.25,Decrease the light intensity,decrease the late intensity,DecreaseBrightness
+246.wav,0.14285714285714285,Decrease the light intensity in the entrance,decrease the light intensity and the entrance,DecreaseBrightness
+247.wav,0.3333333333333333,Decrease the light intensity in the entrance to zero,decrease see like city in the entrance to zero,SwitchLightOff
+248.wav,0.14285714285714285,Decrease the light intensity in the office,decrease the late intensity in the office,DecreaseBrightness
+249.wav,0.2222222222222222,Decrease the light intensity in the vestibule to zero,decrease the light and see in the vestibule to zero,SwitchLightOff
+25.wav,0.6666666666666666,Adjust the pantry light to blue,i just like to blue,SetLightColor
+250.wav,0.3333333333333333,Decrease the light intensity to zero,decrease sunlight intensity to zero,SwitchLightOff
+251.wav,0.42857142857142855,Decrease the lighting in the laundry room,increase delighting in the laundry room,DecreaseBrightness
+252.wav,0.0,Decrease the lighting so it's not so bright,decrease the lighting so it's not so bright,DecreaseBrightness
+253.wav,0.0,Decrease the lights intensity  in my bedroom balcony,decrease the lights intensity in my bedroom balcony,DecreaseBrightness
+254.wav,0.3333333333333333,Dim lights please,damn lights please,DecreaseBrightness
+255.wav,0.6666666666666666,Dim lights please.,the major please,DecreaseBrightness
+256.wav,1.0,Dim the kids room,being,DecreaseBrightness
+257.wav,0.42857142857142855,Dim the light in the kids bedroom,the in the bedroom,DecreaseBrightness
+258.wav,0.125,Dim the lighting completely in the waiting room,the lighting completely in the waiting room,SwitchLightOff
+259.wav,0.3333333333333333,Dim the lights,getting the lights,DecreaseBrightness
+26.wav,0.875,Adjust the pantry lighting to level thirty nine,[noise] i actually liking eleven twenty nine,SetLightBrightness
+260.wav,0.125,Dim the lights completely in the living room,can the lights completely in the living room,SwitchLightOff
+261.wav,0.2,Dim the lights for me,then the lights for me,DecreaseBrightness
+262.wav,0.0,Dim the lights in the backyard.,dim the lights in the backyard,DecreaseBrightness
+263.wav,0.16666666666666666,Dim the lights in the bathroom,then the lights in the bathroom,DecreaseBrightness
+264.wav,0.3333333333333333,Dim the lights in the garage.,and the line in the garage,DecreaseBrightness
+265.wav,0.14285714285714285,Dim the lights in the living room,getting the lights in the living room,DecreaseBrightness
+266.wav,0.5,Dim the lights please,then the lights place,DecreaseBrightness
+267.wav,1.0,Dim the lights please.,right,DecreaseBrightness
+268.wav,1.0,Dim the lights.,didn't like,DecreaseBrightness
+269.wav,0.5,Dim the studio lighting,then the studio letting,DecreaseBrightness
+27.wav,0.625,Adjust the toilet lighting to the two setting,to the to setting,SetLightBrightness
+270.wav,0.5555555555555556,Do me a favor and turn the lights on,new media said and done the lights on,SwitchLightOn
+271.wav,0.625,Do turn on my bed room lights now,do turner my bedroom like now,SwitchLightOn
+272.wav,0.1,Don't forget to turn off the lights in the studio,oh forget to turn off the lights in the studio,SwitchLightOff
+273.wav,0.8333333333333334,Eliminate the entrance lights from shining,lemonade and translate shining,SwitchLightOff
+274.wav,0.0,Eliminate the lighting,eliminate the lighting,SwitchLightOff
+275.wav,0.5,End the lights from shining in the cubicle,underlying from shining and the cubicle,SwitchLightOff
+276.wav,0.3333333333333333,Ensure the lights are off in the waiting room,i'm sure the lights are all in the waiting room,SwitchLightOff
+277.wav,0.8,Find the bulbs for the cellar and turn them up,trying to <unk> done them up,IncreaseBrightness
+278.wav,0.75,Get me more light,more like,IncreaseBrightness
+279.wav,0.8571428571428571,Get me some lights in the kitchen,[noise] get to meet some lives in it and,SwitchLightOn
+28.wav,0.7142857142857143,Adjust the toilets lights to twenty two.,the slaves to getting,SetLightBrightness
+280.wav,0.625,Get rid of the lights in the bathroom,<unk> in the bathroom,SwitchLightOff
+281.wav,0.4,Get the cellar lights on,good cellar lights on,SwitchLightOn
+282.wav,0.1111111111111111,Get the laundry room lights up to twenty two,get the laundry room lined up to twenty two,SetLightBrightness
+283.wav,0.5,Get the lights on,[noise] got the lights on,SwitchLightOn
+284.wav,0.6,Get the lights on please,got the last on you,SwitchLightOn
+285.wav,0.5714285714285714,Get the living room lights on please,that the living room i thought,SwitchLightOn
+286.wav,0.2,Get the room brighter please.,[noise] get the room brighter please,IncreaseBrightness
+287.wav,0.16666666666666666,Give me more light in here,give me my light in here,IncreaseBrightness
+288.wav,0.5714285714285714,Give me more light in the bathroom,you mean more like in the bedroom,IncreaseBrightness
+289.wav,0.25,Give me pink lights.,gives me pink lights,SetLightColor
+29.wav,0.8333333333333334,Adjust the toilets lights to twenty.,i guess our lives to plenty,SetLightBrightness
+290.wav,0.45454545454545453,Go ahead and turn the large meeting room light to pink,go ahead and turn the watch meeting like,SetLightColor
+291.wav,0.1,Go ahead and turn the laundry room lights up brighter,go ahead and turn the laundry room lights up writer,IncreaseBrightness
+292.wav,0.14285714285714285,Go straight and turn on the lights,go straight and turn on the light,SwitchLightOn
+293.wav,0.5,"Google, please shut off all lights",go go please shut off the lights,SwitchLightOff
+294.wav,0.75,"Google, shut off lights",google set off like,SwitchLightOff
+295.wav,1.0,Have the kitchen lights at lower brightness,you can buy the right,DecreaseBrightness
+296.wav,0.8,Have the lights colored blue,oh it's calling blue,SetLightColor
+297.wav,0.2,Have the lights turn blue,have the lights turned blue,SetLightColor
+298.wav,0.5,Help me change the color blue,meaning the color blue,SetLightColor
+299.wav,1.0,Help me decrease the brighenss in backyard,i mean nuclear brightness in back uh,DecreaseBrightness
+3.wav,1.0,Activate lights.,activity like,SwitchLightOn
+30.wav,0.42857142857142855,"Alexa, please turn off lights in backyard",<unk> turned off lights in backyard,SwitchLightOff
+300.wav,0.375,Help me dim the light in the pantry,them the light in the pantry,DecreaseBrightness
+301.wav,0.2,Help me dim the lights,told me dim the lights,DecreaseBrightness
+302.wav,0.6666666666666666,Help me dim the lights please.,helped me demoralized please,DecreaseBrightness
+303.wav,0.45454545454545453,Help me make it so the light is not so bright,make it so daylight is not too bright,DecreaseBrightness
+304.wav,1.0,Help me make the entire appartment red,hey mimi then dyed apartment right,SetLightColor
+305.wav,0.14285714285714285,Help me make the entire house pink,help me make the entire house,SetLightColor
+306.wav,0.6666666666666666,Help me make the light brighter,me me the right burger,IncreaseBrightness
+307.wav,0.0,Help me make the light green.,help me make the light green,SetLightColor
+308.wav,0.5,Help me make the light red,oh me makes the light read,SetLightColor
+309.wav,0.0,Help me put on the lights,help me put on the lights,SwitchLightOn
+31.wav,0.3,Are you able to change the lights to turn green?,are you able to change the light turns green,SetLightColor
+310.wav,1.0,Help me set the brighness to twelve,<unk>,SetLightBrightness
+311.wav,0.625,Help me set the entrance light to two,help me and translate to,SetLightBrightness
+312.wav,0.7142857142857143,Help me set the lights to fifty.,how does the lifestyle fifty,SetLightBrightness
+313.wav,0.8571428571428571,Help me set the lights to twenty,we <unk> twenty,SetLightBrightness
+314.wav,0.8571428571428571,Help me turn on the light please,hi dawn on me,SwitchLightOn
+315.wav,0.8333333333333334,Help me turn the light on,he'll meat done delayed on,SwitchLightOn
+316.wav,0.42857142857142855,"Hey google, Cut lights in the kitchen",<unk> lights in the kitchen,SwitchLightOff
+317.wav,0.5555555555555556,"Hey, let's get the light brightness lower in here.",hey russ get the line right this lower in here,DecreaseBrightness
+318.wav,0.18181818181818182,I don't prefer the living room lights to be on anymore,i don't prefer the living room might be on anymore,SwitchLightOff
+319.wav,0.125,I don't want it to be so bright,i don't want it to be so great,DecreaseBrightness
+32.wav,0.14285714285714285,"Assistant, I need my cubicle lights on.",assistant i need my cubicle lights on,SwitchLightOn
+320.wav,0.125,I don't want it to be this bright,i don't want it to be this bryant,DecreaseBrightness
+321.wav,0.4444444444444444,I don't want the backyard lights to be on.,i don't want backyard lights beyond,SwitchLightOff
+322.wav,0.0,I don't want the bedroom to be so bright,i don't want the bedroom to be so bright,DecreaseBrightness
+323.wav,0.2857142857142857,I don't want the lights on anymore,i don't want the lights on any more,SwitchLightOff
+324.wav,0.5,I don't want the lights on in the cella anymore,i don't want live on anymore,SwitchLightOff
+325.wav,0.0,I don't want the lights on.,i don't want the lights on,SwitchLightOff
+326.wav,0.18181818181818182,I don't want the lights to shine in the living room,i don't want that likes to shine in the living room,SwitchLightOff
+327.wav,0.08333333333333333,I don't want there to be any light on in the office,i don't want there to be any late on in the office,SwitchLightOff
+328.wav,0.3333333333333333,I don't want there to be lights on anymore,i don't want there to be like on any more,SwitchLightOff
+329.wav,1.0,I need a brightness setting of twelve in the pantry.,hi nina basements acting oh great independently,SetLightBrightness
+33.wav,0.2,"Assistant, turn my lights on.",didn't turn my lights on,SwitchLightOn
+330.wav,1.0,I need brighter lighting in the bedroom.,runner lining their bedrooms,IncreaseBrightness
+331.wav,0.5555555555555556,I need it to be brighter in the cubicle,needed to be brighter cubicle,IncreaseBrightness
+332.wav,1.0,I need lighting,writing,SwitchLightOn
+333.wav,0.3333333333333333,I need lighting in the kitchen,i need a lady in the kitchen,SwitchLightOn
+334.wav,0.2857142857142857,I need lights on over the toilets,i mean like on over the toilets,SwitchLightOn
+335.wav,0.5,I need more light,need more like,IncreaseBrightness
+336.wav,0.4,I need more light here,i need my life here,IncreaseBrightness
+337.wav,0.0,I need my bedroom brighter now,i need my bedroom brighter now,IncreaseBrightness
+338.wav,0.3333333333333333,I need my bedroom lights lower.,need my bedroom much lower,DecreaseBrightness
+339.wav,0.375,I need my pantry set at ten brighntess,i mean my pantry shed at ten brightness,SetLightBrightness
+34.wav,0.6666666666666666,Augment the brightness of the lights,rent the rightness or lights,IncreaseBrightness
+340.wav,0.42857142857142855,I need pink lighting in the office.,i need being play being in the office,SetLightColor
+341.wav,0.6,I need some light please,some like please,SwitchLightOn
+342.wav,0.125,I need some light please in the kitchen,i need some like please in the kitchen,SwitchLightOn
+343.wav,0.25,I need some lights,i need some life,SwitchLightOn
+344.wav,0.0,I need some lights in the kitchen,i need some lights in the kitchen,SwitchLightOn
+345.wav,0.42857142857142855,I need some more light in here.,i mean some more lives here,IncreaseBrightness
+346.wav,0.5714285714285714,I need the cella light turned off.,i need to like turned down,SwitchLightOff
+347.wav,0.0,I need the light,i need the light,SwitchLightOn
+348.wav,0.2857142857142857,I need the light in the kitchen,the light in the kitchen,SwitchLightOn
+349.wav,0.42857142857142855,I need the light to be brighter,the right to be brighter,IncreaseBrightness
+35.wav,0.42857142857142855,Augment the brightness of the waiting room,oh man brightness the waiting room,IncreaseBrightness
+350.wav,0.5714285714285714,I need the light to be increased,needs to be increased,IncreaseBrightness
+351.wav,0.25,I need the lighting cranked up a little.,i mean the lying cranked up a little,IncreaseBrightness
+352.wav,0.7692307692307693,I need the lights in my kids bedroom to be set at twenty.,need that lives in like the be,SetLightBrightness
+353.wav,0.45454545454545453,I need the lights in the kids room to be pink,i mean the lights in the game room do you think,SetLightColor
+354.wav,0.6,I need the lights near the toilets to be brighter,i need to me near the guy next to be but i,IncreaseBrightness
+355.wav,0.1111111111111111,I need the lights off in the changing room,i need the lights off in the changing rooms,SwitchLightOff
+356.wav,0.125,I need the lights off in the entrance,i need the laid off in the entrance,SwitchLightOff
+357.wav,0.25,I need the lights to be blue now.,i mean the life to be blue now,SetLightColor
+358.wav,0.42857142857142855,I need the lights to be blue.,i need to like be blue,SetLightColor
+359.wav,0.5714285714285714,I need the lights to be brighter,needs to be brighter,IncreaseBrightness
+36.wav,0.5555555555555556,Be sure that all of the lighting is off,show that all the level of lighting is off,SwitchLightOff
+360.wav,0.5714285714285714,I need the lights to be dimmed.,i mean delighted to be damned,DecreaseBrightness
+361.wav,0.25,I need the lights turned down a bit,i need the lights turned down it,DecreaseBrightness
+362.wav,0.1111111111111111,I need the lights turned off in the vestibule,need the lights turned off in the vestibule,SwitchLightOff
+363.wav,0.14285714285714285,I need the room to be blue?,need the room to be blue,SetLightColor
+364.wav,0.7,I need the shed to have the lighting on fifty.,i need a new the like being on frisky,SetLightBrightness
+365.wav,0.14285714285714285,I need to lamps all off now,i need to all off now,SwitchLightOff
+1059.wav,0.0,Stop the lights to be on,stop the lights to be on,SwitchLightOff
+106.wav,0.0,Can you raise the lights in the toilets,can you raise the lights in the toilets,IncreaseBrightness
+1060.wav,0.0,Stop the lights.,stop the lights,SwitchLightOff
+1061.wav,0.75,Switch all of the lights to the off position in the vestibule,which all of her life all position invested you'll,SwitchLightOff
+1062.wav,0.8,Switch light color to blue,shoot late to move,SetLightColor
+1063.wav,0.0,Switch my lights on now,switch my lights on now,SwitchLightOn
+1064.wav,0.4,Switch off all exterior lighting.,switch little exterior lighting,SwitchLightOff
+1065.wav,0.8333333333333334,Switch off small meeting room lights.,they just meeting tonight,SwitchLightOff
+1066.wav,1.0,Switch off the garage lights.,[noise] just like,SwitchLightOff
+1067.wav,0.5,Switch off the lights,which off the light,SwitchLightOff
+1068.wav,0.7,Switch off the lights after we leave for the trip,switch on line after we were <unk>,SwitchLightOff
+1069.wav,0.4,Switch off the shed lights.,dropped the shed lights,SwitchLightOff
+107.wav,0.6666666666666666,Can you set a pink light in the basement?,who said it's great in the basement,SetLightColor
+1070.wav,0.4,Switch on my backyard lighting,joan my backyard lighting,SwitchLightOn
+1071.wav,0.3333333333333333,Switch on my cubicle light please,switch on my cubicle lately is,SwitchLightOn
+1072.wav,0.4,Switch on my garden lights,on my garden like,SwitchLightOn
+1073.wav,0.25,Switch on the lights in the kids bedroom.,switch the lights and the kids bedroom,SwitchLightOn
+1074.wav,0.5,Switch on the lights.,on the light,SwitchLightOn
+1075.wav,0.2,Switch on the studio light,switch on the studio like,SwitchLightOn
+1076.wav,0.8,Switch the light to green,i used to be,SetLightColor
+1077.wav,0.25,Switch the lights green.,switch the light's green,SetLightColor
+1078.wav,0.375,Switch the lights to blue in the bedroom,switch to watch the blue in the bedroom,SetLightColor
+1079.wav,0.375,Switch the lights to dark in the pantry,switch to lives too dark in the pantry,SwitchLightOff
+108.wav,0.75,Can you set the basement lights to five?,can you to be life,SetLightBrightness
+1080.wav,0.3333333333333333,Switch the toilet light to red,switch the toilet like to read,SetLightColor
+1081.wav,0.5,Switch to red lights,switched to red light,SetLightColor
+1082.wav,0.5714285714285714,TURN ON THE LIGHTS OF kids bedroom,on the like the bedroom,SwitchLightOn
+1083.wav,0.0,The basement is too bright.,the basement is too bright,DecreaseBrightness
+1084.wav,0.5714285714285714,The basement lights must be switched on,from lights must be switch done,SwitchLightOn
+1085.wav,0.9,"The bed room light are too bright, lower the brightness",bedroom laid or too bright the with the rightness,DecreaseBrightness
+1086.wav,0.625,The bed room lights need a brighter illumination,the bedroom my brighter illumination,IncreaseBrightness
+1087.wav,0.1111111111111111,The bedroom lights need to be brighter right now,the bedroom lives need to be brighter right now,IncreaseBrightness
+1088.wav,0.1111111111111111,The brightness in the studio should be twenty two,brightness in the studio should be twenty two,SetLightBrightness
+366.wav,0.25,I need to lamps all off now please,i need to lamps off no please,SwitchLightOff
+367.wav,0.18181818181818182,I need you to increase the intensity of the backyard lights,i need you to increase intensity of the backyard light,IncreaseBrightness
+368.wav,0.8181818181818182,I need you to turn the lights off in the basement,i mean you don't like all these make,SwitchLightOff
+369.wav,0.375,I prefer if the lights are on now,for the lights are on now,SwitchLightOn
+37.wav,0.2,Be sure the light intensity is set to twelve percent,be sure the light intensity upset to twelve percent,SetLightBrightness
+370.wav,0.14285714285714285,I should like to see red lights.,i should like to see red light,SetLightColor
+371.wav,0.1,I think all the lights should be on twenty two.,i think all the it should be on twenty two,SetLightBrightness
+372.wav,0.2222222222222222,I think the lights should be on by now,i think it should be on by now,SwitchLightOn
+373.wav,0.14285714285714285,I think the lights should be pink.,i think the line should be pink,SetLightColor
+374.wav,0.0,I want blue light,i want blue light,SetLightColor
+375.wav,0.75,I want blue lights,i was like,SetLightColor
+376.wav,0.5,I want green light,i want be like,SetLightColor
+377.wav,0.6666666666666666,I want it less bright now,less break now,DecreaseBrightness
+378.wav,0.5,I want it pink in here,i wanted to in here,SetLightColor
+379.wav,0.2222222222222222,I want it to be brighter in the cella,i want it to be brighter in iowa,IncreaseBrightness
+38.wav,0.2,Be sure the lights are completely darkened by the toilet,be sure the lights are completely dark in by the toilet,SwitchLightOff
+380.wav,0.5,I want less brightness,[noise] i watch less brightness,DecreaseBrightness
+381.wav,0.0,I want less light,i want less light,DecreaseBrightness
+382.wav,0.375,I want less light in the waiting room,i one last night in the waiting room,DecreaseBrightness
+383.wav,0.7272727272727273,I want level twelve to be the setting for the brightness,i wanted to be distracting me,SetLightBrightness
+384.wav,0.8333333333333334,I want lighting in the bedroom,[noise] i was living in denver,SwitchLightOn
+385.wav,0.3333333333333333,I want lights,i was lights,SwitchLightOn
+386.wav,0.16666666666666666,I want lights in the kitchen,i went lights in the kitchen,SwitchLightOn
+387.wav,0.8571428571428571,I want lights on in the backyard,right around in the back yard,SwitchLightOn
+388.wav,0.4,I want lights on please,[noise] i want lights on place,SwitchLightOn
+389.wav,0.5,I want living room lights to be changed to pink,i won't living who likes to be changed too big,SetLightColor
+39.wav,0.7777777777777778,Be sure the lights are off by the toilet,<unk> where the toilet,SwitchLightOff
+390.wav,0.375,I want more brightness in the changing room,i want more brightness in general,IncreaseBrightness
+391.wav,0.7142857142857143,I want more brightness in the pantry,well we're just in the history,IncreaseBrightness
+392.wav,1.0,I want more light,online,IncreaseBrightness
+393.wav,0.42857142857142855,I want more light in the bathroom,more like in the bathroom,IncreaseBrightness
+394.wav,0.5,I want my child's bedroom to have a green light?,where my child's bedroom tom green light,SetLightColor
+395.wav,0.4444444444444444,I want my cubicle lights to be on two.,well my cubicle like to be on to,SetLightBrightness
+396.wav,0.8,I want pink lights now.,[noise] i was pink nights night,SetLightColor
+397.wav,0.75,I want red lighting.,i won't liking,SetLightColor
+398.wav,0.2,I want red lights please,i want red lights green,SetLightColor
+399.wav,0.5,I want the bathroom to be more dim,the bathroom to be we're done,DecreaseBrightness
+4.wav,0.42857142857142855,Activate the lights in the waiting room.,did they do in the waiting room,SwitchLightOn
+40.wav,0.6666666666666666,Boost the brightness of the lights.,bush debate off the lights,IncreaseBrightness
+401.wav,0.3333333333333333,I want the brightest lights in the kitchen please,want the brightest late in the kitchen,IncreaseBrightness
+402.wav,0.5714285714285714,I want the brightness of the lights in the laundry room to be fifty.,i wonder what i miss tonight in the laundry june be fifty,SetLightBrightness
+403.wav,0.7142857142857143,I want the brightness set to two,i wonder <unk> to do,SetLightBrightness
+404.wav,0.5454545454545454,I want the brightness to be fifty in the bed room.,[noise] i want the maintenance be in the bedroom,SetLightBrightness
+405.wav,0.6363636363636364,I want the brightness to be level ten on my lights.,[noise] i wonder brightness she'll be eleven on my life,SetLightBrightness
+406.wav,0.5555555555555556,I want the brightness to be set at twenty.,i wonder what i meant to be shot at twenty,SetLightBrightness
+407.wav,0.4444444444444444,I want the brightness turned up in this room,the president's turn up in this room,IncreaseBrightness
+408.wav,0.5,I want the cellar light on,i want to sell early on,SwitchLightOn
+409.wav,0.6666666666666666,I want the cellar lights off.,i won't <unk> laid off,SwitchLightOff
+41.wav,1.0,Bright lights please,pretty likely,IncreaseBrightness
+410.wav,0.16666666666666666,I want the cellar lights on,want the cellar lights on,SwitchLightOn
+411.wav,0.36363636363636365,I want the cubicle lights to be at twenty two percent,i want to cupid ultra lights to be twenty two percent,SetLightBrightness
+412.wav,0.0,I want the cubicle to be brighter,i want the cubicle to be brighter,IncreaseBrightness
+413.wav,0.4,I want the cublicle to be at thirty nine brightness.,when the cubicle to be thirty nine brightness,SetLightBrightness
+414.wav,0.2,I want the dining room lights to be turned on,oh one the dining room lights to be turned on,SwitchLightOn
+415.wav,0.7,I want the entire appartment to be at two brightness,deeds her apartment to be into brightness,SetLightBrightness
+416.wav,0.6666666666666666,I want the entrance light on,i won't be intense later on,SwitchLightOn
+417.wav,0.4444444444444444,I want the facilities to have lights on now,i want the facilities outline on how,SwitchLightOn
+418.wav,0.75,I want the house lights to be pink.,left the house late beeping,SetLightColor
+419.wav,0.09090909090909091,I want the kids bedroom to be set to level fifty.,i want the kids bedroom to be set to level,SetLightBrightness
+42.wav,0.6666666666666666,"Brighten the large meeting room, please.",right in a large meeting room please,IncreaseBrightness
+420.wav,0.375,I want the kids lights to be pink.,i want the kids like should be peak,SetLightColor
+421.wav,0.2222222222222222,I want the kitchen lights to be twenty two.,[noise] i want the kitchen like to be twenty two,SetLightBrightness
+422.wav,0.18181818181818182,I want the light bulbs to be at level thirty nine.,i wanted to light bulbs to be at level thirty nine,SetLightBrightness
+423.wav,0.625,I want the light color changed to red,[noise] i want to like color jeans to read,SetLightColor
+424.wav,0.7777777777777778,I want the light in the garden turned on,i wonder like gotten going on,SwitchLightOn
+425.wav,0.5,I want the light in the lounge to turn on,want to live in the lounge and turned on,SwitchLightOn
+426.wav,0.1,I want the light intensity to be at level ten,i want the light intensity to be a level ten,SetLightBrightness
+427.wav,0.0,I want the light intensity turned up in the bedroom,i want the light intensity turned up in the bedroom,IncreaseBrightness
+428.wav,0.625,I want the light set to ten everywhere,want the it's and everywhere,SetLightBrightness
+429.wav,0.2857142857142857,I want the light to be on,i want to like to be on,SwitchLightOn
+43.wav,0.3333333333333333,Brighten the lights,breaking the lights,IncreaseBrightness
+430.wav,0.0,I want the lighting increased,i want the lighting increased,IncreaseBrightness
+431.wav,0.16666666666666666,I want the lighting situated at twenty two in the dining room,i went to lighting situated at twenty two in the dining room,SetLightBrightness
+432.wav,1.0,I want the lights at twenty,one believes that greek greek,SetLightBrightness
+433.wav,0.3333333333333333,I want the lights decreased please,long the lights decreased please,DecreaseBrightness
+434.wav,0.8,I want the lights dimmed.,i'm on the lady,DecreaseBrightness
+435.wav,0.8,I want the lights in the bathroom to be pink,my one that lives in the bathrooms beeping,SetLightColor
+436.wav,0.2222222222222222,I want the lights in the bed room on.,i want the lights in the bedroom on,SwitchLightOn
+437.wav,0.18181818181818182,I want the lights in the bed room set to five.,i want the lights in the bedroom set to five,SetLightBrightness
+438.wav,0.16666666666666666,I want the lights in the laundry room to change to red.,i wanted the lights in the laundry room to change to read,SetLightColor
+439.wav,0.3,I want the lights in the pantry to be pink,[noise] when the lights in the pantry to be peace,SetLightColor
+44.wav,0.2857142857142857,Brighten the lights in the waiting room,right in the lights in the waiting room,IncreaseBrightness
+440.wav,0.7777777777777778,I want the lights near toilets to be pink.,i wonder like me and doing it to be,SetLightColor
+441.wav,1.0,I want the lights off,<unk>,SwitchLightOff
+442.wav,0.8333333333333334,I want the lights off everywhere,<unk> everywhere,SwitchLightOff
+443.wav,0.7777777777777778,I want the lights off in the meeting room,intellectual meeting room,SwitchLightOff
+444.wav,0.2,I want the lights on,i won the lights on,SwitchLightOn
+445.wav,0.7777777777777778,I want the lights on at the two setting,and the in the city,SwitchLightOn
+446.wav,0.7,I want the lights on for the entire flat please,<unk> the entire please,SwitchLightOn
+447.wav,0.6666666666666666,I want the lights on now,<unk> on now,SwitchLightOn
+448.wav,0.36363636363636365,I want the lights set to fifty in the kids room,i want the like two fifty and the kids room,SetLightBrightness
+449.wav,0.8,I want the lights to be at level twenty two,i wonder like still be leverage to do,SetLightBrightness
+45.wav,0.5,Brighten up the cubicle,right not the cubicle,IncreaseBrightness
+450.wav,0.5,I want the lights to be blue in the bathroom,i went to late speed blue in the bathroom,SetLightColor
+451.wav,0.2857142857142857,I want the lights to be brighter,i want to live to be brighter,IncreaseBrightness
+452.wav,0.0,I want the lights to be changed to blue,i want the lights to be changed to blue,SetLightColor
+453.wav,0.7142857142857143,I want the lights to be dimmed.,from one place to be done,DecreaseBrightness
+454.wav,0.2222222222222222,I want the lights to be increased in brightness.,i want the lights to be increased and right,IncreaseBrightness
+455.wav,0.42857142857142855,I want the lights to be increased.,i wanted to like to be increased,IncreaseBrightness
+456.wav,0.5714285714285714,I want the lights to be lowered,to live to be lowered,DecreaseBrightness
+457.wav,0.875,I want the lights to be red please,i wonder like do they need,SetLightColor
+458.wav,0.25,I want the lights to be turned off,i want to be turned off,SwitchLightOff
+459.wav,0.36363636363636365,I want the lights to be turned off in the vestibule,i want to be turned off in the best deal,SwitchLightOff
+46.wav,2.0,Brighter,played that,IncreaseBrightness
+460.wav,0.5,I want the lights turned down in the bed room,i wanted to lights turned down the bedroom,DecreaseBrightness
+461.wav,0.0,I want the lounge light on,i want the lounge light on,SwitchLightOn
+462.wav,0.8333333333333334,I want the parking lights off.,the person like,SwitchLightOff
+463.wav,1.0,I want the patio lights turned on,independent like turn don't,SwitchLightOn
+464.wav,0.7142857142857143,I want the patio room light off,i won the oh my oh,SwitchLightOff
+465.wav,0.2,I want the room brighter,i want the room or,IncreaseBrightness
+466.wav,0.0,I want the studio to be dark,i want the studio to be dark,SwitchLightOff
+467.wav,0.6666666666666666,I want the toilet lights off,the toilet to us,SwitchLightOff
+468.wav,0.6666666666666666,I want the toilet lights to be at twelve,well the whole life to be as well,SetLightBrightness
+469.wav,0.5,I want the toilet lights to be on,i wanted like to be on,SwitchLightOn
+47.wav,1.0,Brightness adjust to ten in kids room please.,my nose and do any good to be,SetLightBrightness
+470.wav,1.125,I want the vestibule brightness at seventy-three percent,hi my name's right same thing keeps me busy,SetLightBrightness
+471.wav,0.5555555555555556,I want the vestibule to shine at twelve percent,i want to be able to sign it twelve percent,SetLightBrightness
+472.wav,0.4444444444444444,I want the waiting room lights at a ten,i love the waiting room like ten,SetLightBrightness
+473.wav,0.25,I want this room at brightness level ten,i want this my brightness level ten,SetLightBrightness
+474.wav,0.14285714285714285,I want to brighten the laundry room,i want to break the laundry room,IncreaseBrightness
+475.wav,0.3,I want to change the boardroom brightness to ten please.,i want to change the boardroom brightness potentially,SetLightBrightness
+476.wav,0.14285714285714285,I want to change the light green,i wanted to change the light green,SetLightColor
+477.wav,0.1111111111111111,I want to change the light to blue instead.,i want to change the light blue instead,SetLightColor
+478.wav,0.5555555555555556,I want to lights to a lower setting please,want to like lower setting,DecreaseBrightness
+479.wav,0.625,"I want to lower my appartment lights, please.",one to lose my apartment nights please,DecreaseBrightness
+48.wav,1.0,Brightness should be set to twelve percent,made me think of something,SetLightBrightness
+480.wav,0.2857142857142857,I want to make the light dimmer,i want to make the them or,DecreaseBrightness
+481.wav,0.14285714285714285,I want to make the room brighter.,i wanted to make the room brighter,IncreaseBrightness
+482.wav,1.0,I want to set the light to ten,<unk> said that late then,SetLightBrightness
+483.wav,0.2857142857142857,I want to turn off the lights.,want to turn off the light,SwitchLightOff
+484.wav,0.25,I want to turn off the patio lamps,i want to turn on the patio and,SwitchLightOff
+486.wav,0.23076923076923078,I want you to change the brightness level in the patio to ten.,want to change the brightness level and the patio to ten,SetLightBrightness
+487.wav,0.08333333333333333,I want you to switch off all the lights in my cubicle.,i want you to switch off all the lights in a cubicle,SwitchLightOff
+488.wav,0.07142857142857142,I want you to turn off the lights in the small meeting room off.,i want you to turn off the lights in the small meeting room,SwitchLightOff
+489.wav,0.8333333333333334,I want you to turn the lights off in my room please,i don't get done to live in maryland gee,SwitchLightOff
+49.wav,0.75,Brightness to seventy-three please.,right to seventy three please,SetLightBrightness
+490.wav,0.5555555555555556,I would like for the lights to be brighter.,like lights be brighter,IncreaseBrightness
+491.wav,0.4444444444444444,I would like for the lights to be pink.,i would like for the life beeping,SetLightColor
+492.wav,0.3333333333333333,I would like green lights please.,i would like green light squeeze,SetLightColor
+493.wav,0.125,I would like lights on inside the house,would like lights on inside the house,SwitchLightOn
+494.wav,0.5,I would like pink lights please.,i would like light breeze,SetLightColor
+495.wav,0.6923076923076923,I would like the brightness level in the bedroom to be thirty nine,[noise] i would like they don't need to be nice,SetLightBrightness
+496.wav,0.6666666666666666,I would like the brightness of the lights to be level five.,[noise] i would like to buy something needs to be limited i,SetLightBrightness
+497.wav,0.125,I would like the garage lights on fifty.,i would like the garage lights on you,SetLightBrightness
+498.wav,0.6666666666666666,I would like the light to be turned on,i would like nicely done or,SwitchLightOn
+499.wav,0.14285714285714285,I would like the lights less bright,i would like the lights less right,DecreaseBrightness
+5.wav,1.0,Activate the lights.,to be polite,SwitchLightOn
+50.wav,0.3,Bring darkness to this room by turning off the lights,bring darkness in his room by turning off the lake,SwitchLightOff
+500.wav,0.0,I would like the lights to change to green.,i would like the lights to change to green,SetLightColor
+501.wav,0.2857142857142857,I would like the lights turned off.,i would the turned off,SwitchLightOff
+502.wav,0.42857142857142855,I would like the lounge light on,i would like the lunch lay down,SwitchLightOn
+503.wav,0.625,I would like the vestibule to be pink,i there's too many to be,SetLightColor
+504.wav,0.1111111111111111,I would like the waiting room lights turned up,i was like the waiting room lights turned up,IncreaseBrightness
+505.wav,0.6,I would prefer that the changing room lights be lowered,i would be sure that the changing like eat lower,DecreaseBrightness
+506.wav,0.4,I'd light these lights on,[noise] i'd like these lights on,SwitchLightOn
+507.wav,1.0,I'd like all lights off.,i would like on a tough,SwitchLightOff
+508.wav,0.2,I'd like for my lights to be flipped on now,like for my wife to be flipped on now,SwitchLightOn
+509.wav,0.625,I'd like for the lights to be blue.,like the light blue,SetLightColor
+51.wav,0.14285714285714285,Bring the cellar lights up to two,bring the cellar lights up to to,SetLightBrightness
+510.wav,0.4444444444444444,I'd like for the lights to go on now,i for like to go on now,SwitchLightOn
+511.wav,0.6666666666666666,I'd like it a little darker,i like it didn't go,DecreaseBrightness
+512.wav,0.14285714285714285,I'd like more lighting in the bedroom.,i like more lighting in the bedroom,IncreaseBrightness
+513.wav,0.6,I'd like the bedroom lights to be at ten percent,likes to be ten percent,SetLightBrightness
+514.wav,0.75,I'd like the brightness changed in the shed,i did like the rightness change in this yeah,SwitchLightOff
+515.wav,1.0,I'd like the brightness set to twenty,<unk>,SetLightBrightness
+516.wav,0.6666666666666666,I'd like the brightness turned down.,the brightest turned him,DecreaseBrightness
+517.wav,0.8333333333333334,I'd like the brightness turned up,business turned off,IncreaseBrightness
+518.wav,0.1111111111111111,I'd like the brightness turned up in the garage,i like the brightness turned up in the garage,IncreaseBrightness
+519.wav,0.2,I'd like the house lights to be set to twelve.,i like the house flights to be set to twelve,SetLightBrightness
+52.wav,0.5,Can the changing room lights be turned on,can change and i'm like be turned on,SwitchLightOn
+520.wav,0.14285714285714285,I'd like the kitchen to be brighter.,[noise] like the kitchen to be brighter,IncreaseBrightness
+521.wav,0.5555555555555556,I'd like the light to increase in the pantry,i like the lights increasing the pantry,IncreaseBrightness
+522.wav,0.8,I'd like the lights in the entrance to be on,oh like life interest me on,SwitchLightOn
+523.wav,0.21428571428571427,I'd like the lights in the laundry room to be at level twenty two,i like the lights in the laundry room to the level twenty two,SetLightBrightness
+524.wav,1.0,I'd like the lights off in the vestibule,<unk>,SwitchLightOff
+527.wav,0.75,I'd like the lights to be shut off,nice to be show,SwitchLightOff
+528.wav,0.8571428571428571,I'd like the lights to be shutdown,i wise to be shut down,SwitchLightOff
+529.wav,0.75,I'd like the lights to be turned on,like last returned on,SwitchLightOn
+53.wav,0.2857142857142857,Can the laundry room have green lights?,the laundry room has green lights,SetLightColor
+530.wav,0.36363636363636365,I'd like the lights to change in the large meeting room,like to change in the lord's meeting room,SwitchLightOff
+531.wav,0.2222222222222222,I'd like the lights to not be so bright,i'd like to like to not be so bright,DecreaseBrightness
+532.wav,0.6,I'd like the lights turned down in the kids room,i just turned down and the kids from,DecreaseBrightness
+533.wav,0.2727272727272727,I'd like the living room lights to be at twelve percent,i like the living room rights to be had twelve percent,SetLightBrightness
+534.wav,1.0,I'd like the parking lights to be red,oh <unk>,SetLightColor
+535.wav,0.4,I'd like the vestibule lighting to be at thirty nine,and like the best deal lighting to be thirty nine,SetLightBrightness
+536.wav,0.5,I'd like to activate lights in my cubicle,i like to activate highlights in might recall,SwitchLightOn
+537.wav,0.3333333333333333,I'd like to have pink lighting in the bathroom,i like to have people fighting in the bathroom,SetLightColor
+538.wav,0.75,I'd like to lights to be green please,i would like to like green tea,SetLightColor
+539.wav,0.4,I'd like to lower the lights in the bed room,like to lose the lights in the bedroom,DecreaseBrightness
+54.wav,0.6666666666666666,Can the lights be red instead?,be read instead,SetLightColor
+540.wav,0.25,I'd prefer if the lights were on now,i prefer the lights were on now,SwitchLightOn
+541.wav,0.16666666666666666,I'd prefer it to be brighter,i prefer it to be brighter,IncreaseBrightness
+542.wav,0.2,I'd prefer the bathroom light to be at thirty nine,i prefer the bathroom like to be at thirty nine,SetLightBrightness
+543.wav,0.2727272727272727,I'd prefer the laundry room lights to be turned to green,i prefer the laundry room might be turned to green,SetLightColor
+544.wav,0.0,I'd prefer the lights to be on,i'd prefer the lights to be on,SwitchLightOn
+545.wav,0.25,I'd prefer the office lights to be on,i prefer the office like to be on,SwitchLightOn
+546.wav,1.0,I'd prefer the toilet lighting to be at level twelve,i decided on exciting do the atlanta braves,SetLightBrightness
+547.wav,0.4444444444444444,I'm done with the lights in the dining room.,i'm <unk> in the dining room,SwitchLightOff
+548.wav,0.7777777777777778,I'm in the basement please turn the lights on.,i mean the basement he's done like huh,SwitchLightOn
+549.wav,0.0,I'm in the kitchen and I need some lights,i'm in the kitchen and i need some lights,SwitchLightOn
+55.wav,0.25,Can the living room lights be turned off,the living room life be turned off,SwitchLightOff
+550.wav,0.5454545454545454,I'm in the kitchen can you give me some lights please,and and you can give me some please,SwitchLightOn
+551.wav,0.3333333333333333,Illuminate the entrance,eliminate the entrance,SwitchLightOn
+552.wav,0.375,In the basement turn the brightness to twenty,in the basement the pregnancy twenty,SetLightBrightness
+553.wav,0.125,In the bathroom turn up the light power,in the bathroom turn the light power,IncreaseBrightness
+554.wav,0.5555555555555556,In the changing room turn down the light power,in the changing rooms turned out of power,DecreaseBrightness
+555.wav,0.375,In the cubicle and switch off the lights,cubicle and switch off the light,SwitchLightOff
+556.wav,0.25,In the entrance change the colors to red,in the entrance change the color red,SetLightColor
+557.wav,0.14285714285714285,In the entrance make the lights pink,in the entrance makes the lights pink,SetLightColor
+558.wav,0.875,In the garage change the lights to pink,undergrad changed their lives to tubing,SetLightColor
+559.wav,1.0,In the kids bedroom make the lights pink,indicates that made delayed spank,SetLightColor
+56.wav,0.625,Can we change the house lighting to twelve?,change the house lightning well,SetLightBrightness
+560.wav,0.125,In the kids bedroom turn the lights off.,and the kids bedroom turn the lights off,SwitchLightOff
+561.wav,0.0,In the laundry room turn down the light power,in the laundry room turn down the light power,DecreaseBrightness
+562.wav,0.875,In the living room make the lights green,meaning to make their life,SetLightColor
+563.wav,0.25,In the lounge change it to level two,[noise] in the lounge change it to level too,SetLightBrightness
+564.wav,0.0,In the lounge turn the lights off.,in the lounge turn the lights off,SwitchLightOff
+565.wav,0.14285714285714285,In the pantry turn down the brightness,in the pantry turn down the premise,DecreaseBrightness
+566.wav,0.0,In the pantry turn up the brightness,in the pantry turn up the brightness,IncreaseBrightness
+567.wav,0.5,"In the small meeting room, the lights must be pink",small meeting them the must be,SetLightColor
+568.wav,0.7692307692307693,"In the your cellar, set the brightness of the light bulbs to twelve.",dollar set the brightness like oh well,SetLightBrightness
+569.wav,0.3333333333333333,Increase brightness please,increase pregnant please,IncreaseBrightness
+57.wav,0.6666666666666666,Can we change the lights to anything but pink?,totally changed still likes to anything but peak,SetLightColor
+570.wav,0.75,Increase brightness to fifty.,greens brightness too picky,SetLightBrightness
+571.wav,0.5,Increase brightness to seventy-three.,increase brightness seventy three,SetLightBrightness
+572.wav,0.6666666666666666,Increase light brightness.,increase my goodness,IncreaseBrightness
+573.wav,0.3333333333333333,Increase light intensity.,increase flight intensity,IncreaseBrightness
+574.wav,0.4,Increase lighting in entire appartment,increase lighting an entire apartment,IncreaseBrightness
+575.wav,0.16666666666666666,Increase lighting in small meeting room,increase lighting in small media room,IncreaseBrightness
+576.wav,0.2,Increase lights in entire house,increase lives in entire house,IncreaseBrightness
+577.wav,0.7142857142857143,Increase the brightness in the changing room.,increase brightens into changing them,IncreaseBrightness
+578.wav,0.0,Increase the brightness of the basement,increase the brightness of the basement,IncreaseBrightness
+579.wav,0.8571428571428571,Increase the brightness of the kitchen lights,the <unk>,IncreaseBrightness
+58.wav,0.3333333333333333,Can we make the whole house a twenty two?,we make a whole house or twenty two,SetLightBrightness
+580.wav,1.0,Increase the brightness of the lights in the cellar,[noise] <unk>,IncreaseBrightness
+581.wav,0.7,Increase the brightness of the lights in the dining room.,includes tightening up appalachian the dining room,IncreaseBrightness
+582.wav,1.0,Increase the brightness of the lights in the entrance.,<unk> and turns,IncreaseBrightness
+583.wav,0.3333333333333333,Increase the brightness of the lights.,increase the brightness the light,IncreaseBrightness
+584.wav,0.3333333333333333,Increase the brightness of this room.,increase the brightness and room,IncreaseBrightness
+585.wav,1.0,Increase the brightness to seventy-three.,mr second degree,SetLightBrightness
+586.wav,0.0,Increase the brightness to ten.,increase the brightness to ten,SetLightBrightness
+587.wav,0.8,Increase the cubicle's light intensity.,<unk> intensity,IncreaseBrightness
+588.wav,0.16666666666666666,Increase the intensity of the lighting,increase the intensity and the lighting,IncreaseBrightness
+589.wav,0.8571428571428571,Increase the intensity of the lighting please,racially insensitive gliding please,IncreaseBrightness
+59.wav,0.6,Can we put in some green light in the shed,light in the shed,SetLightColor
+590.wav,0.6666666666666666,Increase the intensity of the lights,increasing the lights,IncreaseBrightness
+591.wav,0.8571428571428571,Increase the light in the changing room,crystalline changing rooms,IncreaseBrightness
+592.wav,0.0,Increase the light intensity,increase the light intensity,IncreaseBrightness
+593.wav,0.2857142857142857,Increase the light intensity in the vestibule,increase the life intensity and the vestibule,IncreaseBrightness
+594.wav,0.6666666666666666,Increase the lighting,increase elaine,IncreaseBrightness
+595.wav,0.5,Increase the lighting in the cubicle,increase the lighting and accuse home,IncreaseBrightness
+596.wav,0.8333333333333334,Increase the lighting in the vestibule,delighting in the last year,IncreaseBrightness
+597.wav,0.5,Increase the lighting intensity,increase the lightning,IncreaseBrightness
+598.wav,0.0,Increase the lighting intensity please,increase the lighting intensity please,IncreaseBrightness
+599.wav,0.3333333333333333,Increase the lights in the bedroom,increase the like in the,IncreaseBrightness
+6.wav,1.0,Activate the toilets lights.,[laughter],SwitchLightOn
+60.wav,0.42857142857142855,Can you change the bathroom light blue,[noise] can you change the bathroom like new,SetLightColor
+600.wav,0.0,Increase the lights in the garden.,increase the lights in the garden,IncreaseBrightness
+601.wav,1.0,Increase the lights in the toilets.,you <unk>,IncreaseBrightness
+602.wav,0.0,Increase the lights on the patio.,increase the lights on the patio,IncreaseBrightness
+603.wav,0.5,Increase the lights please.,increase the late sixties,IncreaseBrightness
+604.wav,0.5714285714285714,"Increase the lights, it is too dark.",increase the life is to dart,IncreaseBrightness
+605.wav,0.375,Is is possible to turn down the brightness?,possible to turn down the rightness,DecreaseBrightness
+606.wav,0.3333333333333333,Is it okay for you to decrease the brightness of the lights.,is it okay for you to decrease the pregnancy bullets,DecreaseBrightness
+607.wav,1.0,Is it possible for you to turn the lights up in the cellar for us,plus <unk> initial enough foreigners,IncreaseBrightness
+608.wav,0.2,Is it possible to get the lounge brightness to five ?,is it possible to get allowance brightness to five,SetLightBrightness
+609.wav,0.9166666666666666,Is it possible to turn down the brightness in the kids bedroom,you could possibly do down don't debate nothing gets but um,DecreaseBrightness
+61.wav,0.6,Can you change the color of the lights to red in the large meeting room,[noise] can you change the color or read in the you do,SetLightColor
+610.wav,0.375,Is it possible to turn on studio light,it's impossible to turn on studio light,SwitchLightOn
+611.wav,0.5,Is it possible to turn the light on,impossible to turn the lights on,SwitchLightOn
+612.wav,0.2727272727272727,Is it possible to turn the lights down in this room?,impossible to turn the lights down in this room,DecreaseBrightness
+613.wav,0.9090909090909091,Is there a way to turn the kitchen lights to red?,wages don't like to read,SetLightColor
+614.wav,0.6363636363636364,Is there anyway you can change the light to be blue?,you you can can be blue,SetLightColor
+615.wav,0.3,It is too dark on the patio increase the lights.,it is to dart on the patio increase the light,IncreaseBrightness
+616.wav,0.8333333333333334,"It is too dark, more lights.",dark more like,IncreaseBrightness
+617.wav,0.8,It's too bright in here!,do but i in here,DecreaseBrightness
+618.wav,0.2857142857142857,"It's too bright, bring the lights down",too bright bring the lights down,DecreaseBrightness
+619.wav,0.7142857142857143,"It's too bright, please make it darker",still break please major darker,DecreaseBrightness
+62.wav,0.5,Can you change the kids room to red,you change the kids from three,SetLightColor
+620.wav,0.8,It's too dark in here.,you do dark and yet,IncreaseBrightness
+621.wav,0.6,It's too dark in here. Brighten the lights a bit.,to dark in here right and the lights up bet,IncreaseBrightness
+622.wav,0.3333333333333333,It's too dark in the bedroom,dark in the bedroom,IncreaseBrightness
+623.wav,0.2857142857142857,It's too dark in the waiting room,dark in the waiting room,IncreaseBrightness
+624.wav,0.0,It's way too dark in here,it's way too dark in here,IncreaseBrightness
+625.wav,1.0,Kill the bathroom lights.,about three months,SwitchLightOff
+626.wav,0.16666666666666666,Kill the lights in the bedroom.,the lights in the bedroom,SwitchLightOff
+627.wav,1.0,Kill the lights in the entire appartment,so <unk> our apartment,SwitchLightOff
+628.wav,0.0,Lessen the brightness for me,lessen the brightness for me,DecreaseBrightness
+629.wav,0.7,Lessen the brightness of the lights in the bed room.,liberate miserable lights in the bedroom,DecreaseBrightness
+63.wav,0.5,Can you change the light in the garden to pink,change late in the garden to bank,SetLightColor
+630.wav,0.25,Let there be light,let there be like,SwitchLightOn
+631.wav,1.0,Let's change the garage lighting to twenty two.,yeah lived in brooklyn,SetLightBrightness
+632.wav,0.75,Let's have red lights,watch a red light,SetLightColor
+633.wav,0.6666666666666666,Let's have the entrance be red,well that's how the entrance be read,SetLightColor
+634.wav,0.42857142857142855,Let's lower the intensity of the lights,that's the intensity of the lakes,DecreaseBrightness
+635.wav,0.6,Let's make the vestibule green.,make the computer screen,SetLightColor
+636.wav,0.75,Lets get the patio lights to be blue.,<unk> likes to be,SetLightColor
+637.wav,0.6,"Lets lower the lights, please.",let's lowers the lights please,DecreaseBrightness
+638.wav,0.8333333333333334,Lets make the entrance lighting red.,let's make them done slating they'd,SetLightColor
+639.wav,0.6,Lets make the lights pink.,the lights blink,SetLightColor
+64.wav,0.5,Can you change the lighting in the bathroom?,you riding in the bathroom,SwitchLightOff
+640.wav,0.25,Lets turn off the lights in the office,turn on the lights in the office,SwitchLightOff
+641.wav,0.25,Light up the vestibule.,right up the vestibule,SwitchLightOn
+642.wav,0.8181818181818182,Lighting needs to be adjusted to level two in the cubicle,basic needs to the eleventh doing their cubicles,SetLightBrightness
+643.wav,0.7142857142857143,Lights in the backyard should be red.,like in the back yard to be read,SetLightColor
+644.wav,1.0,Lights in the kids bedroom must be on please,<unk> young,SwitchLightOn
+645.wav,0.25,Lights more intense please,more intense please,IncreaseBrightness
+646.wav,0.3333333333333333,Lights off in the living room,it's all in the living room,SwitchLightOff
+647.wav,1.0,Lights off please,like larger leave,SwitchLightOff
+648.wav,1.0,Lights off.,myself,SwitchLightOff
+649.wav,0.2857142857142857,Lights on in the kids bedroom please,like on in the kids bedroom,SwitchLightOn
+65.wav,0.0,Can you change the lighting intensity of the laundry room to twenty two,can you change the lighting intensity of the laundry room to twenty two,SetLightBrightness
+650.wav,0.3333333333333333,"Lights on, now",lights on now,SwitchLightOn
+651.wav,0.0,Lights out,lights out,SwitchLightOff
+652.wav,1.0,Lights out please,myself,SwitchLightOff
+653.wav,1.0,Lights out please.,[noise] nice nice,SwitchLightOff
+654.wav,0.2,Lower all of the lighting.,lower all the lighting,DecreaseBrightness
+655.wav,0.0,Lower brightness,lower brightness,DecreaseBrightness
+656.wav,0.8,Lower brightness in the backyard,<unk> in the back yard,DecreaseBrightness
+657.wav,0.0,Lower brightness in the toilets room,lower brightness in the toilets room,DecreaseBrightness
+658.wav,1.0,Lower light brightness,lower like right now,DecreaseBrightness
+659.wav,0.6,Lower lighting in the backyard,lower landing in the back yard,DecreaseBrightness
+66.wav,0.6,Can you change the lights to fifty. on the patio,<unk> the lives two fifty on the <unk>,SetLightBrightness
+660.wav,0.6666666666666666,Lower the brightness,lower than brains,DecreaseBrightness
+661.wav,0.6666666666666666,Lower the brightness in the cubicle,lower the brain you know,DecreaseBrightness
+662.wav,0.14285714285714285,Lower the brightness in the facilities room.,oh the brightness in the facilities room,DecreaseBrightness
+663.wav,0.3333333333333333,Lower the brightness in the garden,brightness in the garden,DecreaseBrightness
+664.wav,0.8333333333333334,Lower the intensity of the lights,don't tend to the like,DecreaseBrightness
+665.wav,0.3333333333333333,Lower the lighting in the garage.,lowering the landing in the garage,DecreaseBrightness
+666.wav,0.0,Lower the lights,lower the lights,DecreaseBrightness
+667.wav,0.375,"Lower the lights in my bed room, please.",the lights in my bedroom please,DecreaseBrightness
+668.wav,1.0,Lower the lights in the changing room,like to change,DecreaseBrightness
+1089.wav,0.0,The brightness should be ten in a bathroom,the brightness should be ten in a bathroom,SetLightBrightness
+109.wav,0.4,Can you set the bathroom brightness level to thirty nine?,could you said the bathroom rightness level two thirty nine,SetLightBrightness
+1090.wav,0.42857142857142855,The bulbs should not be so bright.,<unk> should not be so great,DecreaseBrightness
+1091.wav,0.42857142857142855,The cellar lights should be turned on.,[noise] seller life should be turned on,SwitchLightOn
+1092.wav,0.6666666666666666,The cellar needs to be brighter,<unk> nice to be that,IncreaseBrightness
+1093.wav,0.5,The color of the light should be pink in the toilets room,look color the life should be involved toilets room,SetLightColor
+1094.wav,0.6666666666666666,The cubicle lights should be pink,they cubicle like she'll be,SetLightColor
+1095.wav,1.0,The dining room is too bright.,i <unk> we're blamed,DecreaseBrightness
+1096.wav,0.2857142857142857,The garage lights need to be brighter,the <unk> need to be brighter,IncreaseBrightness
+1097.wav,0.6666666666666666,The garage should have its lights turned off now,i should have it's like don't know now,SwitchLightOff
+1098.wav,0.5,The house room light needs to be changed to red,house remind needs to be changed read,SetLightColor
+1099.wav,0.5,The kitchen lights should be pink,teach kitchen like should be paying,SetLightColor
+11.wav,0.2857142857142857,Adjust the bedroom lights to ten percent,just the bedroom much to ten percent,SetLightBrightness
+110.wav,0.75,Can you set the bathroom light to seventy-three,yeah and you send the bathroom life to seven degree,SetLightBrightness
+1100.wav,0.3333333333333333,The kitchen should be brighter please,the kitchen shouldn't be brighter leave,IncreaseBrightness
+1101.wav,0.16666666666666666,The large meeting room is too dark and must be made brighter,the meeting room is to dark and must be made brighter,IncreaseBrightness
+1102.wav,0.0,The laundry room is too bright.,the laundry room is too bright,DecreaseBrightness
+1103.wav,0.14285714285714285,The laundry room lights should be green.,the laundry room life should be green,SetLightColor
+1104.wav,0.2,The light color in the waiting room should be green.,like color in the waiting room should be green,SetLightColor
+1105.wav,0.7777777777777778,The light in the appartment needs to be dimmed,right near your apartment to be done,DecreaseBrightness
+1106.wav,0.45454545454545453,The light in the boardroom needs to be set at seventy-three,the light in the boardroom it'd be at seventy three,SetLightBrightness
+1107.wav,0.5555555555555556,The light in the parking lot should be pink,[noise] like in the parking lot beeping,SetLightColor
+1108.wav,0.6666666666666666,The light in the shed needs to be off,life in the shade the be all,SwitchLightOff
+1109.wav,0.6666666666666666,The light needs to be dimmed,well i need to be them,DecreaseBrightness
+111.wav,0.8571428571428571,Can you set the brightness to seventy-three,well the bagels,SetLightBrightness
+1110.wav,0.5,The light needs to be dimmed.,no life needs to be damned,DecreaseBrightness
+1111.wav,0.5,The lights are too bright and i want it dimmed,lives are too bright and i wanted him,DecreaseBrightness
+1112.wav,0.4,The lights in the cellar need to be turned up,the lights in the sense that needs to be toned up,IncreaseBrightness
+1113.wav,0.7,The lights in the garage need to be switched off.,right in the garage and stuff,SwitchLightOff
+1114.wav,0.8888888888888888,The lights in the kids bedroom are too dark.,the indicates that tomorrow the dog,IncreaseBrightness
+1115.wav,0.2,The lights in the living room need to be blue.,the lights in the living room need somebody blue,SetLightColor
+1116.wav,0.0,The lights in the living room should be on twenty two.,the lights in the living room should be on twenty two,SetLightBrightness
+1117.wav,0.5,The lights should be on please,it should be on you,SwitchLightOn
+669.wav,0.2857142857142857,Lower the lights in the dining room.,nor the late in the dining room,DecreaseBrightness
+67.wav,0.2857142857142857,Can you change the lights to green,can you change the light's green,SetLightColor
+670.wav,0.16666666666666666,Lower the lights on the patio,lower their lights on the patio,DecreaseBrightness
+671.wav,1.0,Lower the lights to twenty.,<unk> windy,SetLightBrightness
+672.wav,0.3333333333333333,Lower the lights.,the lights,DecreaseBrightness
+673.wav,1.0,Make adjustments to the studio lighting to twelve.,again yes men's convention realizing when,SetLightBrightness
+674.wav,0.0,Make certain no lights are on in the bathroom,make certain no lights are on in the bathroom,SwitchLightOff
+675.wav,0.625,Make it a little brighter in the bedroom.,making them but i did in the bedroom,IncreaseBrightness
+676.wav,0.75,Make it a little less dark in here.,make it didn't finish talking yeah,IncreaseBrightness
+677.wav,0.2222222222222222,Make it a little less dark in the backyard.,make it a little less dark in the back yard,IncreaseBrightness
+678.wav,0.0,Make it brighter,make it brighter,IncreaseBrightness
+679.wav,0.6,Make it brighter in here,right in here,IncreaseBrightness
+68.wav,0.42857142857142855,Can you change the lights to pink,you change the lights repeat,SetLightColor
+680.wav,0.8571428571428571,Make it brighter in the changing room,brighter and change,IncreaseBrightness
+681.wav,0.7142857142857143,Make it brighter in the changing room.,get and the changing rooms,IncreaseBrightness
+682.wav,1.0,Make it brighter in the dining room,<unk>,IncreaseBrightness
+683.wav,0.375,Make it brighter in the large meeting room.,making brighter and the large meeting room,IncreaseBrightness
+684.wav,0.2857142857142857,Make it brighter in the living room,brighter in the living room,IncreaseBrightness
+685.wav,0.2857142857142857,Make it brighter in the waiting room,making brighter in the waiting room,IncreaseBrightness
+686.wav,1.0,Make it dark,indoor,SwitchLightOff
+687.wav,0.0,Make it dark in here,make it dark in here,SwitchLightOff
+688.wav,0.8571428571428571,Make it dark in the changing room,making back and changing them,SwitchLightOff
+689.wav,1.0,Make it dark.,[noise] me duck,SwitchLightOff
+69.wav,0.75,"Can you change the lights to pink
+everywhere",game change their lifestyle bank everywhere,SetLightColor
+690.wav,0.6,Make it dimmer in here,make the money in your,DecreaseBrightness
+691.wav,0.25,Make it more dim,make it more than,DecreaseBrightness
+692.wav,0.125,Make it so that the light is pink.,make it so that the light is,SetLightColor
+693.wav,0.5,Make laundry room green,make a little green,SetLightColor
+694.wav,0.16666666666666666,Make laundry room light brightness twenty,make laundry room like brightness twenty,SetLightBrightness
+695.wav,0.6666666666666666,Make lights brighter.,clients brighter,IncreaseBrightness
+696.wav,0.6666666666666666,Make lights dimmer,make light dinner,DecreaseBrightness
+697.wav,0.25,Make lights less bright in the laundry room,make lights less bright in the lottery or,DecreaseBrightness
+698.wav,0.6666666666666666,Make lights pink,make lakes bank,SetLightColor
+699.wav,0.25,Make loo lights off.,make new lights off,SwitchLightOff
+7.wav,0.0,Add more lighting in the basement,add more lighting in the basement,IncreaseBrightness
+70.wav,0.6666666666666666,Can you change the lights to the color red?,any like through the color red,SetLightColor
+700.wav,0.4,Make my bulbs less bright.,makes my bulbs less right,DecreaseBrightness
+701.wav,0.5,Make my lights blue,me my late blue,SetLightColor
+702.wav,0.25,Make my lights brighter.,make my lunch brighter,IncreaseBrightness
+703.wav,0.0,Make my lights green,make my lights green,SetLightColor
+704.wav,0.5,Make my lights pink,make my life team,SetLightColor
+705.wav,0.2,Make parking lights go on,parking lights go on,SwitchLightOn
+706.wav,0.7777777777777778,Make sure the hallway lights are increased in brightness,make sure <unk> vitamins,IncreaseBrightness
+707.wav,0.2222222222222222,Make sure the lights brighter so I can see,make sure the like that so i can see,IncreaseBrightness
+708.wav,0.2857142857142857,Make sure there are no lights on,i'm sure there are no lights,SwitchLightOff
+709.wav,1.0,Make the backyard brighter.,<unk>,IncreaseBrightness
+71.wav,0.25,Can you change the patio light to blue,can you change the patio like blue,SetLightColor
+710.wav,1.0,Make the basement at ten percent for the light setting,they <unk> or like a,SetLightBrightness
+711.wav,0.8333333333333334,Make the basement lights go on.,me to be life goes on,SwitchLightOn
+712.wav,1.0,Make the bathroom light dimmer,that might be better,DecreaseBrightness
+713.wav,0.4,Make the bathroom lights on,[noise] make the bathroom right on,SwitchLightOn
+714.wav,1.0,Make the bed room light dimmer,to to dinner,DecreaseBrightness
+715.wav,0.7142857142857143,Make the bed room lights turn on,make the bedroom light or non,SwitchLightOn
+716.wav,1.3333333333333333,Make the bedroom light intensity ten,[noise] may then that you're late in the,SetLightBrightness
+717.wav,0.5,Make the boardroom light to twelve,make the boardroom like well,SetLightBrightness
+718.wav,0.2,Make the boardroom lights red,make the boardroom lights read,SetLightColor
+719.wav,0.5,Make the brightness at twelve percent,name is raymond at twelve percent,SetLightBrightness
+72.wav,0.42857142857142855,Can you change the vestibule to red,can you change the basketball too right,SetLightColor
+720.wav,0.42857142857142855,Make the brightness in the kitchen seventy-three.,make some brightness in the kitchen seventy three,SetLightBrightness
+721.wav,0.875,Make the brightness of my lights thirty nine.,[noise] me too but i miss my like thirty nine,SetLightBrightness
+722.wav,0.5454545454545454,Make the brightness of the lights to be at two percent,the price of the light yeah these two percent,SetLightBrightness
+723.wav,0.5714285714285714,Make the color of the light pink.,make the color oh believe me,SetLightColor
+724.wav,0.14285714285714285,Make the color of the light red.,make the color of the light read,SetLightColor
+725.wav,0.4,Make the cubicle less bright,[noise] making cubicle less bright,DecreaseBrightness
+726.wav,1.0,Make the cubicle light green,me too because like likely,SetLightColor
+727.wav,1.0,Make the cubicle lighting to be dimmer,relating to beat them or,DecreaseBrightness
+728.wav,0.3333333333333333,Make the cubicle lights turn off,make them cubicle that turn off,SwitchLightOff
+73.wav,0.6,Can you darken the bedroom,can you dark in the bathroom,DecreaseBrightness
+730.wav,0.7142857142857143,Make the dining room lights off please,dining room like all these,SwitchLightOff
+731.wav,0.8,Make the entire flat brighter,make day <unk> that,IncreaseBrightness
+732.wav,0.2857142857142857,Make the entrance light at twenty two,make the entrance like twenty two,SetLightBrightness
+733.wav,1.0,Make the entrance lights less intense,<unk>,DecreaseBrightness
+734.wav,1.25,Make the garage red,i mean they got injured,SetLightColor
+735.wav,0.875,Make the kids bedroom brighter with more light,made the kids spend too bright that'd be more like,IncreaseBrightness
+736.wav,0.8333333333333334,Make the kids bedroom light red,[noise] me bedroom right right,SetLightColor
+737.wav,0.42857142857142855,Make the kids bedroom lights a twelve.,make the kids bedroom my each well,SetLightBrightness
+738.wav,0.8,Make the kids room brighter,make they need somebody that,IncreaseBrightness
+739.wav,0.0,Make the kitchen brighter,make the kitchen brighter,IncreaseBrightness
+74.wav,0.4,Can you decrease the brightness,kind of decrease the brightness,DecreaseBrightness
+740.wav,0.6,Make the large meeting room lights to thirty nine brightness,make that large meeting room late stupidity name but lightness,SetLightBrightness
+741.wav,1.0,Make the laundry room a bit darker please,mean <unk>,DecreaseBrightness
+742.wav,0.16666666666666666,Make the laundry room lights red.,make the laundry room lights read,SetLightColor
+743.wav,0.75,Make the light brighter.,make delayed that,IncreaseBrightness
+744.wav,0.8333333333333334,Make the light bulbs brighter please,made delayed bunch title please,IncreaseBrightness
+745.wav,0.9,Make the light bulbs in the pantry the twenty brightness.,i mean life goes into independently twenty vitamins,SetLightBrightness
+746.wav,0.4,Make the light bulbs pink,makes the light bulbs paint,SetLightColor
+747.wav,1.0,Make the light dimmer,<unk>,DecreaseBrightness
+748.wav,0.5,Make the light green,so light green,SetLightColor
+749.wav,0.42857142857142855,Make the light in the bathroom brighter,like in the bathroom brighter,IncreaseBrightness
+75.wav,0.2222222222222222,Can you decrease the brightness in the kids bedroom,can eat decrease the brightness in their kids bedroom,DecreaseBrightness
+750.wav,0.625,Make the light in the bed room brighter,late in the bedroom brighter,IncreaseBrightness
+751.wav,0.25,Make the light in the dining room red,make the like in the dining room read,SetLightColor
+752.wav,0.875,Make the light in the pantry to two,me tonight independently to do,SetLightBrightness
+753.wav,0.25,Make the light red,make the light turn red,SetLightColor
+754.wav,0.6666666666666666,Make the lighting brighter in here.,delighting brave in here,IncreaseBrightness
+755.wav,0.25,Make the lighting brighter in the living room,may lighting brighter in the living room,IncreaseBrightness
+756.wav,0.25,Make the lighting more intense in the bathroom,makes the lady more intense in the bathroom,IncreaseBrightness
+757.wav,0.4,Make the lights a little brighter in the laundry room.,the last two little brighter and the laundry room,IncreaseBrightness
+758.wav,0.25,Make the lights blue,make the light blue,SetLightColor
+759.wav,0.75,Make the lights blue,[noise] me the late blue,SetLightColor
+76.wav,0.6666666666666666,Can you decrease the brightness of the light bulbs?,and you decrease the brightest lightbulb,DecreaseBrightness
+760.wav,0.5,Make the lights blue.,make the new,SetLightColor
+761.wav,0.0,Make the lights brighter,make the lights brighter,IncreaseBrightness
+762.wav,0.2857142857142857,Make the lights brighter in the studio.,make allies brighter in the studio,IncreaseBrightness
+763.wav,0.0,Make the lights brighter.,make the lights brighter,IncreaseBrightness
+764.wav,0.8,Make the lights dimmer please.,simmer please,DecreaseBrightness
+765.wav,0.5,Make the lights five,make the lives by,SetLightBrightness
+766.wav,0.8,Make the lights go on,for life grow on,SwitchLightOn
+767.wav,0.5,Make the lights green,makes the light's green,SetLightColor
+768.wav,0.2,Make the lights green please.,make the light's green please,SetLightColor
+769.wav,0.6666666666666666,Make the lights in the bed room less bright,me to live in the bedroom less right,DecreaseBrightness
+77.wav,0.16666666666666666,Can you decrease the light intensity,can you decrease the intensity,DecreaseBrightness
+770.wav,0.8,Make the lights in the cellar at the two brightness.,me in life in the <unk>,SetLightBrightness
+771.wav,1.0,Make the lights in the garage a thirty nine please.,<unk>,SetLightBrightness
+772.wav,0.2857142857142857,Make the lights in the house brighter.,major the lights in the house writer,IncreaseBrightness
+773.wav,0.3333333333333333,Make the lights in the kids bedroom a ten.,make the lights and the kids room ten,SetLightBrightness
+774.wav,0.625,Make the lights in the kids bedroom green,made life in the bedroom clean,SetLightColor
+775.wav,0.14285714285714285,Make the lights in the room lower.,make the life in the room lower,DecreaseBrightness
+776.wav,0.5,Make the lights in the studio to be at twelve,maybe license to the uh to be at twelve,SetLightBrightness
+777.wav,0.14285714285714285,Make the lights in the toilets brighter,make the lights and the toilets brighter,IncreaseBrightness
+778.wav,0.8,Make the lights less bright,makes life less right,DecreaseBrightness
+78.wav,0.625,Can you dim the lights in the lounge,can you <unk> lounge,DecreaseBrightness
+780.wav,0.4,Make the lights less bright.,make the land class bright,DecreaseBrightness
+781.wav,0.8,Make the lights more bright,[noise] makes life more right,IncreaseBrightness
+782.wav,0.125,Make the lights more bright in the bedroom,make the whites more bright in the bedroom,IncreaseBrightness
+783.wav,0.16666666666666666,Make the lights not shine anymore,make the like not shine anymore,SwitchLightOff
+784.wav,1.0,Make the lights pink,[noise] me the life speech,SetLightColor
+785.wav,0.5,Make the lights pink.,made the lights think,SetLightColor
+786.wav,0.5,Make the lights red,[noise] make the lights read,SetLightColor
+787.wav,1.0,Make the lights the color red,made delayed that,SetLightColor
+788.wav,0.2,Make the lights turn off,make the whites turn off,SwitchLightOff
+789.wav,1.0,Make the lights turn off in the waiting room,right or not reading them,SwitchLightOff
+79.wav,0.4166666666666667,Can you increase the brightness of the lights in the bed room?,and you increase the brightness lights in the bedroom,IncreaseBrightness
+790.wav,0.6,Make the lights turn on,make delayed done on,SwitchLightOn
+791.wav,0.4,Make the living room dimmer,[noise] make their living room dimmer,DecreaseBrightness
+792.wav,1.0,Make the living room light dimmer,i mean they may be but,DecreaseBrightness
+793.wav,0.0,Make the lounge twenty two,make the lounge twenty two,SetLightBrightness
+794.wav,0.3333333333333333,Make the meeting room lights fifty.,make the meeting room late,SetLightBrightness
+795.wav,0.2857142857142857,Make the pantry five percent in brightness,the pantry five percent brightness,SetLightBrightness
+796.wav,0.0,Make the pantry lights to twelve,make the pantry lights to twelve,SetLightBrightness
+797.wav,0.0,Make the patio brighter,make the patio brighter,IncreaseBrightness
+798.wav,0.16666666666666666,Make the room a bit darker,[noise] make the room a bit darker,DecreaseBrightness
+799.wav,0.0,Make the room brighter.,make the room brighter,IncreaseBrightness
+8.wav,0.75,Adjust brightness to fifty.,i guess like fifty,SetLightBrightness
+80.wav,0.0,Can you increase the brightness?,can you increase the brightness,IncreaseBrightness
+800.wav,0.0,Make the studio lighting to be at the twelve setting,make the studio lighting to be at the twelve setting,SetLightBrightness
+801.wav,0.6,Make the studio lights off.,mean the studio life or,SwitchLightOff
+802.wav,0.2,Make the toilets green lights,make the toilet green lights,SetLightColor
+803.wav,0.8333333333333334,Make twenty two the brightness setting.,twenties the frightening studying,SetLightBrightness
+804.wav,1.0,May you change the light to pink please?,me eugene life being leave,SetLightColor
+805.wav,0.6666666666666666,More light please,more like you,IncreaseBrightness
+806.wav,0.6666666666666666,More lights please,more like,IncreaseBrightness
+807.wav,0.5,Move the brightness setting in the dining room to five.,the same thing in the dining room right,SetLightBrightness
+808.wav,0.0,My bedroom needs to be darker.,my bedroom needs to be darker,DecreaseBrightness
+809.wav,0.16666666666666666,No more lights in the garden.,no more like in the garden,SwitchLightOff
+81.wav,0.6666666666666666,Can you increase the lighting level in the studio?,that late mean never in the studio,IncreaseBrightness
+810.wav,0.25,"Ok alexa, Cut out lights in the pantry",okay let's cut out lights in the pantry,SwitchLightOff
+811.wav,0.625,"Ok google, Turn off lights in entire flat",okay google turn out like an entire flat,SwitchLightOff
+812.wav,0.8,"Ok google, turn off lights",okay google turned on lights,SwitchLightOff
+813.wav,0.2,Once you enter the laundry room turn on the lights,once you intend to laundry room turn on the lights,SwitchLightOn
+814.wav,0.4,PLEASE TURN ON THE LIGHTS,turn on the light,SwitchLightOn
+815.wav,0.375,Place the cellar lights in the off postion,the cellar lights in the position,SwitchLightOff
+816.wav,0.3,Place the lighting on level twenty two in the cubicle,cleaning the landing on level twenty two in the crucible,SetLightBrightness
+817.wav,0.75,Please activate the lights.,the light,SwitchLightOn
+818.wav,0.75,Please adjust the cubicle lights so it's brighter,just to keep my whole life so it's brighter,IncreaseBrightness
+819.wav,0.1111111111111111,Please adjust the light brightness to go lower please.,please adjust the light brightness to go lower grades,DecreaseBrightness
+82.wav,0.2222222222222222,Can you light up the basement a bit more,you light up the basement the bit more,IncreaseBrightness
+820.wav,0.42857142857142855,Please adjust the light bulbs to twelve.,just the light to twelve,SetLightBrightness
+821.wav,0.75,Please brighten the lights in the meeting room,<unk> the room,IncreaseBrightness
+822.wav,0.6666666666666666,Please change entrance lights to blue,change and translate the blue,SetLightColor
+823.wav,0.8,Please change lights to red.,change the like to red neck,SetLightColor
+824.wav,0.14285714285714285,Please change the brightness in the room.,least change the brightness in the room,DecreaseBrightness
+825.wav,0.5,Please change the brightness level in parking area to twenty.,change the bright enough level and parking area you're twenty,SetLightBrightness
+826.wav,0.6,Please change the brightness level in the backyard to fifty.,change the bright enough level in the back yard,SetLightBrightness
+827.wav,0.7272727272727273,Please change the color in the large meeting room to pink.,gender got out in the lodge meeting whom do think,SetLightColor
+828.wav,0.625,Please change the color of the lights red.,please can that got off the lights,SetLightColor
+829.wav,0.5,Please change the color to pink,he's changed the color to me,SetLightColor
+83.wav,0.25,Can you make it a tad brighter please?,can you make it attacked brighter please,IncreaseBrightness
+830.wav,0.4444444444444444,Please change the colors to red in the bathroom,we change too cold to read in the bathroom,SetLightColor
+831.wav,0.4,Please change the light color in the kitchen to blue.,place change to like color in the kitchen to blow,SetLightColor
+832.wav,0.4444444444444444,Please change the lighting to twelve in the shed,hussein's relating to twelve in the shed,SetLightBrightness
+833.wav,0.4,Please change the lights green.,you change the light's green,SetLightColor
+834.wav,1.0,Please change the lights in the meeting room to be red please.,<unk> me getting these,SetLightColor
+835.wav,0.7777777777777778,Please change the lights to red in the cellar,<unk> right in the center,SetLightColor
+836.wav,0.6666666666666666,Please change the lights to red.,changed the like to read,SetLightColor
+837.wav,0.3,Please change the lights to twenty two in the house,please champs the like through twenty two in the house,SetLightBrightness
+838.wav,1.0,Please change the living room lights to red.,he kinda leaning like sled,SetLightColor
+839.wav,1.0,Please cut off all lights,he's like,SwitchLightOff
+84.wav,0.0,Can you make it brighter inside?,can you make it brighter inside,IncreaseBrightness
+840.wav,0.25,Please decrease the brightness,decrease the brightness,DecreaseBrightness
+841.wav,0.75,Please decrease the brightness.,clean decrease the bride most,DecreaseBrightness
+842.wav,0.6666666666666666,Please dim lights,please do lives,DecreaseBrightness
+843.wav,0.75,Please dim the lights,please denver light,DecreaseBrightness
+844.wav,0.4,Please flick the lights on,we split the lights on,SwitchLightOn
+845.wav,0.3333333333333333,Please get rid of the lights.,we get rid of the lives,SwitchLightOff
+846.wav,0.8,Please get the lights off.,get like oh,SwitchLightOff
+847.wav,0.7142857142857143,Please go on and increase the brightness,he's gone and increase the right now,IncreaseBrightness
+848.wav,0.0,Please have the waiting room be less bright,please have the waiting room be less bright,DecreaseBrightness
+849.wav,0.6666666666666666,Please increase lights.,leaves increase life,IncreaseBrightness
+85.wav,0.2857142857142857,Can you make it dimmer in here,can you make dinner in here,DecreaseBrightness
+850.wav,0.7142857142857143,Please increase the brightness of the lights,increase the bright like,IncreaseBrightness
+851.wav,0.36363636363636365,Please increase the brightness of the lights in the kids room.,increase the brightness the lights and the kids really,IncreaseBrightness
+852.wav,0.5833333333333334,Please increase the brightness of the lights in the small meeting room.,please increased brightness lights in small media,IncreaseBrightness
+853.wav,1.0,Please increase the brightness of the lights.,pleasing cleans up tightened up like,IncreaseBrightness
+854.wav,0.4,Please increase the garage lights.,increase the garage light,IncreaseBrightness
+855.wav,0.25,Please increase the lighting.,please increase the losing,IncreaseBrightness
+856.wav,0.42857142857142855,Please increase the lights in the office,increase the lights and the offer,IncreaseBrightness
+857.wav,0.5,Please lower the brightness for me,legal brightness for me,DecreaseBrightness
+858.wav,0.14285714285714285,Please lower the lights in the room.,lower the lights in the room,DecreaseBrightness
+859.wav,1.0,Please lower the lights.,lose lives,DecreaseBrightness
+86.wav,0.3333333333333333,Can you make the bed room lights go up,can you make the bedroom life go up,IncreaseBrightness
+860.wav,0.5,Please make it brighter,please major brighter,IncreaseBrightness
+861.wav,1.0,Please make the color red,eat me alive right,SetLightColor
+862.wav,0.3333333333333333,Please make the entire flat blue.,make the entire like blue,SetLightColor
+863.wav,0.5,Please make the flat room blue,please make this lot room blame,SetLightColor
+864.wav,0.4,Please make the light blue,please make to light do,SetLightColor
+865.wav,0.4,Please make the light red.,make the light read,SetLightColor
+866.wav,0.4,Please make the lights brighter,please make life brighter,IncreaseBrightness
+867.wav,0.4,Please make the lights green,least make the light's green,SetLightColor
+868.wav,0.4444444444444444,Please make the lights green in the dining room,please me delays screen in the dining room,SetLightColor
+869.wav,0.6,Please make the lights pink,make the late spring,SetLightColor
+87.wav,0.5,Can you make the brightness twelve?,then you make the brightest well,SetLightBrightness
+870.wav,0.375,Please make the lights pink in my bedroom.,make the lines pain in my bedroom,SetLightColor
+871.wav,0.1111111111111111,Please make the vestibule lighting to be at twelve,please make them vestibule lighting to be at twelve,SetLightBrightness
+872.wav,0.8333333333333334,Please put off the pantry lights,<unk> lights,SwitchLightOff
+873.wav,0.8,Please set it to five.,incentive to fire,SetLightBrightness
+874.wav,0.875,Please set lounge brightness at twenty two percent,lounge vitamins going to berkeley,SetLightBrightness
+875.wav,1.0,Please set the brightness level to five,you say [laughter],SetLightBrightness
+876.wav,0.8571428571428571,Please set the brightness to five percent,right next to a restaurant,SetLightBrightness
+877.wav,0.5454545454545454,Please set the light brightness level of basement to thirty nine,lisa polite brightness level basement two thirty nine,SetLightBrightness
+878.wav,1.0,Please set the light bulbs to ten.,[noise] they delayed been studying,SetLightBrightness
+879.wav,0.16666666666666666,Please set the office lights down,he set the office lights down,DecreaseBrightness
+88.wav,0.3333333333333333,Can you make the lights blue?,can you make that light blue,SetLightColor
+880.wav,0.2,Please set the office to twenty two for the intensity,the office to twenty two for the intensity,SetLightBrightness
+881.wav,0.6363636363636364,Please set the studio to level two for the light intensity,studio level to light intensity,SetLightBrightness
+882.wav,0.42857142857142855,Please set the toilet lighting to two,we the toilet lighting to touching,SetLightBrightness
+883.wav,1.0,Please set the toilets room light to two,<unk> like do too,SetLightBrightness
+884.wav,0.0,Please shut off the lighting.,please shut off the lighting,SwitchLightOff
+885.wav,0.125,Please shut off the lights above the toilet,shut off the lights above the toilet,SwitchLightOff
+886.wav,0.2,Please shut off the lights.,please shut all the lights,SwitchLightOff
+887.wav,1.0,Please stop the lights,least our lives,SwitchLightOff
+888.wav,0.5,Please switch my lights on now,which my land on now,SwitchLightOn
+889.wav,0.7142857142857143,Please switch on lights for the facilities,switch on the lights facility,SwitchLightOn
+89.wav,0.6666666666666666,Can you make the lights brighter?,can you make their life like that,IncreaseBrightness
+890.wav,0.16666666666666666,Please switch on my cubicle light,please switch on my cubicle like,SwitchLightOn
+891.wav,1.0,Please switch on the lights,john low,SwitchLightOn
+892.wav,0.8181818181818182,Please switch the color of the light to be red please.,i don't like to be like,SetLightColor
+893.wav,1.0,Please switch to pink lighting,mm interesting hang gliding,SetLightColor
+894.wav,0.6666666666666666,Please switch to the green light,people should do that green light,SetLightColor
+895.wav,0.0,Please turn down the brightness,please turn down the brightness,SwitchLightOff
+896.wav,0.16666666666666666,Please turn down the light intensity,please turn down the line intensity,DecreaseBrightness
+897.wav,0.0,Please turn down the lights,please turn down the lights,DecreaseBrightness
+898.wav,0.5555555555555556,Please turn down the lights in the entrance area,[noise] just turned down the line and the entrance area,DecreaseBrightness
+899.wav,0.0,Please turn down the lights in the pantry,please turn down the lights in the pantry,DecreaseBrightness
+9.wav,0.875,Adjust the bed room brightness level to seventy-three.,and get the bedroom right level independently,SetLightBrightness
+90.wav,0.0,Can you make the lights dimmer in the living room?,can you make the lights dimmer in the living room,DecreaseBrightness
+900.wav,0.5,Please turn lights red in large meeting room,pleased in life read in large meeting room,SetLightColor
+901.wav,0.25,Please turn lights up.,please turn like up,IncreaseBrightness
+902.wav,0.2,Please turn my lights on,we turn my lights on,SwitchLightOn
+903.wav,1.0,Please turn off all lights.,i don't know like,SwitchLightOff
+904.wav,0.3333333333333333,Please turn off all the lights.,turn off all the like,SwitchLightOff
+905.wav,0.16666666666666666,Please turn off the cellar lights.,please turn off the lights,SwitchLightOff
+906.wav,0.2,Please turn off the lighting,turn off the lighting,SwitchLightOff
+907.wav,0.2,Please turn off the lighting.,please turn up the lighting,SwitchLightOff
+908.wav,0.2222222222222222,Please turn off the lights in the bed room,please turn off the lights in the bedroom,SwitchLightOff
+909.wav,0.0,Please turn off the lights in the bedroom.,please turn off the lights in the bedroom,SwitchLightOff
+91.wav,0.1111111111111111,Can you make the lights green in the basement?,can you make the light's green in the basement,SetLightColor
+910.wav,0.875,Please turn off the lights in the vestibule.,i don't know the light invested in,SwitchLightOff
+911.wav,0.625,Please turn off the lights in this room.,certain also like in this room,SwitchLightOff
+912.wav,0.8,Please turn off the lights.,i don't know the light,SwitchLightOff
+913.wav,0.8333333333333334,Please turn off the toilets lights.,he's done up the dilute slaves,SwitchLightOff
+914.wav,0.6666666666666666,Please turn on my parking lights,easterner my parking right,SwitchLightOn
+915.wav,0.2,Please turn on the lights,please turn on the lake,SwitchLightOn
+916.wav,0.375,Please turn on the lights in the entrance,turn on the lights and the insurance,SwitchLightOn
+917.wav,0.8571428571428571,Please turn on the living room lights,going on monday tonight,SwitchLightOn
+918.wav,0.6666666666666666,Please turn the brightness of the light bulbs down just a bit.,turned down the brightness light just too bad,DecreaseBrightness
+919.wav,0.6,Please turn the brightness up,leave during the is up,IncreaseBrightness
+92.wav,0.16666666666666666,Can you make the lights green?,can you make the light's green,SetLightColor
+920.wav,0.25,Please turn the cella light to thirty nine,please turn the light two thirty nine,SetLightBrightness
+921.wav,1.0,Please turn the kids room brightness to fifty.,he's done game school environment,SetLightBrightness
+922.wav,0.3333333333333333,Please turn the kitchen lights on.,during the kitchen lights on,SwitchLightOn
+923.wav,1.0,Please turn the light on for me,you don't like,SwitchLightOn
+924.wav,0.2,Please turn the lights down,least turn the lights down,DecreaseBrightness
+925.wav,0.1111111111111111,Please turn the lights down in the waiting room,peace turn the lights down in the waiting room,DecreaseBrightness
+926.wav,0.15384615384615385,Please turn the lights down to a lower setting in the living room,please turn the lights down lower setting in the living room,DecreaseBrightness
+927.wav,0.8,Please turn the lights down.,certainly lights,DecreaseBrightness
+928.wav,0.0,Please turn the lights off,please turn the lights off,SwitchLightOff
+929.wav,0.25,Please turn the lights off in the garden,please the laid off in the garden,SwitchLightOff
+93.wav,0.3333333333333333,Can you make the lights in the office green?,can you make the lines and the green,SetLightColor
+930.wav,0.75,Please turn the lights off in this room,leave the lifestyle in the world,SwitchLightOff
+931.wav,0.5,Please turn the living room lights to twelve.,turn the living room might as well,SetLightBrightness
+932.wav,0.125,Please turn the patio lights up for me.,please turn the patio lives up for me,IncreaseBrightness
+933.wav,0.5,Please turn up lights in appartment,please turn up like an apartment,IncreaseBrightness
+934.wav,0.75,Please turn up the lighting in the toilets.,delighting in the toilet,IncreaseBrightness
+935.wav,0.625,Please turn up the lights a bit more,<unk> a bit more,IncreaseBrightness
+936.wav,0.2,Please turn up the lights.,we turn up the lights,IncreaseBrightness
+937.wav,1.0,"Please, decrease the brightness.",he declared devices,DecreaseBrightness
+938.wav,0.9,"Please, set the brightness of the light bulbs to seventy-three.",that the bright like old seventy three,SetLightBrightness
+939.wav,0.0,Power on the lamps,power on the lamps,SwitchLightOn
+94.wav,1.0,Can you make the outside light green,pay you made it out i like greens,SetLightColor
+940.wav,0.5714285714285714,Power on the lamps in the toilets,oh we're on the land in the toilet,SwitchLightOn
+941.wav,0.25,Power on the lights,we're on the lights,SwitchLightOn
+942.wav,0.5714285714285714,Power on the lights in the bedroom,own lives in the bedroom,SwitchLightOn
+943.wav,0.2,Power on the office lamps,power on the office last,SwitchLightOn
+944.wav,0.3333333333333333,Power the cublicle lamps to ten,power the cubicle lands to ten,SetLightBrightness
+945.wav,0.6666666666666666,Power the lamps to two percent,last to percent,SetLightBrightness
+946.wav,1.25,Power the office lights,oh where they all the lights,SwitchLightOn
+947.wav,0.6,Put bathroom brightness to fifty,some brightness two fifty,SetLightBrightness
+948.wav,1.0,Put lights at a higher intensity please,lives in hiring judge deeply,IncreaseBrightness
+949.wav,0.75,Put lights to blue,late to move,SetLightColor
+95.wav,0.8888888888888888,Can you please brighten this room up a bit?,he's bringing this rumor the best,IncreaseBrightness
+950.wav,1.0,Put on the lights in the cella at two percent,<unk>,SetLightBrightness
+951.wav,1.0,Put parking lights at level twelve,well i can never play,SetLightBrightness
+952.wav,0.875,Put the brightness in the shed at fifty.,who knows in michigan,SetLightBrightness
+953.wav,0.3333333333333333,Put the cellar lights to off,the cellar lights to uh,SwitchLightOff
+954.wav,0.0,Put the kids bedroom lights on twelve,put the kids bedroom lights on twelve,SetLightBrightness
+955.wav,1.0,Put the lighting to level ten,liking delivers gang,SetLightBrightness
+956.wav,0.36363636363636365,Put the lights in the living room at level thirty nine,to life in the living room i level thirty nine,SetLightBrightness
+957.wav,1.0,Put the lights in the meeting room to twelve.,we're believe me when,SetLightBrightness
+958.wav,0.0,Put the lights off in the bedroom,put the lights off in the bedroom,SwitchLightOff
+959.wav,0.0,Put the lights on,put the lights on,SwitchLightOn
+96.wav,1.0,Can you please change the bathroom lights to the color red?,<unk> right,SetLightColor
+960.wav,0.4,Put the lights on please,the lights on,SwitchLightOn
+961.wav,0.1111111111111111,Put the lights to twelve percent in the bathroom,put the light to twelve percent in the bathroom,SetLightBrightness
+962.wav,0.625,Put the lights to two in the backyard,the last two in the back yard,SetLightBrightness
+963.wav,0.8333333333333334,Put the parking brightness at twenty,wouldn't backing diagnosed at windy,SetLightBrightness
+964.wav,0.14285714285714285,Quickly put on the lights in the dining room as I am very hungry,quickly put on the lights in the dining room and i am very huh,SwitchLightOn
+965.wav,0.2857142857142857,Raise the lights in the changing room,raise the lights and the changing rooms,IncreaseBrightness
+966.wav,0.0,Raise the lights in the laundry room,raise the lights in the laundry room,IncreaseBrightness
+967.wav,0.5,Reduce basement brightness to two percent,reduce based some brightness two percent,SetLightBrightness
+968.wav,0.5,Reduce brightness,do brightness,DecreaseBrightness
+969.wav,1.0,Reduce brightness to fifty in the house.,[noise] back into her,SetLightBrightness
+1118.wav,0.14285714285714285,The studio lights need to be increased,the studio like need to be increased,IncreaseBrightness
+1119.wav,0.16666666666666666,The toilet lights should be blue.,the toilet like should be blue,SetLightColor
+112.wav,0.9166666666666666,Can you set the brightness to twenty two for the entire house?,and then they to ban battles,SetLightBrightness
+1120.wav,0.0,The toilets should have green lighting.,the toilets should have green lighting,SetLightColor
+1121.wav,0.2857142857142857,There is too much light in here.,there's too much light in here,DecreaseBrightness
+1122.wav,0.375,There is too much light in the bedroom,there's too much like in the bedroom,DecreaseBrightness
+1123.wav,0.75,Throughout the house turn up the light power,health care up to like power,IncreaseBrightness
+1124.wav,0.25,Tone down the brightness in the laundry room.,down the brightest in the laundry room,DecreaseBrightness
+1125.wav,1.0,Turn all lighting on.,don't know life,SwitchLightOn
+1126.wav,0.5,Turn all the lights down please.,no lights down please,DecreaseBrightness
+1127.wav,1.0,Turn backyard lights off,from back like uh,SwitchLightOff
+1128.wav,0.4,Turn basement lights on please,burn basement lights on you,SwitchLightOn
+1129.wav,0.6,Turn basement lights to pink,don't basement late to bank,SetLightColor
+113.wav,0.75,Can you set the cella room to seventy-three,the cellar room to seventy three,SetLightBrightness
+1130.wav,1.0,Turn bed room lights off,bedroom lives uh,SwitchLightOff
+1131.wav,0.3333333333333333,Turn brightness down in bed room,turn brightness down in bedroom,DecreaseBrightness
+1132.wav,0.8,Turn down bed room lights,turned down bedroom right,DecreaseBrightness
+1133.wav,0.8333333333333334,Turn down lights in entire appartment,tournaments and entire apartment,DecreaseBrightness
+1134.wav,0.0,Turn down the basement lights,turn down the basement lights,DecreaseBrightness
+1135.wav,0.25,Turn down the brightness,turned down the brightness,DecreaseBrightness
+1136.wav,0.16666666666666666,Turn down the brightness for me,turned down the brightness for me,DecreaseBrightness
+1137.wav,0.5,Turn down the brightness in the laundry room,down the brightest in room,DecreaseBrightness
+1138.wav,0.2857142857142857,Turn down the brightness of the lighting,turn down the brightest sent the lighting,DecreaseBrightness
+1139.wav,1.0,Turn down the brightness please,and don't debate nice place,DecreaseBrightness
+114.wav,0.5555555555555556,Can you set the kids room light to five,can that the kids might to buy,SetLightBrightness
+1140.wav,0.0,Turn down the light in the bedroom.,turn down the light in the bedroom,DecreaseBrightness
+1141.wav,0.5714285714285714,Turn down the light in the loo.,turned down the like the loop,DecreaseBrightness
+1142.wav,0.1111111111111111,Turn down the light intensity in the dining room.,turn down the white intensity in the dining room,DecreaseBrightness
+1143.wav,0.125,Turn down the light power all the way,turn down the line power all the way,SwitchLightOff
+1144.wav,0.0,Turn down the light power in the pantry all the way,turn down the light power in the pantry all the way,SwitchLightOff
+1145.wav,0.75,Turn down the lighting in the kids bedroom.,[laughter] <unk> kids bedroom,DecreaseBrightness
+1146.wav,0.0,Turn down the lights,turn down the lights,DecreaseBrightness
+1147.wav,0.3333333333333333,Turn down the lights a bit,turn down relates a bit,DecreaseBrightness
+97.wav,0.5,Can you please change the brightness in kids room to twenty two?,can you please change my partner is route twenty two,SetLightBrightness
+970.wav,0.25,Reduce the brightness in my bedroom as I am going to sleep,reduce the brightness in my bedroom and i'm going to sleep,DecreaseBrightness
+971.wav,0.42857142857142855,Reduce the brightness in the bedroom please,reduce the national the bedroom plays,DecreaseBrightness
+972.wav,0.9,Reduce the light brightness in the backyard to level ten.,and he was delighted brightness in their backyards dilemma then,SetLightBrightness
+973.wav,0.5,Select pink light color,select paying like color,SetLightColor
+974.wav,0.3,Set all lamps to level thirty nine in the studio,that all labs level thirty nine in the studio,SetLightBrightness
+975.wav,0.5555555555555556,Set all lamps to two in the laundry room.,<unk> in the laundry room,SetLightBrightness
+976.wav,1.0,Set brightness in pantry to seventy-three percent,indictment inventing complete berkman,SetLightBrightness
+977.wav,0.4,Set brightness to twenty please.,brightness to twenty,SetLightBrightness
+978.wav,0.8,Set cellar lights to fifty,said similar lives two fifty,SetLightBrightness
+979.wav,0.6,Set light color to blue,right color blue,SetLightColor
+98.wav,0.4166666666666667,Can you please change the brightness in the lounge to thirty nine?,can you please changed brightness in allowance two thirty nine,SetLightBrightness
+980.wav,0.5,Set lights to green,satellites to green,SetLightColor
+981.wav,0.5,Set lights to level thirty nine,that too level thirty nine,SetLightBrightness
+982.wav,1.0,Set lights to level twenty two,their dilemmas too,SetLightBrightness
+983.wav,1.0,Set lights to off,so too uh,SwitchLightOff
+984.wav,0.3333333333333333,Set lights to twenty two percent in the basement,like two twenty two percent in the basement,SetLightBrightness
+985.wav,0.4444444444444444,Set lights to two in the parking room please,that all like two two in the parking room please,SetLightBrightness
+986.wav,0.75,Set living room bright level to twenty two,meaning but i living under twenty two,SetLightBrightness
+987.wav,0.8888888888888888,Set my bed room to twenty two for brightness,my <unk>,SetLightBrightness
+988.wav,0.8333333333333334,Set the basement lights to two,[laughter] life to to,SetLightBrightness
+989.wav,0.625,Set the bathroom lights to the on position,the bathroom i do beyond position,SwitchLightOn
+99.wav,0.25,Can you please change the color to blue,can you please changed the color blue,SetLightColor
+990.wav,0.8888888888888888,Set the bed room lights to two for brightness.,the bachelor <unk>,SetLightBrightness
+991.wav,0.5555555555555556,Set the brightness in the bathroom at level twelve,some brightness in the bathroom i love football,SetLightBrightness
+992.wav,0.9,Set the brightness in the bed room to twenty two.,died due to drinking too,SetLightBrightness
+993.wav,0.2727272727272727,Set the brightness in the kids room to level twenty two,the brightest in the kids' room to level twenty two,SetLightBrightness
+994.wav,1.0,Set the brightness in the living room to ten.,inundating them today,SetLightBrightness
+995.wav,0.875,Set the brightness level of light to twenty,bird this little white twenty,SetLightBrightness
+996.wav,0.6666666666666666,Set the brightness level to seventy-three,brightness level to seventy three,SetLightBrightness
+997.wav,1.0,Set the brightness of the light bulbs to fifty.,department for life or,SetLightBrightness
+998.wav,0.4444444444444444,Set the brightness on the light bulbs to fifty.,brightness of the light bulbs fifty,SetLightBrightness
+999.wav,1.0,Set the brightness to fifty.,said that <unk> these,SetLightBrightness
+1148.wav,0.0,Turn down the lights in here,turn down the lights in here,DecreaseBrightness
+1149.wav,0.14285714285714285,Turn down the lights in the basement.,turned down the lights in the basement,DecreaseBrightness
+115.wav,0.45454545454545453,Can you set the meeting room to be a pink hue?,the meeting room to be pink you,SetLightColor
+1150.wav,0.0,Turn down the lights in the bedroom,turn down the lights in the bedroom,DecreaseBrightness
+1151.wav,0.2857142857142857,Turn down the lights in the cella,turn down the line in the cellar,DecreaseBrightness
+1152.wav,0.375,Turn down the lights in the changing room,turn down the line and the changing rooms,DecreaseBrightness
+1153.wav,0.0,Turn down the lights in the kitchen,turn down the lights in the kitchen,DecreaseBrightness
+1154.wav,0.4444444444444444,Turn down the lights in the large meeting room,down the line in the large you know,SwitchLightOff
+1155.wav,0.375,Turn down the lights in the toilets room,turn down the line in the toilet right,DecreaseBrightness
+1156.wav,0.375,Turn down the lights in the waiting room,lights in the waiting room,DecreaseBrightness
+1157.wav,0.16666666666666666,Turn down the lights one notch,turn down the line one notch,DecreaseBrightness
+1158.wav,1.0,Turn down the lights please,you know in the late eighties,SwitchLightOff
+1159.wav,1.0,Turn down the lights.,really,DecreaseBrightness
+116.wav,0.42857142857142855,Can you shut off the house lights.,you sit around the house lights,SwitchLightOff
+1160.wav,0.16666666666666666,Turn light on in toilet room,turn it on in toilet room,SwitchLightOn
+1161.wav,0.6666666666666666,Turn lighting red,dan lighting,SetLightColor
+1162.wav,0.14285714285714285,Turn lights in the laundry room brighter,done lights in the laundry room brighter,IncreaseBrightness
+1163.wav,1.0,Turn lights on everywhere please,[noise] on my lap everywhere pretty,SwitchLightOn
+1164.wav,0.14285714285714285,Turn lights on in the waiting room,turn like on in the waiting room,SwitchLightOn
+1165.wav,0.0,Turn lights on over the toilet,turn lights on over the toilet,SwitchLightOn
+1166.wav,0.75,Turn lights to green,or like the green,SetLightColor
+1167.wav,0.5,Turn living room lights to red,turn living on like to read,SetLightColor
+1168.wav,1.0,Turn meeting room lights off.,don't meetings um myself,SwitchLightOff
+1169.wav,0.7142857142857143,Turn my living room lights on please,turned on my living room right,SwitchLightOn
+117.wav,0.4444444444444444,Can you shut the lights off at the entrance,set the off at the entrance,SwitchLightOff
+1170.wav,0.2,Turn off all the lamps.,turn off all the land,SwitchLightOff
+1171.wav,0.3333333333333333,Turn off lights,turned off lights,SwitchLightOff
+1172.wav,0.16666666666666666,Turn off my bedroom lights please,turn off my bedroom lives please,SwitchLightOff
+1173.wav,1.0,Turn off parking lights,dunno starting wage [noise],SwitchLightOff
+1174.wav,0.8,Turn off the bathroom lights,[noise] down off the bottom line,SwitchLightOff
+1175.wav,0.8,Turn off the cellar lights,and the <unk> like,SwitchLightOff
+1176.wav,0.0,Turn off the light power,turn off the light power,SwitchLightOff
+1177.wav,0.0,Turn off the lighting.,turn off the lighting,SwitchLightOff
+1178.wav,0.75,Turn off the lights,turned on lights,SwitchLightOff
+1179.wav,0.75,Turn off the lights,turned off right,SwitchLightOff
+118.wav,0.2,Can you stop the lighting?,when you stop the lighting,SwitchLightOff
+1180.wav,0.42857142857142855,Turn off the lights at 4:30 pm,turn off the up for thirty pm,SwitchLightOff
+1181.wav,0.0,Turn off the lights for me,turn off the lights for me,SwitchLightOff
+1182.wav,1.0,Turn off the lights for the living room,i don't know nice meeting you,SwitchLightOff
+1183.wav,0.14285714285714285,Turn off the lights in five minutes,turn on the lights in five minutes,SwitchLightOff
+1184.wav,0.0,Turn off the lights in the basement,turn off the lights in the basement,SwitchLightOff
+1185.wav,0.7142857142857143,Turn off the lights in the bathroom,like in the back,SwitchLightOff
+1186.wav,0.375,Turn off the lights in the bed room,turn on the lights in the bedroom,SwitchLightOff
+1187.wav,0.0,Turn off the lights in the bedroom,turn off the lights in the bedroom,SwitchLightOff
+1188.wav,1.0,Turn off the lights in the entire flat,<unk> like,SwitchLightOff
+1189.wav,1.0,Turn off the lights in the entrance.,nineteen think think,SwitchLightOff
+119.wav,0.5714285714285714,Can you switch on my appartment lights,switch on my apartment light,SwitchLightOn
+1190.wav,0.14285714285714285,Turn off the lights in the kitchen,turn on the lights in the kitchen,SwitchLightOff
+1191.wav,0.0,Turn off the lights in the living room,turn off the lights in the living room,SwitchLightOff
+1192.wav,0.2857142857142857,Turn off the lights in the toilets,turn out the lights in the toilet,SwitchLightOff
+1193.wav,1.0,Turn off the lights in this room.,i don't know life initial,SwitchLightOff
+1194.wav,0.2,Turn off the lights now,turn off the lights smell,SwitchLightOff
+1195.wav,0.5714285714285714,Turn off the lights to the basement,no lights in the basement,SwitchLightOff
+1196.wav,0.5714285714285714,Turn off the lights to the toilets.,turn off the light rail it,SwitchLightOff
+1197.wav,0.8,Turn off the lounge lights.,turtle language lights,SwitchLightOff
+1198.wav,0.8,Turn off the patio lights.,i dunno i do lights,SwitchLightOff
+1199.wav,0.2,Turn off the toilet lights,turn off the lights,SwitchLightOff
+12.wav,0.625,Adjust the brightness in the loo to fifty.,just brightness in the loop [laughter],SetLightBrightness
+120.wav,0.3,Can you switch the lights on for my entire house?,with the lights on for my entire house,SwitchLightOn
+1200.wav,0.2222222222222222,Turn on all the lights in the entire house.,turned on all the lights the entire house,SwitchLightOn
+1201.wav,0.8,Turn on bed room lights,turned on bedroom right,SwitchLightOn
+1202.wav,0.5,Turn on garage lights,turned on garage graduate,SwitchLightOn
+1203.wav,0.16666666666666666,Turn on lights above the toilet,turned on lights above the toilet,SwitchLightOn
+1204.wav,0.5,Turn on lights in the backyard,and i live in the backyard,SwitchLightOn
+1205.wav,0.16666666666666666,Turn on lights in the cellar,turned on lights in the cellar,SwitchLightOn
+1206.wav,1.0,Turn on living room lights.,nice,SwitchLightOn
+1207.wav,0.4,Turn on my lights now,my lights now,SwitchLightOn
+1208.wav,0.3333333333333333,Turn on my patio lights please,no my patio lights please,SwitchLightOn
+1209.wav,0.5,Turn on red lights.,turned on red light,SetLightColor
+121.wav,0.9,Can you switch the lights to the color green please?,and usually the lives <unk>,SetLightColor
+1210.wav,0.0,Turn on the bathroom lights,turn on the bathroom lights,SwitchLightOn
+1211.wav,0.5,Turn on the bed room lights,turn on the bedroom light,SwitchLightOn
+1212.wav,0.0,Turn on the changing room lights,turn on the changing room lights,SwitchLightOn
+1213.wav,0.8,Turn on the entrance lights,the <unk> likes,SwitchLightOn
+1214.wav,0.16666666666666666,Turn on the laundry room lighting,turn on the laundry room lady,SwitchLightOn
+1215.wav,0.0,Turn on the lights,turn on the lights,SwitchLightOn
+1216.wav,0.0,Turn on the lights above the toilet,turn on the lights above the toilet,SwitchLightOn
+1217.wav,0.0,Turn on the lights in the bathroom,turn on the lights in the bathroom,SwitchLightOn
+1218.wav,0.14285714285714285,Turn on the lights in the bedroom,on the lights in the bedroom,SwitchLightOn
+1219.wav,0.25,Turn on the lights in the changing room,turn on the lights and the changing um,SwitchLightOn
+122.wav,0.8333333333333334,Can you turn down the lights?,then you don't like,DecreaseBrightness
+1220.wav,0.5714285714285714,Turn on the lights in the entrance,lights in the insurance,SwitchLightOn
+1221.wav,0.25,Turn on the lights in the kids room,turn on the lights and the kids though,SwitchLightOn
+1222.wav,0.0,Turn on the lights in the laundry room,turn on the lights in the laundry room,SwitchLightOn
+1223.wav,0.0,Turn on the lights in the waiting room,turn on the lights in the waiting room,SwitchLightOn
+1224.wav,0.8,Turn on the lights please,[laughter] please,SwitchLightOn
+1225.wav,0.25,Turn on the lights.,turn on the like,SwitchLightOn
+1226.wav,0.0,Turn on the office lighting,turn on the office lighting,SwitchLightOn
+1227.wav,0.2,Turn on the office lights,turn on the lights,SwitchLightOn
+1228.wav,0.4,Turn on the pantry lights,turned on the pantry like,SwitchLightOn
+1229.wav,0.8571428571428571,Turn on the spotlight in the room,i didn't room,SwitchLightOn
+123.wav,0.2857142857142857,Can you turn off the cella lights,can you turn off the cellar light,SwitchLightOff
+1230.wav,1.0,Turn on the toilet lights,<unk>,SwitchLightOn
+1231.wav,0.8,Turn out the cellar lights,turned out like,SwitchLightOff
+1232.wav,0.6666666666666666,Turn parking light setting to off,term parking like setting too uh,SwitchLightOff
+1233.wav,0.75,Turn studio lights on,turns duty l._a._x. on,SwitchLightOn
+1234.wav,0.4,Turn the backyard lights pink,turn the back yard lights pink,SetLightColor
+1235.wav,0.7142857142857143,Turn the basement light intensity to ten,nation alliances due to ten,SetLightBrightness
+1236.wav,0.8,Turn the basement lights down,toby's been lots down,DecreaseBrightness
+1237.wav,0.8333333333333334,Turn the bed room lights off,the bedroom like a,SwitchLightOff
+1238.wav,0.6666666666666666,Turn the bedroom light to seventy-three,in the bedroom like seventy three,SetLightBrightness
+1239.wav,0.0,Turn the bedroom lights on,turn the bedroom lights on,SwitchLightOn
+124.wav,0.8888888888888888,Can you turn off the light in the toilet,yeah you like it,SwitchLightOff
+1240.wav,0.6,Turn the bedroom to twenty,bedroom two twenty,SetLightBrightness
+1241.wav,1.0,Turn the brightness down,and debate though,DecreaseBrightness
+1242.wav,0.125,Turn the brightness down in the living room,turn them brightness down in the living room,DecreaseBrightness
+1243.wav,0.5,Turn the brightness down in the toilet room,turn the grind years down the toilet round,DecreaseBrightness
+1244.wav,0.125,Turn the brightness in the flat to two,turn the brightness in the flat to to,SetLightBrightness
+1245.wav,0.5,Turn the brightness to level twelve,during the brightness local twelve,SetLightBrightness
+1246.wav,0.2857142857142857,Turn the brightness to thirty nine percent,turn the break the thirty nine percent,SetLightBrightness
+1247.wav,0.14285714285714285,Turn the brightness up in the basement,to the brightness up in the basement,IncreaseBrightness
+1248.wav,0.6,Turn the bulb brightness down.,during the boom right down,DecreaseBrightness
+1249.wav,0.3333333333333333,Turn the bulbs on brighter everywhere,during the bulls on brighter everywhere,IncreaseBrightness
+125.wav,1.0,Can you turn off the lights,mhm,SwitchLightOff
+1250.wav,0.5714285714285714,Turn the cella lights to twelve percent,the our like twelve percent,SetLightBrightness
+1251.wav,0.7142857142857143,Turn the cellar lights to fifty percent,during the summer like eighty percent,SetLightBrightness
+1252.wav,1.0,Turn the changing room lights off,which is,SwitchLightOff
+1253.wav,0.0,Turn the changing room lights to ten percent,turn the changing room lights to ten percent,SetLightBrightness
+1254.wav,0.7142857142857143,Turn the cublicle lights to level ten,[noise] during the cubicle that level ten,SetLightBrightness
+1255.wav,0.4,Turn the entrance lights on,turn the insurance lights um,SwitchLightOn
+1256.wav,0.4,Turn the entrance lights on.,from the insurance lights on,SwitchLightOn
+1257.wav,1.0,Turn the flat light to twelve,[laughter] right right throw,SetLightBrightness
+1258.wav,1.0,Turn the flat room off.,[noise] doing the classroom or,SwitchLightOff
+1259.wav,0.5714285714285714,Turn the garden lights up a notch.,kindergarten nights up a notch,IncreaseBrightness
+126.wav,1.0,Can you turn off the lights for the laundry room?,yeah no i don't do,SwitchLightOff
+1260.wav,0.5,Turn the kids bedroom light red,the kids bedroom might read,SetLightColor
+1261.wav,0.8,Turn the kitchen lights green,turn to july greed,SetLightColor
+1262.wav,0.5,Turn the kitchen lights on brighter,doing the kitchen nights on though,IncreaseBrightness
+1263.wav,0.0,Turn the large meeting room green.,turn the large meeting room green,SetLightColor
+1264.wav,1.0,Turn the laundry room lights to twenty two.,don't don't diesel nights drinking too,SetLightBrightness
+1265.wav,0.75,Turn the light intensity to level thirty nine,don't like going to be eleven thirty nine,SetLightBrightness
+1266.wav,0.75,Turn the light on,delayed on,SwitchLightOn
+1267.wav,0.0,Turn the light on in the bedroom,turn the light on in the bedroom,SwitchLightOn

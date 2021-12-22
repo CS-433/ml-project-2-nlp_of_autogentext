@@ -1,0 +1,1661 @@
+,transcript,user_action,user_action_num
+0,w. lights in the in her house,SwitchLightOn,1
+1,active impeachment light,SwitchLightOn,1
+2,just the bedroom like intend to or thirty nine,SetLightBrightness,4
+3,can you please changed the white collar being,SetLightColor,5
+4,the do,SetLightBrightness,4
+5,some brightness to twelve,SetLightBrightness,4
+6,not the brightest twenty,SetLightBrightness,4
+7,and <unk>,SetLightBrightness,4
+8,<unk> true,SetLightBrightness,4
+9,set the cellar lights as well,SetLightBrightness,4
+10,fellow lights to to,SetLightBrightness,4
+11,then <unk> like to do,SetLightBrightness,4
+12,the entrance lighting intensity to twelve,SetLightBrightness,4
+13,san diego right you right it's setting,IncreaseBrightness,2
+14,can you please lower the line for me,DecreaseBrightness,3
+15,necessity like like <unk>,SetLightBrightness,4
+16,the garden brightness local well,SetLightBrightness,4
+17,the hallway like pink,SetLightColor,5
+18,the learning to to,SetLightBrightness,4
+19,so the kids bedroom lights to five,SetLightBrightness,4
+20,so the laundry room lying to ten percent,SetLightBrightness,4
+21,did that late late and level <unk>,SetLightBrightness,4
+22,so the light color to blue,SetLightColor,5
+23,said the lights dimmer in the office,DecreaseBrightness,3
+24,complain about bathroom my five,SetLightBrightness,4
+25,the lights in the laundry room level too,SetLightBrightness,4
+26,the in the laundry room to seventy three,SetLightBrightness,4
+27,set the lights in toilets to read,SetLightColor,5
+28,satellite's too are higher intensity,IncreaseBrightness,2
+29,<unk> higher intensity and the changing,IncreaseBrightness,2
+30,satellites to a higher standard of living,IncreaseBrightness,2
+31,<unk> last race setting,DecreaseBrightness,3
+32,delays to lower intensity,DecreaseBrightness,3
+33,the light's green and the large meeting them,SetLightColor,5
+34,turn the lights intensity two percent,SetLightBrightness,4
+35,lives like,SetLightColor,5
+36,and you turn on the lights in the cellar,SwitchLightOff,0
+37,[noise] during the lights down in the back yard,DecreaseBrightness,3
+38,turn the lights down in the dining room,DecreaseBrightness,3
+39,turn lives down in the living room,DecreaseBrightness,3
+40,like getting,SetLightColor,5
+41,like in the garden off,SwitchLightOff,0
+42,charmed life in the machine and p.,SetLightColor,5
+43,and the lights in the waiting room full five,SetLightBrightness,4
+44,turn the lights in the waiting room to thirty nine,SetLightBrightness,4
+45,turn the lights off,SwitchLightOff,0
+46,turn the lights off in the basement,SwitchLightOff,0
+47,yeah you like in the parking room,SwitchLightOff,0
+48,turn the lights up in the dining room,SwitchLightOff,0
+49,turn the lights off in the dining room,SwitchLightOff,0
+50,the lights off in the laundry room,SwitchLightOff,0
+51,turn the lights off in the office,SwitchLightOff,0
+52,doesn't shed,SwitchLightOff,0
+53,from the laptop in the toilet,SwitchLightOff,0
+54,been laid off no,SwitchLightOff,0
+55,turn the lights off,SwitchLightOff,0
+56,the lights on,SwitchLightOn,1
+57,the lights on about the toilets,SwitchLightOn,1
+58,can you turn on life please,SwitchLightOff,0
+59,the lights on everywhere,SwitchLightOn,1
+60,no lights on department,SwitchLightOn,1
+61,turn the lights on in the bedroom,SwitchLightOn,1
+62,<unk> changing room,SwitchLightOn,1
+63,then the lights on in the kitchen,SwitchLightOn,1
+64,no lights on in the meeting room,SwitchLightOn,1
+65,turn the lights on independently,SwitchLightOn,1
+66,turn the lights on the small meeting room,SwitchLightOn,1
+67,turn the lights on in the studio,SwitchLightOn,1
+68,doing the on now,SwitchLightOn,1
+69,i just diagnosed his game,SetLightBrightness,4
+70,can you turn off the light,SwitchLightOff,0
+71,turn the lights on,SetLightColor,5
+72,turn the lights on please,SwitchLightOn,1
+73,the on the kitchen,SwitchLightOn,1
+74,[noise],SwitchLightOn,1
+75,turn the lights pink please,SetLightColor,5
+76,turn the light right in the bedroom,SetLightColor,5
+77,turn the lights dry darker setting in the office,DecreaseBrightness,3
+78,turn the lights to hire setting,IncreaseBrightness,2
+79,turn the lights to lower setting,DecreaseBrightness,3
+80,<unk>,SetLightBrightness,4
+81,turned on bathroom light,SwitchLightOn,1
+82,done the lights up a notch the same not,IncreaseBrightness,2
+83,turn the lights up a notch you,IncreaseBrightness,2
+84,turn the lights of the entrance,IncreaseBrightness,2
+85,trying to learn something new,IncreaseBrightness,2
+86,turn the lights up in the studio,IncreaseBrightness,2
+87,turn the lights up in the toilet,IncreaseBrightness,2
+88,turn the living room lights up,IncreaseBrightness,2
+89,turn the lounge lights right,SetLightColor,5
+90,the patio like,SetLightColor,5
+91,you don't on tonight,SwitchLightOn,1
+92,turning studio lights on,SwitchLightOn,1
+93,turn the studio like thirty nine,SetLightBrightness,4
+94,turning the vestibule lights to to,SetLightBrightness,4
+95,turn the lights up,IncreaseBrightness,2
+96,waiting brightness to to,SetLightBrightness,4
+97,needs to seven fifty,SetLightBrightness,4
+98,turned toilet run lights on,SwitchLightOn,1
+99,turn up the brightness,IncreaseBrightness,2
+100,turn off the brightness in changing rooms,IncreaseBrightness,2
+101,tournaments the lighting,IncreaseBrightness,2
+102,he turned to bring us down in the backyard,DecreaseBrightness,3
+103,hello,IncreaseBrightness,2
+104,turn on the lights in the cellar,IncreaseBrightness,2
+105,turn up the and kids room,IncreaseBrightness,2
+106,turn out the lights in the kitchen,IncreaseBrightness,2
+107,turn on the lights in the pantry,IncreaseBrightness,2
+108,turn on the lights in the parking,IncreaseBrightness,2
+109,turn the lights in the patio,IncreaseBrightness,2
+110,dan i'm the lights in the toilet,IncreaseBrightness,2
+111,part of the legs,IncreaseBrightness,2
+112,you turn the brightness to ten,SetLightBrightness,4
+113,turn off the light,IncreaseBrightness,2
+114,turn vegetable landing on,SwitchLightOn,1
+115,we have a large meeting room i need some red lights in there,SetLightColor,5
+116,we need a bunch done to buy diesel,IncreaseBrightness,2
+117,what do i need to do to get the dining room to fifty brightness,SetLightBrightness,4
+118,well you increase the president's teas,IncreaseBrightness,2
+119,well you make the entrance lights read for the afternoon,SetLightColor,5
+120,we use that they chose to fifty brightness,SetLightBrightness,4
+121,did you turn down the right now,DecreaseBrightness,3
+122,would you please turn on the lights and my cubicle,SwitchLightOn,1
+123,<unk> individual,IncreaseBrightness,2
+124,what do you switch my kitchen lead into um,SwitchLightOn,1
+125,would you turn on my basement light,SwitchLightOn,1
+126,did you turn on my basement like,SwitchLightOn,1
+127,just brightness of lounge late to of twenty two,SetLightBrightness,4
+128,ah laid off,SwitchLightOff,0
+129,oh nice,SwitchLightOff,0
+130,basement life should be set to twelve,SetLightBrightness,4
+131,you smell like shouldn't be turned on,SwitchLightOn,1
+132,bottom brave enough to do,SetLightBrightness,4
+133,them do to increase debate nice,IncreaseBrightness,2
+134,continue dumbo she'll lay down,SwitchLightOn,1
+135,like uh,SwitchLightOff,0
+136,bedroom brightness to to please,SetLightBrightness,4
+137,like damn,DecreaseBrightness,3
+138,boardrooms dark turn on like,SwitchLightOn,1
+139,burlington kitchen,IncreaseBrightness,2
+140,brighten up the cubicle,IncreaseBrightness,2
+141,bring up the lights,IncreaseBrightness,2
+142,can you give me some like please,SwitchLightOn,1
+143,can you give me some light please in the kitchen,SwitchLightOn,1
+144,can you give me some nights,SwitchLightOn,1
+145,you turn me cubicle like twenty two,SetLightBrightness,4
+146,can you increase the brightness,IncreaseBrightness,2
+147,and you increase the brightness in the laundry room,IncreaseBrightness,2
+148,can you increase the brightness soak entire house,IncreaseBrightness,2
+149,you miss the bedroom little darker possible,DecreaseBrightness,3
+150,can you make the light blue,SetLightColor,5
+151,can you please turn on the lights,SwitchLightOn,1
+152,turned down the lights in here,DecreaseBrightness,3
+153,<unk> december lights,SwitchLightOff,0
+154,can you travel to house lights,SwitchLightOff,0
+155,turning fifty kids bedroom lights,SwitchLightOff,0
+156,can you turn the lights down one notch,DecreaseBrightness,3
+157,daniel done the lights though,DecreaseBrightness,3
+158,he likes to being kinda,SetLightColor,5
+159,gun sit back god like to bite and setting off,SetLightBrightness,4
+160,<unk> to being,SetLightColor,5
+161,<unk> percent,SetLightBrightness,4
+162,change the color about it might be,SetLightColor,5
+163,<unk> being,SetLightColor,5
+164,<unk> do pink,SetLightColor,5
+165,[noise] change lancing to pink,SetLightColor,5
+166,[noise] change lights to blue,SetLightColor,5
+167,you turn the lights off,SwitchLightOff,0
+168,change like the bank,SetLightColor,5
+169,he began it needs being,SetLightColor,5
+170,change delight to pink,SetLightColor,5
+171,teams that she likes to be,SetLightColor,5
+172,about who likes to lean,SetLightColor,5
+173,[noise] <unk>,SetLightColor,5
+174,changing my is,SwitchLightOff,0
+175,lose a late in the courtroom,SwitchLightOff,0
+176,create more than bedroom likes to read,SetLightColor,5
+177,those delayed scene which view,SwitchLightOff,0
+178,just brightness in seventy three,SetLightBrightness,4
+179,genealogy nineteen [noise],SetLightBrightness,4
+180,dark in the like in the toilet,DecreaseBrightness,3
+181,degrees brightness in cell are,DecreaseBrightness,3
+182,decrease brightness in the basement,DecreaseBrightness,3
+183,guys are bathroom like,DecreaseBrightness,3
+184,increase brightness please,DecreaseBrightness,3
+185,decrease lights and laundry room all the way uh,SwitchLightOff,0
+186,decrease the late in the small meeting or,DecreaseBrightness,3
+187,in the basement,DecreaseBrightness,3
+188,the bedroom nights,DecreaseBrightness,3
+189,even the border,DecreaseBrightness,3
+190,seeing all the lights two fifty,SetLightBrightness,4
+191,being the kids bedroom lights,DecreaseBrightness,3
+192,in the lights in the cubicle,DecreaseBrightness,3
+193,dim the lights in the garden,DecreaseBrightness,3
+194,dining room like at thirty nine,SetLightBrightness,4
+195,dining room like twenty two percent,SetLightBrightness,4
+196,dining room like all these,SwitchLightOff,0
+197,dining room needs to be at twelve percent,SetLightBrightness,4
+198,not waste fights decrease it please,DecreaseBrightness,3
+199,double tightness,IncreaseBrightness,2
+200,insurance light level to ten,SetLightBrightness,4
+201,[noise] change back liking dripping,SetLightColor,5
+202,<unk> tubing police,SetLightColor,5
+203,entering should be let intensity to,SetLightBrightness,4
+204,garage like to rent,SetLightColor,5
+205,but er,SwitchLightOff,0
+206,get your life on no me,SwitchLightOn,1
+207,do you really,SwitchLightOn,1
+208,green is what i would like to the lights to be right now,SetLightColor,5
+209,brings life into needing gloves,SetLightColor,5
+210,you mean like on in living room,SetLightColor,5
+211,below right,DecreaseBrightness,3
+212,seems trials bedroom house red light,SetLightColor,5
+213,don't don't delayed,DecreaseBrightness,3
+214,made me and don't like in <unk>,DecreaseBrightness,3
+215,hey brian in the bedroom,IncreaseBrightness,2
+216,stay this turner brightness now,IncreaseBrightness,2
+217,need like,SwitchLightOn,1
+218,he lives on and the kids were,SwitchLightOn,1
+219,major your nothing media room,SwitchLightOn,1
+220,i let me being,SetLightColor,5
+221,done the lights,SwitchLightOn,1
+222,i won't the <unk>,DecreaseBrightness,3
+223,huge be,SetLightColor,5
+224,i liked the best you will get some lightning,SwitchLightOn,1
+225,aluminium seller,SwitchLightOn,1
+226,eliminate the kids around,SwitchLightOn,1
+227,in my kids bedroom change the frightening [laughter],SetLightBrightness,4
+228,my kids room turn the lights off,SwitchLightOff,0
+229,[noise] in the back yard the lights me think,SetLightColor,5
+230,make nest in law,IncreaseBrightness,2
+231,increase brightness in the studio,IncreaseBrightness,2
+232,grease brightness right,IncreaseBrightness,2
+233,sliding in the garage,IncreaseBrightness,2
+234,change kids run like to be,SetLightColor,5
+235,increases brightness,IncreaseBrightness,2
+236,increase the maintenance you yes,IncreaseBrightness,2
+237,any debate mess in the basement,IncreaseBrightness,2
+238,increase the brightness interventions,IncreaseBrightness,2
+239,increase the brightness up the garage,IncreaseBrightness,2
+240,<unk> lights,IncreaseBrightness,2
+241,increase the brightness on the patio,IncreaseBrightness,2
+242,finally and don't like,DecreaseBrightness,3
+243,most people don't don't the light in the living room,DecreaseBrightness,3
+244,it's dark in here,SwitchLightOn,1
+245,change the laundry room like five years,SetLightBrightness,4
+246,it's getting so dark in here can you put like just,IncreaseBrightness,2
+247,spring breaking here is a possibility you can turn like stem,DecreaseBrightness,3
+248,pretty dark here why don't he turned the lights up,IncreaseBrightness,2
+249,so dark in here these turn out the lights just a little,IncreaseBrightness,2
+250,we to brighton here on the brightness please,DecreaseBrightness,3
+251,bedroom lives do that peace,SetLightColor,5
+252,lights on our,SwitchLightOn,1
+253,kitchen no more like,SwitchLightOff,0
+254,landed <unk> five,SetLightBrightness,4
+255,laundry do lights on,SwitchLightOn,1
+256,change like color to be,SetLightColor,5
+257,laundry room lights to to,SetLightBrightness,4
+258,there'd be like,SwitchLightOn,1
+259,but nothing,SetLightBrightness,4
+260,on the bathroom,SwitchLightOn,1
+261,why up garage,SwitchLightOn,1
+262,losing off into new,IncreaseBrightness,2
+263,lights are off,SwitchLightOff,0
+264,[noise] like seventy three in the bedroom please,SetLightBrightness,4
+265,life need brighton in the lounge,IncreaseBrightness,2
+266,lights are changing rooms,SwitchLightOff,0
+267,like color do being,SetLightColor,5
+268,talk for entire house,SwitchLightOff,0
+269,nice stuff from the garden,SwitchLightOff,0
+270,lifestyle from philly,SwitchLightOff,0
+271,it's on,SwitchLightOn,1
+272,john please my please,SwitchLightOn,1
+273,it shouldn't be a level twenty two,SetLightBrightness,4
+274,it's way down in small meeting room,SwitchLightOff,0
+275,[noise] living room like er,SwitchLightOff,0
+276,[noise] living room my son for no please,SwitchLightOn,1
+277,change the light levels went in the bedroom,SetLightBrightness,4
+278,lounge lights on you,SwitchLightOn,1
+279,dudes bedroom lights,DecreaseBrightness,3
+280,lower lights brightness,DecreaseBrightness,3
+281,no <unk>,DecreaseBrightness,3
+282,no wonder vastness of life been,DecreaseBrightness,3
+283,little lightning children's flavor,DecreaseBrightness,3
+284,need to gainesville like a color,SetLightColor,5
+285,<unk> pink color,SetLightColor,5
+286,making darker in here,DecreaseBrightness,3
+287,making her in the waiting room,DecreaseBrightness,3
+288,and the vitamins drinking too,SetLightBrightness,4
+289,translate encouraged level five,SetLightBrightness,4
+290,make it less bright in the bedroom,DecreaseBrightness,3
+291,make it later in here,IncreaseBrightness,2
+292,me alone i think,SetLightColor,5
+293,make late,SetLightColor,5
+294,me than i do,SetLightColor,5
+295,make their like <unk>,SetLightColor,5
+296,make the life,SetLightColor,5
+297,me too like read,SetLightColor,5
+298,make the lights go out,SwitchLightOff,0
+299,need the life threatening office,SetLightColor,5
+300,change like the blue,SetLightColor,5
+301,[noise] make the right to level thirty two,SetLightBrightness,4
+302,make their living room lighter,IncreaseBrightness,2
+303,make the studio lights data,IncreaseBrightness,2
+304,modified myself off living room like they do seventy three,SetLightBrightness,4
+305,modify the color oh all right well,SetLightColor,5
+306,need right,SwitchLightOn,1
+307,mean like in the kitchen,SwitchLightOn,1
+308,no more light in here,SwitchLightOff,0
+309,pantry light level should be two percent,SetLightBrightness,4
+310,do you live off,SwitchLightOff,0
+311,changing like to think,SetLightColor,5
+312,country make it dark,SwitchLightOff,0
+313,parking lights on please,SwitchLightOn,1
+314,how do you like please,SwitchLightOn,1
+315,audio like turned on,SwitchLightOn,1
+316,being life near kentucky,SetLightColor,5
+317,brightens alone,IncreaseBrightness,2
+318,please brighten up the dining room,SwitchLightOn,1
+319,we used in the light,DecreaseBrightness,3
+320,please give me the lights,SwitchLightOn,1
+321,please give me lights in the kitchen,SwitchLightOn,1
+322,change lights to read,SetLightColor,5
+323,please give me some right,SwitchLightOn,1
+324,like in the kitchen,SwitchLightOn,1
+325,clean increase the brightness,IncreaseBrightness,2
+326,increase the librarians everywhere,IncreaseBrightness,2
+327,increase the meeting room brightness,IncreaseBrightness,2
+328,no basement lakes,DecreaseBrightness,3
+329,make their life,SetLightColor,5
+330,me actually like right [laughter],SetLightColor,5
+331,from like,SwitchLightOn,1
+332,some writing attention,SwitchLightOn,1
+333,change like to pink for me,SetLightColor,5
+334,some like,SwitchLightOn,1
+335,drink some lightning,SwitchLightOn,1
+336,<unk> studied,SetLightColor,5
+337,switch lights all,SwitchLightOff,0
+338,<unk> lounge light,SwitchLightOff,0
+339,which often kitchen myself do you cook,SwitchLightOff,0
+340,please switch off the studio lights,SwitchLightOff,0
+341,pleased to increase the brightness in too dark,IncreaseBrightness,2
+342,least turn down the line for me,DecreaseBrightness,3
+343,who's turned my dog,SwitchLightOn,1
+344,<unk> pink,SetLightColor,5
+345,nice during a <unk>,SwitchLightOff,0
+346,who's turnoff lanes everywhere,SwitchLightOff,0
+347,please turn off parking light,SwitchLightOff,0
+348,turn around the house like,SwitchLightOff,0
+349,turn off the lights,SwitchLightOff,0
+350,please turn off the lights in the room,SwitchLightOff,0
+351,turn on the lights,SwitchLightOn,1
+352,you turn on the lights up changing rooms,SwitchLightOn,1
+353,turn the pantry like eleven thirty nine,SetLightBrightness,4
+354,done this year bones in the dining room,SwitchLightOn,1
+355,change office like repeat these,SetLightColor,5
+356,were delayed now in front of the,SetLightColor,5
+357,the lights on the vegetable,SwitchLightOn,1
+358,[noise] maybe own life but,DecreaseBrightness,3
+359,green light,SetLightColor,5
+360,shut off all like two fifty,SetLightBrightness,4
+361,said they saw host two fifty,SetLightBrightness,4
+362,have to fight,SetLightBrightness,4
+363,like twenty two,SetLightBrightness,4
+364,bedroom my thirty nine,SetLightBrightness,4
+365,the color a meeting room mates blue,SetLightColor,5
+366,<unk> that's the deal,SetLightBrightness,4
+367,can you please turn down the lights,DecreaseBrightness,3
+368,set life to be on the show,SwitchLightOn,1
+369,satellites to twenty two in the office,SetLightBrightness,4
+370,satellites to twenty two percent,SetLightBrightness,4
+371,life her greatness,SwitchLightOff,0
+372,so like dizzy road brightness in the office,SwitchLightOff,0
+373,the the leading like empty,SetLightBrightness,4
+374,it'd be nice to find,SetLightBrightness,4
+375,the basketball like i thirty nine,SetLightBrightness,4
+376,signs some lightning here,SwitchLightOn,1
+377,some lightning here,SwitchLightOn,1
+378,can you put lights along in the backyard,SwitchLightOn,1
+379,shines son lives in the office,SwitchLightOn,1
+380,my life i've never tried to,SetLightBrightness,4
+381,right,SwitchLightOff,0
+382,shut down the lights,SwitchLightOff,0
+383,shut off the lights and insurance,SwitchLightOff,0
+384,shut off the lights in the garage,SwitchLightOff,0
+385,turtles the lights to know who,SwitchLightOff,0
+386,shut down the line,SwitchLightOff,0
+387,shut off the lounge like,SwitchLightOff,0
+388,live down in the bathroom,SwitchLightOff,0
+389,you but the last twelve and the recall,SetLightBrightness,4
+390,to live down in the entrance,SwitchLightOff,0
+391,[noise] shut the lights on,SwitchLightOff,0
+392,we're in the office that connected light bulbs too brightness of time,SetLightBrightness,4
+393,certainly not the brightest something connected light people two fifty,SetLightBrightness,4
+394,since you're into lives two thirty nine percent and the cubicle,SetLightBrightness,4
+395,stop planning the cubicle,SwitchLightOff,0
+396,like,SwitchLightOff,0
+397,stop the whites from shining in the bathroom,SwitchLightOff,0
+398,i some chinese in michigan,SwitchLightOff,0
+399,change the backyard light green,SetLightColor,5
+400,right,SetLightBrightness,4
+401,like changing rooms or twenty two,SetLightBrightness,4
+402,life to ten percent,SetLightBrightness,4
+403,hey <unk> gonna be,SetLightBrightness,4
+404,seventy three is right should be,SetLightBrightness,4
+405,shut off the kitchen might,SwitchLightOff,0
+406,so much darkness in here turn up the bowls,IncreaseBrightness,2
+407,some white,SwitchLightOn,1
+408,some late in the kitchen,SwitchLightOn,1
+409,right in the kitchen,SwitchLightOn,1
+410,teams debasement vitamins to seventy three,SetLightBrightness,4
+411,studio lights off,SwitchLightOff,0
+412,dirty allowance on please,SwitchLightOn,1
+413,which bathroom i saw,SwitchLightOff,0
+414,which house like uh,SwitchLightOff,0
+415,like uh,SwitchLightOff,0
+416,which lights on,SwitchLightOn,1
+417,switch liaison invested bill,SwitchLightOn,1
+418,[laughter] like,SwitchLightOff,0
+419,she's just the bathrooms lights,SwitchLightOff,0
+420,just the lamps please,SwitchLightOff,0
+421,change the basement brightness too,SetLightBrightness,4
+422,switch off the late in the toilet,SwitchLightOff,0
+423,switch all the lights,SwitchLightOff,0
+424,where did you like oh,SwitchLightOff,0
+425,switch the garage like a,SetLightColor,5
+426,switch the lamps or,SwitchLightOff,0
+427,<unk>,SetLightColor,5
+428,go lights off as soon as possible,SwitchLightOff,0
+429,backyard is to break it down little,DecreaseBrightness,3
+430,nobody doom need to change to do,SetLightColor,5
+431,[noise] well they like need loaded,SetLightColor,5
+432,i just saw like twenty two,SetLightBrightness,4
+433,being debated,SetLightColor,5
+434,<unk> he's getting a call tonight,SwitchLightOff,0
+435,sellers cold indoor eastern up right now,IncreaseBrightness,2
+436,the house is getting too liberal like turn up the brightness please,IncreaseBrightness,2
+437,the kitchen should not be so bright,DecreaseBrightness,3
+438,large many remains to be turned off,SwitchLightOff,0
+439,why is too bright so turn it down the line is too bright so turn it down,DecreaseBrightness,3
+440,likely to be blue in the studio,SetLightColor,5
+441,who has too much flights,DecreaseBrightness,3
+442,the little little dark turnout brightness hello,IncreaseBrightness,2
+443,the office has too much it needs to be turned down,DecreaseBrightness,3
+444,i miss the lights drinking do but,SetLightBrightness,4
+445,offices the little too dark news turn on the lights,IncreaseBrightness,2
+446,the parking area need the lights off,SwitchLightOff,0
+447,suddenly it's more like,IncreaseBrightness,2
+448,son is going down and it's getting dark turn the lights up,IncreaseBrightness,2
+449,toilets or too bright turn the lights down,DecreaseBrightness,3
+450,there is no one in the living room to collect dolls,SwitchLightOff,0
+451,this entire apartment isn't darkness you need to turn the light brightness so,IncreaseBrightness,2
+452,room is pretty darn just turned down there right now,IncreaseBrightness,2
+453,toilet like change to level thirty nine,SetLightBrightness,4
+454,nineteen ninety two being gonna,SetLightColor,5
+455,change some brightness in the entire apartment,SetLightBrightness,4
+456,turn all laid off into color,SetLightColor,5
+457,term bathroom lights up,IncreaseBrightness,2
+458,don't do it,SetLightColor,5
+459,and then lighting in the pantry,DecreaseBrightness,3
+460,turned down my everywhere,DecreaseBrightness,3
+461,doing down i miss living life but,DecreaseBrightness,3
+462,turned down the lamps with it,DecreaseBrightness,3
+463,no i just had big please,DecreaseBrightness,3
+464,and don't relate to that and so,DecreaseBrightness,3
+465,i don't either,SetLightColor,5
+466,he needs to be nine one one,SetLightBrightness,4
+467,the lights,SetLightColor,5
+468,<unk> in house,IncreaseBrightness,2
+469,and i've always been <unk>,SwitchLightOff,0
+470,turn our bedroom right,SwitchLightOff,0
+471,i dunno ninety nine,SwitchLightOff,0
+472,right,SwitchLightOff,0
+473,and off the lamps,SwitchLightOff,0
+474,turn off the light,SwitchLightOff,0
+475,all the lights in the bedroom,SwitchLightOff,0
+476,dunno garnered nights,SwitchLightOff,0
+477,change the vitamins trendy,SetLightBrightness,4
+478,also,SetLightBrightness,4
+479,fernando on kitchen light,SwitchLightOn,1
+480,tournaments hanging for months,SwitchLightOn,1
+481,turner in the garden lights,SwitchLightOn,1
+482,mhm,SwitchLightOn,1
+483,mhm,SwitchLightOn,1
+484,<unk> children,SwitchLightOn,1
+485,the lights originally,SwitchLightOn,1
+486,i don't do the allies,SwitchLightOn,1
+487,mhm,SetLightColor,5
+488,change the brightness to to,SetLightBrightness,4
+489,trying to break the stem,DecreaseBrightness,3
+490,from the garden like brightness do these,SetLightBrightness,4
+491,ten the house like pink,SetLightColor,5
+492,and lay down in the back yard,DecreaseBrightness,3
+493,the don't in the bedroom,DecreaseBrightness,3
+494,turn the lights down into deal,DecreaseBrightness,3
+495,turn the lights down,DecreaseBrightness,3
+496,who actually,SwitchLightOff,0
+497,well the lab's name,SetLightColor,5
+498,turn the lights light,IncreaseBrightness,2
+499,change the bulbs to talk for that right now,SetLightBrightness,4
+500,to like think,SetLightColor,5
+501,turn up late in basement,IncreaseBrightness,2
+502,blatant flat,IncreaseBrightness,2
+503,turn up the brightness,IncreaseBrightness,2
+504,turn up the brightness in the patio,IncreaseBrightness,2
+505,and i'm <unk> in the studio,IncreaseBrightness,2
+506,down delayed in the kitchen,IncreaseBrightness,2
+507,why is everywhere so or need to turn off the brightness,IncreaseBrightness,2
+508,why is it so bright here please turn it down a notch,DecreaseBrightness,3
+509,there are no lights in the waiting room turning up please,IncreaseBrightness,2
+510,<unk>,SetLightColor,5
+511,turner brightness level thirty nine,SetLightBrightness,4
+512,change the color of the life to blue and the dining out,SetLightColor,5
+513,change the color blue,SetLightColor,5
+514,just change your intensity of the lighting two percent,SetLightBrightness,4
+515,change the coronado that late to green,SetLightColor,5
+516,<unk>,SetLightColor,5
+517,change the color to blue,SetLightColor,5
+518,change the colors big,SetLightColor,5
+519,change a cubicle lights up to ten,SetLightBrightness,4
+520,change the garage likes to pick,SetLightColor,5
+521,change the kids bedroom lightbulb color to green,SetLightColor,5
+522,change the kitchen lives to green,SetLightColor,5
+523,stealing the laundry room governor don't need,SetLightColor,5
+524,changed the law like degrading,SetLightColor,5
+525,just the globe the ball to level too,SetLightBrightness,4
+526,the longer the real nice today,SetLightColor,5
+527,change that light blue,SetLightColor,5
+528,change that kinda being please,SetLightColor,5
+529,[noise] change the light betting on,SwitchLightOn,1
+530,change the light to blue,SetLightColor,5
+531,change the nice thing,SetLightColor,5
+532,like to think,SetLightColor,5
+533,change the lighting of the pantry two thirty nine,SetLightBrightness,4
+534,the beam,DecreaseBrightness,3
+535,letting do fifty the facilities,SetLightBrightness,4
+536,just the kids lighting to ten,SetLightBrightness,4
+537,like green,SetLightColor,5
+538,change the lights in the child's bedroom to think,SetLightColor,5
+539,change the lights and the insurance to blue,SetLightColor,5
+540,change the lights in the kids bedroom to blue,SetLightColor,5
+541,changed their lives in the parking area green,SetLightColor,5
+542,lights in the court room,SwitchLightOff,0
+543,and then a dynamic green,SetLightColor,5
+544,the into blue,SetLightColor,5
+545,change the light's green please,SetLightColor,5
+546,change the race tipping cleaves,SetLightColor,5
+547,active garden light,SwitchLightOn,1
+548,just the laundry room lighting level thirty nine,SetLightBrightness,4
+549,i mean,SetLightColor,5
+550,change the lights to read,SetLightColor,5
+551,relate to read in the parking section,SetLightColor,5
+552,change the living room like twenty,SetLightBrightness,4
+553,change the office like to make,SetLightColor,5
+554,you know it's like [laughter],SetLightBrightness,4
+555,change the parking room to green,SetLightColor,5
+556,change the vegetable whiting through two percent,SetLightBrightness,4
+557,change the yard like do green,SetLightColor,5
+558,portland like color to read,SetLightColor,5
+559,just the lighting the level too,SetLightBrightness,4
+560,click on the lake,SwitchLightOn,1
+561,color change like to read,SetLightColor,5
+562,late spring,SetLightColor,5
+563,colored lights read,SetLightColor,5
+564,<unk> the kids to read,SetLightColor,5
+565,oh in the long run,SetLightColor,5
+566,change the brightness of the lights on the patio to seventy three,SetLightBrightness,4
+567,could you change to like to read,SetLightColor,5
+568,and you increase the brightest of the light,IncreaseBrightness,2
+569,<unk> in the dining room,IncreaseBrightness,2
+570,just the light so it's less bright,DecreaseBrightness,3
+571,can you make too much in the basement brighter,IncreaseBrightness,2
+572,degrees turn my lights on,SwitchLightOn,1
+573,when you be going on i'm,SwitchLightOn,1
+574,you switch on tonight,SwitchLightOn,1
+575,could you doing tonight,DecreaseBrightness,3
+576,you turn the lights on please,SwitchLightOn,1
+577,i didn't,SwitchLightOff,0
+578,the waiting room mates,SwitchLightOff,0
+579,dark in the waiting room,SwitchLightOff,0
+580,right,DecreaseBrightness,3
+581,just like the almost any,SwitchLightOff,0
+582,decreased brightness in room,DecreaseBrightness,3
+583,decrease brightness in boardroom by one third,DecreaseBrightness,3
+584,decrease brightness please,DecreaseBrightness,3
+585,decreased light brightness in get,DecreaseBrightness,3
+586,decreased like brightness please,DecreaseBrightness,3
+587,greek flights in hills,DecreaseBrightness,3
+588,decrease the brightness,DecreaseBrightness,3
+589,decrease the prime minister bulbs,DecreaseBrightness,3
+590,stubbornness and shed,DecreaseBrightness,3
+591,just the living room brightness level too,SetLightBrightness,4
+592,<unk>,DecreaseBrightness,3
+593,decrease the intensity of the like,DecreaseBrightness,3
+594,increase the intensity of the lights in the bedroom,DecreaseBrightness,3
+595,decrease intensity of pantry lighting,DecreaseBrightness,3
+596,decrease the light brightness in the cubicle,DecreaseBrightness,3
+597,decrease the late intensity,DecreaseBrightness,3
+598,decrease the light intensity and the entrance,DecreaseBrightness,3
+599,decrease see like city in the entrance to zero,SwitchLightOff,0
+600,decrease the late intensity in the office,DecreaseBrightness,3
+601,decrease the light and see in the vestibule to zero,SwitchLightOff,0
+602,i just like to blue,SetLightColor,5
+603,decrease sunlight intensity to zero,SwitchLightOff,0
+604,increase delighting in the laundry room,DecreaseBrightness,3
+605,decrease the lighting so it's not so bright,DecreaseBrightness,3
+606,decrease the lights intensity in my bedroom balcony,DecreaseBrightness,3
+607,damn lights please,DecreaseBrightness,3
+608,the major please,DecreaseBrightness,3
+609,being,DecreaseBrightness,3
+610,the in the bedroom,DecreaseBrightness,3
+611,the lighting completely in the waiting room,SwitchLightOff,0
+612,getting the lights,DecreaseBrightness,3
+613,[noise] i actually liking eleven twenty nine,SetLightBrightness,4
+614,can the lights completely in the living room,SwitchLightOff,0
+615,then the lights for me,DecreaseBrightness,3
+616,dim the lights in the backyard,DecreaseBrightness,3
+617,then the lights in the bathroom,DecreaseBrightness,3
+618,and the line in the garage,DecreaseBrightness,3
+619,getting the lights in the living room,DecreaseBrightness,3
+620,then the lights place,DecreaseBrightness,3
+621,right,DecreaseBrightness,3
+622,didn't like,DecreaseBrightness,3
+623,then the studio letting,DecreaseBrightness,3
+624,to the to setting,SetLightBrightness,4
+625,new media said and done the lights on,SwitchLightOn,1
+626,do turner my bedroom like now,SwitchLightOn,1
+627,oh forget to turn off the lights in the studio,SwitchLightOff,0
+628,lemonade and translate shining,SwitchLightOff,0
+629,eliminate the lighting,SwitchLightOff,0
+630,underlying from shining and the cubicle,SwitchLightOff,0
+631,i'm sure the lights are all in the waiting room,SwitchLightOff,0
+632,trying to <unk> done them up,IncreaseBrightness,2
+633,more like,IncreaseBrightness,2
+634,[noise] get to meet some lives in it and,SwitchLightOn,1
+635,the slaves to getting,SetLightBrightness,4
+636,<unk> in the bathroom,SwitchLightOff,0
+637,good cellar lights on,SwitchLightOn,1
+638,get the laundry room lined up to twenty two,SetLightBrightness,4
+639,[noise] got the lights on,SwitchLightOn,1
+640,got the last on you,SwitchLightOn,1
+641,that the living room i thought,SwitchLightOn,1
+642,[noise] get the room brighter please,IncreaseBrightness,2
+643,give me my light in here,IncreaseBrightness,2
+644,you mean more like in the bedroom,IncreaseBrightness,2
+645,gives me pink lights,SetLightColor,5
+646,i guess our lives to plenty,SetLightBrightness,4
+647,go ahead and turn the watch meeting like,SetLightColor,5
+648,go ahead and turn the laundry room lights up writer,IncreaseBrightness,2
+649,go straight and turn on the light,SwitchLightOn,1
+650,go go please shut off the lights,SwitchLightOff,0
+651,google set off like,SwitchLightOff,0
+652,you can buy the right,DecreaseBrightness,3
+653,oh it's calling blue,SetLightColor,5
+654,have the lights turned blue,SetLightColor,5
+655,meaning the color blue,SetLightColor,5
+656,i mean nuclear brightness in back uh,DecreaseBrightness,3
+657,activity like,SwitchLightOn,1
+658,<unk> turned off lights in backyard,SwitchLightOff,0
+659,them the light in the pantry,DecreaseBrightness,3
+660,told me dim the lights,DecreaseBrightness,3
+661,helped me demoralized please,DecreaseBrightness,3
+662,make it so daylight is not too bright,DecreaseBrightness,3
+663,hey mimi then dyed apartment right,SetLightColor,5
+664,help me make the entire house,SetLightColor,5
+665,me me the right burger,IncreaseBrightness,2
+666,help me make the light green,SetLightColor,5
+667,oh me makes the light read,SetLightColor,5
+668,help me put on the lights,SwitchLightOn,1
+669,are you able to change the light turns green,SetLightColor,5
+670,<unk>,SetLightBrightness,4
+671,help me and translate to,SetLightBrightness,4
+672,how does the lifestyle fifty,SetLightBrightness,4
+673,we <unk> twenty,SetLightBrightness,4
+674,hi dawn on me,SwitchLightOn,1
+675,he'll meat done delayed on,SwitchLightOn,1
+676,<unk> lights in the kitchen,SwitchLightOff,0
+677,hey russ get the line right this lower in here,DecreaseBrightness,3
+678,i don't prefer the living room might be on anymore,SwitchLightOff,0
+679,i don't want it to be so great,DecreaseBrightness,3
+680,assistant i need my cubicle lights on,SwitchLightOn,1
+681,i don't want it to be this bryant,DecreaseBrightness,3
+682,i don't want backyard lights beyond,SwitchLightOff,0
+683,i don't want the bedroom to be so bright,DecreaseBrightness,3
+684,i don't want the lights on any more,SwitchLightOff,0
+685,i don't want live on anymore,SwitchLightOff,0
+686,i don't want the lights on,SwitchLightOff,0
+687,i don't want that likes to shine in the living room,SwitchLightOff,0
+688,i don't want there to be any late on in the office,SwitchLightOff,0
+689,i don't want there to be like on any more,SwitchLightOff,0
+690,hi nina basements acting oh great independently,SetLightBrightness,4
+691,didn't turn my lights on,SwitchLightOn,1
+692,runner lining their bedrooms,IncreaseBrightness,2
+693,needed to be brighter cubicle,IncreaseBrightness,2
+694,writing,SwitchLightOn,1
+695,i need a lady in the kitchen,SwitchLightOn,1
+696,i mean like on over the toilets,SwitchLightOn,1
+697,need more like,IncreaseBrightness,2
+698,i need my life here,IncreaseBrightness,2
+699,i need my bedroom brighter now,IncreaseBrightness,2
+700,need my bedroom much lower,DecreaseBrightness,3
+701,i mean my pantry shed at ten brightness,SetLightBrightness,4
+702,rent the rightness or lights,IncreaseBrightness,2
+703,i need being play being in the office,SetLightColor,5
+704,some like please,SwitchLightOn,1
+705,i need some like please in the kitchen,SwitchLightOn,1
+706,i need some life,SwitchLightOn,1
+707,i need some lights in the kitchen,SwitchLightOn,1
+708,i mean some more lives here,IncreaseBrightness,2
+709,i need to like turned down,SwitchLightOff,0
+710,i need the light,SwitchLightOn,1
+711,the light in the kitchen,SwitchLightOn,1
+712,the right to be brighter,IncreaseBrightness,2
+713,oh man brightness the waiting room,IncreaseBrightness,2
+714,needs to be increased,IncreaseBrightness,2
+715,i mean the lying cranked up a little,IncreaseBrightness,2
+716,need that lives in like the be,SetLightBrightness,4
+717,i mean the lights in the game room do you think,SetLightColor,5
+718,i need to me near the guy next to be but i,IncreaseBrightness,2
+719,i need the lights off in the changing rooms,SwitchLightOff,0
+720,i need the laid off in the entrance,SwitchLightOff,0
+721,i mean the life to be blue now,SetLightColor,5
+722,i need to like be blue,SetLightColor,5
+723,needs to be brighter,IncreaseBrightness,2
+724,show that all the level of lighting is off,SwitchLightOff,0
+725,i mean delighted to be damned,DecreaseBrightness,3
+726,i need the lights turned down it,DecreaseBrightness,3
+727,need the lights turned off in the vestibule,SwitchLightOff,0
+728,need the room to be blue,SetLightColor,5
+729,i need a new the like being on frisky,SetLightBrightness,4
+730,i need to all off now,SwitchLightOff,0
+731,stop the lights to be on,SwitchLightOff,0
+732,can you raise the lights in the toilets,IncreaseBrightness,2
+733,stop the lights,SwitchLightOff,0
+734,which all of her life all position invested you'll,SwitchLightOff,0
+735,shoot late to move,SetLightColor,5
+736,switch my lights on now,SwitchLightOn,1
+737,switch little exterior lighting,SwitchLightOff,0
+738,they just meeting tonight,SwitchLightOff,0
+739,[noise] just like,SwitchLightOff,0
+740,which off the light,SwitchLightOff,0
+741,switch on line after we were <unk>,SwitchLightOff,0
+742,dropped the shed lights,SwitchLightOff,0
+743,who said it's great in the basement,SetLightColor,5
+744,joan my backyard lighting,SwitchLightOn,1
+745,switch on my cubicle lately is,SwitchLightOn,1
+746,on my garden like,SwitchLightOn,1
+747,switch the lights and the kids bedroom,SwitchLightOn,1
+748,on the light,SwitchLightOn,1
+749,switch on the studio like,SwitchLightOn,1
+750,i used to be,SetLightColor,5
+751,switch the light's green,SetLightColor,5
+752,switch to watch the blue in the bedroom,SetLightColor,5
+753,switch to lives too dark in the pantry,SwitchLightOff,0
+754,can you to be life,SetLightBrightness,4
+755,switch the toilet like to read,SetLightColor,5
+756,switched to red light,SetLightColor,5
+757,on the like the bedroom,SwitchLightOn,1
+758,the basement is too bright,DecreaseBrightness,3
+759,from lights must be switch done,SwitchLightOn,1
+760,bedroom laid or too bright the with the rightness,DecreaseBrightness,3
+761,the bedroom my brighter illumination,IncreaseBrightness,2
+762,the bedroom lives need to be brighter right now,IncreaseBrightness,2
+763,brightness in the studio should be twenty two,SetLightBrightness,4
+764,i need to lamps off no please,SwitchLightOff,0
+765,i need you to increase intensity of the backyard light,IncreaseBrightness,2
+766,i mean you don't like all these make,SwitchLightOff,0
+767,for the lights are on now,SwitchLightOn,1
+768,be sure the light intensity upset to twelve percent,SetLightBrightness,4
+769,i should like to see red light,SetLightColor,5
+770,i think all the it should be on twenty two,SetLightBrightness,4
+771,i think it should be on by now,SwitchLightOn,1
+772,i think the line should be pink,SetLightColor,5
+773,i want blue light,SetLightColor,5
+774,i was like,SetLightColor,5
+775,i want be like,SetLightColor,5
+776,less break now,DecreaseBrightness,3
+777,i wanted to in here,SetLightColor,5
+778,i want it to be brighter in iowa,IncreaseBrightness,2
+779,be sure the lights are completely dark in by the toilet,SwitchLightOff,0
+780,[noise] i watch less brightness,DecreaseBrightness,3
+781,i want less light,DecreaseBrightness,3
+782,i one last night in the waiting room,DecreaseBrightness,3
+783,i wanted to be distracting me,SetLightBrightness,4
+784,[noise] i was living in denver,SwitchLightOn,1
+785,i was lights,SwitchLightOn,1
+786,i went lights in the kitchen,SwitchLightOn,1
+787,right around in the back yard,SwitchLightOn,1
+788,[noise] i want lights on place,SwitchLightOn,1
+789,i won't living who likes to be changed too big,SetLightColor,5
+790,<unk> where the toilet,SwitchLightOff,0
+791,i want more brightness in general,IncreaseBrightness,2
+792,well we're just in the history,IncreaseBrightness,2
+793,online,IncreaseBrightness,2
+794,more like in the bathroom,IncreaseBrightness,2
+795,where my child's bedroom tom green light,SetLightColor,5
+796,well my cubicle like to be on to,SetLightBrightness,4
+797,[noise] i was pink nights night,SetLightColor,5
+798,i won't liking,SetLightColor,5
+799,i want red lights green,SetLightColor,5
+800,the bathroom to be we're done,DecreaseBrightness,3
+801,did they do in the waiting room,SwitchLightOn,1
+802,bush debate off the lights,IncreaseBrightness,2
+803,want the brightest late in the kitchen,IncreaseBrightness,2
+804,i wonder what i miss tonight in the laundry june be fifty,SetLightBrightness,4
+805,i wonder <unk> to do,SetLightBrightness,4
+806,[noise] i want the maintenance be in the bedroom,SetLightBrightness,4
+807,[noise] i wonder brightness she'll be eleven on my life,SetLightBrightness,4
+808,i wonder what i meant to be shot at twenty,SetLightBrightness,4
+809,the president's turn up in this room,IncreaseBrightness,2
+810,i want to sell early on,SwitchLightOn,1
+811,i won't <unk> laid off,SwitchLightOff,0
+812,pretty likely,IncreaseBrightness,2
+813,want the cellar lights on,SwitchLightOn,1
+814,i want to cupid ultra lights to be twenty two percent,SetLightBrightness,4
+815,i want the cubicle to be brighter,IncreaseBrightness,2
+816,when the cubicle to be thirty nine brightness,SetLightBrightness,4
+817,oh one the dining room lights to be turned on,SwitchLightOn,1
+818,deeds her apartment to be into brightness,SetLightBrightness,4
+819,i won't be intense later on,SwitchLightOn,1
+820,i want the facilities outline on how,SwitchLightOn,1
+821,left the house late beeping,SetLightColor,5
+822,i want the kids bedroom to be set to level,SetLightBrightness,4
+823,right in a large meeting room please,IncreaseBrightness,2
+824,i want the kids like should be peak,SetLightColor,5
+825,[noise] i want the kitchen like to be twenty two,SetLightBrightness,4
+826,i wanted to light bulbs to be at level thirty nine,SetLightBrightness,4
+827,[noise] i want to like color jeans to read,SetLightColor,5
+828,i wonder like gotten going on,SwitchLightOn,1
+829,want to live in the lounge and turned on,SwitchLightOn,1
+830,i want the light intensity to be a level ten,SetLightBrightness,4
+831,i want the light intensity turned up in the bedroom,IncreaseBrightness,2
+832,want the it's and everywhere,SetLightBrightness,4
+833,i want to like to be on,SwitchLightOn,1
+834,breaking the lights,IncreaseBrightness,2
+835,i want the lighting increased,IncreaseBrightness,2
+836,i went to lighting situated at twenty two in the dining room,SetLightBrightness,4
+837,one believes that greek greek,SetLightBrightness,4
+838,long the lights decreased please,DecreaseBrightness,3
+839,i'm on the lady,DecreaseBrightness,3
+840,my one that lives in the bathrooms beeping,SetLightColor,5
+841,i want the lights in the bedroom on,SwitchLightOn,1
+842,i want the lights in the bedroom set to five,SetLightBrightness,4
+843,i wanted the lights in the laundry room to change to read,SetLightColor,5
+844,[noise] when the lights in the pantry to be peace,SetLightColor,5
+845,right in the lights in the waiting room,IncreaseBrightness,2
+846,i wonder like me and doing it to be,SetLightColor,5
+847,<unk>,SwitchLightOff,0
+848,<unk> everywhere,SwitchLightOff,0
+849,intellectual meeting room,SwitchLightOff,0
+850,i won the lights on,SwitchLightOn,1
+851,and the in the city,SwitchLightOn,1
+852,<unk> the entire please,SwitchLightOn,1
+853,<unk> on now,SwitchLightOn,1
+854,i want the like two fifty and the kids room,SetLightBrightness,4
+855,i wonder like still be leverage to do,SetLightBrightness,4
+856,right not the cubicle,IncreaseBrightness,2
+857,i went to late speed blue in the bathroom,SetLightColor,5
+858,i want to live to be brighter,IncreaseBrightness,2
+859,i want the lights to be changed to blue,SetLightColor,5
+860,from one place to be done,DecreaseBrightness,3
+861,i want the lights to be increased and right,IncreaseBrightness,2
+862,i wanted to like to be increased,IncreaseBrightness,2
+863,to live to be lowered,DecreaseBrightness,3
+864,i wonder like do they need,SetLightColor,5
+865,i want to be turned off,SwitchLightOff,0
+866,i want to be turned off in the best deal,SwitchLightOff,0
+867,played that,IncreaseBrightness,2
+868,i wanted to lights turned down the bedroom,DecreaseBrightness,3
+869,i want the lounge light on,SwitchLightOn,1
+870,the person like,SwitchLightOff,0
+871,independent like turn don't,SwitchLightOn,1
+872,i won the oh my oh,SwitchLightOff,0
+873,i want the room or,IncreaseBrightness,2
+874,i want the studio to be dark,SwitchLightOff,0
+875,the toilet to us,SwitchLightOff,0
+876,well the whole life to be as well,SetLightBrightness,4
+877,i wanted like to be on,SwitchLightOn,1
+878,my nose and do any good to be,SetLightBrightness,4
+879,hi my name's right same thing keeps me busy,SetLightBrightness,4
+880,i want to be able to sign it twelve percent,SetLightBrightness,4
+881,i love the waiting room like ten,SetLightBrightness,4
+882,i want this my brightness level ten,SetLightBrightness,4
+883,i want to break the laundry room,IncreaseBrightness,2
+884,i want to change the boardroom brightness potentially,SetLightBrightness,4
+885,i wanted to change the light green,SetLightColor,5
+886,i want to change the light blue instead,SetLightColor,5
+887,want to like lower setting,DecreaseBrightness,3
+888,one to lose my apartment nights please,DecreaseBrightness,3
+889,made me think of something,SetLightBrightness,4
+890,i want to make the them or,DecreaseBrightness,3
+891,i wanted to make the room brighter,IncreaseBrightness,2
+892,<unk> said that late then,SetLightBrightness,4
+893,want to turn off the light,SwitchLightOff,0
+894,i want to turn on the patio and,SwitchLightOff,0
+895,want to change the brightness level and the patio to ten,SetLightBrightness,4
+896,i want you to switch off all the lights in a cubicle,SwitchLightOff,0
+897,i want you to turn off the lights in the small meeting room,SwitchLightOff,0
+898,i don't get done to live in maryland gee,SwitchLightOff,0
+899,right to seventy three please,SetLightBrightness,4
+900,like lights be brighter,IncreaseBrightness,2
+901,i would like for the life beeping,SetLightColor,5
+902,i would like green light squeeze,SetLightColor,5
+903,would like lights on inside the house,SwitchLightOn,1
+904,i would like light breeze,SetLightColor,5
+905,[noise] i would like they don't need to be nice,SetLightBrightness,4
+906,[noise] i would like to buy something needs to be limited i,SetLightBrightness,4
+907,i would like the garage lights on you,SetLightBrightness,4
+908,i would like nicely done or,SwitchLightOn,1
+909,i would like the lights less right,DecreaseBrightness,3
+910,to be polite,SwitchLightOn,1
+911,bring darkness in his room by turning off the lake,SwitchLightOff,0
+912,i would like the lights to change to green,SetLightColor,5
+913,i would the turned off,SwitchLightOff,0
+914,i would like the lunch lay down,SwitchLightOn,1
+915,i there's too many to be,SetLightColor,5
+916,i was like the waiting room lights turned up,IncreaseBrightness,2
+917,i would be sure that the changing like eat lower,DecreaseBrightness,3
+918,[noise] i'd like these lights on,SwitchLightOn,1
+919,i would like on a tough,SwitchLightOff,0
+920,like for my wife to be flipped on now,SwitchLightOn,1
+921,like the light blue,SetLightColor,5
+922,bring the cellar lights up to to,SetLightBrightness,4
+923,i for like to go on now,SwitchLightOn,1
+924,i like it didn't go,DecreaseBrightness,3
+925,i like more lighting in the bedroom,IncreaseBrightness,2
+926,likes to be ten percent,SetLightBrightness,4
+927,i did like the rightness change in this yeah,SwitchLightOff,0
+928,<unk>,SetLightBrightness,4
+929,the brightest turned him,DecreaseBrightness,3
+930,business turned off,IncreaseBrightness,2
+931,i like the brightness turned up in the garage,IncreaseBrightness,2
+932,i like the house flights to be set to twelve,SetLightBrightness,4
+933,can change and i'm like be turned on,SwitchLightOn,1
+934,[noise] like the kitchen to be brighter,IncreaseBrightness,2
+935,i like the lights increasing the pantry,IncreaseBrightness,2
+936,oh like life interest me on,SwitchLightOn,1
+937,i like the lights in the laundry room to the level twenty two,SetLightBrightness,4
+938,<unk>,SwitchLightOff,0
+939,nice to be show,SwitchLightOff,0
+940,i wise to be shut down,SwitchLightOff,0
+941,like last returned on,SwitchLightOn,1
+942,the laundry room has green lights,SetLightColor,5
+943,like to change in the lord's meeting room,SwitchLightOff,0
+944,i'd like to like to not be so bright,DecreaseBrightness,3
+945,i just turned down and the kids from,DecreaseBrightness,3
+946,i like the living room rights to be had twelve percent,SetLightBrightness,4
+947,oh <unk>,SetLightColor,5
+948,and like the best deal lighting to be thirty nine,SetLightBrightness,4
+949,i like to activate highlights in might recall,SwitchLightOn,1
+950,i like to have people fighting in the bathroom,SetLightColor,5
+951,i would like to like green tea,SetLightColor,5
+952,like to lose the lights in the bedroom,DecreaseBrightness,3
+953,be read instead,SetLightColor,5
+954,i prefer the lights were on now,SwitchLightOn,1
+955,i prefer it to be brighter,IncreaseBrightness,2
+956,i prefer the bathroom like to be at thirty nine,SetLightBrightness,4
+957,i prefer the laundry room might be turned to green,SetLightColor,5
+958,i'd prefer the lights to be on,SwitchLightOn,1
+959,i prefer the office like to be on,SwitchLightOn,1
+960,i decided on exciting do the atlanta braves,SetLightBrightness,4
+961,i'm <unk> in the dining room,SwitchLightOff,0
+962,i mean the basement he's done like huh,SwitchLightOn,1
+963,i'm in the kitchen and i need some lights,SwitchLightOn,1
+964,the living room life be turned off,SwitchLightOff,0
+965,and and you can give me some please,SwitchLightOn,1
+966,eliminate the entrance,SwitchLightOn,1
+967,in the basement the pregnancy twenty,SetLightBrightness,4
+968,in the bathroom turn the light power,IncreaseBrightness,2
+969,in the changing rooms turned out of power,DecreaseBrightness,3
+970,cubicle and switch off the light,SwitchLightOff,0
+971,in the entrance change the color red,SetLightColor,5
+972,in the entrance makes the lights pink,SetLightColor,5
+973,undergrad changed their lives to tubing,SetLightColor,5
+974,indicates that made delayed spank,SetLightColor,5
+975,change the house lightning well,SetLightBrightness,4
+976,and the kids bedroom turn the lights off,SwitchLightOff,0
+977,in the laundry room turn down the light power,DecreaseBrightness,3
+978,meaning to make their life,SetLightColor,5
+979,[noise] in the lounge change it to level too,SetLightBrightness,4
+980,in the lounge turn the lights off,SwitchLightOff,0
+981,in the pantry turn down the premise,DecreaseBrightness,3
+982,in the pantry turn up the brightness,IncreaseBrightness,2
+983,small meeting them the must be,SetLightColor,5
+984,dollar set the brightness like oh well,SetLightBrightness,4
+985,increase pregnant please,IncreaseBrightness,2
+986,totally changed still likes to anything but peak,SetLightColor,5
+987,greens brightness too picky,SetLightBrightness,4
+988,increase brightness seventy three,SetLightBrightness,4
+989,increase my goodness,IncreaseBrightness,2
+990,increase flight intensity,IncreaseBrightness,2
+991,increase lighting an entire apartment,IncreaseBrightness,2
+992,increase lighting in small media room,IncreaseBrightness,2
+993,increase lives in entire house,IncreaseBrightness,2
+994,increase brightens into changing them,IncreaseBrightness,2
+995,increase the brightness of the basement,IncreaseBrightness,2
+996,the <unk>,IncreaseBrightness,2
+997,we make a whole house or twenty two,SetLightBrightness,4
+998,[noise] <unk>,IncreaseBrightness,2
+999,includes tightening up appalachian the dining room,IncreaseBrightness,2
+1000,<unk> and turns,IncreaseBrightness,2
+1001,increase the brightness the light,IncreaseBrightness,2
+1002,increase the brightness and room,IncreaseBrightness,2
+1003,mr second degree,SetLightBrightness,4
+1004,increase the brightness to ten,SetLightBrightness,4
+1005,<unk> intensity,IncreaseBrightness,2
+1006,increase the intensity and the lighting,IncreaseBrightness,2
+1007,racially insensitive gliding please,IncreaseBrightness,2
+1008,light in the shed,SetLightColor,5
+1009,increasing the lights,IncreaseBrightness,2
+1010,crystalline changing rooms,IncreaseBrightness,2
+1011,increase the light intensity,IncreaseBrightness,2
+1012,increase the life intensity and the vestibule,IncreaseBrightness,2
+1013,increase elaine,IncreaseBrightness,2
+1014,increase the lighting and accuse home,IncreaseBrightness,2
+1015,delighting in the last year,IncreaseBrightness,2
+1016,increase the lightning,IncreaseBrightness,2
+1017,increase the lighting intensity please,IncreaseBrightness,2
+1018,increase the like in the,IncreaseBrightness,2
+1019,[laughter],SwitchLightOn,1
+1020,[noise] can you change the bathroom like new,SetLightColor,5
+1021,increase the lights in the garden,IncreaseBrightness,2
+1022,you <unk>,IncreaseBrightness,2
+1023,increase the lights on the patio,IncreaseBrightness,2
+1024,increase the late sixties,IncreaseBrightness,2
+1025,increase the life is to dart,IncreaseBrightness,2
+1026,possible to turn down the rightness,DecreaseBrightness,3
+1027,is it okay for you to decrease the pregnancy bullets,DecreaseBrightness,3
+1028,plus <unk> initial enough foreigners,IncreaseBrightness,2
+1029,is it possible to get allowance brightness to five,SetLightBrightness,4
+1030,you could possibly do down don't debate nothing gets but um,DecreaseBrightness,3
+1031,[noise] can you change the color or read in the you do,SetLightColor,5
+1032,it's impossible to turn on studio light,SwitchLightOn,1
+1033,impossible to turn the lights on,SwitchLightOn,1
+1034,impossible to turn the lights down in this room,DecreaseBrightness,3
+1035,wages don't like to read,SetLightColor,5
+1036,you you can can be blue,SetLightColor,5
+1037,it is to dart on the patio increase the light,IncreaseBrightness,2
+1038,dark more like,IncreaseBrightness,2
+1039,do but i in here,DecreaseBrightness,3
+1040,too bright bring the lights down,DecreaseBrightness,3
+1041,still break please major darker,DecreaseBrightness,3
+1042,you change the kids from three,SetLightColor,5
+1043,you do dark and yet,IncreaseBrightness,2
+1044,to dark in here right and the lights up bet,IncreaseBrightness,2
+1045,dark in the bedroom,IncreaseBrightness,2
+1046,dark in the waiting room,IncreaseBrightness,2
+1047,it's way too dark in here,IncreaseBrightness,2
+1048,about three months,SwitchLightOff,0
+1049,the lights in the bedroom,SwitchLightOff,0
+1050,so <unk> our apartment,SwitchLightOff,0
+1051,lessen the brightness for me,DecreaseBrightness,3
+1052,liberate miserable lights in the bedroom,DecreaseBrightness,3
+1053,change late in the garden to bank,SetLightColor,5
+1054,let there be like,SwitchLightOn,1
+1055,yeah lived in brooklyn,SetLightBrightness,4
+1056,watch a red light,SetLightColor,5
+1057,well that's how the entrance be read,SetLightColor,5
+1058,that's the intensity of the lakes,DecreaseBrightness,3
+1059,make the computer screen,SetLightColor,5
+1060,<unk> likes to be,SetLightColor,5
+1061,let's lowers the lights please,DecreaseBrightness,3
+1062,let's make them done slating they'd,SetLightColor,5
+1063,the lights blink,SetLightColor,5
+1064,you riding in the bathroom,SwitchLightOff,0
+1065,turn on the lights in the office,SwitchLightOff,0
+1066,right up the vestibule,SwitchLightOn,1
+1067,basic needs to the eleventh doing their cubicles,SetLightBrightness,4
+1068,like in the back yard to be read,SetLightColor,5
+1069,<unk> young,SwitchLightOn,1
+1070,more intense please,IncreaseBrightness,2
+1071,it's all in the living room,SwitchLightOff,0
+1072,like larger leave,SwitchLightOff,0
+1073,myself,SwitchLightOff,0
+1074,like on in the kids bedroom,SwitchLightOn,1
+1075,can you change the lighting intensity of the laundry room to twenty two,SetLightBrightness,4
+1076,lights on now,SwitchLightOn,1
+1077,lights out,SwitchLightOff,0
+1078,myself,SwitchLightOff,0
+1079,[noise] nice nice,SwitchLightOff,0
+1080,lower all the lighting,DecreaseBrightness,3
+1081,lower brightness,DecreaseBrightness,3
+1082,<unk> in the back yard,DecreaseBrightness,3
+1083,lower brightness in the toilets room,DecreaseBrightness,3
+1084,lower like right now,DecreaseBrightness,3
+1085,lower landing in the back yard,DecreaseBrightness,3
+1086,<unk> the lives two fifty on the <unk>,SetLightBrightness,4
+1087,lower than brains,DecreaseBrightness,3
+1088,lower the brain you know,DecreaseBrightness,3
+1089,oh the brightness in the facilities room,DecreaseBrightness,3
+1090,brightness in the garden,DecreaseBrightness,3
+1091,don't tend to the like,DecreaseBrightness,3
+1092,lowering the landing in the garage,DecreaseBrightness,3
+1093,lower the lights,DecreaseBrightness,3
+1094,the lights in my bedroom please,DecreaseBrightness,3
+1095,like to change,DecreaseBrightness,3
+1096,the brightness should be ten in a bathroom,SetLightBrightness,4
+1097,could you said the bathroom rightness level two thirty nine,SetLightBrightness,4
+1098,<unk> should not be so great,DecreaseBrightness,3
+1099,[noise] seller life should be turned on,SwitchLightOn,1
+1100,<unk> nice to be that,IncreaseBrightness,2
+1101,look color the life should be involved toilets room,SetLightColor,5
+1102,they cubicle like she'll be,SetLightColor,5
+1103,i <unk> we're blamed,DecreaseBrightness,3
+1104,the <unk> need to be brighter,IncreaseBrightness,2
+1105,i should have it's like don't know now,SwitchLightOff,0
+1106,house remind needs to be changed read,SetLightColor,5
+1107,teach kitchen like should be paying,SetLightColor,5
+1108,just the bedroom much to ten percent,SetLightBrightness,4
+1109,yeah and you send the bathroom life to seven degree,SetLightBrightness,4
+1110,the kitchen shouldn't be brighter leave,IncreaseBrightness,2
+1111,the meeting room is to dark and must be made brighter,IncreaseBrightness,2
+1112,the laundry room is too bright,DecreaseBrightness,3
+1113,the laundry room life should be green,SetLightColor,5
+1114,like color in the waiting room should be green,SetLightColor,5
+1115,right near your apartment to be done,DecreaseBrightness,3
+1116,the light in the boardroom it'd be at seventy three,SetLightBrightness,4
+1117,[noise] like in the parking lot beeping,SetLightColor,5
+1118,life in the shade the be all,SwitchLightOff,0
+1119,well i need to be them,DecreaseBrightness,3
+1120,well the bagels,SetLightBrightness,4
+1121,no life needs to be damned,DecreaseBrightness,3
+1122,lives are too bright and i wanted him,DecreaseBrightness,3
+1123,the lights in the sense that needs to be toned up,IncreaseBrightness,2
+1124,right in the garage and stuff,SwitchLightOff,0
+1125,the indicates that tomorrow the dog,IncreaseBrightness,2
+1126,the lights in the living room need somebody blue,SetLightColor,5
+1127,the lights in the living room should be on twenty two,SetLightBrightness,4
+1128,it should be on you,SwitchLightOn,1
+1129,nor the late in the dining room,DecreaseBrightness,3
+1130,can you change the light's green,SetLightColor,5
+1131,lower their lights on the patio,DecreaseBrightness,3
+1132,<unk> windy,SetLightBrightness,4
+1133,the lights,DecreaseBrightness,3
+1134,again yes men's convention realizing when,SetLightBrightness,4
+1135,make certain no lights are on in the bathroom,SwitchLightOff,0
+1136,making them but i did in the bedroom,IncreaseBrightness,2
+1137,make it didn't finish talking yeah,IncreaseBrightness,2
+1138,make it a little less dark in the back yard,IncreaseBrightness,2
+1139,make it brighter,IncreaseBrightness,2
+1140,right in here,IncreaseBrightness,2
+1141,you change the lights repeat,SetLightColor,5
+1142,brighter and change,IncreaseBrightness,2
+1143,get and the changing rooms,IncreaseBrightness,2
+1144,<unk>,IncreaseBrightness,2
+1145,making brighter and the large meeting room,IncreaseBrightness,2
+1146,brighter in the living room,IncreaseBrightness,2
+1147,making brighter in the waiting room,IncreaseBrightness,2
+1148,indoor,SwitchLightOff,0
+1149,make it dark in here,SwitchLightOff,0
+1150,making back and changing them,SwitchLightOff,0
+1151,[noise] me duck,SwitchLightOff,0
+1152,game change their lifestyle bank everywhere,SetLightColor,5
+1153,make the money in your,DecreaseBrightness,3
+1154,make it more than,DecreaseBrightness,3
+1155,make it so that the light is,SetLightColor,5
+1156,make a little green,SetLightColor,5
+1157,make laundry room like brightness twenty,SetLightBrightness,4
+1158,clients brighter,IncreaseBrightness,2
+1159,make light dinner,DecreaseBrightness,3
+1160,make lights less bright in the lottery or,DecreaseBrightness,3
+1161,make lakes bank,SetLightColor,5
+1162,make new lights off,SwitchLightOff,0
+1163,add more lighting in the basement,IncreaseBrightness,2
+1164,any like through the color red,SetLightColor,5
+1165,makes my bulbs less right,DecreaseBrightness,3
+1166,me my late blue,SetLightColor,5
+1167,make my lunch brighter,IncreaseBrightness,2
+1168,make my lights green,SetLightColor,5
+1169,make my life team,SetLightColor,5
+1170,parking lights go on,SwitchLightOn,1
+1171,make sure <unk> vitamins,IncreaseBrightness,2
+1172,make sure the like that so i can see,IncreaseBrightness,2
+1173,i'm sure there are no lights,SwitchLightOff,0
+1174,<unk>,IncreaseBrightness,2
+1175,can you change the patio like blue,SetLightColor,5
+1176,they <unk> or like a,SetLightBrightness,4
+1177,me to be life goes on,SwitchLightOn,1
+1178,that might be better,DecreaseBrightness,3
+1179,[noise] make the bathroom right on,SwitchLightOn,1
+1180,to to dinner,DecreaseBrightness,3
+1181,make the bedroom light or non,SwitchLightOn,1
+1182,[noise] may then that you're late in the,SetLightBrightness,4
+1183,make the boardroom like well,SetLightBrightness,4
+1184,make the boardroom lights read,SetLightColor,5
+1185,name is raymond at twelve percent,SetLightBrightness,4
+1186,can you change the basketball too right,SetLightColor,5
+1187,make some brightness in the kitchen seventy three,SetLightBrightness,4
+1188,[noise] me too but i miss my like thirty nine,SetLightBrightness,4
+1189,the price of the light yeah these two percent,SetLightBrightness,4
+1190,make the color oh believe me,SetLightColor,5
+1191,make the color of the light read,SetLightColor,5
+1192,[noise] making cubicle less bright,DecreaseBrightness,3
+1193,me too because like likely,SetLightColor,5
+1194,relating to beat them or,DecreaseBrightness,3
+1195,make them cubicle that turn off,SwitchLightOff,0
+1196,can you dark in the bathroom,DecreaseBrightness,3
+1197,dining room like all these,SwitchLightOff,0
+1198,make day <unk> that,IncreaseBrightness,2
+1199,make the entrance like twenty two,SetLightBrightness,4
+1200,<unk>,DecreaseBrightness,3
+1201,i mean they got injured,SetLightColor,5
+1202,made the kids spend too bright that'd be more like,IncreaseBrightness,2
+1203,[noise] me bedroom right right,SetLightColor,5
+1204,make the kids bedroom my each well,SetLightBrightness,4
+1205,make they need somebody that,IncreaseBrightness,2
+1206,make the kitchen brighter,IncreaseBrightness,2
+1207,kind of decrease the brightness,DecreaseBrightness,3
+1208,make that large meeting room late stupidity name but lightness,SetLightBrightness,4
+1209,mean <unk>,DecreaseBrightness,3
+1210,make the laundry room lights read,SetLightColor,5
+1211,make delayed that,IncreaseBrightness,2
+1212,made delayed bunch title please,IncreaseBrightness,2
+1213,i mean life goes into independently twenty vitamins,SetLightBrightness,4
+1214,makes the light bulbs paint,SetLightColor,5
+1215,<unk>,DecreaseBrightness,3
+1216,so light green,SetLightColor,5
+1217,like in the bathroom brighter,IncreaseBrightness,2
+1218,can eat decrease the brightness in their kids bedroom,DecreaseBrightness,3
+1219,late in the bedroom brighter,IncreaseBrightness,2
+1220,make the like in the dining room read,SetLightColor,5
+1221,me tonight independently to do,SetLightBrightness,4
+1222,make the light turn red,SetLightColor,5
+1223,delighting brave in here,IncreaseBrightness,2
+1224,may lighting brighter in the living room,IncreaseBrightness,2
+1225,makes the lady more intense in the bathroom,IncreaseBrightness,2
+1226,the last two little brighter and the laundry room,IncreaseBrightness,2
+1227,make the light blue,SetLightColor,5
+1228,[noise] me the late blue,SetLightColor,5
+1229,and you decrease the brightest lightbulb,DecreaseBrightness,3
+1230,make the new,SetLightColor,5
+1231,make the lights brighter,IncreaseBrightness,2
+1232,make allies brighter in the studio,IncreaseBrightness,2
+1233,make the lights brighter,IncreaseBrightness,2
+1234,simmer please,DecreaseBrightness,3
+1235,make the lives by,SetLightBrightness,4
+1236,for life grow on,SwitchLightOn,1
+1237,makes the light's green,SetLightColor,5
+1238,make the light's green please,SetLightColor,5
+1239,me to live in the bedroom less right,DecreaseBrightness,3
+1240,can you decrease the intensity,DecreaseBrightness,3
+1241,me in life in the <unk>,SetLightBrightness,4
+1242,<unk>,SetLightBrightness,4
+1243,major the lights in the house writer,IncreaseBrightness,2
+1244,make the lights and the kids room ten,SetLightBrightness,4
+1245,made life in the bedroom clean,SetLightColor,5
+1246,make the life in the room lower,DecreaseBrightness,3
+1247,maybe license to the uh to be at twelve,SetLightBrightness,4
+1248,make the lights and the toilets brighter,IncreaseBrightness,2
+1249,makes life less right,DecreaseBrightness,3
+1250,can you <unk> lounge,DecreaseBrightness,3
+1251,make the land class bright,DecreaseBrightness,3
+1252,[noise] makes life more right,IncreaseBrightness,2
+1253,make the whites more bright in the bedroom,IncreaseBrightness,2
+1254,make the like not shine anymore,SwitchLightOff,0
+1255,[noise] me the life speech,SetLightColor,5
+1256,made the lights think,SetLightColor,5
+1257,[noise] make the lights read,SetLightColor,5
+1258,made delayed that,SetLightColor,5
+1259,make the whites turn off,SwitchLightOff,0
+1260,right or not reading them,SwitchLightOff,0
+1261,and you increase the brightness lights in the bedroom,IncreaseBrightness,2
+1262,make delayed done on,SwitchLightOn,1
+1263,[noise] make their living room dimmer,DecreaseBrightness,3
+1264,i mean they may be but,DecreaseBrightness,3
+1265,make the lounge twenty two,SetLightBrightness,4
+1266,make the meeting room late,SetLightBrightness,4
+1267,the pantry five percent brightness,SetLightBrightness,4
+1268,make the pantry lights to twelve,SetLightBrightness,4
+1269,make the patio brighter,IncreaseBrightness,2
+1270,[noise] make the room a bit darker,DecreaseBrightness,3
+1271,make the room brighter,IncreaseBrightness,2
+1272,i guess like fifty,SetLightBrightness,4
+1273,can you increase the brightness,IncreaseBrightness,2
+1274,make the studio lighting to be at the twelve setting,SetLightBrightness,4
+1275,mean the studio life or,SwitchLightOff,0
+1276,make the toilet green lights,SetLightColor,5
+1277,twenties the frightening studying,SetLightBrightness,4
+1278,me eugene life being leave,SetLightColor,5
+1279,more like you,IncreaseBrightness,2
+1280,more like,IncreaseBrightness,2
+1281,the same thing in the dining room right,SetLightBrightness,4
+1282,my bedroom needs to be darker,DecreaseBrightness,3
+1283,no more like in the garden,SwitchLightOff,0
+1284,that late mean never in the studio,IncreaseBrightness,2
+1285,okay let's cut out lights in the pantry,SwitchLightOff,0
+1286,okay google turn out like an entire flat,SwitchLightOff,0
+1287,okay google turned on lights,SwitchLightOff,0
+1288,once you intend to laundry room turn on the lights,SwitchLightOn,1
+1289,turn on the light,SwitchLightOn,1
+1290,the cellar lights in the position,SwitchLightOff,0
+1291,cleaning the landing on level twenty two in the crucible,SetLightBrightness,4
+1292,the light,SwitchLightOn,1
+1293,just to keep my whole life so it's brighter,IncreaseBrightness,2
+1294,please adjust the light brightness to go lower grades,DecreaseBrightness,3
+1295,you light up the basement the bit more,IncreaseBrightness,2
+1296,just the light to twelve,SetLightBrightness,4
+1297,<unk> the room,IncreaseBrightness,2
+1298,change and translate the blue,SetLightColor,5
+1299,change the like to red neck,SetLightColor,5
+1300,least change the brightness in the room,DecreaseBrightness,3
+1301,change the bright enough level and parking area you're twenty,SetLightBrightness,4
+1302,change the bright enough level in the back yard,SetLightBrightness,4
+1303,gender got out in the lodge meeting whom do think,SetLightColor,5
+1304,please can that got off the lights,SetLightColor,5
+1305,he's changed the color to me,SetLightColor,5
+1306,can you make it attacked brighter please,IncreaseBrightness,2
+1307,we change too cold to read in the bathroom,SetLightColor,5
+1308,place change to like color in the kitchen to blow,SetLightColor,5
+1309,hussein's relating to twelve in the shed,SetLightBrightness,4
+1310,you change the light's green,SetLightColor,5
+1311,<unk> me getting these,SetLightColor,5
+1312,<unk> right in the center,SetLightColor,5
+1313,changed the like to read,SetLightColor,5
+1314,please champs the like through twenty two in the house,SetLightBrightness,4
+1315,he kinda leaning like sled,SetLightColor,5
+1316,he's like,SwitchLightOff,0
+1317,can you make it brighter inside,IncreaseBrightness,2
+1318,decrease the brightness,DecreaseBrightness,3
+1319,clean decrease the bride most,DecreaseBrightness,3
+1320,please do lives,DecreaseBrightness,3
+1321,please denver light,DecreaseBrightness,3
+1322,we split the lights on,SwitchLightOn,1
+1323,we get rid of the lives,SwitchLightOff,0
+1324,get like oh,SwitchLightOff,0
+1325,he's gone and increase the right now,IncreaseBrightness,2
+1326,please have the waiting room be less bright,DecreaseBrightness,3
+1327,leaves increase life,IncreaseBrightness,2
+1328,can you make dinner in here,DecreaseBrightness,3
+1329,increase the bright like,IncreaseBrightness,2
+1330,increase the brightness the lights and the kids really,IncreaseBrightness,2
+1331,please increased brightness lights in small media,IncreaseBrightness,2
+1332,pleasing cleans up tightened up like,IncreaseBrightness,2
+1333,increase the garage light,IncreaseBrightness,2
+1334,please increase the losing,IncreaseBrightness,2
+1335,increase the lights and the offer,IncreaseBrightness,2
+1336,legal brightness for me,DecreaseBrightness,3
+1337,lower the lights in the room,DecreaseBrightness,3
+1338,lose lives,DecreaseBrightness,3
+1339,can you make the bedroom life go up,IncreaseBrightness,2
+1340,please major brighter,IncreaseBrightness,2
+1341,eat me alive right,SetLightColor,5
+1342,make the entire like blue,SetLightColor,5
+1343,please make this lot room blame,SetLightColor,5
+1344,please make to light do,SetLightColor,5
+1345,make the light read,SetLightColor,5
+1346,please make life brighter,IncreaseBrightness,2
+1347,least make the light's green,SetLightColor,5
+1348,please me delays screen in the dining room,SetLightColor,5
+1349,make the late spring,SetLightColor,5
+1350,then you make the brightest well,SetLightBrightness,4
+1351,make the lines pain in my bedroom,SetLightColor,5
+1352,please make them vestibule lighting to be at twelve,SetLightBrightness,4
+1353,<unk> lights,SwitchLightOff,0
+1354,incentive to fire,SetLightBrightness,4
+1355,lounge vitamins going to berkeley,SetLightBrightness,4
+1356,you say [laughter],SetLightBrightness,4
+1357,right next to a restaurant,SetLightBrightness,4
+1358,lisa polite brightness level basement two thirty nine,SetLightBrightness,4
+1359,[noise] they delayed been studying,SetLightBrightness,4
+1360,he set the office lights down,DecreaseBrightness,3
+1361,can you make that light blue,SetLightColor,5
+1362,the office to twenty two for the intensity,SetLightBrightness,4
+1363,studio level to light intensity,SetLightBrightness,4
+1364,we the toilet lighting to touching,SetLightBrightness,4
+1365,<unk> like do too,SetLightBrightness,4
+1366,please shut off the lighting,SwitchLightOff,0
+1367,shut off the lights above the toilet,SwitchLightOff,0
+1368,please shut all the lights,SwitchLightOff,0
+1369,least our lives,SwitchLightOff,0
+1370,which my land on now,SwitchLightOn,1
+1371,switch on the lights facility,SwitchLightOn,1
+1372,can you make their life like that,IncreaseBrightness,2
+1373,please switch on my cubicle like,SwitchLightOn,1
+1374,john low,SwitchLightOn,1
+1375,i don't like to be like,SetLightColor,5
+1376,mm interesting hang gliding,SetLightColor,5
+1377,people should do that green light,SetLightColor,5
+1378,please turn down the brightness,SwitchLightOff,0
+1379,please turn down the line intensity,DecreaseBrightness,3
+1380,please turn down the lights,DecreaseBrightness,3
+1381,[noise] just turned down the line and the entrance area,DecreaseBrightness,3
+1382,please turn down the lights in the pantry,DecreaseBrightness,3
+1383,and get the bedroom right level independently,SetLightBrightness,4
+1384,can you make the lights dimmer in the living room,DecreaseBrightness,3
+1385,pleased in life read in large meeting room,SetLightColor,5
+1386,please turn like up,IncreaseBrightness,2
+1387,we turn my lights on,SwitchLightOn,1
+1388,i don't know like,SwitchLightOff,0
+1389,turn off all the like,SwitchLightOff,0
+1390,please turn off the lights,SwitchLightOff,0
+1391,turn off the lighting,SwitchLightOff,0
+1392,please turn up the lighting,SwitchLightOff,0
+1393,please turn off the lights in the bedroom,SwitchLightOff,0
+1394,please turn off the lights in the bedroom,SwitchLightOff,0
+1395,can you make the light's green in the basement,SetLightColor,5
+1396,i don't know the light invested in,SwitchLightOff,0
+1397,certain also like in this room,SwitchLightOff,0
+1398,i don't know the light,SwitchLightOff,0
+1399,he's done up the dilute slaves,SwitchLightOff,0
+1400,easterner my parking right,SwitchLightOn,1
+1401,please turn on the lake,SwitchLightOn,1
+1402,turn on the lights and the insurance,SwitchLightOn,1
+1403,going on monday tonight,SwitchLightOn,1
+1404,turned down the brightness light just too bad,DecreaseBrightness,3
+1405,leave during the is up,IncreaseBrightness,2
+1406,can you make the light's green,SetLightColor,5
+1407,please turn the light two thirty nine,SetLightBrightness,4
+1408,he's done game school environment,SetLightBrightness,4
+1409,during the kitchen lights on,SwitchLightOn,1
+1410,you don't like,SwitchLightOn,1
+1411,least turn the lights down,DecreaseBrightness,3
+1412,peace turn the lights down in the waiting room,DecreaseBrightness,3
+1413,please turn the lights down lower setting in the living room,DecreaseBrightness,3
+1414,certainly lights,DecreaseBrightness,3
+1415,please turn the lights off,SwitchLightOff,0
+1416,please the laid off in the garden,SwitchLightOff,0
+1417,can you make the lines and the green,SetLightColor,5
+1418,leave the lifestyle in the world,SwitchLightOff,0
+1419,turn the living room might as well,SetLightBrightness,4
+1420,please turn the patio lives up for me,IncreaseBrightness,2
+1421,please turn up like an apartment,IncreaseBrightness,2
+1422,delighting in the toilet,IncreaseBrightness,2
+1423,<unk> a bit more,IncreaseBrightness,2
+1424,we turn up the lights,IncreaseBrightness,2
+1425,he declared devices,DecreaseBrightness,3
+1426,that the bright like old seventy three,SetLightBrightness,4
+1427,power on the lamps,SwitchLightOn,1
+1428,pay you made it out i like greens,SetLightColor,5
+1429,oh we're on the land in the toilet,SwitchLightOn,1
+1430,we're on the lights,SwitchLightOn,1
+1431,own lives in the bedroom,SwitchLightOn,1
+1432,power on the office last,SwitchLightOn,1
+1433,power the cubicle lands to ten,SetLightBrightness,4
+1434,last to percent,SetLightBrightness,4
+1435,oh where they all the lights,SwitchLightOn,1
+1436,some brightness two fifty,SetLightBrightness,4
+1437,lives in hiring judge deeply,IncreaseBrightness,2
+1438,late to move,SetLightColor,5
+1439,he's bringing this rumor the best,IncreaseBrightness,2
+1440,<unk>,SetLightBrightness,4
+1441,well i can never play,SetLightBrightness,4
+1442,who knows in michigan,SetLightBrightness,4
+1443,the cellar lights to uh,SwitchLightOff,0
+1444,put the kids bedroom lights on twelve,SetLightBrightness,4
+1445,liking delivers gang,SetLightBrightness,4
+1446,to life in the living room i level thirty nine,SetLightBrightness,4
+1447,we're believe me when,SetLightBrightness,4
+1448,put the lights off in the bedroom,SwitchLightOff,0
+1449,put the lights on,SwitchLightOn,1
+1450,<unk> right,SetLightColor,5
+1451,the lights on,SwitchLightOn,1
+1452,put the light to twelve percent in the bathroom,SetLightBrightness,4
+1453,the last two in the back yard,SetLightBrightness,4
+1454,wouldn't backing diagnosed at windy,SetLightBrightness,4
+1455,quickly put on the lights in the dining room and i am very huh,SwitchLightOn,1
+1456,raise the lights and the changing rooms,IncreaseBrightness,2
+1457,raise the lights in the laundry room,IncreaseBrightness,2
+1458,reduce based some brightness two percent,SetLightBrightness,4
+1459,do brightness,DecreaseBrightness,3
+1460,[noise] back into her,SetLightBrightness,4
+1461,the studio like need to be increased,IncreaseBrightness,2
+1462,the toilet like should be blue,SetLightColor,5
+1463,and then they to ban battles,SetLightBrightness,4
+1464,the toilets should have green lighting,SetLightColor,5
+1465,there's too much light in here,DecreaseBrightness,3
+1466,there's too much like in the bedroom,DecreaseBrightness,3
+1467,health care up to like power,IncreaseBrightness,2
+1468,down the brightest in the laundry room,DecreaseBrightness,3
+1469,don't know life,SwitchLightOn,1
+1470,no lights down please,DecreaseBrightness,3
+1471,from back like uh,SwitchLightOff,0
+1472,burn basement lights on you,SwitchLightOn,1
+1473,don't basement late to bank,SetLightColor,5
+1474,the cellar room to seventy three,SetLightBrightness,4
+1475,bedroom lives uh,SwitchLightOff,0
+1476,turn brightness down in bedroom,DecreaseBrightness,3
+1477,turned down bedroom right,DecreaseBrightness,3
+1478,tournaments and entire apartment,DecreaseBrightness,3
+1479,turn down the basement lights,DecreaseBrightness,3
+1480,turned down the brightness,DecreaseBrightness,3
+1481,turned down the brightness for me,DecreaseBrightness,3
+1482,down the brightest in room,DecreaseBrightness,3
+1483,turn down the brightest sent the lighting,DecreaseBrightness,3
+1484,and don't debate nice place,DecreaseBrightness,3
+1485,can that the kids might to buy,SetLightBrightness,4
+1486,turn down the light in the bedroom,DecreaseBrightness,3
+1487,turned down the like the loop,DecreaseBrightness,3
+1488,turn down the white intensity in the dining room,DecreaseBrightness,3
+1489,turn down the line power all the way,SwitchLightOff,0
+1490,turn down the light power in the pantry all the way,SwitchLightOff,0
+1491,[laughter] <unk> kids bedroom,DecreaseBrightness,3
+1492,turn down the lights,DecreaseBrightness,3
+1493,turn down relates a bit,DecreaseBrightness,3
+1494,can you please change my partner is route twenty two,SetLightBrightness,4
+1495,reduce the brightness in my bedroom and i'm going to sleep,DecreaseBrightness,3
+1496,reduce the national the bedroom plays,DecreaseBrightness,3
+1497,and he was delighted brightness in their backyards dilemma then,SetLightBrightness,4
+1498,select paying like color,SetLightColor,5
+1499,that all labs level thirty nine in the studio,SetLightBrightness,4
+1500,<unk> in the laundry room,SetLightBrightness,4
+1501,indictment inventing complete berkman,SetLightBrightness,4
+1502,brightness to twenty,SetLightBrightness,4
+1503,said similar lives two fifty,SetLightBrightness,4
+1504,right color blue,SetLightColor,5
+1505,can you please changed brightness in allowance two thirty nine,SetLightBrightness,4
+1506,satellites to green,SetLightColor,5
+1507,that too level thirty nine,SetLightBrightness,4
+1508,their dilemmas too,SetLightBrightness,4
+1509,so too uh,SwitchLightOff,0
+1510,like two twenty two percent in the basement,SetLightBrightness,4
+1511,that all like two two in the parking room please,SetLightBrightness,4
+1512,meaning but i living under twenty two,SetLightBrightness,4
+1513,my <unk>,SetLightBrightness,4
+1514,[laughter] life to to,SetLightBrightness,4
+1515,the bathroom i do beyond position,SwitchLightOn,1
+1516,can you please changed the color blue,SetLightColor,5
+1517,the bachelor <unk>,SetLightBrightness,4
+1518,some brightness in the bathroom i love football,SetLightBrightness,4
+1519,died due to drinking too,SetLightBrightness,4
+1520,the brightest in the kids' room to level twenty two,SetLightBrightness,4
+1521,inundating them today,SetLightBrightness,4
+1522,bird this little white twenty,SetLightBrightness,4
+1523,brightness level to seventy three,SetLightBrightness,4
+1524,department for life or,SetLightBrightness,4
+1525,brightness of the light bulbs fifty,SetLightBrightness,4
+1526,said that <unk> these,SetLightBrightness,4
+1527,turn down the lights in here,DecreaseBrightness,3
+1528,turned down the lights in the basement,DecreaseBrightness,3
+1529,the meeting room to be pink you,SetLightColor,5
+1530,turn down the lights in the bedroom,DecreaseBrightness,3
+1531,turn down the line in the cellar,DecreaseBrightness,3
+1532,turn down the line and the changing rooms,DecreaseBrightness,3
+1533,turn down the lights in the kitchen,DecreaseBrightness,3
+1534,down the line in the large you know,SwitchLightOff,0
+1535,turn down the line in the toilet right,DecreaseBrightness,3
+1536,lights in the waiting room,DecreaseBrightness,3
+1537,turn down the line one notch,DecreaseBrightness,3
+1538,you know in the late eighties,SwitchLightOff,0
+1539,really,DecreaseBrightness,3
+1540,you sit around the house lights,SwitchLightOff,0
+1541,turn it on in toilet room,SwitchLightOn,1
+1542,dan lighting,SetLightColor,5
+1543,done lights in the laundry room brighter,IncreaseBrightness,2
+1544,[noise] on my lap everywhere pretty,SwitchLightOn,1
+1545,turn like on in the waiting room,SwitchLightOn,1
+1546,turn lights on over the toilet,SwitchLightOn,1
+1547,or like the green,SetLightColor,5
+1548,turn living on like to read,SetLightColor,5
+1549,don't meetings um myself,SwitchLightOff,0
+1550,turned on my living room right,SwitchLightOn,1
+1551,set the off at the entrance,SwitchLightOff,0
+1552,turn off all the land,SwitchLightOff,0
+1553,turned off lights,SwitchLightOff,0
+1554,turn off my bedroom lives please,SwitchLightOff,0
+1555,dunno starting wage [noise],SwitchLightOff,0
+1556,[noise] down off the bottom line,SwitchLightOff,0
+1557,and the <unk> like,SwitchLightOff,0
+1558,turn off the light power,SwitchLightOff,0
+1559,turn off the lighting,SwitchLightOff,0
+1560,turned on lights,SwitchLightOff,0
+1561,turned off right,SwitchLightOff,0
+1562,when you stop the lighting,SwitchLightOff,0
+1563,turn off the up for thirty pm,SwitchLightOff,0
+1564,turn off the lights for me,SwitchLightOff,0
+1565,i don't know nice meeting you,SwitchLightOff,0
+1566,turn on the lights in five minutes,SwitchLightOff,0
+1567,turn off the lights in the basement,SwitchLightOff,0
+1568,like in the back,SwitchLightOff,0
+1569,turn on the lights in the bedroom,SwitchLightOff,0
+1570,turn off the lights in the bedroom,SwitchLightOff,0
+1571,<unk> like,SwitchLightOff,0
+1572,nineteen think think,SwitchLightOff,0
+1573,switch on my apartment light,SwitchLightOn,1
+1574,turn on the lights in the kitchen,SwitchLightOff,0
+1575,turn off the lights in the living room,SwitchLightOff,0
+1576,turn out the lights in the toilet,SwitchLightOff,0
+1577,i don't know life initial,SwitchLightOff,0
+1578,turn off the lights smell,SwitchLightOff,0
+1579,no lights in the basement,SwitchLightOff,0
+1580,turn off the light rail it,SwitchLightOff,0
+1581,turtle language lights,SwitchLightOff,0
+1582,i dunno i do lights,SwitchLightOff,0
+1583,turn off the lights,SwitchLightOff,0
+1584,just brightness in the loop [laughter],SetLightBrightness,4
+1585,with the lights on for my entire house,SwitchLightOn,1
+1586,turned on all the lights the entire house,SwitchLightOn,1
+1587,turned on bedroom right,SwitchLightOn,1
+1588,turned on garage graduate,SwitchLightOn,1
+1589,turned on lights above the toilet,SwitchLightOn,1
+1590,and i live in the backyard,SwitchLightOn,1
+1591,turned on lights in the cellar,SwitchLightOn,1
+1592,nice,SwitchLightOn,1
+1593,my lights now,SwitchLightOn,1
+1594,no my patio lights please,SwitchLightOn,1
+1595,turned on red light,SetLightColor,5
+1596,and usually the lives <unk>,SetLightColor,5
+1597,turn on the bathroom lights,SwitchLightOn,1
+1598,turn on the bedroom light,SwitchLightOn,1
+1599,turn on the changing room lights,SwitchLightOn,1
+1600,the <unk> likes,SwitchLightOn,1
+1601,turn on the laundry room lady,SwitchLightOn,1
+1602,turn on the lights,SwitchLightOn,1
+1603,turn on the lights above the toilet,SwitchLightOn,1
+1604,turn on the lights in the bathroom,SwitchLightOn,1
+1605,on the lights in the bedroom,SwitchLightOn,1
+1606,turn on the lights and the changing um,SwitchLightOn,1
+1607,then you don't like,DecreaseBrightness,3
+1608,lights in the insurance,SwitchLightOn,1
+1609,turn on the lights and the kids though,SwitchLightOn,1
+1610,turn on the lights in the laundry room,SwitchLightOn,1
+1611,turn on the lights in the waiting room,SwitchLightOn,1
+1612,[laughter] please,SwitchLightOn,1
+1613,turn on the like,SwitchLightOn,1
+1614,turn on the office lighting,SwitchLightOn,1
+1615,turn on the lights,SwitchLightOn,1
+1616,turned on the pantry like,SwitchLightOn,1
+1617,i didn't room,SwitchLightOn,1
+1618,can you turn off the cellar light,SwitchLightOff,0
+1619,<unk>,SwitchLightOn,1
+1620,turned out like,SwitchLightOff,0
+1621,term parking like setting too uh,SwitchLightOff,0
+1622,turns duty l._a._x. on,SwitchLightOn,1
+1623,turn the back yard lights pink,SetLightColor,5
+1624,nation alliances due to ten,SetLightBrightness,4
+1625,toby's been lots down,DecreaseBrightness,3
+1626,the bedroom like a,SwitchLightOff,0
+1627,in the bedroom like seventy three,SetLightBrightness,4
+1628,turn the bedroom lights on,SwitchLightOn,1
+1629,yeah you like it,SwitchLightOff,0
+1630,bedroom two twenty,SetLightBrightness,4
+1631,and debate though,DecreaseBrightness,3
+1632,turn them brightness down in the living room,DecreaseBrightness,3
+1633,turn the grind years down the toilet round,DecreaseBrightness,3
+1634,turn the brightness in the flat to to,SetLightBrightness,4
+1635,during the brightness local twelve,SetLightBrightness,4
+1636,turn the break the thirty nine percent,SetLightBrightness,4
+1637,to the brightness up in the basement,IncreaseBrightness,2
+1638,during the boom right down,DecreaseBrightness,3
+1639,during the bulls on brighter everywhere,IncreaseBrightness,2
+1640,mhm,SwitchLightOff,0
+1641,the our like twelve percent,SetLightBrightness,4
+1642,during the summer like eighty percent,SetLightBrightness,4
+1643,which is,SwitchLightOff,0
+1644,turn the changing room lights to ten percent,SetLightBrightness,4
+1645,[noise] during the cubicle that level ten,SetLightBrightness,4
+1646,turn the insurance lights um,SwitchLightOn,1
+1647,from the insurance lights on,SwitchLightOn,1
+1648,[laughter] right right throw,SetLightBrightness,4
+1649,[noise] doing the classroom or,SwitchLightOff,0
+1650,kindergarten nights up a notch,IncreaseBrightness,2
+1651,yeah no i don't do,SwitchLightOff,0
+1652,the kids bedroom might read,SetLightColor,5
+1653,turn to july greed,SetLightColor,5
+1654,doing the kitchen nights on though,IncreaseBrightness,2
+1655,turn the large meeting room green,SetLightColor,5
+1656,don't don't diesel nights drinking too,SetLightBrightness,4
+1657,don't like going to be eleven thirty nine,SetLightBrightness,4
+1658,delayed on,SwitchLightOn,1
+1659,turn the light on in the bedroom,SwitchLightOn,1
