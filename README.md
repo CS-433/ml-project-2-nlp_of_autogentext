@@ -47,10 +47,10 @@
   
  ### For Data manipulation (Handling_Data.ipynb)
   
-  #### Loading data
-    Load data set
-  #### Label data
-    Label each transcript to the corresponding intent index 
+ #### Loading data
+  Load data set
+ #### Label data
+  Label each transcript to the corresponding intent index 
     
  ### Normal Execution
   This structure is repeated on every classification task files
