@@ -13,6 +13,8 @@
  ## How to Run
  Clone the project in your local machine, and uncompress all the datasets contained in /snips repository
  
+ To run the *Wav2Vec.ipynp* file, download this zip file https://drive.google.com/file/d/170xq6fUiAzCWNe16BbOCDUxFUwEJDtCy/view?usp=sharing and uncompress it inside the snips folder.
+ 
  Run each .ipynb file using jupyter notebook interpreter
  
  ## Project Structure
