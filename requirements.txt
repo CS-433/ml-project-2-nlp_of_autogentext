@@ -1,0 +1,10 @@
+numpy>=1.18.0
+pandas>=1.0.5
+textdistance==4.2.1
+gensim
+sklearn
+black
+jupyter_contrib_nbextensions
+jiwer
+torch
+transformers
