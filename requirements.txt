@@ -8,3 +8,5 @@ jupyter_contrib_nbextensions
 jiwer
 torch
 transformers
+soundfile
+librosa
